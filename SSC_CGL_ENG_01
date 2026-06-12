@@ -1,477 +1,122 @@
 [
-  {
-    "en": "Identify the segment that contains a grammatical error:\nNeither the captain nor the crew members was present at the briefing yesterday.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nNeither the captain nor the crew members was present at the briefing yesterday.",
-    "oEn": [
-      "Neither the captain",
-      "nor the crew members",
-      "was present at",
-      "the briefing yesterday"
-    ],
-    "oHi": [
-      "Neither the captain",
-      "nor the crew members",
-      "was present at",
-      "the briefing yesterday"
-    ],
-    "c": 2,
-    "exp": "When two subjects are joined by 'neither... nor', the verb agrees with the closer subject. 'Crew members' is plural, so 'was' should be replaced with 'were'.",
-    "Pyq": "SSC_CGL_PRE_2023"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nScarcely had he reached the station when the train started moving.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nScarcely had he reached the station when the train started moving.",
-    "oEn": [
-      "Scarcely had he",
-      "reached the station",
-      "when the train",
-      "No error"
-    ],
-    "oHi": [
-      "Scarcely had he",
-      "reached the station",
-      "when the train",
-      "No error"
-    ],
-    "c": 3,
-    "exp": "The sentence is grammatically correct. 'Scarcely' is correctly followed by 'had + subject + V3' and the conjunction 'when'.",
-    "Pyq": "SSC_CGL_PRE_2022"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nThe furniture in this showroom are made of high-quality teak wood.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nThe furniture in this showroom are made of high-quality teak wood.",
-    "oEn": [
-      "The furniture in",
-      "this showroom",
-      "are made of",
-      "high-quality teak wood"
-    ],
-    "oHi": [
-      "The furniture in",
-      "this showroom",
-      "are made of",
-      "high-quality teak wood"
-    ],
-    "c": 2,
-    "exp": "'Furniture' is an uncountable noun and always takes a singular verb. Therefore, 'are' must be replaced with 'is'.",
-    "Pyq": "SSC_CGL_MAINS_2023"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nIf I was you, I would not accept this low salary offer from the company.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nIf I was you, I would not accept this low salary offer from the company.",
-    "oEn": [
-      "If I was you",
-      "I would not accept",
-      "this low salary offer",
-      "from the company"
-    ],
-    "oHi": [
-      "If I was you",
-      "I would not accept",
-      "this low salary offer",
-      "from the company"
-    ],
-    "c": 0,
-    "exp": "In imaginary or hypothetical conditional sentences (subjunctive mood), 'were' is used with all subjects instead of 'was'. Change 'was' to 'were'.",
-    "Pyq": "SSC_CGL_PRE_2023"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nHe is one of those men who does not compromise on his core principles.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nHe is one of those men who does not compromise on his core principles.",
-    "oEn": [
-      "He is one of",
-      "those men who",
-      "does not compromise",
-      "on his core principles"
-    ],
-    "oHi": [
-      "He is one of",
-      "those men who",
-      "does not compromise",
-      "on his core principles"
-    ],
-    "c": 2,
-    "exp": "The relative pronoun 'who' refers to the plural antecedent 'men'. Therefore, the verb must be plural ('do not' instead of 'does not') and the pronoun should be 'their' instead of 'his'.",
-    "Pyq": "SSC_CGL_MAINS_2022"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nUnless you do not work hard, you cannot achieve your desired score in the exam.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nUnless you do not work hard, you cannot achieve your desired score in the exam.",
-    "oEn": [
-      "Unless you do not",
-      "work hard, you",
-      "cannot achieve your",
-      "desired score"
-    ],
-    "oHi": [
-      "Unless you do not",
-      "work hard, you",
-      "cannot achieve your",
-      "desired score"
-    ],
-    "c": 0,
-    "exp": "'Unless' itself has a negative meaning (if not). Using 'do not' with 'unless' creates a double negative. It should be 'Unless you work hard'.",
-    "Pyq": "SSC_CGL_PRE_2023"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nSenior citizens prefer walking in the park than sitting idle at home.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nSenior citizens prefer walking in the park than sitting idle at home.",
-    "oEn": [
-      "Senior citizens prefer",
-      "walking in the park",
-      "than sitting idle",
-      "at home"
-    ],
-    "oHi": [
-      "Senior citizens prefer",
-      "walking in the park",
-      "than sitting idle",
-      "at home"
-    ],
-    "c": 2,
-    "exp": "The verb 'prefer' is followed by the preposition 'to' instead of 'than' when comparing two actions or nouns. Change 'than' to 'to'.",
-    "Pyq": "SSC_CGL_PRE_2021"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nTwo miles are not a long distance for a healthy young man to cover on foot.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nTwo miles are not a long distance for a healthy young man to cover on foot.",
-    "oEn": [
-      "Two miles are",
-      "not a long distance",
-      "for a healthy young man",
-      "to cover on foot"
-    ],
-    "oHi": [
-      "Two miles are",
-      "not a long distance",
-      "for a healthy young man",
-      "to cover on foot"
-    ],
-    "c": 0,
-    "exp": "When a plural noun denotes a specific quantity, distance, or amount considered as a single unit, it takes a singular verb. Change 'are' to 'is'.",
-    "Pyq": "SSC_CGL_PRE_2022"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nSupposing if it rains tomorrow, will the outdoor sports event be postponed?",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nSupposing if it rains tomorrow, will the outdoor sports event be postponed?",
-    "oEn": [
-      "Supposing if",
-      "it rains tomorrow",
-      "will the outdoor sports",
-      "event be postponed"
-    ],
-    "oHi": [
-      "Supposing if",
-      "it rains tomorrow",
-      "will the outdoor sports",
-      "event be postponed"
-    ],
-    "c": 0,
-    "exp": "'Supposing' and 'if' mean the same thing in conditional contexts. Using them together is superfluous. Remove 'if'.",
-    "Pyq": "SSC_CGL_PRE_2023"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nThe population of Mumbai is greater than any other city in India.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nThe population of Mumbai is greater than any other city in India.",
-    "oEn": [
-      "The population of Mumbai",
-      "is greater than",
-      "any other city",
-      "in India"
-    ],
-    "oHi": [
-      "The population of Mumbai",
-      "is greater than",
-      "any other city",
-      "in India"
-    ],
-    "c": 2,
-    "exp": "The comparison must be between identical things. We are comparing the population of Mumbai with the population of other cities, not with the cities themselves. Change to 'than that of any other city'.",
-    "Pyq": "SSC_CGL_MAINS_2023"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nMany a student have failed to clear the competitive examination due to lack of consistency.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nMany a student have failed to clear the competitive examination due to lack of consistency.",
-    "oEn": [
-      "Many a student",
-      "have failed to clear",
-      "the competitive examination",
-      "due to lack of consistency"
-    ],
-    "oHi": [
-      "Many a student",
-      "have failed to clear",
-      "the competitive examination",
-      "due to lack of consistency"
-    ],
-    "c": 1,
-    "exp": "The structure 'Many a + Singular Noun' always takes a singular verb. Therefore, 'have' must be replaced by 'has'.",
-    "Pyq": "SSC_CGL_PRE_2022"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nThe reason why he did not attend the meeting was because he was severely ill.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nThe reason why he did not attend the meeting was because he was severely ill.",
-    "oEn": [
-      "The reason why he",
-      "did not attend the meeting",
-      "was because",
-      "he was severely ill"
-    ],
-    "oHi": [
-      "The reason why he",
-      "did not attend the meeting",
-      "was because",
-      "he was severely ill"
-    ],
-    "c": 2,
-    "exp": "'The reason why' should be followed by 'that' instead of 'because' to avoid redundancy in a sentence. Change 'because' to 'that'.",
-    "Pyq": "SSC_CGL_PRE_2023"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nShe is looking forward to meet her childhood friends at the upcoming alumni reunion.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nShe is looking forward to meet her childhood friends at the upcoming alumni reunion.",
-    "oEn": [
-      "She is looking",
-      "forward to meet",
-      "her childhood friends",
-      "at the upcoming reunion"
-    ],
-    "oHi": [
-      "She is looking",
-      "forward to meet",
-      "her childhood friends",
-      "at the upcoming reunion"
-    ],
-    "c": 1,
-    "exp": "The phrasal phrase 'look forward to' is followed by a gerund (V1+ing) rather than an infinitive. Change 'meet' to 'meeting'.",
-    "Pyq": "SSC_CGL_MAINS_2022"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nThe sceneries of Kashmir are so beautiful that they leave every tourist spellbound.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nThe sceneries of Kashmir are so beautiful that they leave every tourist spellbound.",
-    "oEn": [
-      "The sceneries of Kashmir",
-      "are so beautiful",
-      "that they leave",
-      "every tourist spellbound"
-    ],
-    "oHi": [
-      "The sceneries of Kashmir",
-      "are so beautiful",
-      "that they leave",
-      "every tourist spellbound"
-    ],
-    "c": 0,
-    "exp": "'Scenery' is an uncountable noun and does not have a plural form like 'sceneries'. It should be 'The scenery of Kashmir is'.",
-    "Pyq": "SSC_CGL_PRE_2021"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nNo sooner did the thief see the policeman then he took to his heels.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nNo sooner did the thief see the policeman then he took to his heels.",
-    "oEn": [
-      "No sooner did the thief",
-      "see the policeman",
-      "then he took",
-      "to his heels"
-    ],
-    "oHi": [
-      "No sooner did the thief",
-      "see the policeman",
-      "then he took",
-      "to his heels"
-    ],
-    "c": 2,
-    "exp": "'No sooner' forms a correlative pair with 'than', not 'then'. Replace 'then' with 'than'.",
-    "Pyq": "SSC_CGL_PRE_2023"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nHe has been working in this government department since the last five years.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nHe has been working in this government department since the last five years.",
-    "oEn": [
-      "He has been working",
-      "in this government department",
-      "since the last",
-      "five years"
-    ],
-    "oHi": [
-      "He has been working",
-      "in this government department",
-      "since the last",
-      "five years"
-    ],
-    "c": 2,
-    "exp": "'Since' is used for a specific point in time, whereas 'for' is used for a duration/period of time. 'Five years' is a duration, so use 'for' instead of 'since'.",
-    "Pyq": "SSC_CGL_PRE_2022"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nYou must either inform the local police or your parents about this incident.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nYou must either inform the local police or your parents about this incident.",
-    "oEn": [
-      "You must either",
-      "inform the local police",
-      "or your parents",
-      "about this incident"
-    ],
-    "oHi": [
-      "You must either",
-      "inform the local police",
-      "or your parents",
-      "about this incident"
-    ],
-    "c": 0,
-    "exp":To ensure parallel structure, coordinates 'either... or' must connect balanced grammatical elements. Here, 'or' precedes a noun phrase ('your parents'), so 'either' should precede a noun phrase ('the local police'). Correct form: 'You must inform either the local police or your parents'.",
-    "Pyq": "SSC_CGL_MAINS_2023"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nThe master test series comprises of twenty full-length mock tests for practice.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nThe master test series comprises of twenty full-length mock tests for practice.",
-    "oEn": [
-      "The master test series",
-      "comprises of",
-      "twenty full-length",
-      "mock tests for practice"
-    ],
-    "oHi": [
-      "The master test series",
-      "comprises of",
-      "twenty full-length",
-      "mock tests for practice"
-    ],
-    "c": 1,
-    "exp": "The verb 'comprise' means 'to consist of' and does not take the preposition 'of' in the active voice. Remove 'of'.",
-    "Pyq": "SSC_CGL_PRE_2023"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nThis is the most unique building that I have ever seen in my entire life.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nThis is the most unique building that I have ever seen in my entire life.",
-    "oEn": [
-      "This is the",
-      "most unique building",
-      "that I have ever seen",
-      "in my entire life"
-    ],
-    "oHi": [
-      "This is the",
-      "most unique building",
-      "that I have ever seen",
-      "in my entire life"
-    ],
-    "c": 1,
-    "exp": "Words like 'unique', 'perfect', 'complete', and 'absolute' represent superlative states on their own and do not take comparative or superlative modifiers like 'more' or 'most'. Remove 'most'.",
-    "Pyq": "SSC_CGL_PRE_2022"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nEvery inspector and every constable were ordered to remain on high alert during the festival.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nEvery inspector and every constable were ordered to remain on high alert during the festival.",
-    "oEn": [
-      "Every inspector and",
-      "every constable",
-      "were ordered to remain",
-      "on high alert"
-    ],
-    "oHi": [
-      "Every inspector and",
-      "every constable",
-      "were ordered to remain",
-      "on high alert"
-    ],
-    "c": 2,
-    "exp": "When two singular nouns are joined by 'and' and are preceded by 'each' or 'every', they require a singular verb. Change 'were' to 'was'.",
-    "Pyq": "SSC_CGL_PRE_2023"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nHe did not write the answers clearly despite of several reminders from the examiner.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nHe did not write the answers clearly despite of several reminders from the examiner.",
-    "oEn": [
-      "He did not write",
-      "the answers clearly",
-      "despite of several",
-      "reminders from the examiner"
-    ],
-    "oHi": [
-      "He did not write",
-      "the answers clearly",
-      "despite of several",
-      "reminders from the examiner"
-    ],
-    "c": 2,
-    "exp": "'Despite' functions as a preposition on its own and does not take 'of' (unlike 'in spite of'). Remove 'of'.",
-    "Pyq": "SSC_CGL_PRE_2021"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nMy brother-in-laws who live in Mumbai have come to stay with us for a week.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nMy brother-in-laws who live in Mumbai have come to stay with us for a week.",
-    "oEn": [
-      "My brother-in-laws",
-      "who live in Mumbai",
-      "have come to stay",
-      "with us for a week"
-    ],
-    "oHi": [
-      "My brother-in-laws",
-      "who live in Mumbai",
-      "have come to stay",
-      "with us for a week"
-    ],
-    "c": 0,
-    "exp": "To form the plural of a compound noun, add 's' to the principal/root word. It should be 'brothers-in-law' instead of 'brother-in-laws'.",
-    "Pyq": "SSC_CGL_MAINS_2022"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nShe behaves as if she knows everything about the internal matters of our company.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nShe behaves as if she knows everything about the internal matters of our company.",
-    "oEn": [
-      "She behaves",
-      "as if she knows",
-      "everything about",
-      "the internal matters"
-    ],
-    "oHi": [
-      "She behaves",
-      "as if she knows",
-      "everything about",
-      "the internal matters"
-    ],
-    "c": 1,
-    "exp": "'As if' / 'As though' introduces an unreal or hypothetical situation, which requires the past subjunctive mood. Therefore, 'knows' should be changed to 'knew'.",
-    "Pyq": "SSC_CGL_PRE_2023"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nThe news regarding the sudden postponement of the exam are entirely false.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nThe news regarding the sudden postponement of the exam are entirely false.",
-    "oEn": [
-      "The news regarding",
-      "the sudden postponement",
-      "of the exam",
-      "are entirely false"
-    ],
-    "oHi": [
-      "The news regarding",
-      "the sudden postponement",
-      "of the exam",
-      "are entirely false"
-    ],
-    "c": 3,
-    "exp": "'News' is a singular uncountable noun and always takes a singular verb. Change 'are' to 'is'.",
-    "Pyq": "SSC_CGL_PRE_2022"
-  },
-  {
-    "en": "Identify the segment that contains a grammatical error:\nHe is senior than me in service, so I have to follow his instructions.",
-    "hi": "उस भाग की पहचान करें जिसमें व्याकरणिक त्रुटि है:\nHe is senior than me in service, so I have to follow his instructions.",
-    "oEn": [
-      "He is senior than me",
-      "in service, so",
-      "I have to follow",
-      "his instructions"
-    ],
-    "oHi": [
-      "He is senior than me",
-      "in service, so",
-      "I have to follow",
-      "his instructions"
-    ],
-    "c": 0,
-    "exp": "Latin comparative adjectives ending in '-ior' (like senior, junior, superior, inferior, prior) are followed by the preposition 'to' instead of 'than'. Change 'than' to 'to'.",
-    "Pyq": "SSC_CGL_PRE_2023"
-  }
+{
+"en": "Identify the segment that contains a grammatical error:\nNeither the captain nor the crew members was present at the briefing yesterday.",
+"oEn": [
+"Neither the captain",
+"nor the crew members",
+"was present at",
+"the briefing yesterday"
+],
+"c": 2,
+"exp": "When two subjects are joined by 'neither... nor', the verb agrees with the closer subject. 'Crew members' is plural, so 'was' should be replaced with 'were'.",
+"Pyq": "SSC_CGL_PRE_2023"
+},
+{
+"en": "Identify the segment that contains a grammatical error:\nScarcely had he reached the station when the train started moving.",
+"oEn": [
+"Scarcely had he",
+"reached the station",
+"when the train",
+"No error"
+],
+"c": 3,
+"exp": "The sentence is grammatically correct. 'Scarcely' is correctly followed by 'had + subject + V3' and the conjunction 'when'.",
+"Pyq": "SSC_CGL_PRE_2022"
+},
+{
+"en": "Identify the segment that contains a grammatical error:\nThe furniture in this showroom are made of high-quality teak wood.",
+"oEn": [
+"The furniture in",
+"this showroom",
+"are made of",
+"high-quality teak wood"
+],
+"c": 2,
+"exp": "'Furniture' is an uncountable noun and always takes a singular verb. Therefore, 'are' must be replaced with 'is'.",
+"Pyq": "SSC_CGL_MAINS_2023"
+},
+{
+"en": "Identify the segment that contains a grammatical error:\nIf I was you, I would not accept this low salary offer from the company.",
+"oEn": [
+"If I was you",
+"I would not accept",
+"this low salary offer",
+"from the company"
+],
+"c": 0,
+"exp": "In imaginary or hypothetical conditional sentences (subjunctive mood), 'were' is used with all subjects instead of 'was'. Change 'was' to 'were'.",
+"Pyq": "SSC_CGL_PRE_2023"
+},
+{
+"en": "Identify the segment that contains a grammatical error:\nHe is one of those men who does not compromise on his core principles.",
+"oEn": [
+"He is one of",
+"those men who",
+"does not compromise",
+"on his core principles"
+],
+"c": 2,
+"exp": "The relative pronoun 'who' refers to the plural antecedent 'men'. Therefore, the verb must be plural ('do not' instead of 'does not').",
+"Pyq": "SSC_CGL_MAINS_2022"
+},
+{
+"en": "Identify the segment that contains a grammatical error:\nUnless you do not work hard, you cannot achieve your desired score in the exam.",
+"oEn": [
+"Unless you do not",
+"work hard, you",
+"cannot achieve your",
+"desired score"
+],
+"c": 0,
+"exp": "'Unless' itself has a negative meaning (if not). Using 'do not' with 'unless' creates a double negative. It should be 'Unless you work hard'.",
+"Pyq": "SSC_CGL_PRE_2023"
+},
+{
+"en": "Identify the segment that contains a grammatical error:\nSenior citizens prefer walking in the park than sitting idle at home.",
+"oEn": [
+"Senior citizens prefer",
+"walking in the park",
+"than sitting idle",
+"at home"
+],
+"c": 2,
+"exp": "The verb 'prefer' is followed by the preposition 'to' instead of 'than' when comparing two actions or nouns. Change 'than' to 'to'.",
+"Pyq": "SSC_CGL_PRE_2021"
+},
+{
+"en": "Identify the segment that contains a grammatical error:\nTwo miles are not a long distance for a healthy young man to cover on foot.",
+"oEn": [
+"Two miles are",
+"not a long distance",
+"for a healthy young man",
+"to cover on foot"
+],
+"c": 0,
+"exp": "When a plural noun denotes a specific quantity, distance, or amount considered as a single unit, it takes a singular verb. Change 'are' to 'is'.",
+"Pyq": "SSC_CGL_PRE_2022"
+},
+{
+"en": "Identify the segment that contains a grammatical error:\nSupposing if it rains tomorrow, will the outdoor sports event be postponed?",
+"oEn": [
+"Supposing if",
+"it rains tomorrow",
+"will the outdoor sports",
+"event be postponed"
+],
+"c": 0,
+"exp": "'Supposing' and 'if' mean the same thing in conditional contexts. Using them together is superfluous. Remove 'if'.",
+"Pyq": "SSC_CGL_PRE_2023"
+},
+{
+"en": "Identify the segment that contains a grammatical error:\nThe population of Mumbai is greater than any other city in India.",
+"oEn": [
+"The population of Mumbai",
+"is greater than",
+"any other city",
+"in India"
+],
+"c": 2,
+"exp": "The comparison must be between identical things. We are comparing the population of Mumbai with the population of other cities, not with the cities themselves. Change to 'than that of any other city'.",
+"Pyq": "SSC_CGL_MAINS_2023"
+}
 ]
