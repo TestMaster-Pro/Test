@@ -1,0 +1,452 @@
+[
+  {
+    "en": "Which of the following cellular organelles is known as the 'suicidal bag' of the cell?",
+    "hi": "निम्नलिखित में से किस कोशिकांग को कोशिका की 'आत्मघाती थैली' के रूप में जाना जाता है?",
+    "oEn": ["Lysosome", "Ribosome", "Golgi apparatus", "Mitochondria"],
+    "oHi": ["लाइसोसोम", "राइबोसोम", "गोल्गी तंत्र", "माइटोकॉन्ड्रिया"],
+    "c": 0,
+    "exp": "Lysosomes contain hydrolytic enzymes capable of digesting cellular macromolecules. If a cell is damaged, lysosomes rupture and digest the cell itself.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which of the following plant hormones is primarily responsible for fruit ripening?",
+    "hi": "निम्नलिखित में से कौन सा पादप हार्मोन मुख्य रूप से फलों को पकाने के लिए जिम्मेदार है?",
+    "oEn": ["Auxin", "Gibberellin", "Ethylene", "Abscisic acid"],
+    "oHi": ["ऑक्सिन", "जिब्बेरेलिन", "एथिलीन", "एब्सिसिक एसिड"],
+    "c": 2,
+    "exp": "Ethylene is a gaseous plant hormone that regulates and stimulates the ripening of fruits, opening of flowers, and shedding of leaves.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "In human digestive system, the bile juice is secreted by which organ?",
+    "hi": "मानव पाचन तंत्र में, पित्त रस (bile juice) का स्राव किस अंग द्वारा होता है?",
+    "oEn": ["Gallbladder", "Liver", "Pancreas", "Stomach"],
+    "oHi": ["पित्ताशय", "यकृत", "अग्न्याशय", "आमाशय"],
+    "c": 1,
+    "exp": "Bile juice is produced and secreted by the liver, but it is stored and concentrated in the gallbladder.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which blood group is known as the 'Universal Donor'?",
+    "hi": "किस रक्त समूह को 'सार्वभौमिक दाता' (Universal Donor) कहा जाता है?",
+    "oEn": ["AB positive", "O negative", "O positive", "AB negative"],
+    "oHi": ["AB पॉजिटिव", "O नेगेटिव", "O पॉजिटिव", "AB नेगेटिव"],
+    "c": 1,
+    "exp": "O negative blood lacks A, B, and Rh antigens on the surface of red blood cells, making it safe to transfuse to almost any patient.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The deficiency of which vitamin causes the disease 'Rickets' in children?",
+    "hi": "किस विटामिन की कमी के कारण बच्चों में 'सूखा रोग' (Rickets) होता है?",
+    "oEn": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "oHi": ["विटामिन A", "विटामिन B", "विटामिन C", "विटामिन D"],
+    "c": 3,
+    "exp": "Rickets is caused by a prolonged deficiency of Vitamin D, leading to weak and soft bones in children.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which of the following is the structural and functional unit of the human kidney?",
+    "hi": "निम्नलिखित में से कौन मानव वृक्क (गुर्दे) की संरचनात्मक और कार्यात्मक इकाई है?",
+    "oEn": ["Neuron", "Nephron", "Alveoli", "Cortex"],
+    "oHi": ["न्यूरॉन", "नेफ्रॉन", "एल्वियोली", "कॉर्टेक्स"],
+    "c": 1,
+    "exp": "The nephron is the microscopic structural and functional unit of the kidney responsible for filtering blood and forming urine.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Xylem tissue in plants is primarily responsible for the transport of which of the following?",
+    "hi": "पौधों में जाइलम (Xylem) ऊतक मुख्य रूप से निम्नलिखित में से किसके परिवहन के लिए जिम्मेदार है?",
+    "oEn": ["Food", "Water and minerals", "Amino acids", "Oxygen"],
+    "oHi": ["भोजन", "जल और खनिज", "अमीनो एसिड", "ऑक्सीजन"],
+    "c": 1,
+    "exp": "Xylem transports water and dissolved minerals from roots to the rest of the plant, while Phloem transports food (sucrose).",
+    "Pyq": "CUET_UG_2023"
+  },
+  {
+    "en": "Kala-azar disease is transmitted by the bite of which insect?",
+    "hi": "कालाजार रोग किस कीट के काटने से फैलता है?",
+    "oEn": ["Anopheles mosquito", "Tsetse fly", "Sandfly", "Housefly"],
+    "oHi": ["एनोफिलीज मच्छर", "त्सीत्सी मक्खी", "बालू मक्खी (सैंडफ्लाई)", "घरेलू मक्खी"],
+    "c": 2,
+    "exp": "Kala-azar (Visceral leishmaniasis) is caused by protozoan parasites of the Leishmania genus and is spread by the bite of infected female sandflies.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Which of the following cell structures is absent in plant cells but present in animal cells?",
+    "hi": "निम्नलिखित में से कौन सी कोशिका संरचना पादप कोशिकाओं में अनुपस्थित होती है लेकिन जंतु कोशिकाओं में मौजूद होती है?",
+    "oEn": ["Cell wall", "Plastids", "Centrosome", "Large central vacuole"],
+    "oHi": ["कोशिका भित्ति", "लवक (Plastids)", "तारककाय (Centrosome)", "बड़ी केंद्रीय रिक्तिका"],
+    "c": 2,
+    "exp": "Centrosomes (containing centrioles) are found in animal cells to help organize cell division. Plant cells lack centrioles but can still divide effectively.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which part of the human brain controls involuntary actions like blood pressure, salivation, and vomiting?",
+    "hi": "मानव मस्तिष्क का कौन सा भाग रक्तचाप, लार आना और उल्टी जैसी अनैच्छिक क्रियाओं को नियंत्रित करता है?",
+    "oEn": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+    "oHi": ["प्रमस्तिष्क (Cerebrum)", "अनुमस्तिष्क (Cerebellum)", "मद्द्जा (Medulla oblongata)", "हाइपोथैलेमस"],
+    "c": 2,
+    "exp": "The medulla oblongata in the hindbrain controls autonomic, involuntary functions including breathing, heart rate, blood pressure, and swallowing.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which of the following is a water-soluble vitamin?",
+    "hi": "निम्नलिखित में से कौन सा विटामिन जल में घुलनशील है?",
+    "oEn": ["Vitamin A", "Vitamin D", "Vitamin C", "Vitamin K"],
+    "oHi": ["विटामिन A", "विटामिन D", "विटामिन C", "विटामिन K"],
+    "c": 2,
+    "exp": "Vitamins B and C are water-soluble, meaning they dissolve in water and are not stored in the body for long. Vitamins A, D, E, and K are fat-soluble.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The normal systolic and diastolic blood pressure of a healthy adult human is:",
+    "hi": "एक स्वस्थ वयस्क मानव का सामान्य सिस्टोलिक और डायस्टोलिक रक्तचाप कितना होता है?",
+    "oEn": ["120/80 mm Hg", "80/120 mm Hg", "140/90 mm Hg", "110/70 mm Hg"],
+    "oHi": ["120/80 mm Hg", "80/120 mm Hg", "140/90 mm Hg", "110/70 mm Hg"],
+    "c": 0,
+    "exp": "Standard healthy blood pressure is 120 mm Hg (systolic - during heart contraction) over 80 mm Hg (diastolic - during heart relaxation).",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Penicillin, the first true antibiotic, was isolated from which of the following organisms?",
+    "hi": "पहला वास्तविक एंटीबायोटिक, पेनिसिलिन, निम्नलिखित में से किस जीव से अलग किया गया था?",
+    "oEn": ["Bacteria", "Virus", "Fungus", "Algae"],
+    "oHi": ["जीवाणु", "विषाणु", "कवक (Fungus)", "शैवला"],
+    "c": 2,
+    "exp": "Penicillin was discovered by Alexander Fleming in 1928 from the green mold fungus Penicillium notatum.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following valves prevents the backflow of blood from the left ventricle into the left atrium?",
+    "hi": "निम्नलिखित में से कौन सा कपाट (valve) बाएं निलय से बाएं अलिंद में रक्त के उल्टे प्रवाह को रोकता है?",
+    "oEn": ["Tricuspid valve", "Bicuspid (Mitral) valve", "Semilunar valve", "Eustachian valve"],
+    "oHi": ["त्रिकपर्दी कपाट (Tricuspid)", "द्विकपर्दी / माइट्रल कपाट (Bicuspid)", "अर्धचंद्राकार कपाट", "यूस्टेशियन कपाट"],
+    "c": 1,
+    "exp": "The bicuspid or mitral valve guards the opening between the left atrium and left ventricle, ensuring one-way blood flow.",
+    "Pyq": "CUET_UG_2024"
+  },
+  {
+    "en": "Double fertilization is a unique characteristic feature of which plant group?",
+    "hi": "द्वि-निषेचन (Double fertilization) किस पादप समूह की एक अनूठी विशेषता है?",
+    "oEn": ["Bryophytes", "Pteridophytes", "Gymnosperms", "Angiosperms"],
+    "oHi": ["ब्रायोफाइट्स", "टेरिडोफाइट्स", "जिम्नोस्पर्म (अनावृतबीजी)", "एंजियोस्पर्म (आवृत्तबीजी)"],
+    "c": 3,
+    "exp": "Double fertilization is unique to flowering plants (Angiosperms). It involves the fusion of one male gamete with the egg cell and another with the secondary nucleus.",
+    "Pyq": "CUET_UG_2023"
+  },
+  {
+    "en": "Which gland is known as the 'Master Gland' of the human endocrine system?",
+    "hi": "मानव अंतःस्रावी तंत्र की किस ग्रंथि को 'मास्टर ग्रंथि' के रूप में जाना जाता है?",
+    "oEn": ["Thyroid gland", "Adrenal gland", "Pituitary gland", "Pancreas"],
+    "oHi": ["थायराइड ग्रंथि", "अधिवृक्क ग्रंथि", "पीयूष ग्रंथि (Pituitary)", "अग्न्याशय"],
+    "c": 2,
+    "exp": "The pituitary gland is called the master gland because it produces hormones that control and regulate many other endocrine glands in the body.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "What is the genetic material of Retroviruses, such as the Human Immunodeficiency Virus (HIV)?",
+    "hi": "रेट्रोवायरस, जैसे कि मानव इम्युनोडेफिशिएंसी वायरस (HIV), की आनुवंशिक सामग्री क्या है?",
+    "oEn": ["Double-stranded DNA", "Single-stranded DNA", "Single-stranded RNA", "Double-stranded RNA"],
+    "oHi": ["द्वि-रज्जुकीय DNA", "एक-रज्जुकीय DNA", "एक-रज्जुकीय RNA", "द्वि-रज्जुकीय RNA"],
+    "c": 2,
+    "exp": "Retroviruses like HIV carry their genetic information in the form of two identical copies of single-stranded RNA, which copy into DNA using reverse transcriptase.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which part of the human eye contains the pigment that determines the eye color?",
+    "hi": "मानव आँख के किस भाग में वह वर्णक (pigment) होता है जो आँख का रंग निर्धारित करता है?",
+    "oEn": ["Cornea", "Iris", "Pupil", "Retina"],
+    "oHi": ["कॉर्निया", "आइरिस (परितारिका)", "पुतली", "रेटिना"],
+    "c": 1,
+    "exp": "The iris is a colored, circular structure that controls the size of the pupil and contains melanin pigment which determines eye color.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "In which stage of cell division (mitosis) do chromosomes line up at the equatorial plate?",
+    "hi": "कोशिका विभाजन (समसूत्री विभाजन) के किस चरण में गुणसूत्र भूमध्यरेखीय पट्टी पर संरेखित होते हैं?",
+    "oEn": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+    "oHi": ["पूर्वावस्था (Prophase)", "मध्यावस्था (Metaphase)", "पश्चावस्था (Anaphase)", "अंत्यावस्था (Telophase)"],
+    "c": 1,
+    "exp": "During Metaphase, the spindle fibers pull the chromosomes until they align perfectly along the center of the cell, known as the metaphase plate or equator.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which of the following gases has the highest affinity for human hemoglobin?",
+    "hi": "निम्नलिखित में से किस गैस की मानव हीमोग्लोबिन के प्रति सबसे अधिक आकर्षण (affinity) है?",
+    "oEn": ["Oxygen", "Carbon dioxide", "Carbon monoxide", "Nitrogen"],
+    "oHi": ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "कार्बन मोनोऑक्साइड", "नाइट्रोजन"],
+    "c": 2,
+    "exp": "Carbon monoxide (CO) binds to hemoglobin roughly 200 to 250 times more tightly than oxygen, forming carboxyhemoglobin and leading to CO poisoning.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "The 'Incus, Malleus, and Stapes' bones are found in which part of the human body?",
+    "hi": "'इन्कस, मैलियस और स्टेप्स' हड्डियां मानव शरीर के किस भाग में पाई जाती हैं?",
+    "oEn": ["Nose", "Ear", "Skull", "Throat"],
+    "oHi": ["नाक", "कान", "खोपड़ी", "गला"],
+    "c": 1,
+    "exp": "These three tiny bones, known as auditory ossicles, are located in the middle ear and transmit sound vibrations to the inner ear.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Which organelle is called the 'Powerhouse of the cell'?",
+    "hi": "किस कोशिकांग को 'कोशिका का पावरहाउस' कहा जाता है?",
+    "oEn": ["Chloroplast", "Mitochondria", "Endoplasmic Reticulum", "Nucleus"],
+    "oHi": ["क्लोरोप्लास्ट", "माइटोकॉन्ड्रिया", "अंतःद्रव्यी जालिका", "केन्द्रक"],
+    "c": 1,
+    "exp": "Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions, stored as Adenosine Triphosphate (ATP).",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following diseases is caused by a protozoan parasite?",
+    "hi": "निम्नलिखित में से कौन सा रोग प्रोटोजोआ परजीवी के कारण होता है?",
+    "oEn": ["Malaria", "Typhoid", "Tuberculosis", "Measles"],
+    "oHi": ["मलेरिया", "टाइफाइड", "टीबी (Tuberculosis)", "खसरा"],
+    "c": 0,
+    "exp": "Malaria is caused by Plasmodium, a genus of unicellular protozoan parasites transmitted through female Anopheles mosquitoes.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "What is the primary site of gaseous exchange in human lungs?",
+    "hi": "मानव फेफड़ों में गैसीय विनिमय का प्राथमिक स्थल कौन सा है?",
+    "oEn": ["Bronchi", "Bronchioles", "Alveoli", "Trachea"],
+    "oHi": ["श्वसनी (Bronchi)", "श्वसनिकाएं (Bronchioles)", "कूपिकाएं (Alveoli)", "श्वास नली"],
+    "c": 2,
+    "exp": "Alveoli are tiny, balloon-like air sacs at the end of the respiratory tree where oxygen enters the bloodstream and carbon dioxide leaves it.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which of the following is an example of an insectivorous plant?",
+    "hi": "निम्नलिखित में से कौन सा कीटभक्षी पौधे का उदाहरण है?",
+    "oEn": ["Cuscuta", "Venus flytrap", "Agaricus", "Spirogyra"],
+    "oHi": ["अमरबेल (Cuscuta)", "वीनस फ्लाईट्रैप", "एगारिकस", "स्पाइरोगाइरा"],
+    "c": 1,
+    "exp": "The Venus flytrap is a carnivorous plant that traps and digests insects to obtain nutrients like nitrogen, which are scarce in its native soil.",
+    "Pyq": "CUET_UG_2022"
+  },
+  {
+    "en": "Which of the following elements is found in the center of the porphyrin ring of chlorophyll?",
+    "hi": "क्लोरोफिल की पोरफाइरिन वलय के केंद्र में निम्नलिखित में से कौन सा तत्व पाया जाता है?",
+    "oEn": ["Iron", "Magnesium", "Manganese", "Copper"],
+    "oHi": ["लोहा (Iron)", "मैग्नीशियम", "मैंगनीज", "तांबा"],
+    "c": 1,
+    "exp": "Magnesium ($Mg^{2+}$) is the central atom in the chlorophyll molecule, similar to iron being the central atom in hemoglobin.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The concept of 'Survival of the Fittest' was integrated into evolutionary theory by whom?",
+    "hi": "'योग्यतम की उत्तरजीविता' (Survival of the Fittest) की अवधारणा को विकासवादी सिद्धांत में किसके द्वारा एकीकृत किया गया था?",
+    "oEn": ["Jean-Baptiste Lamarck", "Charles Darwin", "Gregor Mendel", "Hugo de Vries"],
+    "oHi": ["जीन-बैप्टिस्ट लैमार्क", "चार्ल्स डार्विन", "ग्रेगर मेंडेल", "ह्यूगो डी व्रीज"],
+    "c": 1,
+    "exp": "While Herbert Spencer coined the phrase, Charles Darwin prominently incorporated 'Survival of the Fittest' into his theory of Natural Selection.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Which hormone regulates the body's circadian rhythm (sleep-wake cycle)?",
+    "hi": "कौन सा हार्मोन शरीर की दैनिक लय (नींद-जागने के चक्र) को नियंत्रित करता है?",
+    "oEn": ["Insulin", "Melatonin", "Thyroxine", "Cortisol"],
+    "oHi": ["इंसुलिन", "मेलाटोनिन", "थायरोक्सिन", "कोर्टिसोल"],
+    "c": 1,
+    "exp": "Melatonin, secreted by the pineal gland in the brain, rises in response to darkness to promote sleep and falls during daylight.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which nitrogenous base is present in RNA but absent in DNA?",
+    "hi": "कौन सा नाइट्रोजनस बेस RNA में मौजूद होता है लेकिन DNA में अनुपस्थित होता है?",
+    "oEn": ["Adenine", "Guanine", "Thymine", "Uracil"],
+    "oHi": ["एडेनिन", "गुआनिन", "थायमीन", "यूरेसिल"],
+    "c": 3,
+    "exp": "DNA contains Adenine, Thymine, Cytosine, and Guanine. RNA replaces Thymine ($T$) with Uracil ($U$).",
+    "Pyq": "CUET_UG_2024"
+  },
+  {
+    "en": "Which of the following organisms belongs to the phylum Arthropoda?",
+    "hi": "निम्नलिखित में से कौन सा जीव आर्थ्रोपोडा (Arthropoda) संघ से संबंधित है?",
+    "oEn": ["Prawn", "Earthworm", "Starfish", "Snail"],
+    "oHi": ["झींगा (Prawn)", "केंचुआ", "तारा मछली (Starfish)", "घोंघा (Snail)"],
+    "c": 0,
+    "exp": "Prawns have jointed appendages and a chitinous exoskeleton, which are hallmark features of the Phylum Arthropoda.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "What type of epithelial tissue forms the inner lining of human blood vessels?",
+    "hi": "मानव रक्त वाहिकाओं के आंतरिक अस्तर को किस प्रकार का उपकला ऊतक (epithelial tissue) बनाता है?",
+    "oEn": ["Cuboidal epithelium", "Columnar epithelium", "Simple squamous epithelium", "Stratified epithelium"],
+    "oHi": ["घनाकार उपकला", "स्तम्भाकार उपकला", "सरल शल्की उपकला (Simple squamous)", "स्तरित उपकला"],
+    "c": 2,
+    "exp": "Simple squamous epithelium (also called endothelium here) forms a thin, single-layered lining optimized for diffusion and filtration in blood vessels.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The phenomenon of industrial melanism, studied in the Peppered Moth (Biston betularia), is an classic example of:",
+    "hi": "पेपर्ड मॉथ (बिस्टन बेटुलरिया) में अध्ययन की गई औद्योगिक मेलानिज़्म (industrial melanism) की घटना किसका एक उत्कृष्ट उदाहरण है?",
+    "oEn": ["Mutation", "Natural Selection", "Genetic Drift", "Artificial Selection"],
+    "oHi": ["उत्परिवर्तन (Mutation)", "प्राकृतिक चयन (Natural Selection)", "आनुवंशिक विचलन", "कृत्रिम चयन"],
+    "c": 1,
+    "exp": "Industrial melanism shows how dark-colored moths became dominant over light moths due to industrial pollution camouflage advantages—a clear demonstration of natural selection.",
+    "Pyq": "CUET_UG_2023"
+  },
+  {
+    "en": "Which enzyme present in human saliva breaks down complex starch into simple sugars?",
+    "hi": "मानव लार में मौजूद कौन सा एंजाइम जटिल स्टार्च को सरल शर्करा में तोड़ता है?",
+    "oEn": ["Pepsin", "Trypsin", "Salivary amylase", "Lipase"],
+    "oHi": ["पेप्सिन", "ट्रिप्सिन", "लार एमाइलेज (Salivary amylase)", "लाइपेज"],
+    "c": 2,
+    "exp": "Salivary amylase (also known as ptyalin) initiates chemical digestion in the mouth by breaking down cooked starch into maltose.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "The process of conversion of atmospheric nitrogen into ammonia by living organisms is called:",
+    "hi": "सजीवों द्वारा वायुमंडलीय नाइट्रोजन को अमोनिया में बदलने की प्रक्रिया क्या कहलाती है?",
+    "oEn": ["Nitrification", "Denitrification", "Biological Nitrogen Fixation", "Ammonification"],
+    "oHi": ["नाइटीकरण", "विनाइटीकरण", "जैविक नाइट्रोजन स्थिरीकरण", "अमोनीकरण"],
+    "c": 2,
+    "exp": "Biological nitrogen fixation is carried out by microbes like Rhizobium and Azotobacter to convert gaseous $N_2$ into usable forms like ammonia.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Which of the following pairs of diseases is caused completely by viruses?",
+    "hi": "निम्नलिखित में से कौन सा रोग युग्म पूरी तरह से वायरस के कारण होता है?",
+    "oEn": ["Cholera and Typhoid", "Measles and Smallpox", "Malaria and Tetanus", "Tuberculosis and Ringworm"],
+    "oHi": ["हैजा और टाइफाइड", "खसरा और चेचक (Measles and Smallpox)", "मलेरिया और टेटनस", "टीबी और दाद"],
+    "c": 1,
+    "exp": "Both measles (rubeola virus) and smallpox (variola virus) are viral infections. Cholera, typhoid, tetanus, and tuberculosis are bacterial.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Where does the light reaction of photosynthesis take place inside the chloroplast?",
+    "hi": "हरितलवक (chloroplast) के भीतर प्रकाश संश्लेषण की प्रकाशिक अभिक्रिया (light reaction) कहाँ होती है?",
+    "oEn": ["Stroma", "Thylakoid membrane", "Inner membrane", "Peroxisome"],
+    "oHi": ["स्ट्रोमा", "थायलाकोइड झिल्ली (Thylakoid)", "आंतरिक झिल्ली", "पेरोक्सीसोम"],
+    "c": 1,
+    "exp": "The light-dependent reactions occur in the thylakoid membranes (grana) containing chlorophyll, while dark reactions (Calvin cycle) occur in the stroma.",
+    "Pyq": "CUET_UG_2022"
+  },
+  {
+    "en": "Which organ in the human body breaks down old/worn-out RBCs and is known as the 'Graveyard of RBCs'?",
+    "hi": "मानव शरीर का कौन सा अंग पुरानी/क्षतिग्रस्त लाल रक्त कोशिकाओं (RBCs) को नष्ट करता है और 'RBC का कब्रिस्तान' कहलाता है?",
+    "oEn": ["Bone marrow", "Liver", "Spleen", "Pancreas"],
+    "oHi": ["अस्थि मज्जा", "यकृत", "प्लीहा (Spleen)", "अग्न्याशय"],
+    "c": 2,
+    "exp": "The spleen filters blood and removes old, deformed, or damaged red blood cells after their roughly 120-day lifespan.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "What is the cross between an F1 hybrid and any one of its parents called?",
+    "hi": "F1 संकर (F1 hybrid) और उसके किसी एक जनक (parent) के बीच संकरण को क्या कहा जाता है?",
+    "oEn": ["Monohybrid cross", "Dihybrid cross", "Back cross", "Test cross"],
+    "oHi": ["एकल संकर क्रॉस", "द्विसंकर क्रॉस", "बैक क्रॉस (Back cross)", "टेस्ट क्रॉस"],
+    "c": 2,
+    "exp": "A backcross is a crossing of a factorially defined hybrid with one of its original parents. If crossed specifically with the homozygous recessive parent, it's called a test cross.",
+    "Pyq": "CUET_UG_2024"
+  },
+  {
+    "en": "Which of the following compounds is the final product of anaerobic respiration in human muscle cells during vigorous exercise?",
+    "hi": "कठिन व्यायाम के दौरान मानव मांसपेशियों की कोशिकाओं में अवायवीय श्वसन का अंतिम उत्पाद निम्नलिखित में से कौन सा यौगिक है?",
+    "oEn": ["Ethanol", "Lactic acid", "Pyruvic acid", "Carbon dioxide"],
+    "oHi": ["एथेनॉल", "लैक्टिक अम्ल (Lactic acid)", "पायरुविक अम्ल", "कार्बन डाइऑक्साइड"],
+    "c": 1,
+    "exp": "When oxygen supply is low, pyruvic acid is converted into lactic acid in muscles, causing localized fatigue and cramps.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "What is the functional connection or gap between two successive neurons called?",
+    "hi": "दो क्रमागत न्यूरॉन्स के बीच के कार्यात्मक संबंध या अंतराल को क्या कहा जाता है?",
+    "oEn": ["Axon", "Dendrite", "Synapse", "Myelin sheath"],
+    "oHi": ["एक्सॉन", "डेन्ड्राइट", "सिनेप्स (Synapse)", "मायलिन शीथ"],
+    "c": 2,
+    "exp": "A synapse is the microscopic gap separating two neurons across which neurotransmitters diffuse to propagate electrical impulses.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which of the following phyla possesses a pseudocoelom (false body cavity)?",
+    "hi": "निम्नलिखित में से किस संघ (phylum) में कूटगुहा (pseudocoelom) पाई जाती है?",
+    "oEn": ["Platyhelminthes", "Aschelminthes (Nematoda)", "Annelida", "Coelenterata"],
+    "oHi": ["प्लेटीहेल्मिन्थीज", "एश्हेल्मिन्थीज / नेमैटोडा", "एनेलिडा", "सीलेंटेरेटा"],
+    "c": 1,
+    "exp": "Aschelminthes (roundworms) are unique because their body cavity is not lined by mesoderm, but scattered as pouches—forming a pseudocoelom.",
+    "Pyq": "CUET_UG_2023"
+  },
+  {
+    "en": "The hormone 'Calcitonin', which regulates calcium levels in the blood, is secreted by which gland?",
+    "hi": "रक्त में कैल्शियम के स्तर को नियंत्रित करने वाला 'कैल्सीटोनिन' हार्मोन किस ग्रंथि द्वारा स्रावित होता है?",
+    "oEn": ["Parathyroid gland", "Thyroid gland", "Adrenal gland", "Thymus"],
+    "oHi": ["पैराथायराइड ग्रंथि", "थायराइड ग्रंथि", "अधिवृक्क ग्रंथि", "थाइमस"],
+    "c": 1,
+    "exp": "Calcitonin is secreted by the parafollicular cells of the thyroid gland to lower blood calcium levels, opposing parathyroid hormone (PTH).",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which type of plant adaptation is observed in desert plants to minimize water loss through transpiration?",
+    "hi": "मरुस्थलीय पौधों में वाष्पोत्सर्जन द्वारा पानी के नुकसान को कम करने के लिए किस प्रकार का पादप अनुकूलन देखा जाता है?",
+    "oEn": ["Sunken stomata and thick cuticle", "Broad leaves with thin cuticle", "Absence of roots", "Pneumatophores"],
+    "oHi": ["धँसे हुए रंध्र (Sunken stomata) और मोटी उपत्वचा", "चौड़ी पत्तियाँ और पतली उपत्वचा", "जड़ों की अनुपस्थिति", "न्यूमेटोफोर्स"],
+    "c": 0,
+    "exp": "Xerophytic plants have thick cuticles, sunken stomata, and leaves modified into spines to conserve water in arid zones.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which of the following blood cells play a primary role in the clotting of human blood?",
+    "hi": "निम्नलिखित में से कौन सी रक्त कोशिकाएं मानव रक्त के थक्के जमने में प्राथमिक भूमिका निभाती हैं?",
+    "oEn": ["Erythrocytes", "Lymphocytes", "Thrombocytes", "Monocytes"],
+    "oHi": ["एरिथ्रोसाइट्स (RBC)", "लिम्फोसाइट्स", "थ्रोम्बोसाइट्स (Platelets)", "मोनोसाइट्स"],
+    "c": 2,
+    "exp": "Thrombocytes, commonly known as platelets, clump together and interact with clotting factors to plug broken blood vessels.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "The structural framework of plant cell walls is mainly composed of which polysaccharide?",
+    "hi": "पादप कोशिका भित्ति का संरचनात्मक ढांचा मुख्य रूप से किस पॉलीसेकेराइड से बना होता है?",
+    "oEn": ["Chitin", "Glycogen", "Cellulose", "Starch"],
+    "oHi": ["काइटिन", "ग्लाइकोजन", "सेल्यूलोज", "स्टार्च"],
+    "c": 2,
+    "exp": "Cellulose is an unbranched polymer of glucose that provides structural integrity and mechanical strength to plant cell walls. Chitin forms fungal cell walls.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which region of the human alimentary canal absorbs the maximum amount of digested food and nutrients?",
+    "hi": "मानव आहार नाल का कौन सा क्षेत्र पचे हुए भोजन और पोषक तत्वों का अधिकतम अवशोषण करता है?",
+    "oEn": ["Stomach", "Large Intestine", "Small Intestine", "Oesophagus"],
+    "oHi": ["आमाशय (Stomach)", "बड़ी आंत", "छोटी आंत (Small Intestine)", "ग्रासनली"],
+    "c": 2,
+    "exp": "The small intestine contains millions of finger-like projections called villi and microvilli that vastly increase the surface area for nutrient absorption.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Down's syndrome is a genetic disorder caused due to the presence of an extra chromosome number:",
+    "hi": "डाउन सिंड्रोम एक आनुवंशिक विकार है जो किस गुणसूत्र संख्या की एक अतिरिक्त प्रति की उपस्थिति के कारण होता है?",
+    "oEn": ["13", "18", "21", "23"],
+    "oHi": ["गुणसूत्र 13", "गुणसूत्र 18", "गुणसूत्र 21", "गुणसूत्र 23"],
+    "c": 2,
+    "exp": "Down's syndrome is also known as Trisomy 21. It occurs due to the non-disjunction of the 21st chromosome during meiosis.",
+    "Pyq": "CUET_UG_2023"
+  },
+  {
+    "en": "Which of the following organisms shows budding as a mode of asexual reproduction?",
+    "hi": "निम्नलिखित में से कौन सा जीव अलैंगिक जनन के रूप में मुकुलन (budding) दर्शाता है?",
+    "oEn": ["Amoeba", "Hydra", "Plasmodium", "Spirogyra"],
+    "oHi": ["अमीबा", "हाइड्रा (Hydra)", "प्लाज्मोडियम", "स्पाइरोगाइरा"],
+    "c": 1,
+    "exp": "Hydra and Yeast reproduce structurally via budding, where an outgrowth (bud) develops due to repeated cell division at one specific site.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "What is the study of fungi known as?",
+    "hi": "कवकों के अध्ययन को क्या कहा जाता है?",
+    "oEn": ["Phycology", "Mycology", "Bryology", "Entomology"],
+    "oHi": ["फाइकोलॉजी", "माइकोलॉजी (Mycology)", "ब्रायोलॉजी", "कीटविज्ञान (Entomology)"],
+    "c": 1,
+    "exp": "Mycology is the branch of biology concerned with the study of fungi. Phycology is the study of algae.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Which protein is the most abundant protein in the animal world?",
+    "hi": "जंतु जगत में सबसे प्रचुर मात्रा में पाया जाने वाला प्रोटीन कौन सा है?",
+    "oEn": ["Hemoglobin", "Collagen", "Keratin", "RuBisCO"],
+    "oHi": ["हीमोग्लोबिन", "कोलाजैन (Collagen)", "केराटिन", "रुबिस्को (RuBisCO)"],
+    "c": 1,
+    "exp": "Collagen is the most abundant protein in animals, making up connective tissues. RuBisCO is the most abundant protein in the whole biosphere (plants).",
+    "Pyq": "CUET_UG_2024"
+  }
+]
