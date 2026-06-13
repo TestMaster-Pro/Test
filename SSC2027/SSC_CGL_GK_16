@@ -1,0 +1,452 @@
+[
+  {
+    "en": "Which of the following acids is primarily present in sour milk or curd?",
+    "hi": "खट्टे दूध या दही में मुख्य रूप से कौन सा अम्ल मौजूद होता है?",
+    "oEn": ["Citric acid", "Acetic acid", "Lactic acid", "Tartaric acid"],
+    "oHi": ["साइट्रिक अम्ल", "एसिटिक अम्ल", "लैक्टिक अम्ल (Lactic acid)", "टार्टरिक अम्ल"],
+    "c": 2,
+    "exp": "Lactic acid is produced in milk or curd through the fermentation of lactose by lactic acid bacteria (Lactobacillus).",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "What is the chemical name of common baking soda?",
+    "hi": "सामान्य बेकिंग सोडा का रासायनिक नाम क्या है?",
+    "oEn": ["Sodium carbonate", "Sodium bicarbonate", "Calcium carbonate", "Sodium chloride"],
+    "oHi": ["सोडियम कार्बोनेट", "सोडियम बाइकार्बोनेट (Sodium bicarbonate)", "कैल्शियम कार्बोनेट", "सोडियम क्लोराइड"],
+    "c": 1,
+    "exp": "The chemical name of baking soda is Sodium bicarbonate, represented by the chemical formula NaHCO3.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "An atom of an element has 11 protons and 12 neutrons. What is its mass number?",
+    "hi": "किसी तत्व के एक परमाणु में 11 प्रोटॉन और 12 न्यूट्रॉन हैं। इसकी द्रव्यमान संख्या (mass number) क्या होगी?",
+    "oEn": ["11", "12", "23", "1"],
+    "oHi": ["11", "12", "23", "1"],
+    "c": 2,
+    "exp": "Mass number is the sum of the total number of protons and neutrons in the nucleus of an atom (11 + 12 = 23). This element is Sodium (Na).",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which gas is universally produced when a metal reacts with a dilute acid?",
+    "hi": "जब कोई धातु तनु अम्ल (dilute acid) के साथ अभिक्रिया करती है, तो सार्वभौमिक रूप से कौन सी गैस उत्पन्न होती है?",
+    "oEn": ["Oxygen", "Nitrogen", "Hydrogen", "Carbon dioxide"],
+    "oHi": ["ऑक्सीजन", "नाइट्रोजन", "हाइड्रोजन (Hydrogen)", "कार्बन डाइऑक्साइड"],
+    "c": 2,
+    "exp": "Metals displace hydrogen from dilute acids to form metal salts and release hydrogen gas (H2), which burns with a characteristic 'pop' sound.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "The process of protecting iron from rusting by coating it with a thin layer of zinc is called:",
+    "hi": "लोहे पर जस्ते (zinc) की एक पतली परत चढ़ाकर उसे जंग से बचाने की प्रक्रिया कहलाती है:",
+    "oEn": ["Galvanization", "Anodizing", "Electroplating", "Alloying"],
+    "oHi": ["यशदलेपन / गैल्वनीकरण (Galvanization)", "एनोडीकरण", "विद्युतलेपन", "मिश्रधातु बनाना"],
+    "c": 0,
+    "exp": "Galvanization is a method of protecting iron or steel from rusting by applying a protective zinc coating, which acts as a sacrificial anode.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which of the following is an example of a chemical change?",
+    "hi": "निम्नलिखित में से कौन सा रासायनिक परिवर्तन का एक उदाहरण है?",
+    "oEn": ["Melting of ice", "Sublimation of camphor", "Rusting of iron", "Boiling of water"],
+    "oHi": ["बर्फ का पिघलना", "कपूर का ऊर्ध्वपातन", "लोहे में जंग लगना (Rusting of iron)", "पानी का उबलना"],
+    "c": 2,
+    "exp": "Rusting of iron is a chemical change because a new substance, hydrated iron oxide (rust), is formed with entirely new chemical properties.",
+    "Pyq": "CUET_UG_2023"
+  },
+  {
+    "en": "What is the primary constituent of Compressed Natural Gas (CNG)?",
+    "hi": "कंप्रेस्ड नेचुरल गैस (CNG) का मुख्य घटक क्या है?",
+    "oEn": ["Methane", "Ethane", "Propane", "Butane"],
+    "oHi": ["मीथेन (Methane)", "एथेन", "प्रोपेन", "ब्यूटेन"],
+    "c": 0,
+    "exp": "Methane (CH4) makes up around 80-90% of Compressed Natural Gas (CNG), making it a cleaner burning fossil fuel resource.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following non-metals remains in a liquid state at room temperature?",
+    "hi": "निम्नलिखित में से कौन सी अधातु (non-metal) कमरे के तापमान पर तरल अवस्था में रहती है?",
+    "oEn": ["Mercury", "Bromine", "Chlorine", "Iodine"],
+    "oHi": ["पारा (Mercury)", "ब्रोमीन (Bromine)", "क्लोरीन", "आयोडीन"],
+    "c": 1,
+    "exp": "Bromine is the only non-metallic element that is a liquid at standard room temperature. Mercury is a metal that remains liquid at room temperature.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The hard crystalline structure of a diamond is due to which type of chemical bonding?",
+    "hi": "हीरे की कठोर क्रिस्टलीय संरचना किस प्रकार के रासायनिक बंधन के कारण होती है?",
+    "oEn": ["Ionic bonding", "Covalent bonding", "Metallic bonding", "Hydrogen bonding"],
+    "oHi": ["आयनिक बंधन", "सहसंयोजक बंधन (Covalent bonding)", "धात्विक बंधन", "हाइड्रोजन बंधन"],
+    "c": 1,
+    "exp": "In diamond, each carbon atom is covalently bonded to four other carbon atoms in a rigid tetrahedral structure, giving it immense structural hardness.",
+    "Pyq": "CUET_UG_2022"
+  },
+  {
+    "en": "What is the common name of Calcium Oxychloride (CaOCl2)?",
+    "hi": "कैल्शियम ऑक्सीक्लोराइड (CaOCl2) का सामान्य नाम क्या है?",
+    "oEn": ["Washing soda", "Baking soda", "Bleaching powder", "Plaster of Paris"],
+    "oHi": ["धोने का सोडा", "बेकिंग सोडा", "ब्लीचिंग पाउडर (Bleaching powder)", "प्लास्टर ऑफ पेरिस"],
+    "c": 2,
+    "exp": "Calcium oxychloride (CaOCl2) is commonly called bleaching powder, used extensively as a disinfectant and oxidizing agent.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Which of the following is the modern definition of an element's atomic number?",
+    "hi": "निम्नलिखित में से कौन सी किसी तत्व की परमाणु संख्या की आधुनिक परिभाषा है?",
+    "oEn": ["Number of neutrons", "Number of protons", "Number of nucleons", "Mass of the nucleus"],
+    "oHi": ["न्यूट्रॉनों की संख्या", "प्रोटॉनों की संख्या (Number of protons)", "न्यूक्लियॉनों की संख्या", "नाभिक का द्रव्यमान"],
+    "c": 1,
+    "exp": "Henry Moseley established that the atomic number of an element equals the number of protons found in its atomic nucleus, determining its unique position in the periodic table.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "What is the pH value of a perfectly neutral aqueous solution at 25°C?",
+    "hi": "25°C पर पूर्णतः उदासीन जलीय विलयन का pH मान कितना होता है?",
+    "oEn": ["0", "7", "14", "1"],
+    "oHi": ["0", "7", "14", "1"],
+    "c": 1,
+    "exp": "A pH value of 7 indicates a neutral solution, values below 7 indicate acidity, and values above 7 indicate alkalinity.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Which of the following materials is an alloy of Copper and Zinc?",
+    "hi": "निम्नलिखित में से कौन सी सामग्री तांबे (Copper) और जस्ते (Zinc) की एक मिश्र धातु है?",
+    "oEn": ["Bronze", "Brass", "Solder", "Stainless steel"],
+    "oHi": ["कांसा (Bronze)", "पीतल (Brass)", "सोल्डर", "स्टेनलेस स्टील"],
+    "c": 1,
+    "exp": "Brass is an alloy composed of Copper ($Cu$) and Zinc ($Zn$). Bronze consists primarily of Copper and Tin ($Sn$).",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which gas is filled inside modern electric bulbs to prevent the oxidation of the tungsten filament?",
+    "hi": "टंगस्टन फिलामेंट के ऑक्सीकरण को रोकने के लिए आधुनिक इलेक्ट्रिक बल्बों के अंदर कौन सी गैस भरी जाती है?",
+    "oEn": ["Oxygen", "Hydrogen", "Argon or Nitrogen", "Carbon dioxide"],
+    "oHi": ["ऑक्सीजन", "हाइड्रोजन", "आर्गन या नाइट्रोजन (Argon or Nitrogen)", "कार्बन डाइऑक्साइड"],
+    "c": 2,
+    "exp": "Chemically inert gases like Argon or unreactive gases like Nitrogen prevent the filament from burning up at high temperatures.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "According to Mendeleev's periodic law, the properties of elements are a periodic function of their:",
+    "hi": "मेंडलीफ के आवर्त नियम के अनुसार, तत्वों के गुणधर्म उनकी किस विशेषता के आवर्त फलन होते हैं?",
+    "oEn": ["Atomic numbers", "Atomic masses", "Atomic volumes", "Number of electrons"],
+    "oHi": ["परमाणु क्रमांकों के", "परमाणु द्रव्यमानों के (Atomic masses)", "परमाणु आयतनों के", "इलेक्ट्रॉनों की संख्या के"],
+    "c": 1,
+    "exp": "Dmitri Mendeleev arranged elements in the order of increasing atomic masses. Henry Moseley later revised this using atomic numbers for the modern table.",
+    "Pyq": "CUET_UG_2024"
+  },
+  {
+    "en": "What chemical compound is formed when Plaster of Paris absorbs moisture and sets into a hard mass?",
+    "hi": "जब प्लास्टर ऑफ पेरिस नमी को अवशोषित करता है और एक कठोर द्रव्यमान में सेट हो जाता है, तो कौन सा रासायनिक यौगिक बनता है?",
+    "oEn": ["Calcium sulphate hemihydrate", "Gypsum", "Calcium carbonate", "Calcium hydroxide"],
+    "oHi": ["कैल्शियम सल्फेट हेमीहाइड्रेट", "जिप्सम (Gypsum)", "कैल्शियम कार्बोनेट", "कैल्शियम हाइड्रोक्साइड"],
+    "c": 1,
+    "exp": "Plaster of Paris ($CaSO_4 \\cdot \\frac{1}{2}H_2O$) reacts with water to form Gypsum ($CaSO_4 \\cdot 2H_2O$), crystalline hard blocks.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which gas is evolved with brisk effervescence when sodium hydrogen carbonate reacts with ethanoic acid?",
+    "hi": "जब सोडियम हाइड्रोजन कार्बोनेट, एथेनोइक अम्ल के साथ अभिक्रिया करता है, तो तीव्र बुदबुदाहट के साथ कौन सी गैस निकलती है?",
+    "oEn": ["Hydrogen gas", "Oxygen gas", "Carbon dioxide gas", "Nitrogen dioxide gas"],
+    "oHi": ["हाइड्रोजन गैस", "ऑक्सीजन गैस", "कार्बन डाइऑक्साइड गैस", "नाइट्रोजन डाइऑक्साइड गैस"],
+    "c": 2,
+    "exp": "Carbonates and bicarbonates react with acids to liberate Carbon dioxide ($CO_2$) gas, which turns lime water milky.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "What is the phenomenon of elements existing in two or more different physical forms with similar chemical properties called?",
+    "hi": "समान रासायनिक गुणों वाले लेकिन विभिन्न भौतिक रूपों में तत्वों के विद्यमान रहने की घटना को क्या कहा जाता है?",
+    "oEn": ["Isomerism", "Allotropy", "Isotopy", "Homology"],
+    "oHi": ["समावयवता (Isomerism)", "अपररूपता (Allotropy)", "समस्थानिक होना", "सजातीयता"],
+    "c": 1,
+    "exp": "Allotropy is the property of some chemical elements to exist in two or more different forms in the same physical state (e.g., Graphite and Diamond for Carbon).",
+    "Pyq": "CUET_UG_2023"
+  },
+  {
+    "en": "Which of the following organic acids is naturally present in tomatoes?",
+    "hi": "टमाटर में प्राकृतिक रूप से निम्नलिखित में से कौन सा कार्बनिक अम्ल मौजूद होता है?",
+    "oEn": ["Citric acid", "Oxalic acid", "Tartaric acid", "Formic acid"],
+    "oHi": ["साइट्रिक अम्ल", "ऑक्जेलिक अम्ल (Oxalic acid)", "टार्टरिक अम्ल", "फॉर्मिक अम्ल"],
+    "c": 1,
+    "exp": "Tomatoes contain Oxalic acid as well as citric and malic acids, but oxalic acid is highly prominent in plant anatomy questions for competitive exams.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "What particles are present in equal numbers in two distinct isotopes of the same element?",
+    "hi": "एक ही तत्व के दो अलग-अलग समस्थानिकों (isotopes) में कौन से कण समान संख्या में मौजूद होते हैं?",
+    "oEn": ["Neutrons", "Protons", "Nucleons", "Positrons"],
+    "oHi": ["न्यूट्रॉन", "प्रोटॉन (Protons)", "न्यूक्लियॉन", "पॉज़िट्रॉन"],
+    "c": 1,
+    "exp": "Isotopes are atoms of the same element with the same atomic number (number of protons) but different mass numbers (due to different numbers of neutrons).",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which of the following acts as an indicator to distinguish between an acid and a base by turning pink in basic solutions?",
+    "hi": "मूल (basic) विलयनों में गुलाबी रंग में बदलकर अम्ल और क्षार के बीच अंतर करने के लिए निम्नलिखित में से कौन सूचक (indicator) का कार्य करता है?",
+    "oEn": ["Methyl orange", "Phenolphthalein", "Litmus solution", "Turmeric extract"],
+    "oHi": ["मेथिल ऑरेंज", "फिनोलफ्थेलीन (Phenolphthalein)", "लिटमस विलयन", "हल्दी का अर्क"],
+    "c": 1,
+    "exp": "Phenolphthalein is a synthetic indicator that remains colorless in acidic solutions but turns bright pink in basic or alkaline mediums.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "What catalyst is used in the hydrogenation of vegetable oils to manufacture vanaspati ghee?",
+    "hi": "वनस्पति घी बनाने के लिए वनस्पति तेलों के हाइड्रोजनीकरण (hydrogenation) में किस उत्प्रेरक (catalyst) का उपयोग किया जाता है?",
+    "oEn": ["Iron ($Fe$)", "Nickel ($Ni$)", "Molybdenum ($Mo$)", "Platinum ($Pt$)"],
+    "oHi": ["लोहा ($Fe$)", "निकल ($Ni$)", "मोलिब्डेनम ($Mo$)", "प्लेटिनम ($Pt$)"],
+    "c": 1,
+    "exp": "Finely divided Nickel ($Ni$) acts as a heterogeneous catalyst in industrial addition reactions of hydrogen to unsaturated vegetable lipids.",
+    "Pyq": "CUET_UG_2024"
+  },
+  {
+    "en": "The radioactive isotope Cobalt-60 is widely used in medicine for the treatment of which disease?",
+    "hi": "रेडियोधर्मी समस्थानिक कोबाल्ट-60 (Cobalt-60) का उपयोग चिकित्सा में किस बीमारी के उपचार के लिए व्यापक रूप से किया जाता है?",
+    "oEn": ["Goitre", "Cancer", "Tuberculosis", "Diabetes"],
+    "oHi": ["घेंघा रोग (Goitre)", "कैंसर (Cancer)", "टीबी", "मधुमेह"],
+    "c": 1,
+    "exp": "Cobalt-60 emits high-energy gamma rays that target and destroy malignant cells in cancer radiation therapy protocols.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Which gas is predominantly released during the decomposition of organic waste in biogas plants?",
+    "hi": "बायोगैस संयंत्रों में जैविक कचरे के अपघटन के दौरान मुख्य रूप से कौन सी गैस निकलती है?",
+    "oEn": ["Carbon monoxide", "Methane", "Ethane", "Hydrogen sulphide"],
+    "oHi": ["कार्बन मोनोऑक्साइड", "मीथेन (Methane)", "एथेन", "हाइड्रोजन सल्फाइड"],
+    "c": 1,
+    "exp": "Anaerobic digestion of biowaste produces biogas, which is primarily composed of Methane gas (~50-75%) and carbon dioxide.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "What is the physical process of separation utilized to separate components of petroleum?",
+    "hi": "पेट्रोलियम के घटकों को अलग करने के लिए पृथक्करण की किस भौतिक प्रक्रिया का उपयोग किया जाता है?",
+    "oEn": ["Simple distillation", "Fractional distillation", "Chromatography", "Evaporation"],
+    "oHi": ["सरल आसवन", "प्रभाजी आसवन (Fractional distillation)", "क्रोमैटोग्राफी", "वाष्पीकरण"],
+    "c": 1,
+    "exp": "Fractional distillation separates crude oil components because they possess closely spaced boiling points, condensing out at various heights inside a fractionating column.",
+    "Pyq": "CUET_UG_2022"
+  },
+  {
+    "en": "Which chemical law states that matter can neither be created nor destroyed in a chemical reaction?",
+    "hi": "कौन सा रासायनिक नियम यह बताता है कि किसी रासायनिक अभिक्रिया में द्रव्यमान को न तो बनाया जा सकता है और न ही नष्ट किया जा सकता है?",
+    "oEn": ["Law of Definite Proportions", "Law of Multiple Proportions", "Law of Conservation of Mass", "Avogadro's Law"],
+    "oHi": ["निश्चित अनुपात का नियम", "गुणित अनुपात का नियम", "द्रव्यमान संरक्षण का नियम (Law of Conservation of Mass)", "एवोगैड्रो का नियम"],
+    "c": 2,
+    "exp": "Formulated by Antoine Lavoisier, the Law of Conservation of Mass dictates that total reactant mass always equals total product mass.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "What is the primary substance used to prepare the head of a safety matchstick?",
+    "hi": "सुरक्षा माचिस की तीली का सिरा तैयार करने के लिए मुख्य रूप से किस पदार्थ का उपयोग किया जाता है?",
+    "oEn": ["Red phosphorus", "White phosphorus", "Antimony trisulphide and Potassium chlorate", "Sulphur powder"],
+    "oHi": ["लाल फास्फोरस", "सफेद फास्फोरस", "एंटीमनी ट्राइसल्फाइड और पोटेशियम क्लोरेट", "सल्फर पाउडर"],
+    "c": 2,
+    "exp": "The matchstick head contains antimony trisulphide and potassium chlorate. The rubbing surface of the matchbox contains red phosphorus, which creates ignition upon friction.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which of the following organic functional groups contains a carbonyl group bonded to at least one hydrogen atom?",
+    "hi": "निम्नलिखित में से किस कार्बनिक क्रियात्मक समूह (functional group) में कम से कम एक हाइड्रोजन परमाणु से जुड़ा कार्बोनिल समूह होता है?",
+    "oEn": ["Ketone", "Alcohol", "Aldehyde", "Ether"],
+    "oHi": ["कीटोन", "अल्कोहल", "एल्डिहाइड (Aldehyde)", "ईथर"],
+    "c": 2,
+    "exp": "Aldehydes possess the structural formula -CHO, meaning the central carbonyl carbon ($C=O$) is attached to a terminal hydrogen atom.",
+    "Pyq": "CUET_UG_2024"
+  },
+  {
+    "en": "What is the chemical formula of heavy water, used as a moderator in nuclear power reactors?",
+    "hi": "परमाणु ऊर्जा रिएक्टरों में मंदक (moderator) के रूप में उपयोग किए जाने वाले भारी जल (heavy water) का रासायनिक सूत्र क्या है?",
+    "oEn": ["$H_2O$", "$D_2O$", "$H_2O_2$", "$T_2O$"],
+    "oHi": ["$H_2O$", "$D_2O$", "$H_2O_2$", "$T_2O$"],
+    "c": 1,
+    "exp": "Heavy water is Deuterium Oxide ($D_2O$), an isotope of hydrogen ($^2H$ or $D$) that effectively slows down fast-moving neutrons inside a reactor core.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Which fundamental type of chemical bond involves the complete transfer of valence electrons from one atom to another?",
+    "hi": "किस मूल प्रकार के रासायनिक बंध में एक परमाणु से दूसरे परमाणु में संयोजकता इलेक्ट्रॉनों का पूर्ण स्थानांतरण शामिल होता है?",
+    "oEn": ["Covalent bond", "Ionic (Electrovalent) bond", "Metallic bond", "Coordinate bond"],
+    "oHi": ["सहसंयोजक बंध", "आयनिक / विद्युत-संयोजक बंध (Ionic bond)", "धात्विक बंध", "उप-सहसंयोजक बंध"],
+    "c": 1,
+    "exp": "Ionic bonds form between metals losing electrons to become cations and non-metals accepting those electrons to turn into stable anions.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The sensation of burning or pain caused by an ant sting is due to the injection of which acid?",
+    "hi": "चींटी के डंक मारने पर होने वाली जलन या दर्द किस अम्ल के शरीर में प्रवेश करने के कारण होता है?",
+    "oEn": ["Methanoic (Formic) acid", "Citric acid", "Tartaric acid", "Oxalic acid"],
+    "oHi": ["मेथनोइक / फॉर्मिक अम्ल (Methanoic acid)", "साइट्रिक अम्ल", "टार्टरिक अम्ल", "ऑक्जेलिक अम्ल"],
+    "c": 0,
+    "exp": "Ant stings release formic acid (systematically named methanoic acid, HCOOH) into skin layers, requiring mild alkaline neutralizations like baking soda.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Which component is added to commercial LPG cylinders to impart a strong warning odor for leak detection?",
+    "hi": "व्यावसायिक एलपीजी (LPG) सिलेंडरों में रिसाव का पता लगाने के लिए एक तेज चेतावनी गंध प्रदान करने के लिए कौन सा घटक जोड़ा जाता है?",
+    "oEn": ["Methane", "Ethanol", "Ethyl mercaptan", "Chloroform"],
+    "oHi": ["मीथेन", "एथेनॉल", "एथिल मर्कैप्टन (Ethyl mercaptan)", "क्लोरोफॉर्म"],
+    "c": 2,
+    "exp": "LPG is naturally odorless. Highly pungent organosulfur compounds like ethyl mercaptan (ethanethiol) are added to guarantee immediate hazard perception.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which element has the highest electronegativity value on the Pauling scale?",
+    "hi": "पॉलिंग पैमाने पर किस तत्व का विद्युत ऋणात्मकता (electronegativity) मान सबसे अधिक होता है?",
+    "oEn": ["Oxygen", "Chlorine", "Fluorine", "Nitrogen"],
+    "oHi": ["ऑक्सीजन", "क्लोरीन", "फ्लोरीन (Fluorine)", "नाइट्रोजन"],
+    "c": 2,
+    "exp": "Fluorine is the most electronegative element in the periodic table with an assigned value of approximately 4.0 on the Pauling scaling index.",
+    "Pyq": "CUET_UG_2023"
+  },
+  {
+    "en": "What type of colloid is formed when a liquid is dispersed within another immiscible liquid medium?",
+    "hi": "जब एक तरल को दूसरे अमिश्रणीय तरल माध्यम में परिक्षेपित (disperese) किया जाता है, तो किस प्रकार का कोलॉइड बनता है?",
+    "oEn": ["Sol", "Gel", "Emulsion", "Foam"],
+    "oHi": ["सोल (Sol)", "जेल (Gel)", "पायस / इमल्शन (Emulsion)", "झाग"],
+    "c": 2,
+    "exp": "An emulsion is a liquid-in-liquid colloidal dispersion. Milk and face creams are classic household examples.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "What is the common name of Sodium hydroxide (NaOH)?",
+    "hi": "सोडियम हाइड्रोक्साइड (NaOH) का सामान्य नाम क्या है?",
+    "oEn": ["Caustic soda", "Caustic potash", "Baking soda", "Washing soda"],
+    "oHi": ["कास्टिक सोडा (Caustic soda)", "कास्टिक पोटाश", "बेकिंग सोडा", "धोने का सोडा"],
+    "c": 0,
+    "exp": "Sodium hydroxide ($NaOH$) is commonly referred to as caustic soda due to its highly corrosive action on organic tissues.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which law states that at a constant temperature, the volume of a given mass of gas is inversely proportional to its pressure?",
+    "hi": "कौन सा नियम यह बताता है कि स्थिर तापमान पर, किसी गैस के दिए गए द्रव्यमान का आयतन उसके दाब के व्युत्क्रमानुपाती होता है?",
+    "oEn": ["Charles's Law", "Boyle's Law", "Gay-Lussac's Law", "Avogadro's Law"],
+    "oHi": ["चार्ल्स का नियम", "बॉयल का नियम (Boyle's Law)", "गे-लुसाक का नियम", "एवोगैड्रो का नियम"],
+    "c": 1,
+    "exp": "Boyle's Law establishes the inverse mathematical relationship between pressure ($P$) and volume ($V$) when absolute temperature ($T$) is held uniform ($P \\propto 1/V$).",
+    "Pyq": "CUET_UG_2022"
+  },
+  {
+    "en": "Which of the following organic materials is the main component of natural rubber?",
+    "hi": "निम्नलिखित में से कौन सा कार्बनिक पदार्थ प्राकृतिक रबर का मुख्य घटक है?",
+    "oEn": ["Neoprene", "Isoprene", "Styrene", "Ethylene"],
+    "oHi": ["नियोप्रीन", "आइसोप्रीन (Isoprene)", "स्टायरीन", "एथिलीन"],
+    "c": 1,
+    "exp": "Natural rubber is a biological addition polymer consisting structural repeating units of cis-1,4-isoprene monomers.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The phenomenon of temporary hardness in human water supplies is caused by the presence of:",
+    "hi": "जल में अस्थायी कठोरता (temporary hardness) किसकी उपस्थिति के कारण होती है?",
+    "oEn": ["Chlorides of Calcium and Magnesium", "Sulphates of Calcium and Magnesium", "Bicarbonates of Calcium and Magnesium", "Carbonates of Sodium and Potassium"],
+    "oHi": ["कैल्शियम और मैग्नीशियम के क्लोराइड", "कैल्शियम और मैग्नीशियम के सल्फेट", "कैल्शियम और मैग्नीशियम के बाइकार्बोनेट", "सोडियम और पोटेशियम के कार्बोनेट"],
+    "c": 2,
+    "exp": "Temporary hardness is due to dissolved calcium and magnesium hydrogen carbonates (bicarbonates) and can be removed easily by boiling.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "What is the maximum number of electrons that can be accommodated in the M-shell of an atom?",
+    "hi": "किसी परमाणु के M-शेल (तीसरे कोश) में अधिकतम कितने इलेक्ट्रॉन समाहित हो सकते हैं?",
+    "oEn": ["2", "8", "18", "32"],
+    "oHi": ["2", "8", "18", "32"],
+    "c": 2,
+    "exp": "Using Bohr's formula $2n^2$, where $n$ is the shell number: for M-shell ($n=3$), maximum electrons = $2(3)^2 = 2 \\times 9 = 18$.",
+    "Pyq": "CUET_UG_2024"
+  },
+  {
+    "en": "Which acid is majorly used in the manufacture of lead storage batteries?",
+    "hi": "लेड स्टोरेज बैटरियों (सीसा संचायक बैटरी) के निर्माण में मुख्य रूप से किस अम्ल का उपयोग किया जाता है?",
+    "oEn": ["Hydrochloric acid", "Nitric acid", "Sulphuric acid", "Phosphoric acid"],
+    "oHi": ["हाइड्रोक्लोरिक अम्ल", "नाइट्रिक अम्ल", "सल्फ्यूरिक अम्ल (Sulphuric acid)", "फास्फोरस अम्ल"],
+    "c": 2,
+    "exp": "Sulphuric acid ($H_2SO_4$), usually at a concentration of approximately 38%, acts as the vital electrolyte inside lead storage configurations.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "The conversion of a solid substance directly into its vapor form without passing through the liquid state is called:",
+    "hi": "बिना तरल अवस्था में आए किसी ठोस पदार्थ का सीधे वाष्प रूप में परिवर्तित होना कहलाता है:",
+    "oEn": ["Evaporation", "Condensation", "Sublimation", "Deposition"],
+    "oHi": ["वाष्पीकरण", "संघनन", "ऊर्ध्वपातन (Sublimation)", "निक्षेपण"],
+    "c": 2,
+    "exp": "Sublimation is the direct phase transition from solid to gas. Examples include ammonium chloride, dry ice, and naphthalene.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Which element behaves as a metalloid, showing both metallic and non-metallic traits?",
+    "hi": "कौन सा तत्व एक उपधातु (metalloid) के रूप में व्यवहार करता है, जो धात्विक और अधात्विक दोनों लक्षण प्रदर्शित करता है?",
+    "oEn": ["Copper", "Silicon", "Sulphur", "Iodine"],
+    "oHi": ["तांबा", "सिलिकॉन (Silicon)", "सल्फर", "आयोडीन"],
+    "c": 1,
+    "exp": "Silicon ($Si$) lies along the jagged dividing line of the periodic table, categorizing it as a semiconductor metalloid.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "What basic compound is primarily present in ordinary chalkboard chalk?",
+    "hi": "सामान्य चॉकबोर्ड चॉक में मुख्य रूप से कौन सा मूल यौगिक मौजूद होता है?",
+    "oEn": ["Calcium sulphate", "Calcium carbonate", "Calcium silicate", "Sodium carbonate"],
+    "oHi": ["कैल्शियम सल्फेट", "कैल्शियम कार्बोनेट (Calcium carbonate)", "कैल्शियम सिलिकेट", "सोडियम कार्बोनेट"],
+    "c": 1,
+    "exp": "Chalk is a sedimentary, soft form of limestone, chemically composed of calcium carbonate ($CaCO_3$).",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "What is the oxidation state of oxygen in a standard hydrogen peroxide ($H_2O_2$) molecule?",
+    "hi": "हाइड्रोजन पेरोक्साइड ($H_2O_2$) अणु में ऑक्सीजन की ऑक्सीकरण अवस्था (oxidation state) क्या होती है?",
+    "oEn": ["-2", "-1", "+2", "0"],
+    "oHi": ["-2", "-1", "+2", "0"],
+    "c": 1,
+    "exp": "In regular oxides, oxygen is -2. However, in peroxide linkages ($-O-O-$), each oxygen atom exhibits an exceptional oxidation state of -1.",
+    "Pyq": "CUET_UG_2023"
+  },
+  {
+    "en": "Which of the following organic functional compounds has the lowest boiling point due to a complete lack of intermolecular hydrogen bonding?",
+    "hi": "अंतर-आणविक हाइड्रोजन बंधन की पूर्ण कमी के कारण निम्नलिखित में से किस कार्बनिक यौगिक का क्वथनांक सबसे कम होता है?",
+    "oEn": ["Alcohols", "Carboxylic acids", "Hydrocarbons (Alkanes)", "Amines"],
+    "oHi": ["अल्कोहल", "कार्बोक्सिलिक अम्ल", "हाइड्रोकार्बन / एल्केन (Alkanes)", "एमीन"],
+    "c": 2,
+    "exp": "Alkanes are non-polar hydrocarbons holding only weak London dispersion forces, causing low boiling thresholds relative to hydrogen-bonded organic units.",
+    "Pyq": "CUET_UG_2024"
+  },
+  {
+    "en": "What is the common name of Sucrose?",
+    "hi": "सुक्रोज (Sucrose) का सामान्य नाम क्या है?",
+    "oEn": ["Grape sugar", "Table sugar", "Fruit sugar", "Milk sugar"],
+    "oHi": ["अंगूर की शर्करा", "घरेलू चीनी / टेबल शुगर (Table sugar)", "फलों की शर्करा", "दूध की शर्करा"],
+    "c": 1,
+    "exp": "Sucrose is a disaccharide comprised of glucose and fructose units, harvested broadly as common cane table sugar.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which element is added to vulcanize crude rubber to improve its structural elasticity and strength?",
+    "hi": "कच्चे रबर की संरचनात्मक लोच और ताकत में सुधार के लिए उसके वल्कनीकरण (vulcanization) में कौन सा तत्व मिलाया जाता है?",
+    "oEn": ["Sulphur", "Carbon", "Silicon", "Phosphorus"],
+    "oHi": ["सल्फर (Sulphur)", "कार्बन", "सिलिकॉन", "फास्फोरस"],
+    "c": 0,
+    "exp": "Vulcanization involves heating raw rubber with Sulphur to form stable cross-linking bridges between individual polymer strands.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "What color is observed when copper metal is heated in air to form copper oxide?",
+    "hi": "तांबे की धातु को हवा में गर्म करने पर तांबा ऑक्साइड बनने के कारण कौन सा रंग दिखाई देता है?",
+    "oEn": ["Green", "Blue", "Black", "White"],
+    "oHi": ["हरा", "नीला", "काला (Black)", "सफेद"],
+    "c": 2,
+    "exp": "Heating copper in atmospheric oxygen forms a thin surface layer of Copper(II) Oxide ($CuO$), which is a distinct black solid coat.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Which subatomic particle was discovered through J.J. Thomson's classic cathode ray tube experiments?",
+    "hi": "जे.जे. थॉमसन के प्रसिद्ध कैथोड किरण ट्यूब प्रयोगों के माध्यम से किस उपपरमाणुक कण (subatomic particle) की खोज की गई थी?",
+    "oEn": ["Proton", "Neutron", "Electron", "Positron"],
+    "oHi": ["प्रोटॉन", "न्यूट्रॉन", "इलेक्ट्रॉन (Electron)", "पॉज़िट्रॉन"],
+    "c": 2,
+    "exp": "J.J. Thomson discovered the electron in 1897 by analyzing the deflection trajectories of streams inside a low-pressure electrical vacuum chamber.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "What is the chemical name of the gas known as laughing gas?",
+    "hi": "लाफिंग गैस (हंसाने वाली गैस) के नाम से जानी जाने वाली गैस का रासायनिक नाम क्या है?",
+    "oEn": ["Nitric oxide", "Nitrogen dioxide", "Nitrous oxide", "Dinitrogen pentoxide"],
+    "oHi": ["नाइट्रिक ऑक्साइड", "नाइट्रोजन डाइऑक्साइड", "नाइट्रस ऑक्साइड (Nitrous oxide)", "डाइनाइट्रोजन पेंटाऑक्साइड"],
+    "c": 2,
+    "exp": "Nitrous oxide ($N_2O$) is known as laughing gas because inhaling small trace volumes creates temporary mild euphoric effects.",
+    "Pyq": "SSC_CGL_2024"
+  }
+]
