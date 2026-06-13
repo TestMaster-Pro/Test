@@ -8,7 +8,7 @@
       "Ascetic"
     ],
     "c": 1,
-    "exp": "A 'Hedonist' is someone who believes seeking pleasure is the most important thing in life. A 'Stoic' is indifferent to pleasure or pain, an 'Epicure' is refined in tastes (especially food/wine), and an 'Ascetic' practices severe self-discipline.",
+    "exp": "A *Hedonist* is someone who believes seeking pleasure is the most important thing in life. A *Stoic* is indifferent to pleasure or pain, an *Epicure* is refined in tastes (especially food/wine), and an *Ascetic* practices severe self-discipline.",
     "Pyq": "SSC_CGL_MAINS_2023"
   },
   {
@@ -20,7 +20,7 @@
       "Endogamy"
     ],
     "c": 2,
-    "exp": "'Serial Monogamy' is the practice of having a sequence of monogamous relationships (marrying, divorcing, and marrying again). 'Polygamy' means having multiple spouses simultaneously.",
+    "exp": "*Serial Monogamy* is the practice of having a sequence of monogamous relationships (marrying, divorcing, and marrying again). *Polygamy* means having multiple spouses simultaneously.",
     "Pyq": "SSC_CGL_PRE_2024"
   },
   {
@@ -32,7 +32,7 @@
       "Truism"
     ],
     "c": 1,
-    "exp": "An 'Axiom' is a statement or established principle accepted as true without proof. A 'Platitude' is a dull, overused remark, and a 'Paradox' is a self-contradictory statement.",
+    "exp": "An *Axiom* is a statement or established principle accepted as true without proof. A *Platitude* is a dull, overused remark, and a *Paradox* is a self-contradictory statement.",
     "Pyq": "SSC_CGL_PRE_2023"
   },
   {
@@ -44,7 +44,7 @@
       "Xenophobia"
     ],
     "c": 2,
-    "exp": "'Claustrophobia' is the extreme fear of confined places. 'Agoraphobia' is the fear of open or crowded public spaces, 'Acrophobia' is the fear of heights, and 'Xenophobia' is the fear of foreigners.",
+    "exp": "*Claustrophobia* is the extreme fear of confined places. *Agoraphobia* is the fear of open or crowded public spaces, *Acrophobia* is the fear of heights, and *Xenophobia* is the fear of foreigners.",
     "Pyq": "SSC_CGL_PRE_2022"
   },
   {
@@ -56,7 +56,7 @@
       "Placebo"
     ],
     "c": 0,
-    "exp": "A 'Panacea' is a universal cure-all for diseases or problems. An 'Antidote' counteracts poison, an 'Elixir' is a magical/medicinal potion, and a 'Placebo' is a harmless dummy pill given for psychological benefit.",
+    "exp": "A *Panacea* is a universal cure-all for diseases or problems. An *Antidote* counteracts poison, an *Elixir* is a magical/medicinal potion, and a *Placebo* is a harmless dummy pill given for psychological benefit.",
     "Pyq": "SSC_CGL_MAINS_2022"
   },
   {
@@ -68,7 +68,7 @@
       "Expatriate"
     ],
     "c": 1,
-    "exp": "An 'Emigrant' leaves their native country (Exit), whereas an 'Immigrant' arrives to settle into a new country (In).",
+    "exp": "An *Emigrant* leaves their native country (Exit), whereas an *Immigrant* arrives to settle into a new country (In).",
     "Pyq": "SSC_CGL_PRE_2023"
   },
   {
@@ -80,7 +80,7 @@
       "Diplomacy"
     ],
     "c": 1,
-    "exp": "'Red Tapism' refers to excessive regulation or rigid conformity to formal rules that hinders action. 'Nepotism' is favoring relatives, and 'Autocracy' is a system of government by one person.",
+    "exp": "*Red Tapism* refers to excessive regulation or rigid conformity to formal rules that hinders action. *Nepotism* is favoring relatives, and *Autocracy* is a system of government by one person.",
     "Pyq": "SSC_CGL_MAINS_2023"
   },
   {
@@ -92,7 +92,7 @@
       "Epithet"
     ],
     "c": 2,
-    "exp": "An 'Epigram' is a brief, pithy, and often satirical statement. An 'Epitaph' is an inscription on a tombstone, an 'Epilogue' is a concluding speech in a play, and an 'Epithet' is a descriptive phrase expressing a quality.",
+    "exp": "An *Epigram* is a brief, pithy, and often satirical statement. An *Epitaph* is an inscription on a tombstone, an *Epilogue* is a concluding speech in a play, and an *Epithet* is a descriptive phrase expressing a quality.",
     "Pyq": "SSC_CGL_PRE_2024"
   },
   {
@@ -104,7 +104,7 @@
       "Reprieve"
     ],
     "c": 1,
-    "exp": "'Amnesty' is an official political pardon for a group. 'Clemency' is general mercy or leniency, 'Reprieve' is a temporary delay or cancellation of a punishment, and 'Absolution' is a formal release from guilt or sin.",
+    "exp": "*Amnesty* is an official political pardon for a group. *Clemency* is general mercy or leniency, *Reprieve* is a temporary delay or cancellation of a punishment, and *Absolution* is a formal release from guilt or sin.",
     "Pyq": "SSC_CGL_MAINS_2022"
   },
   {
@@ -116,7 +116,7 @@
       "Ebullience"
     ],
     "c": 0,
-    "exp": "'Lassitude' means physical or mental lack of energy or weariness. 'Alacrity' is eager readiness, while 'Vigor' and 'Ebullience' mean high energy/excitement.",
+    "exp": "*Lassitude* means physical or mental lack of energy or weariness. *Alacrity* is eager readiness, while *Vigor* and *Ebullience* mean high energy/excitement.",
     "Pyq": "SSC_CGL_PRE_2023"
   },
   {
@@ -128,7 +128,7 @@
       "Jockey"
     ],
     "c": 0,
-    "exp": "A 'Chauffeur' is a person employed to drive a private car. An 'Aviator' flies aircraft, and a 'Jockey' rides horses in races.",
+    "exp": "A *Chauffeur* is a person employed to drive a private car. An *Aviator* flies aircraft, and a *Jockey* rides horses in races.",
     "Pyq": "SSC_CGL_PRE_2022"
   },
   {
@@ -140,7 +140,7 @@
       "Sociology"
     ],
     "c": 1,
-    "exp": "'Demography' is the scientific study of human populations. 'Anthropology' is the study of human societies and cultural evolution.",
+    "exp": "*Demography* is the scientific study of human populations. *Anthropology* is the study of human societies and cultural evolution.",
     "Pyq": "SSC_CGL_PRE_2023"
   },
   {
@@ -152,7 +152,7 @@
       "Harangue"
     ],
     "c": 1,
-    "exp": "A 'Eulogy' is a speech of high praise, often given at a funeral. An 'Elegy' is a sad poem mourning a dead person, and a 'Harangue' is a lengthy and aggressive speech.",
+    "exp": "A *Eulogy* is a speech of high praise, often given at a funeral. An *Elegy* is a sad poem mourning a dead person, and a *Harangue* is a lengthy and aggressive speech.",
     "Pyq": "SSC_CGL_MAINS_2023"
   },
   {
@@ -164,7 +164,7 @@
       "Ambiguous"
     ],
     "c": 1,
-    "exp": "'Pellucid' means completely translucent, clear in meaning, or crystal clear. 'Opaque' means not transparent, while 'Nebulous' and 'Ambiguous' mean vague/unclear.",
+    "exp": "*Pellucid* means completely translucent, clear in meaning, or crystal clear. *Opaque* means not transparent, while *Nebulous* and *Ambiguous* mean vague/unclear.",
     "Pyq": "SSC_CGL_PRE_2024"
   },
   {
@@ -176,7 +176,7 @@
       "Paralysis"
     ],
     "c": 1,
-    "exp": "'Analgesia' is the medical term for the inability to feel pain. 'Amnesia' is memory loss, 'Insomnia' is sleeplessness, and 'Paralysis' is the loss of motor function.",
+    "exp": "*Analgesia* is the medical term for the inability to feel pain. *Amnesia* is memory loss, *Insomnia* is sleeplessness, and *Paralysis* is the loss of motor function.",
     "Pyq": "SSC_CGL_PRE_2021"
   },
   {
@@ -188,7 +188,7 @@
       "Archives"
     ],
     "c": 3,
-    "exp": "'Archives' refers to the collection of historical records or files. A 'Cache' is a hidden storage space for items like ammunition or data.",
+    "exp": "*Archives* refers to the collection of historical records or files. A *Cache* is a hidden storage space for items like ammunition or data.",
     "Pyq": "SSC_CGL_MAINS_2022"
   },
   {
@@ -200,7 +200,7 @@
       "Miser"
     ],
     "c": 0,
-    "exp": A 'Kleptomaniac' suffers from an obsessive urge to steal without economic motive. A 'Pyromaniac' has an obsession with setting fires.",
+    "exp": "A *Kleptomaniac* suffers from an obsessive urge to steal without economic motive. A *Pyromaniac* has an obsession with setting fires.",
     "Pyq": "SSC_CGL_PRE_2023"
   },
   {
@@ -212,7 +212,7 @@
       "Illegible"
     ],
     "c": 1,
-    "exp": "'Inaudible' means unable to be heard. 'Incorrigible' means a person or habit that cannot be corrected or reformed, and 'Illegible' means unreadable handwriting.",
+    "exp": "*Inaudible* means unable to be heard. *Incorrigible* means a person or habit that cannot be corrected or reformed, and *Illegible* means unreadable handwriting.",
     "Pyq": "SSC_CGL_PRE_2022"
   },
   {
@@ -224,7 +224,7 @@
       "Sacrilege"
     ],
     "c": 1,
-    "exp": "'Blasphemy' is the specific act of speaking profanely against God or sacred things. 'Sacrilege' is the physical violation or misuse of what is regarded as sacred. 'Apostasy' is the total abandonment of a religion.",
+    "exp": "*Blasphemy* is the specific act of speaking profanely against God or sacred things. *Sacrilege* is the physical violation or misuse of what is regarded as sacred. *Apostasy* is the total abandonment of a religion.",
     "Pyq": "SSC_CGL_MAINS_2023"
   },
   {
@@ -236,7 +236,7 @@
       "Sanatorium"
     ],
     "c": 1,
-    "exp": "A 'Mortuary' or morgue is a place where bodies are kept temporarily. A 'Cemetery' is a permanent burial ground, and a 'Creche' is a nursery for young children.",
+    "exp": "A *Mortuary* or morgue is a place where bodies are kept temporarily. A *Cemetery* is a permanent burial ground, and a *Creche* is a nursery for young children.",
     "Pyq": "SSC_CGL_PRE_2023"
   },
   {
@@ -248,7 +248,7 @@
       "Swag"
     ],
     "c": 1,
-    "exp": "A 'Wreath' is a circular arrangement of flowers or foliage used for decoration or honoring the dead. A 'Bouquet' is a bunch of flowers given as a gift.",
+    "exp": "A *Wreath* is a circular arrangement of flowers or foliage used for decoration or honoring the dead. A *Bouquet* is a bunch of flowers given as a gift.",
     "Pyq": "SSC_CGL_PRE_2024"
   },
   {
@@ -260,7 +260,7 @@
       "Veteran"
     ],
     "c": 0,
-    "exp": "'Versatile' means able to adapt or be turned to many different functions or activities. 'Ambidextrous' means able to use both hands with equal skill.",
+    "exp": "*Versatile* means able to adapt or be turned to many different functions or activities. *Ambidextrous* means able to use both hands with equal skill.",
     "Pyq": "SSC_CGL_MAINS_2022"
   },
   {
@@ -272,7 +272,7 @@
       "Arbitration"
     ],
     "c": 1,
-    "exp": "'Espionage' is the practice of spying or using spies to obtain secret political or military information. 'Sabotage' is deliberate destruction.",
+    "exp": "*Espionage* is the practice of spying or using spies to obtain secret political or military information. *Sabotage* is deliberate destruction.",
     "Pyq": "SSC_CGL_PRE_2023"
   },
   {
@@ -284,7 +284,7 @@
       "Apathy"
     ],
     "c": 1,
-    "exp": "'Antipathy' is a deep-seated feeling of dislike or aversion. 'Empathy' means sharing or understanding another's feelings, and 'Apathy' is a lack of interest.",
+    "exp": "*Antipathy* is a deep-seated feeling of dislike or aversion. *Empathy* means sharing or understanding another's feelings, and *Apathy* is a lack of interest.",
     "Pyq": "SSC_CGL_PRE_2022"
   },
   {
@@ -296,7 +296,7 @@
       "Parasite"
     ],
     "c": 2,
-    "exp": "A 'Scavenger' feeds on dead animal or plant matter. A 'Parasite' lives on or inside a living host organism and causes it harm.",
+    "exp": "A *Scavenger* feeds on dead animal or plant matter. A *Parasite* lives on or inside a living host organism and causes it harm.",
     "Pyq": "SSC_CGL_MAINS_2023"
   }
 ]
