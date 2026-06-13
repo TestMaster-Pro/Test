@@ -1,0 +1,452 @@
+[
+  {
+    "en": "Which Article of the Indian Constitution provides for the establishment of the Election Commission of India?",
+    "hi": "भारतीय संविधान का कौन सा अनुच्छेद भारत के निर्वाचन आयोग की स्थापना का प्रावधान करता है?",
+    "oEn": ["Article 315", "Article 324", "Article 326", "Article 338"],
+    "oHi": ["अनुच्छेद 315", "अनुच्छेद 324", "अनुच्छेद 326", "अनुच्छेद 338"],
+    "c": 1,
+    "exp": "Article 324 of the Constitution provides for the power of superintendence, direction, and control of elections to be vested in an Election Commission.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who appoints the Chief Election Commissioner and other Election Commissioners in India?",
+    "hi": "भारत में मुख्य चुनाव आयुक्त और अन्य चुनाव आयुक्तों की नियुक्ति कौन करता है?",
+    "oEn": ["The Prime Minister", "The President of India", "The Chief Justice of India", "The Parliament"],
+    "oHi": ["प्रधानमंत्री", "भारत के राष्ट्रपति", "भारत के मुख्य न्यायाधीश", "संसद"],
+    "c": 1,
+    "exp": "The Chief Election Commissioner and other Election Commissioners are appointed by the President of India.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "What is the tenure of the Chief Election Commissioner of India?",
+    "hi": "भारत के मुख्य चुनाव आयुक्त का कार्यकाल कितना होता है?",
+    "oEn": ["5 years or up to 62 years of age", "6 years or up to 65 years of age", "5 years or up to 65 years of age", "6 years or up to 62 years of age"],
+    "oHi": ["5 वर्ष या 62 वर्ष की आयु तक", "6 वर्ष या 65 वर्ष की आयु तक", "5 वर्ष या 65 वर्ष की आयु तक", "6 वर्ष या 62 वर्ष की आयु तक"],
+    "c": 1,
+    "exp": "The Chief Election Commissioner holds office for a term of six years or until they attain the age of 65 years, whichever is earlier.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The Union Public Service Commission (UPSC) submits its annual report to whom?",
+    "hi": "संघ लोक सेवा आयोग (UPSC) अपनी वार्षिक रिपोर्ट किसे सौंपता है?",
+    "oEn": ["The Prime Minister", "The Parliament", "The President", "The Ministry of Personnel"],
+    "oHi": ["प्रधानमंत्री", "संसद", "राष्ट्रपति", "कार्मिक मंत्रालय"],
+    "c": 2,
+    "exp": "Under Article 323, the Union Public Service Commission (UPSC) presents annually to the President a report as to the work done by the Commission.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which Article of the Constitution deals with the composition and appointment of members of UPSC and State PSCs?",
+    "hi": "संविधान का कौन सा अनुच्छेद UPSC और राज्य PSC के सदस्यों की संरचना और नियुक्ति से संबंधित है?",
+    "oEn": ["Article 312", "Article 315", "Article 316", "Article 320"],
+    "oHi": ["अनुच्छेद 312", "अनुच्छेद 315", "अनुच्छेद 316", "अनुच्छेद 320"],
+    "c": 2,
+    "exp": "Article 316 deals with the appointment and term of office of members of Public Service Commissions, while Article 315 deals with the creation of the Commissions.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "A member of a State Public Service Commission can be removed from office only by whom?",
+    "hi": "राज्य लोक सेवा आयोग के किसी सदस्य को केवल किसके द्वारा पद से हटाया जा सकता है?",
+    "oEn": ["The Governor of the State", "The President of India", "The Chief Justice of the High Court", "The State Legislative Assembly"],
+    "oHi": ["राज्य के राज्यपाल", "भारत के राष्ट्रपति", "उच्च न्यायालय के मुख्य न्यायाधीश", "राज्य विधानसभा"],
+    "c": 1,
+    "exp": "Although appointed by the Governor, members or the chairman of a State Public Service Commission can be removed only by the President of India (Article 317).",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The Finance Commission of India is constituted under which Article of the Constitution?",
+    "hi": "भारत के वित्त आयोग का गठन संविधान के किस अनुच्छेद के तहत किया जाता है?",
+    "oEn": ["Article 265", "Article 280", "Article 300", "Article 315"],
+    "oHi": ["अनुच्छेद 265", "अनुच्छेद 280", "अनुच्छेद 300", "अनुच्छेद 315"],
+    "c": 1,
+    "exp": "Article 280 of the Indian Constitution provides for a Finance Commission as a quasi-judicial body, constituted by the President every five years.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Who determines the qualifications of members of the Finance Commission of India?",
+    "hi": "भारत के वित्त आयोग के सदस्यों की योग्यताओं का निर्धारण कौन करता है?",
+    "oEn": ["The President", "The Parliament by law", "The Union Cabinet", "The Chief Justice of India"],
+    "oHi": ["राष्ट्रपति", "संसद कानून द्वारा", "केंद्रीय कैबिनेट", "भारत के मुख्य न्यायाधीश"],
+    "c": 1,
+    "exp": "According to Article 280(2), the Parliament may by law determine the qualifications which shall be requisite for appointment as members of the Commission.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which Article provides for the office of the Comptroller and Auditor General of India (CAG)?",
+    "hi": "कौन सा अनुच्छेद भारत के नियंत्रक और महालेखा परीक्षक (CAG) के पद का प्रावधान करता है?",
+    "oEn": ["Article 76", "Article 148", "Article 153", "Article 280"],
+    "oHi": ["अनुच्छेद 76", "अनुच्छेद 148", "अनुच्छेद 153", "अनुच्छेद 280"],
+    "c": 1,
+    "exp": "Article 148 provides for an independent office of the Comptroller and Auditor General of India (CAG), who is the head of the Indian Audit and Accounts Department.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The Comptroller and Auditor General of India can be removed from his office in a manner similar to whom?",
+    "hi": "भारत के नियंत्रक और महालेखा परीक्षक को किसके समान प्रक्रिया से उनके पद से हटाया जा सकता है?",
+    "oEn": ["A Judge of the Supreme Court", "The Attorney General of India", "A Governor of a State", "The Chairman of UPSC"],
+    "oHi": ["सर्वोच्च न्यायालय के न्यायाधीश", "भारत के महान्यायवादी", "राज्य के राज्यपाल", "UPSC के अध्यक्ष"],
+    "c": 0,
+    "exp": "The CAG can be removed from office by the President only on the basis of a resolution passed by both Houses of Parliament with a special majority, similar to a Supreme Court Judge.",
+    "Pyq": "SSC_CHSL_2022"
+  },
+  {
+    "en": "Who is known as the guardian of the public purse in India?",
+    "hi": "भारत में सार्वजनिक धन का संरक्षक किसे कहा जाता है?",
+    "oEn": ["The Finance Minister", "The Prime Minister", "The Comptroller and Auditor General", "The Governor of RBI"],
+    "oHi": ["वित्त मंत्री", "प्रधानमंत्री", "नियंत्रक और महालेखा परीक्षक", "RBI के गवर्नर"],
+    "c": 2,
+    "exp": "The Comptroller and Auditor General (CAG) is called the guardian of the public purse as it controls the entire financial system of the country.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which Constitutional body is the highest legal advisor to the Union Government?",
+    "hi": "कौन सा संवैधानिक निकाय केंद्र सरकार का सर्वोच्च कानूनी सलाहकार होता है?",
+    "oEn": ["The Solicitor General of India", "The Law Secretary", "The Attorney General of India", "The Chief Justice of India"],
+    "oHi": ["भारत के सॉलिसिटर जनरल", "विधि सचिव", "भारत के महान्यायवादी", "भारत के मुख्य न्यायाधीश"],
+    "c": 2,
+    "exp": "Article 76 provides for the Attorney General of India, who is the chief legal advisor to the Government of India and the primary lawyer in the Supreme Court.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Who has the right to speak and take part in the proceedings of either House of Parliament without the right to vote?",
+    "hi": "किसे बिना वोट देने के अधिकार के, संसद के किसी भी सदन की कार्यवाही में बोलने और भाग लेने का अधिकार है?",
+    "oEn": ["The Chief Election Commissioner", "The Comptroller and Auditor General", "The Attorney General of India", "The Vice-President of India"],
+    "oHi": ["मुख्य चुनाव आयुक्त", "नियंत्रक और महालेखा परीक्षक", "भारत के महान्यायवादी", "भारत के उपराष्ट्रपति"],
+    "c": 2,
+    "exp": "Under Article 88, the Attorney General of India has the right to speak and take part in the proceedings of both Houses or any joint sitting, but without a right to vote.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which Article provides for the office of the Advocate General for a State?",
+    "hi": "कौन सा अनुच्छेद राज्य के महाधिवक्ता (Advocate General) के पद का प्रावधान करता है?",
+    "oEn": ["Article 165", "Article 177", "Article 194", "Article 214"],
+    "oHi": ["अनुच्छेद 165", "अनुच्छेद 177", "अनुच्छेद 194", "अनुच्छेद 214"],
+    "c": 0,
+    "exp": "Article 165 provides for the Advocate General for the State, who is the highest legal authority in the State, corresponding to the Attorney General of India.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "What is the tenure of the Advocate General of a State?",
+    "hi": "किसी राज्य के महाधिवक्ता का कार्यकाल कितना होता है?",
+    "oEn": ["5 years", "6 years or 65 years of age", "Not fixed, holds office during the pleasure of the Governor", "Not fixed, holds office during the pleasure of the President"],
+    "oHi": ["5 वर्ष", "6 वर्ष या 65 वर्ष की आयु तक", "निश्चित नहीं है, राज्यपाल के प्रसादपर्यंत पद धारण करते हैं", "निश्चित नहीं है, राष्ट्रपति के प्रसादपर्यंत पद धारण करते हैं"],
+    "c": 2,
+    "exp": "The term of office of the Advocate General is not fixed by the Constitution. He holds office during the pleasure of the Governor of the State.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "By which Constitutional Amendment Act was the National Commission for Scheduled Castes and Scheduled Tribes bifurcated into two separate bodies?",
+    "hi": "किस संविधान संशोधन अधिनियम द्वारा राष्ट्रीय अनुसूचित जाति और अनुसूचित जनजाति आयोग को दो अलग-अलग निकायों में विभाजित किया गया था?",
+    "oEn": ["65th Amendment", "86th Amendment", "89th Amendment", "102nd Amendment"],
+    "oHi": ["65वां संशोधन", "86वां संशोधन", "89वां संशोधन", "102वां संशोधन"],
+    "c": 2,
+    "exp": "The 89th Constitutional Amendment Act of 2003 bifurcated the combined National Commission into NCSC (Article 338) and NCST (Article 338A).",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which Article of the Indian Constitution establishes the National Commission for Scheduled Tribes (NCST)?",
+    "hi": "भारतीय संविधान का कौन सा अनुच्छेद राष्ट्रीय अनुसूचित जनजाति आयोग (NCST) की स्थापना करता है?",
+    "oEn": ["Article 338", "Article 338A", "Article 338B", "Article 340"],
+    "oHi": ["अनुच्छेद 338", "अनुच्छेद 338A", "अनुच्छेद 338B", "अनुच्छेद 340"],
+    "c": 1,
+    "exp": "Article 338A deals with the National Commission for Scheduled Tribes, which came into existence in 2004.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which Constitutional Amendment Act granted constitutional status to the National Commission for Backward Classes (NCBC)?",
+    "hi": "किस संविधान संशोधन अधिनियम द्वारा राष्ट्रीय पिछड़ा वर्ग आयोग (NCBC) को संवैधानिक दर्जा दिया गया था?",
+    "oEn": ["101st Amendment Act", "102nd Amendment Act", "103rd Amendment Act", "104th Amendment Act"],
+    "oHi": ["101वां संशोधन अधिनियम", "102वां संशोधन अधिनियम", "103वां संशोधन अधिनियम", "104वां संशोधन अधिनियम"],
+    "c": 1,
+    "exp": "The 102nd Constitutional Amendment Act, 2018, inserted Article 338B, giving constitutional status to the National Commission for Backward Classes.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which Article provides for the appointment of a Special Officer for Linguistic Minorities?",
+    "hi": "भाषाई अल्पसंख्यकों के लिए विशेष अधिकारी की नियुक्ति का प्रावधान कौन सा अनुच्छेद करता है?",
+    "oEn": ["Article 350", "Article 350A", "Article 350B", "Article 351"],
+    "oHi": ["अनुच्छेद 350", "अनुच्छेद 350A", "अनुच्छेद 350B", "अनुच्छेद 351"],
+    "c": 2,
+    "exp": "Article 350B was inserted by the 7th Constitutional Amendment Act of 1956, providing for a Special Officer for Linguistic Minorities appointed by the President.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "The Goods and Services Tax Council (GST Council) is which type of body?",
+    "hi": "वस्तु एवं सेवा कर परिषद (GST Council) किस प्रकार का निकाय है?",
+    "oEn": ["Statutory Body", "Constitutional Body", "Executive Body", "Non-constitutional Body"],
+    "oHi": ["सांविधिक निकाय", "संवैधानिक निकाय", "कार्यकारी निकाय", "गैर-संवैधानिक निकाय"],
+    "c": 1,
+    "exp": "The GST Council is a constitutional body established under Article 279A, inserted by the 101st Constitutional Amendment Act, 2016.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who is the ex-officio Chairperson of the Goods and Services Tax (GST) Council?",
+    "hi": "वस्तु एवं सेवा कर (GST) परिषद का पदेन अध्यक्ष कौन होता है?",
+    "oEn": ["The Prime Minister of India", "The Union Finance Minister", "The Union Revenue Secretary", "The Minister of State for Finance"],
+    "oHi": ["भारत के प्रधानमंत्री", "केंद्रीय वित्त मंत्री", "केंद्रीय राजस्व सचिव", "वित्त राज्य मंत्री"],
+    "c": 1,
+    "exp": "As per Article 279A, the Union Finance Minister is the Chairperson of the GST Council.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which body is responsible for auditing the accounts of Local Bodies like Panchayats and Municipalities in states as per guidance?",
+    "hi": "राज्यों में दिशा-निर्देशों के अनुसार पंचायतों और नगर पालिकाओं जैसे स्थानीय निकायों के खातों के ऑडिट के लिए कौन सी संस्था उत्तरदायी है?",
+    "oEn": ["State Finance Commission", "Comptroller and Auditor General (CAG)", "State Directorate of Local Fund Audit", "Finance Ministry"],
+    "oHi": ["राज्य वित्त आयोग", "नियंत्रक और महालेखा परीक्षक (CAG)", "स्थानीय निधि लेखापरीक्षा का राज्य निदेशालय", "वित्त मंत्रालय"],
+    "c": 1,
+    "exp": "The CAG advises on the principles governing the accounting and auditing of local bodies, though execution varies under state law guidelines.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "To be appointed as the Attorney General for India, a person must be qualified to be appointed as a judge of which court?",
+    "hi": "भारत का महान्यायवादी बनने के लिए किसी व्यक्ति के पास किस न्यायालय का न्यायाधीश नियुक्त होने की योग्यता होनी चाहिए?",
+    "oEn": ["High Court", "Supreme Court", "District Court", "International Court of Justice"],
+    "oHi": ["उच्च न्यायालय", "सर्वोच्च न्यायालय", "जिला न्यायालय", "अंतर्राष्ट्रीय न्यायालय"],
+    "c": 1,
+    "exp": "Article 76(1) states that the President shall appoint a person who is qualified to be appointed a Judge of the Supreme Court to be Attorney General for India.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Who determines the conditions of service and tenure of office of the Election Commissioners?",
+    "hi": "चुनाव आयुक्तों की सेवा शर्तों और कार्यकाल का निर्धारण कौन करता है?",
+    "oEn": ["The Parliament", "The President", "The Chief Election Commissioner", "The Law Ministry"],
+    "oHi": ["संसद", "राष्ट्रपति", "मुख्य चुनाव आयुक्त", "कानून मंत्रालय"],
+    "c": 1,
+    "exp": "Under Article 324(5), the conditions of service and tenure of office of the Election Commissioners shall be such as the President may by rule determine.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which Article provides that the Union Public Service Commission shall conduct examinations for appointments to the services of the Union?",
+    "hi": "कौन सा अनुच्छेद यह प्रावधान करता है कि संघ लोक सेवा आयोग संघ की सेवाओं में नियुक्तियों के लिए परीक्षाओं का संचालन करेगा?",
+    "oEn": ["Article 315", "Article 318", "Article 320", "Article 322"],
+    "oHi": ["अनुच्छेद 315", "अनुच्छेद 318", "अनुच्छेद 320", "अनुच्छेद 322"],
+    "c": 2,
+    "exp": "Article 320 of the Constitution details the 'Functions of Public Service Commissions', which includes conducting recruitment examinations.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The salary and other conditions of service of the CAG are determined by whom?",
+    "hi": "CAG के वेतन और अन्य सेवा शर्तों का निर्धारण किसके द्वारा किया जाता है?",
+    "oEn": ["The President of India", "The Parliament by law", "The Ministry of Finance", "The Planning Commission"],
+    "oHi": ["भारत के राष्ट्रपति", "संसद कानून द्वारा", "वित्त मंत्रालय", "योजना आयोग"],
+    "c": 1,
+    "exp": "Article 148(3) states that the salary and other conditions of service of the CAG shall be such as may be determined by Parliament by law.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which constitutional body recommends the distribution of the net proceeds of taxes between the Center and the States?",
+    "hi": "कौन सा संवैधानिक निकाय केंद्र और राज्यों के बीच करों की शुद्ध प्राप्तियों के वितरण की सिफारिश करता है?",
+    "oEn": ["GST Council", "Finance Commission", "NITI Aayog", "CAG"],
+    "oHi": ["GST परिषद", "वित्त आयोग", "नीति आयोग", "CAG"],
+    "c": 1,
+    "exp": "The Finance Commission's primary duty under Article 280 is to recommend the allocation of shared tax revenues between the Union and States.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The National Commission for Scheduled Castes submits its annual report directly to whom?",
+    "hi": "राष्ट्रीय अनुसूचित जाति आयोग अपनी वार्षिक रिपोर्ट सीधे किसे सौंपता है?",
+    "oEn": ["The Prime Minister", "The Parliament", "The President", "The Ministry of Social Justice"],
+    "oHi": ["प्रधानमंत्री", "संसद", "राष्ट्रपति", "सामाजिक न्याय मंत्रालय"],
+    "c": 2,
+    "exp": "The National Commission for Scheduled Castes (NCSC) presents its annual report directly to the President of India.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "The expenses of the Union Public Service Commission are charged upon which fund?",
+    "hi": "संघ लोक सेवा आयोग (UPSC) के खर्चे किस निधि पर भारित होते हैं?",
+    "oEn": ["Contingency Fund of India", "Consolidated Fund of India", "Public Accounts of India", "Sinking Fund"],
+    "oHi": ["भारत की आकस्मिकता निधि", "भारत की संचित निधि", "भारत का सार्वजनिक खाता", "शोधन निधि"],
+    "c": 1,
+    "exp": "Article 322 states that the expenses of the UPSC, including salaries, allowances, and pensions, shall be charged on the Consolidated Fund of India.",
+    "Pyq": "SSC_CHSL_2022"
+  },
+  {
+    "en": "Who can dissolve the Election Commission from being a multi-member body back to a single-member body?",
+    "hi": "निर्वाचन आयोग को बहु-सदस्यीय निकाय से पुनः एक-सदस्यीय निकाय में बदलने की शक्ति किसमें निहित है?",
+    "oEn": ["The Parliament", "The Supreme Court", "The President", "The Chief Election Commissioner"],
+    "oHi": ["संसद", "सर्वोच्च न्यायालय", "राष्ट्रपति", "मुख्य चुनाव आयुक्त"],
+    "c": 2,
+    "exp": "The President has the power to fix the number of Election Commissioners under Article 324(2), thereby regulating its structure.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following bodies is NOT a constitutional body?",
+    "hi": "निम्नलिखित में से कौन सा निकाय एक संवैधानिक निकाय नहीं है?",
+    "oEn": ["National Commission for Scheduled Tribes", "Finance Commission", "National Human Rights Commission", "Comptroller and Auditor General"],
+    "oHi": ["राष्ट्रीय अनुसूचित जनजाति आयोग", "वित्त आयोग", "राष्ट्रीय मानव अधिकार आयोग", "नियंत्रक और महालेखा परीक्षक"],
+    "c": 2,
+    "exp": "The National Human Rights Commission (NHRC) is a statutory body created by an Act of Parliament in 1993, not mentioned in the Constitution.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "The legal advisor to a State Government is called what?",
+    "hi": "राज्य सरकार के कानूनी सलाहकार को क्या कहा जाता है?",
+    "oEn": ["Attorney General", "Solicitor General", "Advocate General", "Public Prosecutor"],
+    "oHi": ["महान्यायवादी", "सॉलिपसिटर जनरल", "महाधिवक्ता", "लोक अभियोजक"],
+    "c": 2,
+    "exp": "The Advocate General is the highest law officer of a state, responsible for giving legal advice to the state government.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "How many members including the Chairman are there in the Finance Commission?",
+    "hi": "वित्त आयोग में अध्यक्ष सहित कुल कितने सदस्य होते हैं?",
+    "oEn": ["3", "4", "5", "6"],
+    "oHi": ["3", "4", "5", "6"],
+    "c": 2,
+    "exp": "The Finance Commission consists of a Chairman and four other members appointed by the President (Total 5 members).",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Which of the following statements about the Attorney General for India is correct?",
+    "hi": "भारत के महान्यायवादी के संबंध में निम्नलिखित में से कौन सा कथन सही है?",
+    "oEn": ["He must be a member of Parliament", "He has the right of audience in all courts in India", "He receives a fixed salary from the Consolidated Fund", "His term is fixed for 5 years"],
+    "oHi": ["उन्हें संसद का सदस्य होना चाहिए", "उन्हें भारत के सभी न्यायालयों में सुनवाई का अधिकार है", "उन्हें संचित निधि से एक निश्चित वेतन मिलता है", "उनका कार्यकाल 5 वर्ष के लिए निश्चित है"],
+    "c": 1,
+    "exp": "Article 76(3) states that in the performance of his duties, the Attorney General shall have the right of audience in all courts in the territory of India.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who can be removed from office through a process identical to that of a Supreme Court Judge?",
+    "hi": "किसे सर्वोच्च न्यायालय के न्यायाधीश के समान प्रक्रिया के माध्यम से पद से हटाया जा सकता है?",
+    "oEn": ["The Attorney General of India", "The Comptroller and Auditor General", "The Governor of a State", "The Solicitor General of India"],
+    "oHi": ["भारत के महान्यायवादी", "नियंत्रक और महालेखा परीक्षक", "राज्य के राज्यपाल", "भारत के सॉलिसिटर जनरल"],
+    "c": 1,
+    "exp": "The CAG and the Chief Election Commissioner (CEC) can only be removed from office in like manner and on the like grounds as a Judge of the Supreme Court.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "The Special Officer for Linguistic Minorities falls under which Part of the Indian Constitution?",
+    "hi": "भाषाई अल्पसंख्यकों के लिए विशेष अधिकारी भारतीय संविधान के किस भाग के अंतर्गत आता है?",
+    "oEn": ["Part XIV", "Part XVI", "Part XVII", "Part XVIII"],
+    "oHi": ["भाग XIV", "भाग XVI", "भाग XVII", "भाग XVIII"],
+    "c": 2,
+    "exp": "Article 350B is included in Part XVII of the Constitution, which deals with Official Languages.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which article deals with the power of the CAG to audit the accounts of the Union and the States?",
+    "hi": "कौन सा अनुच्छेद संघ और राज्यों के खातों के ऑडिट करने की CAG की शक्ति से संबंधित है?",
+    "oEn": ["Article 148", "Article 149", "Article 150", "Article 151"],
+    "oHi": ["अनुच्छेद 148", "अनुच्छेद 149", "अनुच्छेद 150", "अनुच्छेद 151"],
+    "c": 1,
+    "exp": "Article 149 deals with the duties and powers of the Comptroller and Auditor General of India.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The Chairman of the Joint Public Service Commission (JSPSC) for two or more states is appointed by whom?",
+    "hi": "दो या दो से अधिक राज्यों के लिए संयुक्त लोक सेवा आयोग (JSPSC) के अध्यक्ष की नियुक्ति किसके द्वारा की जाती है?",
+    "oEn": ["The Governors of the concerned states jointly", "The President of India", "The Prime Minister of India", "The Chief Justice of India"],
+    "oHi": ["संबंधित राज्यों के राज्यपालों द्वारा संयुक्त रूप से", "भारत के राष्ट्रपति", "भारत के प्रधानमंत्री", "भारत के मुख्य न्यायाधीश"],
+    "c": 1,
+    "exp": "A Joint Public Service Commission is a statutory body, but its Chairman and members are appointed by the President of India.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "What is the age of retirement for a member of the State Public Service Commission?",
+    "hi": "राज्य लोक सेवा आयोग के सदस्य की सेवानिवृत्ति की आयु कितनी होती है?",
+    "oEn": ["60 years", "62 years", "65 years", "58 years"],
+    "oHi": ["60 वर्ष", "62 वर्ष", "65 वर्ष", "58 वर्ष"],
+    "c": 1,
+    "exp": "Members of a State PSC hold office for a term of 6 years or until they attain the age of 62 years, whichever is earlier (changed from 60 by the 41st Amendment).",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which Article provides for the State Finance Commission to review the financial position of Panchayats?",
+    "hi": "Panchayats की वित्तीय स्थिति की समीक्षा के लिए राज्य वित्त आयोग का प्रावधान कौन सा अनुच्छेद करता है?",
+    "oEn": ["Article 243-I", "Article 243-K", "Article 243-O", "Article 243-Z"],
+    "oHi": ["अनुच्छेद 243-I", "अनुच्छेद 243-K", "अनुच्छेद 243-O", "अनुच्छेद 243-Z"],
+    "c": 0,
+    "exp": "Article 243-I mandates the Governor of a State to constitute a Finance Commission every five years to review the financial position of the Panchayats.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The State Election Commission conducts elections for which of the following?",
+    "hi": "राज्य निर्वाचन आयोग निम्नलिखित में से किसके लिए चुनाव आयोजित कराता है?",
+    "oEn": ["State Legislative Assembly", "State Legislative Council", "Panchayats and Municipalities", "Lok Sabha"],
+    "oHi": ["राज्य विधानसभा", "राज्य विधान परिषद", "पंचायत और नगरपालिकाएँ", "लोक सभा"],
+    "c": 2,
+    "exp": "The State Election Commission is constitutionalized via Article 243K specifically to conduct elections to rural and urban local bodies.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Who prepares the National Electoral Roll in India?",
+    "hi": "भारत में राष्ट्रीय मतदाता सूची कौन तैयार करता है?",
+    "oEn": ["Ministry of Home Affairs", "The Parliament", "The Election Commission of India", "State Election Commissions"],
+    "oHi": ["गृह मंत्रालय", "संसद", "भारत का निर्वाचन आयोग", "राज्य निर्वाचन आयोग"],
+    "c": 2,
+    "exp": "The Election Commission of India is responsible for preparing and updating the electoral rolls for Parliament and State Legislature elections.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The constitutional provision for the National Commission for Backward Classes is under which Part?",
+    "hi": "राष्ट्रीय पिछड़ा वर्ग आयोग का संवैधानिक प्रावधान किस भाग के अंतर्गत है?",
+    "oEn": ["Part XIV", "Part XV", "Part XVI", "Part XVII"],
+    "oHi": ["भाग XIV", "भाग XV", "भाग XVI", "भाग XVII"],
+    "c": 2,
+    "exp": "Article 338B falls under Part XVI of the Indian Constitution, which deals with Special Provisions Relating to Certain Classes.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who is eligible to be appointed as the Chairman of the Official Language Commission under Article 344?",
+    "hi": "अनुच्छेद 344 के तहत राजभाषा आयोग के अध्यक्ष के रूप में नियुक्त होने के लिए कौन पात्र है?",
+    "oEn": ["The Prime Minister", "A person distinguished in public life and languages, appointed by the President", "The Chief Justice of India", "The Home Minister"],
+    "oHi": ["प्रधानमंत्री", "सार्वजनिक जीवन और भाषाओं में विशिष्ट व्यक्ति, राष्ट्रपति द्वारा नियुक्त", "भारत के मुख्य न्यायाधीश", "गृह मंत्री"],
+    "c": 1,
+    "exp": "Article 344 empowers the President to constitute a commission consisting of a Chairman and other members representing different languages specified in the Eighth Schedule.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "The reports of the Comptroller and Auditor General relating to the accounts of a State are submitted to whom?",
+    "hi": "किसी राज्य के खातों से संबंधित नियंत्रक और महालेखा परीक्षक की रिपोर्ट किसे सौंपी जाती है?",
+    "oEn": ["The President of India", "The Governor of the State", "The Chief Minister", "The Speaker of the State Assembly"],
+    "oHi": ["भारत के राष्ट्रपति", "राज्य के राज्यपाल", "मुख्यमंत्री", "राज्य विधानसभा के अध्यक्ष"],
+    "c": 1,
+    "exp": "Under Article 151(2), the reports of the CAG relating to the accounts of a State are submitted to the Governor of the State, who causes them to be laid before the Legislature.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which constitutional body is tasked with checking the financial validity of public expenditure on behalf of the Parliament?",
+    "hi": "संसद की ओर से सार्वजनिक व्यय की वित्तीय वैधता की जांच करने का कार्य किस संवैधानिक निकाय को सौंपा गया है?",
+    "oEn": ["Finance Commission", "NITI Aayog", "Comptroller and Auditor General", "Estimates Committee"],
+    "oHi": ["वित्त आयोग", "नीति आयोग", "नियंत्रक और महालेखा परीक्षक", "प्राकलन समिति"],
+    "c": 2,
+    "exp": "The CAG acts as the agent of the Parliament and conducts audit of expenditure on behalf of the Parliament, ensuring accountability.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "The recommendation of the Finance Commission is of what nature?",
+    "hi": "वित्त आयोग की सिफारिशों की प्रकृति कैसी होती है?",
+    "oEn": ["Binding on the Government", "Advisory only", "Subject to Supreme Court approval", "Binding if passed by a majority of States"],
+    "oHi": ["सरकार पर बाध्यकारी", "केवल सलाहकारी", "सर्वोच्च न्यायालय की मंजूरी के अधीन", "बाध्यकारी यदि अधिकांश राज्यों द्वारा पारित हो"],
+    "c": 1,
+    "exp": "The recommendations made by the Finance Commission are only advisory in nature and not binding on the Union Government.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Can the Attorney General of India be private legal practitioner while holding office?",
+    "hi": "क्या भारत के महान्यायवादी पद पर रहते हुए निजी कानूनी प्रैक्टिस कर सकते हैं?",
+    "oEn": ["No, it is strictly prohibited", "Yes, as he is not a full-time government servant", "Yes, but only with Supreme Court's permission", "No, except for teaching purposes"],
+    "oHi": ["नहीं, यह पूरी तरह से प्रतिबंधित है", "हाँ, क्योंकि वह पूर्णकालिक सरकारी सेवक नहीं हैं", "हाँ, लेकिन केवल सर्वोच्च न्यायालय की अनुमति से", "नहीं, केवल शिक्षण उद्देश्यों को छोड़कर"],
+    "c": 1,
+    "exp": "The Attorney General is not debarred from private legal practice as he is not a full-time government employee, but he cannot advise against the Government of India.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Under Article 338, the National Commission for Scheduled Castes consists of a Chairperson, a Vice-Chairperson and how many other members?",
+    "hi": "अनुच्छेद 338 के तहत, राष्ट्रीय अनुसूचित जाति आयोग में एक अध्यक्ष, एक उपाध्यक्ष और कितने अन्य सदस्य होते हैं?",
+    "oEn": ["Two", "Three", "Four", "Five"],
+    "oHi": ["दो", "तीन", "चार", "पांच"],
+    "c": 1,
+    "exp": "The Commission consists of a Chairperson, a Vice-Chairperson, and three other members appointed by the President.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Which constitutional body governs the administrative control and recruitment rules for elections, independently from the Executive?",
+    "hi": "कार्यपालिका से स्वतंत्र होकर चुनावों के लिए प्रशासनिक नियंत्रण और भर्ती नियमों को कौन सा संवैधानिक निकाय संचालित करता है?",
+    "oEn": ["UPSC", "The Ministry of Law", "The Election Commission of India", "The Delimitation Commission"],
+    "oHi": ["UPSC", "कानून मंत्रालय", "भारत का निर्वाचन आयोग", "परिसीमन आयोग"],
+    "c": 2,
+    "exp": "Article 324(6) ensures that the President or Governor provides necessary staff to the Election Commission to ensure its completely independent functioning.",
+    "Pyq": "SSC_CGL_2024"
+  }
+]
