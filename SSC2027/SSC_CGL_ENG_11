@@ -28,7 +28,7 @@
     "oEn": [
       "CBAD",
       "CABD",
-      "Cbad",
+      "CDAB",
       "BACD"
     ],
     "c": 0,
@@ -52,7 +52,8 @@
     "oEn": [
       "BCAD",
       "BCDA",
-      "BACD"
+      "BACD",
+      "ABCD"
     ],
     "c": 0,
     "exp": "'B' introduces the philosophical premise of scientific progress. 'C' links directly to the 'continuous errors' mentioned in B by elaborating on 'Each failure'. 'A' warns against the wrong way of handling failures (retrying without modifying variables). 'D' closes with a logical conclusion ('Therefore, analyzing anomalies...'). Sequence: BCAD.",
@@ -121,13 +122,13 @@
   {
     "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Such a sudden spike in demand can severely deplete local groundwater resources within a few weeks.\n**B.** During peak summer months, metropolitan cities face an acute, widespread water crisis.\n**C.** Consequently, civic bodies are forced to deploy private water tankers to fulfill baseline household requirements.\n**D.** As temperatures soar, households drastically increase their daily water consumption for cooling and hygiene.",
     "oEn": [
-      "BDAA",
+      "BCAD",
       "BDAC",
       "BDCA",
       "BADC"
     ],
     "c": 1,
-    "exp": "'B' opens with the main problem statement (metropolitan cities facing water crises during peak summer). 'D' connects to the summer timeline ('As temperatures soar...') and explains consumer behavior. 'A' points directly to the result of that behavior ('Such a sudden spike in demand...'). 'E' or 'C' completes the sequence by showing the administrative reaction ('Consequently...'). Sequence: BDAC.",
+    "exp": "'B' opens with the main problem statement (metropolitan cities facing water crises during peak summer). 'D' connects to the summer timeline ('As temperatures soar...') and explains consumer behavior. 'A' points directly to the result of that behavior ('Such a sudden spike in demand...'). 'C' completes the sequence by showing the administrative reaction ('Consequently...'). Sequence: BDAC.",
     "Pyq": "TCS Socio-Economic Trend"
   },
   {
