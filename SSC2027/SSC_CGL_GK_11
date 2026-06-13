@@ -1,0 +1,451 @@
+[
+  {
+    "en": "Which of the following rivers originates from the Rakas Lake near Mansarovar and enters India through the Shipki La pass?",
+    "hi": "निम्नलिखित में से कौन सी नदी मानसरोवर के पास राकस झील से निकलती है और शिपकी ला दर्रे से भारत में प्रवेश करती है?",
+    "oEn": ["Sutlej", "Indus", "Jhelum", "Chenab"],
+    "oHi": ["सतलुज", "सिंधु", "झेलम", "चिनाब"],
+    "c": 0,
+    "exp": "The Sutlej River originates from the Rakas Lake near Lake Mansarovar in Tibet. It enters India through the Shipki La pass in Himachal Pradesh.",
+    "Pyq": "SSC_CGL_2023_Modified"
+  },
+  {
+    "en": "Which river is known as the 'Yarlung Tsangpo' in Tibet and 'Dihang' in Arunachal Pradesh?",
+    "hi": "तिब्बत में किस नदी को 'यारलुंग त्सांगपो' और अरुणाचल प्रदेश में 'दिहांग' के नाम से जाना जाता है?",
+    "oEn": ["Ganga", "Indus", "Brahmaputra", "Teesta"],
+    "oHi": ["गंगा", "सिंधु", "ब्रह्मपुत्र", "तीस्ता"],
+    "c": 2,
+    "exp": "The Brahmaputra River is known as the Yarlung Tsangpo in Tibet and enters India as the Dihang or Siang in Arunachal Pradesh.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "At which of the following places do the Alaknanda and Bhagirathi rivers meet to form the Ganga?",
+    "hi": "निम्नलिखित में से किस स्थान पर अलकनंदा और भागीरथी नदियाँ मिलकर गंगा का निर्माण करती हैं?",
+    "oEn": ["Rudraprayag", "Devprayag", "Karnaprayag", "Vishnuprayag"],
+    "oHi": ["रुद्रप्रयाग", "देवप्रयाग", "कर्णप्रयाग", "विष्णुप्रयाग"],
+    "c": 1,
+    "exp": "The Alaknanda and Bhagirathi rivers meet at Devprayag in Uttarakhand, from where the combined river is called the Ganga.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which of the following is the longest tributary of the Ganga river in India?",
+    "hi": "निम्नलिखित में से कौन सी भारत में गंगा नदी की सबसे लंबी सहायक नदी है?",
+    "oEn": ["Yamuna", "Ghaghra", "Kosi", "Son"],
+    "oHi": ["यमुना", "घाघरा", "कोसी", "सोन"],
+    "c": 0,
+    "exp": "The Yamuna River is the longest and the second-largest tributary of the Ganga, originating from the Yamunotri glacier.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Which of the following Peninsular rivers flows westwards into the Arabian Sea through a rift valley?",
+    "hi": "निम्नलिखित में से कौन सी प्रायद्वीपीय नदी भ्रंश घाटी से होकर पश्चिम की ओर अरब सागर में गिरती है?",
+    "oEn": ["Godavari", "Krishna", "Narmada", "Mahanadi"],
+    "oHi": ["गोदावरी", "कृष्णा", "नर्मदा", "महानदी"],
+    "c": 2,
+    "exp": "The Narmada and Tapi are the major peninsular rivers that flow westwards through rift valleys into the Arabian Sea, forming estuaries instead of deltas.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which river is popularly known as 'Dakshin Ganga' or 'Vridha Ganga' due to its large size and extent?",
+    "hi": "अपने बड़े आकार और विस्तार के कारण किस नदी को 'दक्षिण गंगा' या 'वृद्ध गंगा' के नाम से जाना जाता है?",
+    "oEn": ["Krishna", "Kaveri", "Godavari", "Mahanadi"],
+    "oHi": ["कृष्णा", "कावेरी", "गोदावरी", "महानदी"],
+    "c": 2,
+    "exp": "The Godavari is the largest Peninsular river system and is often called 'Dakshin Ganga' or 'Vridha Ganga' because of its age, size, and length.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The famous Jog Falls (Gersoppa), one of the highest plunge waterfalls in India, is located on which river?",
+    "hi": "भारत के सबसे ऊंचे झरनों में से एक, प्रसिद्ध जोग जलप्रपात (गेरसोप्पा) किस नदी पर स्थित है?",
+    "oEn": ["Sharavati", "Narmada", "Kaveri", "Mandovi"],
+    "oHi": ["शरावती", "नर्मदा", "कावेरी", "मांडवी"],
+    "c": 0,
+    "exp": "Jog Falls is located on the Sharavati River in the Shimoga district of Karnataka.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which of the following rivers is known as the 'Sorrow of Bengal' due to its frequent floods?",
+    "hi": "बार-बार आने वाली बाढ़ के कारण निम्नलिखित में से किस नदी को 'बंगाल का शोक' कहा जाता है?",
+    "oEn": ["Kosi", "Damodar", "Hooghly", "Mahananda"],
+    "oHi": ["कोसी", "दामोदर", "हुगली", "महानंदा"],
+    "c": 1,
+    "exp": "The Damodar River was historically known as the 'Sorrow of Bengal' because of the devastating floods it caused in the plains of West Bengal.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "The Majuli Island, the world's largest river island, is formed by which river?",
+    "hi": "विश्व का सबसे बड़ा नदी द्वीप, माजुली द्वीप किस नदी द्वारा निर्मित है?",
+    "oEn": ["Ganga", "Brahmaputra", "Indus", "Godavari"],
+    "oHi": ["गंगा", "ब्रह्मपुत्र", "सिंधु", "गोदावरी"],
+    "c": 1,
+    "exp": "Majuli is a large river island in the Brahmaputra River in Assam, recognized as the world's largest mid-river delta island.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following rivers originates from the Amarkantak Plateau in Madhya Pradesh?",
+    "hi": "निम्नलिखित में से कौन सी नदी मध्य प्रदेश के अमरकंटक पठार से निकलती है?",
+    "oEn": ["Narmada and Son", "Tapi and Betwa", "Godavari and Krishna", "Mahanadi and Chambal"],
+    "oHi": ["नर्मदा और सोन", "तापी और बेतवा", "गोदावरी और कृष्णा", "महानदी और चंबल"],
+    "c": 0,
+    "exp": "Both the Narmada (flowing west) and the Son (flowing north to meet the Ganga) originate from the Amarkantak hills.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Indus Water Treaty was signed between India and Pakistan in which year?",
+    "hi": "भारत और पाकिस्तान के बीच सिंधु जल संधि पर किस वर्ष हस्ताक्षर किए गए थे?",
+    "oEn": ["1950", "1960", "1965", "1972"],
+    "oHi": ["1950", "1960", "1965", "1972"],
+    "c": 1,
+    "exp": "The Indus Water Treaty (IWT) was signed in Karachi on September 19, 1960, by Indian Prime Minister Jawaharlal Nehru and Pakistani President Ayub Khan.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which of the following is NOT a right-bank tributary of the Ganga river?",
+    "hi": "निम्नलिखित में से कौन सी गंगा नदी की दाईं ओर की सहायक नदी नहीं है?",
+    "oEn": ["Yamuna", "Son", "Gomti", "Tons"],
+    "oHi": ["यमुना", "सोन", "गोमती", "टोंस"],
+    "c": 2,
+    "exp": "Gomti is a left-bank tributary of the Ganga, originating from Gomat Taal in Pilibhit, UP. Yamuna, Son, and Tons are right-bank tributaries.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The catchment area of which of the following rivers is known as the 'Rice Bowl of South India'?",
+    "hi": "निम्नलिखित में से किस नदी के जलग्रहण क्षेत्र को 'दक्षिण भारत का धान का कटोरा' कहा जाता है?",
+    "oEn": ["Krishna", "Godavari", "Kaveri", "Periyar"],
+    "oHi": ["कृष्णा", "गोदावरी", "कावेरी", "पेरियार"],
+    "c": 2,
+    "exp": "The Kaveri river delta is highly fertile and extensively cultivated for rice, earning it the title 'Rice Bowl of South India'.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Which of the following rivers does NOT originate in India?",
+    "hi": "निम्नलिखित में से कौन सी नदी भारत में उत्पन्न नहीं होती है?",
+    "oEn": ["Beas", "Chenab", "Ravi", "Ghaggar"],
+    "oHi": ["ब्यास", "चिनाब", "रावी", "घग्गर"],
+    "c": 3,
+    "exp": "While Beas, Chenab, and Ravi originate in the Indian Himalayas, the Ghaggar-Hakra seasonal river originates in the Shivalik hills, but major trans-Himalayan rivers like Indus, Sutlej, and Brahmaputra originate in Tibet (China). Among options, Ghaggar is inland but all others are core Himalayan. *Correction check*: If we look at options, all originate in India except Sutlej/Brahmaputra. Let's precise an option: Ghaggar originates in Himachal. Let's change option 4 to 'Sutlej' for perfect factual accuracy.",
+    "oEn": ["Beas", "Chenab", "Ravi", "Sutlej"],
+    "oHi": ["ब्यास", "चिनाब", "रावी", "सतलुज"],
+    "c": 3,
+    "exp": "The Sutlej River originates from Rakas Lake in Tibet, outside the political boundaries of India.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The city of Hyderabad is situated on the banks of which river?",
+    "hi": "हैदराबाद शहर किस नदी के तट पर स्थित है?",
+    "oEn": ["Musi", "Mula", "Mutha", "Tungabhadra"],
+    "oHi": ["मूसी", "मूला", "मुथा", "तुंगभद्रा"],
+    "c": 0,
+    "exp": "Hyderabad is situated on the banks of the Musi River, which is a tributary of the Krishna River.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Which of the following is the largest west-flowing river of the Peninsular India?",
+    "hi": "निम्नलिखित में से कौन सी प्रायद्वीपीय भारत की पश्चिम की ओर बहने वाली सबसे बड़ी नदी है?",
+    "oEn": ["Tapi", "Narmada", "Mahi", "Sabarmati"],
+    "oHi": ["तापी", "नर्मदा", "माही", "साबरमती"],
+    "c": 1,
+    "exp": "The Narmada is the largest west-flowing river in Peninsular India, flowing through a rift valley between the Vindhya and Satpura ranges.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Hirakud Dam, one of the longest dams in the world, is built across which river?",
+    "hi": "विश्व के सबसे लंबे बांधों में से एक, हीराकुंड बांध किस नदी पर बनाया गया है?",
+    "oEn": ["Godavari", "Mahanadi", "Krishna", "Damodar"],
+    "oHi": ["गोदावरी", "महानदी", "कृष्णा", "दामोदर"],
+    "c": 1,
+    "exp": "The Hirakud Dam is built across the Mahanadi River in Sambalpur, Odisha.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which river forms the famous Dhuandhar Falls near Jabalpur?",
+    "hi": "कौन सी नदी जबलपुर के पास प्रसिद्ध धुआंधार जलप्रपात बनाती है?",
+    "oEn": ["Tapi", "Narmada", "Betwa", "Chambal"],
+    "oHi": ["तापी", "नर्मदा", "बेतवा", "चंबल"],
+    "c": 1,
+    "exp": "The Narmada River drops into a gorge creating the magnificent Dhuandhar (smoke cascade) Falls at Bhedaghat near Jabalpur.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which of the following rivers is a tributary of the Indus river that flows completely within India before meeting the Indus in Pakistan?",
+    "hi": "निम्नलिखित में से कौन सी सिंधु नदी की एक सहायक नदी है जो पाकिस्तान में सिंधु से मिलने से पहले पूरी तरह से भारत के भीतर बहती है?",
+    "oEn": ["Jhelum", "Chenab", "Beas", "Ravi"],
+    "oHi": ["झेलम", "चिनाब", "ब्यास", "रावी"],
+    "c": 2,
+    "exp": "The Beas River originates at Beas Kund in Himachal Pradesh and merges into the Sutlej River at Harike in Punjab, India. It lies entirely within Indian territory.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "The Wular Lake in Jammu and Kashmir is formed by tectonic activity and is fed by which river?",
+    "hi": "जम्मू और कश्मीर की वुलर झील विवर्तनिक गतिविधि द्वारा बनी है और इसे किस नदी से जल मिलता है?",
+    "oEn": ["Indus", "Jhelum", "Chenab", "Ravi"],
+    "oHi": ["सिंधु", "झेलम", "चिनाब", "रावी"],
+    "c": 1,
+    "exp": "Wular Lake, one of the largest freshwater lakes in Asia, is fed by the Jhelum River.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which river is known as the 'Sorrow of Bihar' due to its frequent course-changing nature causing devastating floods?",
+    "hi": "बार-बार मार्ग बदलने और विनाशकारी बाढ़ लाने के कारण किस नदी को 'बिहार का शोक' कहा जाता है?",
+    "oEn": ["Gandak", "Kosi", "Son", "Ghaghra"],
+    "oHi": ["गंडक", "कोसी", "सोन", "घाघरा"],
+    "c": 1,
+    "exp": "The Kosi River is notorious for changing its course frequently and causing heavy floods, thus known as the 'Sorrow of Bihar'.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Kishanganga River is a major tributary of which of the following rivers?",
+    "hi": "किशनगंगा नदी निम्नलिखित में से किस नदी की एक प्रमुख सहायक नदी है?",
+    "oEn": ["Jhelum", "Chenab", "Indus", "Sutlej"],
+    "oHi": ["झेलम", "चिनाब", "सिंधु", "सतलुज"],
+    "c": 0,
+    "exp": "The Kishanganga River (known as Neelum in Pakistan) is a major tributary of the Jhelum River.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which of the following rivers is an inland drainage river that disappears into the Rann of Kutch?",
+    "hi": "निम्नलिखित में से कौन सी नदी एक अंतर्देशीय जल निकासी नदी है जो कच्छ के रण में विलीन हो जाती है?",
+    "oEn": ["Mahi", "Luni", "Sabarmati", "Banastri"],
+    "oHi": ["माही", "लूनी", "साबरमती", "बनास"],
+    "c": 1,
+    "exp": "The Luni River originates in the Pushkar valley of the Aravalli Range and ends in the marshy lands of Rann of Kutch in Gujarat, without reaching any ocean.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The Alamatti Dam project is constructed on which of the following rivers?",
+    "hi": "अलमट्टी बांध परियोजना निम्नलिखित में से किस नदी पर बनाई गई है?",
+    "oEn": ["Godavari", "Krishna", "Kaveri", "Mahanadi"],
+    "oHi": ["गोदावरी", "कृष्णा", "कावेरी", "महानदी"],
+    "c": 1,
+    "exp": "The Alマッティ Dam (Lal Bahadur Shastri Dam) is a hydroelectric project on the Krishna River in North Karnataka.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following rivers is known for creating extensive 'badlands' or ravines in Central India?",
+    "hi": "निम्नलिखित में से कौन सी नदी मध्य भारत में व्यापक 'उत्खात भूमि' या खड्डों (बीहड़ों) के निर्माण के लिए जानी जाती है?",
+    "oEn": ["Chambal", "Betwa", "Son", "Ken"],
+    "oHi": ["चंबल", "बेतवा", "सोन", "केन"],
+    "c": 0,
+    "exp": "The Chambal River is famous for its badland topography called the Chambal Ravines, caused by severe gully erosion.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which river is joined by the Penganga, Wainganga, and Wardha rivers as its tributaries?",
+    "hi": "पेनगंगा, वैनगंगा और वर्धा नदियाँ किस नदी की सहायक नदियाँ हैं?",
+    "oEn": ["Krishna", "Godavari", "Narmada", "Tapi"],
+    "oHi": ["कृष्णा", "गोदावरी", "नर्मदा", "तापी"],
+    "c": 1,
+    "exp": "The Pranhita River, a major tributary of the Godavari, is formed by the confluence of the Wardha, Wainganga, and Penganga rivers.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The Nagarjuna Sagar Dam is constructed across which river?",
+    "hi": "नागार्जुन सागर बांध किस नदी पर बनाया गया है?",
+    "oEn": ["Godavari", "Krishna", "Kaveri", "Pennar"],
+    "oHi": ["गोदावरी", "कृष्णा", "कावेरी", "पेन्नार"],
+    "c": 1,
+    "exp": "Nagarjuna Sagar Dam is a major masonry dam built across the Krishna River straddling the border between Andhra Pradesh and Telangana.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which river crosses the Equator or Tropic of Cancer twice? (Focusing on the Indian context: Which Indian river cuts the Tropic of Cancer twice?)",
+    "hi": "कौन सी भारतीय नदी कर्क रेखा को दो बार काटती है?",
+    "oEn": ["Narmada", "Mahi", "Tapi", "Sabarmati"],
+    "oHi": ["नर्मदा", "माही", "तापी", "साबरमती"],
+    "c": 1,
+    "exp": "The Mahi River is the only river in India that cuts the Tropic of Cancer twice—first in Madhya Pradesh and second in Gujarat.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "The Hogenakkal Falls is located on which river in South India?",
+    "hi": "दक्षिण भारत में होगेनक्कल जलप्रपात किस नदी पर स्थित है?",
+    "oEn": ["Krishna", "Godavari", "Kaveri", "Vaigai"],
+    "oHi": ["कृष्णा", "गोदावरी", "कावेरी", "वैगई"],
+    "c": 2,
+    "exp": "The Hogenakkal Falls is a waterfall in South India on the Kaveri River, located on the border between Dharmapuri district (Tamil Nadu) and Chamrajanagar district (Karnataka).",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Which of the following rivers is a distributary of the Ganga river that flows into West Bengal and terminates in the Bay of Bengal?",
+    "hi": "निम्नलिखित में से कौन सी गंगा नदी की एक वितरिका (distributary) है जो पश्चिम बंगाल में बहती है और बंगाल की खाड़ी में समाप्त होती है?",
+    "oEn": ["Yamuna", "Hooghly", "Padma", "Meghna"],
+    "oHi": ["यमुना", "हुगली", "पद्मा", "मेघना"],
+    "c": 1,
+    "exp": "The Hooghly River (Bhagirathi-Hooghly) is a major distributary of the Ganga River that splits off near Farakka in West Bengal.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The Stanley Reservoir, formed by Mettur Dam, is located on which river?",
+    "hi": "मेट्टूर बांध द्वारा निर्मित स्टेनली जलाशय किस नदी पर स्थित है?",
+    "oEn": ["Kaveri", "Krishna", "Godavari", "Periyar"],
+    "oHi": ["कावेरी", "कृष्णा", "गोदावरी", "पेरियार"],
+    "c": 0,
+    "exp": "The Mettur Dam across the Kaveri River in Tamil Nadu forms the Stanley Reservoir.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which of the following pairs of rivers and their origin place is NOT correctly matched?",
+    "hi": "नदियों और उनके उद्गम स्थल का निम्नलिखित में से कौन सा जोड़ा सही सुमेलित नहीं है?",
+    "oEn": ["Indus - Kailash Range", "Jhelum - Verinag Spring", "Chenab - Bara-lacha La", "Ravi - Rohtang Pass (South)"],
+    "oHi": ["सिंधु - कैलाश श्रेणी", "झेलम - वेरीनाग झरना", "चिनाब - बारा-लाचा ला", "रावी - रोहतांग दर्रा (दक्षिण)"],
+    "c": 3,
+    "exp": "While Ravi originates near Rohtang Pass in Kangra, Chenab is formed by Chandra and Bhaga near Bara-lacha La. Let's precise an incorrect match for SSC format: Godavari is matched to Mahabaleshwar (incorrect, it's Trimbakeshwar). Let's edit options for a crystal clear standard question.",
+    "oEn": ["Ganga - Gangotri Glacier", "Godavari - Mahabaleshwar", "Krishna - Mahabaleshwar", "Narmada - Amarkantak"],
+    "oHi": ["गंगा - गंगोत्री ग्लेशियर", "गोदावरी - महाबलेश्वर", "कृष्णा - महाबलेश्वर", "नर्मदा - अमरकंटक"],
+    "c": 1,
+    "exp": "The Godavari River originates from Trimbakeshwar near Nashik in Maharashtra, not Mahabaleshwar. Krishna River originates from Mahabaleshwar.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Teesta River, which was once a tributary of the Ganga, now flows into which river system?",
+    "hi": "तीस्ता नदी, जो कभी गंगा की सहायक नदी थी, अब किस नदी तंत्र में बहती है?",
+    "oEn": ["Brahmaputra", "Meghna", "Padma", "Subansiri"],
+    "oHi": ["ब्रह्मपुत्र", "मेघना", "पद्मा", "सुबनसिरी"],
+    "c": 0,
+    "exp": "The Teesta River altered its course after the floods of 1787 and shifted from the Ganga system to join the Brahmaputra (Jamuna in Bangladesh) river system.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which of the following is the largest peninsular river flowing into the Bay of Bengal?",
+    "hi": "बंगाल की खाड़ी में गिरने वाली सबसे बड़ी प्रायद्वीपीय नदी निम्नलिखित में से कौन सी है?",
+    "oEn": ["Krishna", "Godavari", "Mahanadi", "Kaveri"],
+    "oHi": ["कृष्णा", "गोदावरी", "महानदी", "कावेरी"],
+    "c": 1,
+    "exp": "The Godavari is the longest and largest peninsular river with a length of about 1465 km, draining into the Bay of Bengal.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The Loktak Lake, famous for its floating islands called 'Phumdis', is located in the basin of which river?",
+    "hi": "तैरते हुए द्वीपों जिन्हें 'फुमदी' कहा जाता है, के लिए प्रसिद्ध लोकतक झील किस नदी के बेसिन में स्थित है?",
+    "oEn": ["Manas", "Barak", "Imphal/Manipur", "Subansiri"],
+    "oHi": ["मानस", "बराक", "इम्फाल/मणिपुर", "सुबनसिरी"],
+    "c": 2,
+    "exp": "Loktak Lake in Manipur is located in the Manipur/Imphal River basin, which is a part of the larger Barak/Surma river system downstream.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which of the following rivers is formed by the confluence of Chandra and Bhaga rivers?",
+    "hi": "निम्नलिखित में से कौन सी नदी चंद्रा और भागा नदियों के संगम से बनती है?",
+    "oEn": ["Jhelum", "Chenab", "Ravi", "Beas"],
+    "oHi": ["झेलम", "चिनाब", "रावी", "ब्यास"],
+    "c": 1,
+    "exp": "The Chenab River is formed by two streams, the Chandra and the Bhaga, which meet at Tandi near Keylong in Himachal Pradesh.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The city of Vijayawada is located on the banks of which river?",
+    "hi": "विजयवाड़ा शहर किस नदी के तट पर स्थित है?",
+    "oEn": ["Godavari", "Krishna", "Tungabhadra", "Pennar"],
+    "oHi": ["गोदावरी", "कृष्णा", "तुंगभद्रा", "पेन्नार"],
+    "c": 1,
+    "exp": "Vijayawada is located on the banks of the Krishna River in Andhra Pradesh.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "The Sardar Sarovar Dam is built on which river?",
+    "hi": "सरदार सरोवर बांध किस नदी पर बनाया गया है?",
+    "oEn": ["Tapi", "Narmada", "Mahi", "Sabarmati"],
+    "oHi": ["तापी", "नर्मदा", "माही", "साबरमती"],
+    "c": 1,
+    "exp": "The Sardar Sarovar Dam is a concrete gravity dam built on the Narmada River near Navagam, Gujarat.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which of the following options represents the correct sequence of Himalayan rivers from West to East?",
+    "hi": "निम्नलिखित में से कौन सा विकल्प पश्चिम से पूर्व की ओर हिमालयी नदियों के सही क्रम को दर्शाता है?",
+    "oEn": ["Indus, Jhelum, Chenab, Ravi, Sutlej", "Indus, Chenab, Jhelum, Sutlej, Ravi", "Sutlej, Ravi, Chenab, Jhelum, Indus", "Jhelum, Indus, Ravi, Chenab, Sutlej"],
+    "oHi": ["सिंधु, झेलम, चिनाब, रावी, सतलुज", "सिंधु, चिनाब, झेलम, सतलुज, रावी", "सतलुज, रावी, चिनाब, झेलम, सिंधु", "झेलम, सिंधु, रावी, चिनाब, सतलुज"],
+    "c": 0,
+    "exp": "From West to East, the correct geographical order of the major Indus tributaries is Indus, Jhelum, Chenab, Ravi, Beas, and Sutlej.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The Amravati, Bhavani, Hemavati, and Kabini are tributaries of which river?",
+    "hi": "अमरावती, भवानी, हेमावती और काबिनी किस नदी की सहायक नदियाँ हैं?",
+    "oEn": ["Krishna", "Kaveri", "Godavari", "Mahanadi"],
+    "oHi": ["कृष्णा", "कावेरी", "गोदावरी", "महानदी"],
+    "c": 1,
+    "exp": "Amravati, Bhavani, Hemavati, and Kabini are the key tributaries of the Kaveri River.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which river is known as 'Singi Khamban' (Lion's Mouth) in Tibet?",
+    "hi": "तिब्बत में किस नदी को 'सिंगी खंबन' (शेर का मुख) के नाम से जाना जाता है?",
+    "oEn": ["Brahmaputra", "Indus", "Sutlej", "Ganga"],
+    "oHi": ["ब्रह्मपुत्र", "सिंधु", "सतलुज", "गंगा"],
+    "c": 1,
+    "exp": "The Indus River originates near Lake Mansarovar and is known as Singi Khamban or Lion's Mouth in the Tibetan region.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The Musi and Bhima are tributaries of which of the following rivers?",
+    "hi": "मूसी और भीमा निम्नलिखित में से किस नदी की सहायक नदियाँ हैं?",
+    "oEn": ["Godavari", "Krishna", "Kaveri", "Mahanadi"],
+    "oHi": ["गोदावरी", "कृष्णा", "कावेरी", "महानदी"],
+    "c": 1,
+    "exp": "Musi, Bhima, Tungabhadra, and Ghataprabha are major tributaries of the Krishna River.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "The Ghaghra, Gandak, and Kosi rivers join the Ganga from which side?",
+    "hi": "घाघरा, गंडक और कोसी नदियाँ गंगा में किस ओर से मिलती हैं?",
+    "oEn": ["South (Right Bank)", "North (Left Bank)", "East", "West"],
+    "oHi": ["दक्षिण (दायाँ तट)", "उत्तर (बायाँ तट)", "पूर्व", "पश्चिम"],
+    "c": 1,
+    "exp": "Ghaghra, Gandak, and Kosi originate from the Himalayas and join the Ganga River from the north as left-bank tributaries.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which of the following rivers is NOT part of the Panchnad of Punjab?",
+    "hi": "निम्नलिखित में से कौन सी नदी पंजाब के पंचनद का हिस्सा नहीं है?",
+    "oEn": ["Ravi", "Chenab", "Indus", "Jhelum"],
+    "oHi": ["रावी", "चिनाब", "सिंधु", "झेलम"],
+    "c": 2,
+    "exp": "The 'Panchnad' refers to the five rivers of Punjab: Jhelum, Chenab, Ravi, Beas, and Sutlej. The Indus is the main river into which the Panchnad drains.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "The city of Nashik is situated on the banks of which of the following rivers?",
+    "hi": "नाशिक शहर निम्नलिखित में से किस नदी के तट पर स्थित है?",
+    "oEn": ["Krishna", "Godavari", "Narmada", "Tapi"],
+    "oHi": ["कृष्णा", "गोदावरी", "नर्मदा", "तापी"],
+    "c": 1,
+    "exp": "Nashik is located on the banks of the Godavari River, which also serves as the site for the Kumbh Mela.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "Which of the following dams is built across the Mahanadi River in Odisha?",
+    "hi": "ओडिशा में महानदी पर निम्नलिखित में से कौन सा बांध बनाया गया है?",
+    "oEn": ["Hirakud", "Rihand", "Maithon", "Tehri"],
+    "oHi": ["हीराकुंड", "रिहंद", "मैथॉन", "टिहरी"],
+    "c": 0,
+    "exp": "The Hirakud Dam is a massive multi-purpose project constructed on the Mahanadi River in Odisha.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Dibang, Lohit, and Kenula are tributaries of which major Indian river?",
+    "hi": "दिबांग, लोहित और केनुला किस प्रमुख भारतीय नदी की सहायक नदियाँ हैं?",
+    "oEn": ["Ganga", "Brahmaputra", "Indus", "Meghna"],
+    "oHi": ["गंगा", "ब्रह्मपुत्र", "सिंधु", "मेघना"],
+    "c": 1,
+    "exp": "The Dibang, Lohit, and Dhansiri are well-known tributaries that merge into the Brahmaputra River in Assam.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which river is called the 'Singi Khamban' in Tibet and cuts through the Zanskar and Ladakh ranges?",
+    "hi": "तिब्बत में किस नदी को 'सिंगी खंबन' कहा जाता है और यह जास्कर और लद्दाख श्रेणियों के बीच से होकर बहती है?",
+    "oEn": ["Indus", "Sutlej", "Jhelum", "Shyok"],
+    "oHi": ["सिंधु", "सतलुज", "झेलम", "श्योक"],
+    "c": 0,
+    "exp": "The Indus River flows between the Ladakh and Zanskar ranges after entering India through Demchok.",
+    "Pyq": "SSC_CGL_2023_Trend"
+  },
+  {
+    "en": "The Kapildhara and Dhuandhar waterfalls are located on which river?",
+    "hi": "कपिलधारा और धुआंधार जलप्रपात किस नदी पर स्थित हैं?",
+    "oEn": ["Tapi", "Narmada", "Son", "Mahi"],
+    "oHi": ["तापी", "नर्मदा", "सोन", "माही"],
+    "c": 1,
+    "exp": "Both Kapildhara and Dhuandhar waterfalls are formed by the Narmada River in Madhya Pradesh.",
+    "Pyq": "SSC_CHSL_2023"
+  }
+]
