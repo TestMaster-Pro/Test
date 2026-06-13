@@ -1,86 +1,301 @@
 [
   {
-    "en": "Rearrange the given sentences to form a coherent and meaningful paragraph.\n\nP) This structural shifting is why an earthquake's epicenter often exhibits vastly different structural damage than regions situated just a few miles away.\nQ) The Earth's crust is not a singular solid shell, but rather a complex puzzle of massive tectonic plates floating atop the semi-fluid mantle.\nR) As these tectonic plates grind past one another along fault lines, tremendous frictional resistance prevents them from sliding smoothly.\nS) When the built-up stress finally overcomes this friction, a sudden release of energy occurs, sending seismic waves rippling through the ground.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** This continuous shift has forced traditional print houses to rapidly invest in robust digital infrastructure to survive.\n**B.** Consequently, modern consumers now prefer real-time, short-form updates over morning news broadcasts or daily newspapers.\n**C.** The landscape of media consumption has undergone a massive transformation over the last decade due to high-speed internet penetration.\n**D.** Moreover, journalists are now required to be multi-skilled, often shooting, editing, and publishing their stories independently on the go.",
     "oEn": [
-      "QRSP",
-      "QSRP",
-      "RQSP",
-      "SRPQ"
+      "CBAD",
+      "CABD",
+      "CBDA",
+      "ACBD"
     ],
     "c": 0,
-    "exp": "'Q' is the independent opening sentence that introduces the main topic (tectonic plates). 'R' introduces the interaction between these plates ('As these tectonic plates grind...'). 'S' follows logically by showing the consequence of that grinding stress breaking free ('When the built-up stress finally overcomes...'). 'P' concludes the paragraph by linking the seismic waves to the actual structural damage observed at the epicenter ('This structural shifting...'). The correct order is QRSP.",
-    "Pyq": "High-Weightage TCS Trend"
+    "exp": "'C' introduces the core theme (transformation of media consumption). 'B' follows logically by showing the immediate consequence of this transformation on consumers ('Consequently...'). 'A' links to this consumer shift ('This continuous shift...'), and 'D' adds an extra dimension regarding the journalists themselves ('Moreover...'). Therefore, CBAD is the correct sequence.",
+    "Pyq": "CGL Tier-II Pattern Variation"
   },
   {
-    "en": "Rearrange the given sentences to form a coherent and meaningful paragraph.\n\nP) For instance, a sovereign nation cannot independently print infinite quantities of currency without completely destroying its intrinsic value.\nQ) Because global financial systems are deeply interconnected, a single economic misstep by a superpower can trigger a severe worldwide recession.\nR) Therefore, international regulatory bodies work constantly to ensure that individual central banks maintain strict monetary discipline.\nS) This financial codependency means that domestic policies are rarely formulated in total isolation from global market trends.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** However, if the threshold is crossed, these self-regulating systems can collapse, leading to irreversible ecological damage.\n**B.** Planet Earth possesses a highly complex network of interconnected ecosystems that naturally balance each other.\n**C.** For instance, vast rainforests absorb carbon dioxide and release oxygen, regulating global temperatures effectively.\n**D.** These natural cycles function seamlessly as long as human intervention remains within sustainable boundaries.",
     "oEn": [
-      "QSPR",
-      "QSRP",
-      "SQRP",
-      "PRQS"
+      "BCDA",
+      "BCAD",
+      "BDCA",
+      "CBDA"
     ],
     "c": 0,
-    "exp": "'Q' opens the statement by defining the global interconnected nature of finance. 'S' is a mandatory pair to 'Q' because it uses 'This financial codependency' to directly reference the interconnectedness mentioned in 'Q'. 'P' serves as a specific country-level example ('For instance, a sovereign nation...') of a domestic policy choice. 'R' concludes with 'Therefore' as a logical resolution, stating why global bodies must regulate this ecosystem. The sequence is QSPR.",
-    "Pyq": ""
+    "exp": "'B' opens the paragraph by introducing the main topic (complex network of interconnected ecosystems). 'C' provides a concrete example of this system working ('For instance, vast rainforests...'). 'D' refers back to these processes ('These natural cycles...'). 'A' provides the contrasting warning starting with 'However', detailing what happens if thresholds are crossed, creating the perfect flow: BCDA.",
+    "Pyq": "TCS High-Weightage Concept"
   },
   {
-    "en": "Rearrange the given sentences to form a coherent and meaningful paragraph.\n\nP) Such historical gaps exist because early human groups utilized highly perishable materials like wood, bone, and animal skins.\ Q) Consequently, modern historians must actively cross-reference skeletal remains with geological data to piece together prehistoric migrations.\nR) Reconstructing the everyday social hierarchies of prehistoric human populations remains an incredibly challenging task for archeologists.\nS) These biological and organic materials rot away completely within a few centuries, leaving absolutely no trace in the fossil record.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Such localized disruptions, while seemingly minor, can quickly spiral and paralyze international trade corridors.\n**B.** For example, when a single mega-container ship blocked the Suez Canal, it halted billions of dollars in daily cargo flow.\n**C.** Today's global economy relies heavily on tightly synchronized maritime supply chains that connect continents.\n**D.** This vulnerability highlights the desperate need for diversifying trade routes and investing in alternative overland pathways.",
     "oEn": [
-      "RPSQ",
-      "RSPQ",
-      "PRSQ",
-      "QPSR"
+      "CBAD",
+      "CABD",
+      "Cbad",
+      "BACD"
     ],
     "c": 0,
-    "exp": "'R' introduces the core problem (the challenge of reconstructing prehistoric social hierarchies). 'P' links directly to 'R' by explaining *why* it's tough, referencing 'Such historical gaps'. 'S' forms a tight mandatory pair with 'P' because 'These biological and organic materials' directly names the 'perishable materials like wood, bone' introduced in 'P'. 'Q' closes the loop with 'Consequently', stating the modern methodology used to overcome this lack of physical artifacts. The order is RPSQ.",
-    "Pyq": "High-Weightage TCS Trend"
+    "exp": "'C' introduces the broad topic of global economy and maritime supply chains. 'B' uses 'For example' to illustrate a specific vulnerability in that supply chain (Suez Canal blockage). 'A' characterizes this event ('Such localized disruptions...'). 'D' concludes with a logical solution based on the problem described ('This vulnerability highlights...'). Sequence: CBAD.",
+    "Pyq": "Recent Tier-1 Hard Shift PYQ"
   },
   {
-    "en": "Rearrange the given sentences to form a coherent and meaningful paragraph.\n\nP) This micro-level sculpting explains why two individuals exposed to the exact same environment can develop entirely unique cognitive perspectives.\nQ) Every single thought we process, memory we store, and skill we master causes physical changes in our underlying neural pathways.\nR) It is a dynamic, continuously evolving organ that actively adapts its cellular architecture based on daily life experiences.\nS) Modern cognitive science has completely shattered the old belief that the mature adult brain is static and unchangeable.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** This architectural marvel was originally designed to serve as a massive fortress during times of political instability.\n**B.** Visitors from all across the globe now flock to the site daily to admire its intricate, historic stone carvings.\n**C.** Over the centuries, however, it gradually transitioned into a peaceful monastery and a renowned center of learning.\n**D.** Nestled deep within the remote valleys of the Western Ghats stands an ancient monument built entirely of granite.",
     "oEn": [
-      "SRQP",
-      "SRBQ",
-      "QSRP",
-      "RSQP"
+      "DACB",
+      "DABC",
+      "DCAB",
+      "ADCB"
     ],
     "c": 0,
-    "exp": "'S' is the ideal starting sentence as it states a broad scientific shift (shattering the belief that the brain is static). 'R' opens with the pronoun 'It', which directly references 'the mature adult brain' from sentence 'S'. 'Q' deepens this by explaining the exact mechanism of change at an individual level ('Every single thought we process...'). 'P' wraps up the idea using 'This micro-level sculpting' to reference the physical changes mentioned in 'Q'. The correct sequence is SRQP.",
-    "Pyq": ""
+    "exp": "'D' is the introductory sentence as it defines the location and the monument ('Nestled deep within... stands an ancient monument'). 'A' uses the noun phrase 'This architectural marvel' to refer back to the monument. 'C' introduces a historical transition over time ('Over the centuries, however...'). 'B' brings the narrative to the present day ('now flock...'). Sequence: DACB.",
+    "Pyq": "Non-PYQ Expected standard"
   },
   {
-    "en": "Rearrange the given sentences to form a coherent and meaningful paragraph.\n\nP) Over time, this psychological exhaustion causes employees to feel entirely disconnected from their professional obligations.\nQ) High-pressure corporate environments frequently push workforce limits by prioritizing raw productivity over employee well-being.\nR) Eventually, this persistent workplace stress culminates in severe burnout, a state characterized by chronic fatigue.\nS) When left unaddressed, this alienation leads to a sharp drop in performance and a rise in voluntary turnovers.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Retrying the same failed approach without modifying variables is a classic trap in experimental research.\n**B.** Scientific progress is rarely a straight path; instead, it is driven by a series of controlled trials and continuous errors.\n**C.** Each failure provides invaluable data, steering the researcher closer to an effective formulation or solution.\n**D.** Therefore, analyzing anomalies objectively is crucial before initiating any subsequent phase of testing.",
     "oEn": [
-      "QRPS",
-      "QPRS",
-      "RQPS",
-      "SRPQ"
+      "BCAD",
+      "BCDA",
+      "BACD"
     ],
     "c": 0,
-    "exp": "'Q' introduces the broad issue of high-pressure corporate environments. 'R' identifies the immediate direct consequence of that environment ('Eventually, this persistent workplace stress culminates in severe burnout'). 'P' tracks the next stage of burnout, using 'this psychological exhaustion' to reference the chronic fatigue introduced at the end of 'R'. 'S' lists the ultimate catastrophic business result ('this alienation leads to a drop in performance...'). The logical flow is QRPS.",
-    "Pyq": "High-Weightage TCS Trend"
+    "exp": "'B' introduces the philosophical premise of scientific progress. 'C' links directly to the 'continuous errors' mentioned in B by elaborating on 'Each failure'. 'A' warns against the wrong way of handling failures (retrying without modifying variables). 'D' closes with a logical conclusion ('Therefore, analyzing anomalies...'). Sequence: BCAD.",
+    "Pyq": "CGL Tier-II Typology"
   },
   {
-    "en": "Rearrange the given sentences to form a coherent and meaningful paragraph.\n\nP) However, implementing this transition smoothly requires massive initial capital investments in energy storage infrastructure.\nQ) Fossil fuels have long served as the primary energy foundation driving industrial revolutions across the globe.\nR) To mitigate these severe environmental impacts, nations are aggressively adopting renewable alternatives like solar and wind power.\nS) Unfortunately, relying entirely on these conventional resources has released unprecedented quantities of greenhouse gases.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Retailers who failed to adapt to this digital storefront trend faced rapid bankruptcy and store closures.\n**B.** The sudden boom in e-commerce platforms completely disrupted conventional brick-and-mortar retail business models.\n**C.** Consumers instantly appreciated the convenience of doorstep delivery and broader product inventories found online.\n**D.** This shift sparked an unprecedented race among brands to optimize user-friendly smartphone applications.",
     "oEn": [
-      "QSRP",
-      "QSPR",
-      "RQSP",
-      "SQRP"
+      "BCDA",
+      "BCAD",
+      "CBAD",
+      "BDAC"
     ],
     "c": 0,
-    "exp": "'Q' sets up the baseline historical context (Fossil fuels as the foundation of industrial growth). 'S' introduces a negative complication ('Unfortunately, relying entirely on these conventional resources...'). 'R' introduces the modern policy solution designed to solve the problem in 'S' ('To mitigate these severe environmental impacts...'). 'P' presents the pragmatic infrastructure bottleneck to that solution ('However, implementing this transition smoothly...'). This matches QSRP.",
-    "Pyq": "High-Weightage TCS Trend"
+    "exp": "'B' introduces the central subject (e-commerce disrupting brick-and-mortar models). 'C' explains *why* it happened from the consumer perspective ('Consumers instantly appreciated...'). 'D' frames this consumer behavior change as a trend ('This shift...'). 'A' describes the dark side of this trend for rigid businesses. Sequence: BCDA.",
+    "Pyq": "TCS Trend Corporate Theme"
   },
   {
-    "en": "Rearrange the given sentences to form a coherent and meaningful paragraph.\n\nP) This digital democratization has allowed independent content developers to reach global markets without major studio backing.\nQ) The dramatic rise of independent streaming services has fundamentally disrupted traditional mass media distribution models.\nR) As a direct result, media conglomerates are losing their long-standing monopoly over consumer viewing preferences.\nS) Instead of relying on traditional networks, audiences can now access diverse, niche programming directly on their devices.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** He would spend hours observing how light filtered through the canopy, noting down patterns in his journal.\n**B.** Raman felt an indescribable connection to the wilderness from a very young, impressionable age.\n**C.** These early childhood observations eventually laid the foundational bricks for his groundbreaking work in botanical physics.\n**D.** This deep passion often drove him to venture into the dense forests surrounding his ancestral village alone.",
     "oEn": [
-      "QSPR",
-      "QSRP",
-      "RSQP",
-      "SPQR"
+      "BDAC",
+      "BADC",
+      "DBAC",
+      "BCAD"
     ],
     "c": 0,
-    "exp": "'Q' acts as the independent introductory sentence announcing the disruption of traditional media models by streaming services. 'S' acts as a direct substitute action ('Instead of relying on traditional networks, audiences can now...'). 'P' labels this shift perfectly using 'This digital democratization'. 'R' concludes the paragraph with the final corporate fallout ('As a direct result, media conglomerates are losing their monopoly'). The correct order is QSPR.",
-    "Pyq": ""
+    "exp": "'B' introduces the main subject (Raman) and his early connection to wilderness. 'D' links to his connection by calling it 'This deep passion' and explaining his forest trips. 'A' opens with 'He would spend hours...' which expands on what he did during those forest trips mentioned in D. 'C' concludes by pointing out how 'These early childhood observations' shaped his future. Sequence: BDAC.",
+    "Pyq": "Biographical Paragraph Trend"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Ultimately, these miniature tools can perform delicate cellular surgeries entirely beyond human manual capability.\n**B.** In the medical field, micro-robotics is beginning to yield some truly revolutionary applications.\n**C.** Once injected into the bloodstream, these devices navigate autonomously toward targeted damaged tissues.\n**D.** They are carefully engineered to respond directly to external magnetic fields directed by a surgeon.",
+    "oEn": [
+      "BCDA",
+      "BDCA",
+      "CBDA",
+      "BADC"
+    ],
+    "c": 0,
+    "exp": "'B' introduces the theme of micro-robotics in medicine. 'C' describes the first operational step ('Once injected into the bloodstream, these devices...'). 'D' explains how they are controlled once inside ('They are carefully engineered to respond...'). 'A' presents the final, ultimate result ('Ultimately, these miniature tools...'). Sequence: BCDA.",
+    "Pyq": "Science & Tech Pattern"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** This specific chemical reaction generates a brief, cold flash of light without releasing heat energy.\n**B.** Luciferin then combines with oxygen in the presence of an enzyme called luciferase to form oxyluciferin.\n**C.** Bioluminescence is a fascinating phenomenon where living organisms produce and emit light naturally.\n**D.** In fireflies, this process begins when a specialized compound called luciferin absorbs energy within cells.",
+    "oEn": [
+      "CDBA",
+      "CDAB",
+      "DCBA",
+      "CBDA"
+    ],
+    "c": 0,
+    "exp": "'C' gives the broad introductory definition of bioluminescence. 'D' narrows it down to a specific example ('In fireflies, this process begins...'). 'B' uses 'then' to state the chronological next step in the chemical sequence described in D. 'A' summarizes the outcome of the entire chain ('This specific chemical reaction...'). Sequence: CDBA.",
+    "Pyq": "High-Difficulty Nature PYQ"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** On the other hand, extrinsic motivation stems purely from external incentives like financial bonuses or social status.\n**B.** Understanding the nuanced interplay between these two forms of motivation is key to building an effective workplace culture.\n**C.** Intrinsic motivation occurs when an individual performs an activity solely for internal satisfaction and personal joy.\n**D.** Psychologists generally categorize human motivation into two distinct, primary drivers.",
+    "oEn": [
+      "DCAB",
+      "DCBA",
+      "CDAB",
+      "BDCA"
+    ],
+    "c": 0,
+    "exp": "'D' establishes the primary division ('two distinct, primary drivers'). 'C' defines the first driver (intrinsic motivation). 'A' uses the transition phrase 'On the other hand' to present the second driver (extrinsic motivation), completing the pair. 'B' concludes by summarizing how to use 'these two forms of motivation'. Sequence: DCAB.",
+    "Pyq": "Non-PYQ Logical Conceptual Frame"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Such a sudden spike in demand can severely deplete local groundwater resources within a few weeks.\n**B.** During peak summer months, metropolitan cities face an acute, widespread water crisis.\n**C.** Consequently, civic bodies are forced to deploy private water tankers to fulfill baseline household requirements.\n**D.** As temperatures soar, households drastically increase their daily water consumption for cooling and hygiene.",
+    "oEn": [
+      "BDAA",
+      "BDAC",
+      "BDCA",
+      "BADC"
+    ],
+    "c": 1,
+    "exp": "'B' opens with the main problem statement (metropolitan cities facing water crises during peak summer). 'D' connects to the summer timeline ('As temperatures soar...') and explains consumer behavior. 'A' points directly to the result of that behavior ('Such a sudden spike in demand...'). 'E' or 'C' completes the sequence by showing the administrative reaction ('Consequently...'). Sequence: BDAC.",
+    "Pyq": "TCS Socio-Economic Trend"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** It also prevents nutrient runoff, ensuring that the surrounding water bodies remain free from chemical contamination.\n**B.** Regenerative farming focuses on restoring topsoil health rather than merely maximizing immediate crop yields.\n**C.** By utilizing organic compost and cover crops, this method naturally enriches the soil microbiome over time.\n**D.** This revitalized soil structure is much better equipped to retain water during severe droughts.",
+    "oEn": [
+      "BCDA",
+      "BCAD",
+      "BDCA",
+      "CBDA"
+    ],
+    "c": 0,
+    "exp": "'B' introduces the main concept (Regenerative farming). 'C' expands on the mechanism ('By utilizing organic compost... this method...'). 'D' refers to the result of this method on the soil ('This revitalized soil structure...'). 'A' adds an additional benefit ('It also prevents...'). Sequence: BCDA.",
+    "Pyq": "Agriculture/Environment theme"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** This makes deep-sea exploration dangerous, requiring specialized thick-walled submersibles to protect researchers.\n**B.** At the ocean floor, the atmospheric pressure is thousands of times greater than at sea level.\n**C.** Despite these harsh, inhospitable conditions, unique marine creatures manage to thrive around hydrothermal vents.\n**D.** These organisms have evolved flexible, fluid-filled cellular structures to withstand the crushing environment.",
+    "oEn": [
+      "BACD",
+      "BADC",
+      "BCDA",
+      "ABCD"
+    ],
+    "c": 0,
+    "exp": "'B' sets the stage by describing the immense atmospheric pressure at the ocean floor. 'A' states the direct implication for humans ('This makes deep-sea exploration dangerous...'). 'C' introduces a contrast regarding marine life ('Despite these harsh... conditions...'). 'D' explains the biological adaptation that allows the survival mentioned in C ('These organisms...'). Sequence: BACD.",
+    "Pyq": "Tier-2 Shift Standard"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** For instance, a small business can now reach a global audience without establishing a physical presence overseas.\n**B.** Digital globalization has drastically lowered the entry barriers for emerging entrepreneurs worldwide.\n**C.** However, this hyper-connected market also exposes them to intense competition from entrenched multinational corporations.\n**D.** To survive this pressure, local brands must innovate continuously and maintain superior customer retention.",
+    "oEn": [
+      "BACD",
+      "BCDA",
+      "BADC",
+      "ABCD"
+    ],
+    "c": 0,
+    "exp": "'B' introduces the core idea (Digital globalization reducing entry barriers). 'A' presents an example supporting this reduction of barriers ('For instance, a small business...'). 'C' presents a counter-perspective/challenge using 'However'. 'D' outlines the solution required to beat that specific challenge ('To survive this pressure...'). Sequence: BACD.",
+    "Pyq": "Economy Concept PYQ"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** These complex mathematical models analyze vast historical datasets to forecast micro-movements in prices.\n**B.** High-frequency trading algorithms have fundamentally transformed the operational dynamics of modern stock markets.\n**C.** Because these executions happen within microseconds, human traders cannot manually intervene or compete.\n**D.** Consequently, a massive chunk of daily market volume is now generated entirely by automated computer scripts.",
+    "oEn": [
+      "BACD",
+      "BADC",
+      "BCDA",
+      "ABCD"
+    ],
+    "c": 1,
+    "exp": "'B' establishes the subject matter (High-frequency trading algorithms). 'A' links back to 'algorithms' by defining them ('These complex mathematical models...'). 'C' describes the speed of their operations ('Because these executions happen within microseconds...'). 'D' wraps up with the market outcome ('Consequently...'). Sequence: BADC.",
+    "Pyq": "Advanced Technical Passage Pattern"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** If untreated, this chronic state of elevated cortisol levels can slowly impair memory and immune function.\n**B.** When a person encounters a threat, the brain initiates a sudden rush of adrenaline and cortisol.\n**C.** In our modern fast-paced lifestyle, however, this evolutionary survival mechanism is often triggered continuously.\n**D.** This response was originally designed to help our ancient ancestors flee from physical predators.",
+    "oEn": [
+      "BDCA",
+      "BDAC",
+      "BCDA",
+      "ADBC"
+    ],
+    "c": 0,
+    "exp": "'B' describes the physiological process of encountering a threat. 'D' instantly references this biological reaction ('This response was originally designed...'). 'C' contrasts the historical evolutionary use with modern life conditions ('In our modern... however...'). 'A' concludes by detailing the pathological outcome of that modern continuous triggering ('If untreated...'). Sequence: BDCA.",
+    "Pyq": "Psychology/Health High-Yield Theme"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** This loss of kinetic energy causes the suspended sediment particles to drop to the riverbed.\n**B.** As a river approaches the sea, its steep gradient flattens out, drastically reducing water velocity.\n**C.** Over thousands of years, these accumulated mineral layers consolidate to form wide, fertile river deltas.\n**D.** The heavy load of silt and sand carried down from the mountains can no longer remain suspended.",
+    "oEn": [
+      "BDAC",
+      "BADC",
+      "BCDA",
+      "DBAC"
+    ],
+    "c": 1,
+    "exp": "'B' initiates the physical process (river approaching sea, reducing velocity). 'A' explains the structural outcome of reduced velocity ('This loss of kinetic energy...'). 'D' links directly to why the sediment settles ('The heavy load of silt... can no longer remain suspended'). 'C' gives the long-term geographical result ('Over thousands of years... form deltas'). Sequence: BADC.",
+    "Pyq": "Geography Process Typology"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** To address this gap, museums are now deploying interactive augmented reality displays for visitors.\n**B.** Traditional history exhibits often struggle to engage younger generations accustomed to dynamic media.\n**C.** These static display cases and lengthy text plaques can feel tedious to digital-native children.\n**D.** By scanning a simple code, visitors can now watch ancient artifacts digitally recreate themselves on screen.",
+    "oEn": [
+      "BCAD",
+      "BCDA",
+      "CBAD",
+      "BADC"
+    ],
+    "c": 0,
+    "exp": "'B' states a fundamental problem faced by traditional museums. 'C' details *why* they struggle by referring to traditional methods ('These static display cases...'). 'A' introduces the proactive solution to this problem ('To address this gap, museums are now deploying...'). 'D' specifies how that solution works in real-time execution. Sequence: BCAD.",
+    "Pyq": "Modern Digital Trends Mix"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Such a selective focus ensures that critical operational vulnerabilities are patched first.\n**B.** Cybersecurity teams cannot realistically fix every single software flaw across a massive enterprise network simultaneously.\n**C.** Therefore, they prioritize threats based on the exploitability score and potential financial damage.\n**D.** This strategy prevents resource exhaustion while maintaining baseline defensive integrity against attackers.",
+    "oEn": [
+      "BCAD",
+      "BCDA",
+      "CBAD",
+      "BADC"
+    ],
+    "c": 0,
+    "exp": "'B' introduces the core challenge (cannot fix every single software flaw). 'C' follows up with their strategy to manage it ('Therefore, they prioritize...'). 'A' labels and validates that choice ('Such a selective focus ensures...'). 'D' summarizes the long-term benefit of the approach ('This strategy prevents...'). Sequence: BCAD.",
+    "Pyq": "Corporate Tech PYQ Practice"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** The resulting ash and sulfur dioxide can shield the planet from solar radiation, lowering global temperatures.\n**B.** A supervolcanic eruption is one of the most destructive natural disasters imaginable on Earth.\n**C.** For example, the historic Mount Toba eruption triggered a decade-long volcanic winter across the globe.\n**D.** When such an event occurs, millions of tons of pulverized rock are blasted straight into the upper atmosphere.",
+    "oEn": [
+      "BDAC",
+      "BDCA",
+      "BCDA",
+      "BADC"
+    ],
+    "c": 1,
+    "exp": "'B' introduces the core subject (supervolcanic eruptions). 'D' explains the immediate physical mechanism when it occurs ('When such an event occurs...'). 'A' follows up with the secondary atmospheric effect of that debris ('The resulting ash...'). 'C' concludes by offering a real historical example validating the sequence ('For example, the historic Mount Toba...'). Sequence: BDAC.",
+    "Pyq": "Earth Sciences Pattern"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** This linguistic assimilation often causes the younger generation to lose proficiency in their native tongue.\n**B.** When indigenous communities migrate to urban centers, they face immense pressure to adopt the dominant language.\n**C.** Consequently, invaluable oral traditions, folklore, and unique cultural expressions face rapid extinction.\n**D.** To preserve this fragile heritage, community elders are establishing weekend language immersion classes.",
+    "oEn": [
+      "BACD",
+      "BADC",
+      "BCDA",
+      "ABCD"
+    ],
+    "c": 0,
+    "exp": "'B' sets up the situational context (indigenous communities migrating and facing linguistic pressure). 'A' describes the immediate outcome of that pressure ('This linguistic assimilation...'). 'C' states the wider consequence of that loss ('Consequently, invaluable oral traditions...'). 'D' finishes with the proactive remedy undertaken by elders. Sequence: BACD.",
+    "Pyq": "Sociological Trend PYQ"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Once inside the engine cylinders, this highly atomized mist is ignited by a spark plug under high pressure.\n**B.** Inside a modern car engine, fuel must be meticulously prepared before it can be efficiently converted into kinetic energy.\n**C.** This explosion drives the pistons down, creating the mechanical force that ultimately rotates the wheels.\n**D.** The fuel injectors handle this by spraying petrol as a fine spray rather than a continuous liquid stream.",
+    "oEn": [
+      "BDAC",
+      "BDCA",
+      "BADC",
+      "ABCD"
+    ],
+    "c": 2,
+    "exp": "'B' introduces the primary process (preparing fuel inside a car engine). 'D' names the component and technique responsible for that preparation ('The fuel injectors handle this...'). 'A' moves forward to the execution step inside the cylinders ('Once inside... mist is ignited'). 'C' describes the final outcome of that ignition ('This explosion drives...'). Sequence: BADC.",
+    "Pyq": "Mechanical/Applied Physics Shift"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Such behavioral adaptations show that intelligence is not exclusive to large brain mammals.\n**B.** For instance, some species will carry a hard coconut shell over long distances to use later as a protective shelter.\n**C.** Octopus species are widely recognized by marine biologists as incredibly clever invertebrates.\n**D.** They display an advanced capacity for spatial navigation and complex tool utilization in the wild.",
+    "oEn": [
+      "CDBA",
+      "CDAB",
+      "CBAD",
+      "DCBA"
+    ],
+    "c": 0,
+    "exp": "'C' introduces the topic (Octopus species being clever invertebrates). 'D' elaborates on their cleverness ('They display an advanced capacity...'). 'B' gives a specific, concrete example of that tool use ('For instance, some species will carry a hard coconut shell...'). 'A' wraps up with a high-level observation based on the example ('Such behavioral adaptations...'). Sequence: CDBA.",
+    "Pyq": "Animal Behavior Standard Trend"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** This financial cushion allows them to invest heavily in experimental ideas without fear of immediate bankruptcy.\n**B.** Established corporations enjoy a major resource advantage over bootstrap startups in the tech space.\n**C.** On the contrary, small startups must achieve quick profitability to satisfy anxious angel investors.\n**D.** They possess vast cash reserves accumulated through years of dominating legacy markets.",
+    "oEn": [
+      "BDAA",
+      "BDAC",
+      "BDCA",
+      "BADC"
+    ],
+    "c": 1,
+    "exp": "'B' establishes the thesis (established corporations holding a resource advantage over startups). 'D' explains what that resource advantage is ('They possess vast cash reserves...'). 'A' references those cash reserves ('This financial cushion...'). 'C' brings in the contrasting perspective of small startups using 'On the contrary'. Sequence: BDAC.",
+    "Pyq": "Business/Finance Conceptual Shift"
+  },
+  {
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** These massive orbital structures absorb solar rays directly in space, completely free from atmospheric filtration.\n**B.** Space-based solar power platforms could soon provide an infinite source of clean, renewable energy to Earth.\n**C.** The harvested energy is then beamed down safely to ground receivers via invisible microwave frequencies.\n**D.** However, the exorbitant cost of launching such massive structural payloads currently prevents commercial deployment.",
+    "oEn": [
+      "BACD",
+      "BADC",
+      "BCDA",
+      "ABCD"
+    ],
+    "c": 0,
+    "exp": "'B' introduces the concept of space-based solar power platforms. 'A' explains how they function physically ('These massive orbital structures absorb solar rays...'). 'C' adds the next operational step in energy transmission ('The harvested energy is then beamed down...'). 'D' presents the ultimate challenge using 'However'. Sequence: BACD.",
+    "Pyq": "Non-PYQ Hard Technical Expected Standard"
   }
 ]
