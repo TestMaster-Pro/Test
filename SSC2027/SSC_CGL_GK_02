@@ -1,0 +1,452 @@
+[
+  {
+    "en": "Who among the following wrote the ancient Indian treatise on statecraft, economic policy, and military strategy called 'Arthashastra'?",
+    "hi": "निम्नलिखित में से किसने शासनकला, आर्थिक नीति और सैन्य रणनीति पर आधारित प्राचीन भारतीय ग्रंथ 'अर्थशास्त्र' लिखा था?",
+    "oEn": ["Chanakya (Kautilya)", "Megasthenes", "Bhadrabahu", "Kalhana"],
+    "oHi": ["चाणक्य (कौटिल्य)", "मेगास्थनीज", "भद्रबाहु", "कल्हण"],
+    "c": 0,
+    "exp": "The 'Arthashastra' is an ancient Indian Sanskrit treatise on statecraft, economic policy, and military strategy, traditionally authored by Chanakya (also known as Kautilya or Vishnugupta), who was the prime minister and mentor of Chandragupta Maurya.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The famous book 'Annihilation of Caste' was written by which of the following social reformers?",
+    "hi": "प्रसिद्ध पुस्तक 'एनीहिलेशन ऑफ कास्ट' (जाति का विनाश) निम्नलिखित में से किस समाज सुधारक द्वारा लिखी गई थी?",
+    "oEn": ["Jyotirao Phule", "Dr. B.R. Ambedkar", "Mahatma Gandhi", "Periyar E.V. Ramasamy"],
+    "oHi": ["ज्योतिराव फुले", "डॉ. बी.आर. अम्बेडकर", "महात्मा गांधी", "पेरियार ई.वी. रामासामी"],
+    "c": 1,
+    "exp": "'Annihilation of Caste' is an undelivered speech written in 1936 by Dr. B.R. Ambedkar, which he later self-published. It is a profound critique of the caste system and the Hindu orthodox religious texts.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Who is the author of the famous autobiography titled 'Playing It My Way'?",
+    "hi": "'प्लेइंग इट माई वे' नामक प्रसिद्ध आत्मकथा के लेखक कौन हैं?",
+    "oEn": ["Kapil Dev", "Saurav Ganguly", "Sachin Tendulkar", "Yuvraj Singh"],
+    "oHi": ["कपिल देव", "सौरव गांगुली", "सचिन तेंदुलकर", "युवराज सिंह"],
+    "c": 2,
+    "exp": "'Playing It My Way' is the autobiography of former Indian cricketer Sachin Tendulkar, co-authored with Sachin Bajaj and Christopher Martin-Jenkins. It was released in 2014.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Which of the following historical books was written by the Kashmiri historian Kalhana in the 12th century?",
+    "hi": "12वीं शताब्दी में कश्मीरी इतिहासकार कल्हण द्वारा निम्नलिखित में से कौन सी ऐतिहासिक पुस्तक लिखी गई थी?",
+    "oEn": ["Kathasaritsagara", "Rajatarangini", "Vikramankadevacharita", "Mudrarakshasa"],
+    "oHi": ["कथासरित्सागर", "राजतरंगिणी", "विक्रमांकदेवचरित", "मुद्राराक्षस"],
+    "c": 1,
+    "exp": "'Rajatarangini' ('The River of Kings') is a metrical legendary and historical chronicle of the north-western Indian subcontinent, particularly the kings of Kashmir, written in Sanskrit by Kalhana.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The novel 'Tomb of Sand', which won the International Booker Prize, was authored by whom?",
+    "hi": "अंतर्राष्ट्रीय बुकर पुरस्कार जीतने वाले उपन्यास 'टॉम्ब ऑफ सैंड' (रेत समाधि) के लेखक कौन हैं?",
+    "oEn": ["Arundhati Roy", "Geetanjali Shree", "Kiran Desai", "Jhumpa Lahiri"],
+    "oHi": ["अरुंधति रॉय", "गीतांजलि श्री", "किरण देसाई", "झुंपा लाहिड़ी"],
+    "c": 1,
+    "exp": "Originally written in Hindi as 'Ret Samadhi' by Geetanjali Shree, the novel was translated into English as 'Tomb of Sand' by Daisy Rockwell. It became the first Hindi novel to win the International Booker Prize.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Who among the following wrote the historical book 'Discovery of India' during his imprisonment at Ahmednagar Fort?",
+    "hi": "निम्नलिखित में से किसने अहमदनगर किला जेल में अपनी कैद के दौरान ऐतिहासिक पुस्तक 'डिस्कवरी ऑफ इंडिया' (भारत की खोज) लिखी थी?",
+    "oEn": ["Mahatma Gandhi", "Subhash Chandra Bose", "Jawaharlal Nehru", "Bal Gangadhar Tilak"],
+    "oHi": ["महात्मा गांधी", "सुभाष चंद्र बोस", "जवाहरलाल नेहरू", "बाल गंगाधर तिलक"],
+    "c": 2,
+    "exp": "'The Discovery of India' was written by India's first Prime Minister, Jawaharlal Nehru, during his imprisonment at Ahmednagar Fort between 1942 and 1945 prior to India's independence.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The famous historical work 'Tarikh-i-Firoz Shahi' was written by which medieval chronicler?",
+    "hi": "प्रसिद्ध ऐतिहासिक कृति 'तारीख-ए-फिरोज शाही' किस मध्यकालीन इतिहासकार द्वारा लिखी गई थी?",
+    "oEn": ["Al-Biruni", "Ziauddin Barani", "Ibn Battuta", "Ferishta"],
+    "oHi": ["अल-बरूनी", "जियाउद्दीन बरनी", "इब्न बतूता", "फरिश्ता"],
+    "c": 1,
+    "exp": "'Tarikh-i-Firoz Shahi' is a highly regarded text on medieval Islamic India, covering the history of the Delhi Sultanate from Balban to the early years of Firoz Shah Tughlaq. It was written by Ziauddin Barani.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who is the author of the critically acclaimed fictional novel 'The White Tiger'?",
+    "hi": "प्रशंसित काल्पनिक उपन्यास 'द व्हाइट टाइगर' के लेखक कौन हैं?",
+    "oEn": ["Aravind Adiga", "Amitav Ghosh", "Salman Rushdie", "Vikram Seth"],
+    "oHi": ["अरविंद अडिगा", "अमिताभ घोष", "सल्मान रुश्दी", "विक्रम सेठ"],
+    "c": 0,
+    "exp": "'The White Tiger' is the debut novel by Indian author Aravind Adiga. It was published in 2008 and won the prestigious 40th Man Booker Prize in the same year.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "The Sanskrit play 'Mudrarakshasa' was authored by which ancient Indian scholar?",
+    "hi": "संस्कृत नाटक 'मुद्राराक्षस' के लेखक कौन से प्राचीन भारतीय विद्वान थे?",
+    "oEn": ["Kalidasa", "Visakhadatta", "Shudraka", "Bhasa"],
+    "oHi": ["कालिदास", "विशाखदत्त", "शूद्रक", "भास"],
+    "c": 1,
+    "exp": "'Mudrarakshasa' ('The Signet Ring of Rakshasa') is a historical Sanskrit play by Visakhadatta that narrates the ascent of Chandragupta Maurya to power in northern India with the help of Chanakya.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Who among the following wrote the book 'Gitanjali', for which they received the Nobel Prize in Literature?",
+    "hi": "निम्नलिखित में से किसने 'गीतांजलि' पुस्तक लिखी थी, जिसके लिए उन्हें साहित्य का नोबेल पुरस्कार मिला था?",
+    "oEn": ["Bankim Chandra Chattopadhyay", "Rabindranath Tagore", "Sarojini Naidu", "Sri Aurobindo"],
+    "oHi": ["बंकिम चंद्र चट्टोपाध्याय", "रवींद्रनाथ टैगोर", "सरोजिनी नायडू", "श्री अरविंदो"],
+    "c": 1,
+    "exp": "Rabindranath Tagore received the Nobel Prize in Literature in 1913 primarily for his collection of poems titled 'Gitanjali'. He was the first non-European to win a Nobel Prize.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The famous book 'The Argumentative Indian' is a collection of essays written by which Nobel Laureate?",
+    "hi": "प्रसिद्ध पुस्तक 'द आर्गुमेंटेटिव इंडियन' किस नोबेल पुरस्कार विजेता द्वारा लिखे गए निबंधों का एक संग्रह है?",
+    "oEn": ["Abhijit Banerjee", "Amartya Sen", "C.V. Raman", "Rabindranath Tagore"],
+    "oHi": ["अभिजीत बनर्जी", "अमर्त्य सेन", "सी.वी. रमन", "रवींद्रनाथ टैगोर"],
+    "c": 1,
+    "exp": "'The Argumentative Indian' is a book written by the Nobel Prize-winning Indian economist Amartya Sen, published in 2005. It focuses on India's history of public debate, intellectual pluralism, and democracy.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "Who is the author of the masterpiece 'Akbarnama' and its third volume 'Ain-i-Akbari'?",
+    "hi": "महान कृति 'अकबरनामा' और इसके तीसरे खंड 'आइन-ए-अकबरी' के लेखक कौन हैं?",
+    "oEn": ["Faizi", "Abul Fazl", "Abdul Qadir Badauni", "Gulbadan Begum"],
+    "oHi": ["फ़ैज़ी", "अबुल फज़ल", "अब्दुल कादिर बदायुनी", "गुलबदन बेगम"],
+    "c": 1,
+    "exp": "'Akbarnama' is the official chronicle of the reign of Akbar, written by his court historian and biographer, Abul Fazl. The third volume of this text is known as 'Ain-i-Akbari'.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The classical Sanskrit book 'Meghaduta' (The Cloud Messenger) was composed by whom?",
+    "hi": "क्लासिक संस्कृत पुस्तक 'मेघदूत' (द क्लाउड मैसेंजर) की रचना किसके द्वारा की गई थी?",
+    "oEn": ["Banabhatta", "Dandin", "Kalidasa", "Bharavi"],
+    "oHi": ["बाणभट्ट", "दंडिन", "कालिदास", "भारवि"],
+    "c": 2,
+    "exp": "'Meghaduta' is a lyric poem written by Kalidasa, one of the greatest Sanskrit poets. It tells the story of a Yaksha who convinces a passing cloud to carry a message to his exiled wife.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "The memoir titled 'Wings of Fire' is the autobiography of which former President of India?",
+    "hi": "'विंग्स ऑफ फायर' (अग्नि की उड़ान) शीर्षक वाला संस्मरण भारत के किस पूर्व राष्ट्रपति की आत्मकथा है?",
+    "oEn": ["Dr. S. Radhakrishnan", "Dr. A.P.J. Abdul Kalam", "Pranab Mukherjee", "Dr. Rajendra Prasad"],
+    "oHi": ["डॉ. एस. राधाकृष्णन", "डॉ. ए.पी.जे. अब्दुल कलाम", "प्रणब मुखर्जी", "डॉ. राजेंद्र प्रसाद"],
+    "c": 1,
+    "exp": "'Wings of Fire' (1999) is the autobiography of Dr. A.P.J. Abdul Kalam, the former President of India and renowned scientist, co-written with Arun Tiwari.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Who wrote the iconic modern Indian novel 'A Suitable Boy'?",
+    "hi": "प्रसिद्ध आधुनिक भारतीय उपन्यास 'ए सूटेबल बॉय' किसने लिखा था?",
+    "oEn": ["Vikram Seth", "Salman Rushdie", "Amitav Ghosh", "Upamanyu Chatterjee"],
+    "oHi": ["विक्रम सेठ", "सल्मान रुश्दी", "अमिताभ घोष", "उपमन्यु चटर्जी"],
+    "c": 0,
+    "exp": "'A Suitable Boy' is a novel by Vikram Seth, published in 1993. At 1,349 pages, it is one of the longest novels ever published in a single volume in the English language.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The influential anti-colonial book 'Poverty and Un-British Rule in India' was authored by:",
+    "hi": "उपनिवेशवाद विरोधी प्रभावशाली पुस्तक 'पावर्टी एंड अन-ब्रिटिश रूल इन इंडिया' किसके द्वारा लिखी गई थी?",
+    "oEn": ["Romesh Chunder Dutt", "Dadabhai Naoroji", "Gopal Krishna Gokhale", "M.G. Ranade"],
+    "oHi": ["रमेश चंद्र दत्त", "दादाभाई नौरोजी", "गोपाल कृष्ण गोखले", "एम.जी. रानाडे"],
+    "c": 1,
+    "exp": "Dadabhai Naoroji, known as the 'Grand Old Man of India', wrote 'Poverty and Un-British Rule in India' in 1901. Through this book, he put forward his famous 'Drain of Wealth' theory.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Who is the author of the ancient text 'Kadambari', which is considered one of the earliest novels in the world?",
+    "hi": "प्राचीन ग्रंथ 'कादंबरी' के लेखक कौन हैं, जिसे दुनिया के सबसे शुरुआती उपन्यासों में से एक माना जाता है?",
+    "oEn": ["Harsha", "Banabhatta", "Subandhu", "Magha"],
+    "oHi": ["हर्ष", "बाणभट्ट", "सुबंधु", "माघ"],
+    "c": 1,
+    "exp": "'Kadambari' is a romantic novel written in Sanskrit by Banabhatta in the first half of the 7th century CE. Banabhatta was the court poet (Asthana Kavi) of Emperor Harshavardhana.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The notable book 'An Era of Darkness: The British Empire in India' was written by which political figure?",
+    "hi": "उल्लेखनीय पुस्तक 'एन एरा ऑफ डार्कनेस: द ब्रिटिश एम्पायर इन इंडिया' किस राजनीतिक व्यक्ति द्वारा लिखी गई थी?",
+    "oEn": ["Shashi Tharoor", "Jairam Ramesh", "Kapil Sibal", "P. Chidambaram"],
+    "oHi": ["शशि थरूर", "जयराम रमेश", "कपिल सिब्बल", "पी. चिदंबरम"],
+    "c": 0,
+    "exp": "'An Era of Darkness' is a book authored by Shashi Tharoor, published in 2016. It won the Sahitya Akademi Award in 2019 and details how the British rule systematically devastated the Indian economy.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Who among the following is the author of the historic travelogue 'Kitab-ul-Hind'?",
+    "hi": "निम्नलिखित में से कौन ऐतिहासिक यात्रा वृत्तांत 'किताब-उल-हिंद' के लेखक हैं?",
+    "oEn": ["Ibn Battuta", "Al-Biruni", "Abdur Razzaq", "Francois Bernier"],
+    "oHi": ["इब्न बतूता", "अल-बरूनी", "अब्दुर रज्जाक", "फ्रांस्वा बर्नियर"],
+    "c": 1,
+    "exp": "'Kitab-ul-Hind' (also known as 'Tahqiq ma lil-Hind') is an extensive Arabic text written by the Persian scholar Al-Biruni after studying Indian culture, philosophy, and religion alongside Mahmud of Ghazni's expeditions.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "The famous literary work 'Gaban' was written by which iconic Hindi author?",
+    "hi": "प्रसिद्ध साहित्यिक कृति 'गबन' किस प्रतिष्ठित हिंदी लेखक द्वारा लिखी गई थी?",
+    "oEn": ["Jaishankar Prasad", "Munshi Premchand", "Suryakant Tripathi Nirala", "Mahadevi Varma"],
+    "oHi": ["जयशंकर प्रसाद", "मुंशी प्रेमचंद", "सूर्यकांत त्रिपाठी निराला", "महादेवी वर्मा"],
+    "c": 1,
+    "exp": "'Gaban' (published in 1931) is a celebrated novel written by Munshi Premchand, who is widely regarded as the 'Upanyas Samrat' (Emperor of Novels) in Hindi literature.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The autobiography titled 'Unbreakable' is written by which celebrated Indian sportsperson?",
+    "hi": "'अनब्रेकेबल' (Unbreakable) शीर्षक वाली आत्मकथा किस प्रसिद्ध भारतीय खिलाड़ी द्वारा लिखी गई है?",
+    "oEn": ["Mithali Raj", "Mary Kom", "Saina Nehwal", "Sanania Mirza"],
+    "oHi": ["मिताली राज", "मैरी कॉम", "साइना नेहवाल", "सानिया मिर्जा"],
+    "c": 1,
+    "exp": "'Unbreakable' is the autobiography of Mangte Changneijang Mary Kom, the legendary Indian Olympic boxer and six-time World Amateur Boxing Champion.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Who among the following wrote the medieval period text 'Humayunnama'?",
+    "hi": "निम्नलिखित में से किसने मध्यकाल के ऐतिहासिक ग्रंथ 'हुमायूँनामा' की रचना की थी?",
+    "oEn": ["Hamida Banu Begum", "Gulbadan Begum", "Maham Anga", "Nur Jahan"],
+    "oHi": ["हमीदा बानो बेगम", "गुलबदन बेगम", "माहम अंगा", "नूरजहाँ"],
+    "c": 1,
+    "exp": "'Humayunnama' was written by Gulbadan Begum, the daughter of Mughal Emperor Babur and sister of Emperor Humayun, at the request of her nephew, Emperor Akbar.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The masterpiece 'The God of Small Things', which won the Booker Prize in 1997, was written by:",
+    "hi": "महान कृति 'द गॉड ऑफ स्मॉल थिंग्स', जिसने 1997 में बुकर पुरस्कार जीता था, किसके द्वारा लिखी गई थी?",
+    "oEn": ["Anita Desai", "Kiran Desai", "Arundhati Roy", "Shobhaa De"],
+    "oHi": ["अनीता देसाई", "किरण देसाई", "अरुंधति रॉय", "शोभा डे"],
+    "c": 2,
+    "exp": "'The God of Small Things' is the debut novel of Indian writer Arundhati Roy. It is set in Ayemenem, Kerala, and explores how small things affect people's lives and destinies.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The ancient Sanskrit treatise on acting, dance, and drama titled 'Natya Shastra' is attributed to:",
+    "hi": "अभिनय, नृत्य और नाटक पर आधारित प्राचीन संस्कृत ग्रंथ 'नाट्यशास्त्र' का श्रेय किसे दिया जाता है?",
+    "oEn": ["Bharata Muni", "Abhinavagupta", "Patandjali", "Panini"],
+    "oHi": ["भरत मुनि", "अभिनवगुप्त", "पतंजलि", "पाणिनी"],
+    "c": 0,
+    "exp": "The 'Natya Shastra' is a foundational ancient Indian treatise on the performing arts, encompassing theatre, dance, and music, attributed to the sage Bharata Muni.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Who is the author of the popular non-fiction book 'I Do What I Do'?",
+    "hi": "लोकप्रिय गैर-काल्पनिक पुस्तक 'आई डू व्हाट आई डू' (I Do What I Do) के लेखक कौन हैं?",
+    "oEn": ["Urjit Patel", "Raghuram Rajan", "Bimal Jalan", "Amartya Sen"],
+    "oHi": ["ऊर्जित पटेल", "रघुराम राजन", "विमल जालान", "अमर्त्य सेन"],
+    "c": 1,
+    "exp": "'I Do What I Do' is a compilation of speeches and essays by Raghuram Rajan, the former Governor of the Reserve Bank of India (RBI), published in 2017.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The biographical text 'Harshacharita' was written by which court poet?",
+    "hi": "जीवनी ग्रंथ 'हर्षचरित' किस दरबारी कवि द्वारा लिखा गया था?",
+    "oEn": ["Ravikirti", "Banabhatta", "Harisena", "Chand Bardai"],
+    "oHi": ["रविकीर्ति", "बाणभट्ट", "हरिषेण", "चंद बरदाई"],
+    "c": 1,
+    "exp": "'Harshacharita' (The Deeds of Harsha) is the biography of Indian emperor Harshavardhana written by his court poet Banabhatta in the 7th century CE, marking it as the first historical biography in Sanskrit.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The book 'Gulamgiri', which heavily critiqued the caste system, was written by whom in 1873?",
+    "hi": "जाति व्यवस्था की भारी आलोचना करने वाली पुस्तक 'गुलामगीरी' 1873 में किसके द्वारा लिखी गई थी?",
+    "oEn": ["Dr. B.R. Ambedkar", "Jyotirao Phule", "Sri Narayana Guru", "Savtribai Phule"],
+    "oHi": ["डॉ. बी.आर. अम्बेडकर", "ज्योतिराव फुले", "श्री नारायण गुरु", "सावित्रीबाई फुले"],
+    "c": 1,
+    "exp": "'Gulamgiri' (Slavery) was written by social reformer Jyotirao Phule in 1873. He dedicated the book to the African-American movement in the United States that worked to end slavery.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Who is the author of the famous historical fiction series 'The Immortals of Meluha'?",
+    "hi": "प्रसिद्ध ऐतिहासिक फिक्शन श्रृंखला 'द इमॉर्टल्स ऑफ मेलुहा' के लेखक कौन हैं?",
+    "oEn": ["Ashwin Sanghi", "Amish Tripathi", "Devdutt Pattanaik", "Chetan Bhagat"],
+    "oHi": ["अश्विन सांघी", "अमीश त्रिपाठी", "देवदत्त पटनायक", "चेतन भगत"],
+    "c": 1,
+    "exp": "'The Immortals of Meluha' (2010) is the debut novel of Indian author Amish Tripathi and the first book of the widely popular Shiva Trilogy.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "The monumental book 'The Indian Struggle 1920–1942' was authored by which freedom fighter?",
+    "hi": "स्मारकीय पुस्तक 'द इंडियन स्ट्रगल 1920-1942' किस स्वतंत्रता सेनानी द्वारा लिखी गई थी?",
+    "oEn": ["Lala Lajpat Rai", "Subhash Chandra Bose", "Bhagat Singh", "V.D. Savarkar"],
+    "oHi": ["लाला लाजपत राय", "सुभाष चंद्र बोस", "भगत सिंह", "वी.डी. सावरकर"],
+    "c": 1,
+    "exp": "'The Indian Struggle, 1920–1942' is a two-part book written by Netaji Subhash Chandra Bose covering the history of the Indian independence movement from the Non-Cooperation Movement to the Quit India Movement.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Who wrote the play 'Abhigyanashakuntalam', widely recognized as a masterpiece of ancient Sanskrit literature?",
+    "hi": "प्राचीन संस्कृत साहित्य की उत्कृष्ट कृति माने जाने वाले नाटक 'अभिज्ञानशाकुंतलम' की रचना किसने की थी?",
+    "oEn": ["Bhavabhuti", "Sudrak", "Kalidasa", "Bharavi"],
+    "oHi": ["भवभूति", "शूद्रक", "कालिदास", "भारवि"],
+    "c": 2,
+    "exp": "'Abhigyanashakuntalam' is a beautiful Sanskrit play written by Kalidasa, dramatizing the epic love story of King Dushyanta and Shakuntala from the Mahabharata.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The famous book 'The Shadow Lines' was written by which winner of the Jnanpith Award?",
+    "hi": "प्रसिद्ध पुस्तक 'द शैडो लाइन्स' (The Shadow Lines) ज्ञानपीठ पुरस्कार विजेता किस लेखक द्वारा लिखी गई थी?",
+    "oEn": ["Amitav Ghosh", "Kiran Desai", "Aravind Adiga", "Vikram Seth"],
+    "oHi": ["अमिताभ घोष", "किरण देसाई", "अरविंद अडिगा", "विक्रम सेठ"],
+    "c": 0,
+    "exp": "'The Shadow Lines' is a Sahitya Akademi Award-winning novel written by Amitav Ghosh, published in 1988. Amitav Ghosh is also the first English-language writer to win the Jnanpith Award (2018).",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Who authored the famous economic book 'The Wealth of Nations', published in 1776?",
+    "hi": "1776 में प्रकाशित प्रसिद्ध आर्थिक पुस्तक 'द वेल्थ ऑफ नेशंस' के लेखक कौन थे?",
+    "oEn": ["David Ricardo", "John Maynard Keynes", "Adam Smith", "Karl Marx"],
+    "oHi": ["डेविड रिकार्डो", "जॉन मेनार्ड कीन्स", "एडम स्मिथ", "कार्ल मार्क्स"],
+    "c": 2,
+    "exp": "'The Wealth of Nations' is the magnum opus of the Scottish economist and philosopher Adam Smith, who is widely considered the 'Father of Modern Economics'.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "The ancient grammar text 'Ashtadhyayi' was composed by which of the following scholars?",
+    "hi": "प्राचीन व्याकरण ग्रंथ 'अष्टाध्यायी' की रचना निम्नलिखित में से किस विद्वान द्वारा की गई थी?",
+    "oEn": ["Yaska", "Panini", "Patanjali", "Katyayana"],
+    "oHi": ["यास्क", "पाणिनी", "पतंजलि", "कात्यायन"],
+    "c": 1,
+    "exp": "'Ashtadhyayi' is an ancient Sanskrit treatise on grammar written in eight chapters by the scholar Panini around the 4th-5th century BCE. It laid down the fundamental linguistic rules of Sanskrit.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The autobiography titled 'Ace Against Odds' belongs to which famous Indian tennis player?",
+    "hi": "'एस अगेंस्ट ऑड्स' (Ace Against Odds) नामक आत्मकथा किस प्रसिद्ध भारतीय टेनिस खिलाड़ी की है?",
+    "oEn": ["Leander Paes", "Mahesh Bhupathi", "Sania Mirza", "Rohan Bopanna"],
+    "oHi": ["लिएंडर पेस", "महेश भूपति", "सानिया मिर्जा", "रोहन बोपन्ना"],
+    "c": 2,
+    "exp": "'Ace Against Odds' is the 2016 official autobiography of Sania Mirza, the former World No. 1 in tennis doubles and one of India's most successful female athletes.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Who wrote the famous medieval travelogue 'Rihla' which acts as a rich source of 14th-century Indian history?",
+    "hi": "प्रसिद्ध मध्यकालीन यात्रा वृत्तांत 'रिहला' किसने लिखा था जो 14वीं शताब्दी के भारतीय इतिहास का एक समृद्ध स्रोत है?",
+    "oEn": ["Marco Polo", "Niccolao Manucci", "Ibn Battuta", "Duarte Barbosa"],
+    "oHi": ["मार्को पोलो", "निकोलॉ मनुची", "इब्न बतूता", "दुआर्ते बारबोसा"],
+    "c": 2,
+    "exp": "'Rihla' (The Voyage) was written in Arabic by Moroccan traveler Ibn Battuta. He visited India during the reign of Muhammad bin Tughlaq, who appointed him as a Qazi (judge) in Delhi.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The modern nationalistic poem 'Tarana-e-Hind' (Sare Jahan Se Achcha) was penned by:",
+    "hi": "आधुनिक राष्ट्रवादी कविता 'तराना-ए-हिंद' (सारे जहाँ से अच्छा) किसके द्वारा लिखी गई थी?",
+    "oEn": ["Rabindranath Tagore", "Muhammad Iqbal", "Bankim Chandra Chattopadhyay", "Hasrat Mohani"],
+    "oHi": ["रवींद्रनाथ टैगोर", "मुहम्मद इकबाल", "बंकीम चंद्र चट्टोपाध्याय", "हसरत मोहनी"],
+    "c": 1,
+    "exp": "'Sare Jahan Se Achcha', formally known as 'Tarana-e-Hind', is an Urdu patriotic poem written by the poet and philosopher Sir Muhammad Iqbal. It was published in the weekly journal Ittehad in 1904.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Who is the author of the novel 'The Inheritance of Loss', which won the Man Booker Prize in 2006?",
+    "hi": "उपन्यास 'द इनहेरिटेंस ऑफ लॉस' के लेखक कौन हैं, जिसने 2006 में मैन बुकर पुरस्कार जीता था?",
+    "oEn": ["Kiran Desai", "Anita Desai", "Arundhati Roy", "Jhumpa Lahiri"],
+    "oHi": ["किरण देसाई", "अनीता देसाई", "अरुंधति रॉय", "झुंपा लाहिड़ी"],
+    "c": 0,
+    "exp": "'The Inheritance of Loss' is the second novel by Indian author Kiran Desai. It addresses themes of colonialism, globalization, identity, and the conflict between old and new worlds.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The classical medical treatise 'Charaka Samhita' is primarily focused on which subject?",
+    "hi": "प्राचीन चिकित्सा ग्रंथ 'चरक संहिता' मुख्य रूप से किस विषय पर केंद्रित है?",
+    "oEn": ["Astronomy", "Architecture", "Ayurveda", "Mathematics"],
+    "oHi": ["खगोल विज्ञान", "वास्तुकला", "आयुर्वेद", "गणित"],
+    "c": 2,
+    "exp": "'Charaka Samhita' is a foundational Sanskrit text on Ayurveda (ancient Indian traditional medicine). Along with the Sushruta Samhita, it serves as the core pillar of ancient Indian medical systems.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Who among the following wrote the revolutionary book 'Why I Am an Atheist' in Lahore Central Jail?",
+    "hi": "निम्नलिखित में से किसने लाहौर सेंट्रल जेल में क्रांतिकारी पुस्तक 'व्हाई आई एम एन एथीस्ट' (मैं नास्तिक क्यों हूँ) लिखी थी?",
+    "oEn": ["Chandrashekhar Azad", "Bhagat Singh", "Sukhdev Thapar", "Ram Prasad Bismil"],
+    "oHi": ["चंद्रशेखर आजाद", "भगत सिंह", "सुखदेव थापर", "राम प्रसाद बिस्मिल"],
+    "c": 1,
+    "exp": "'Why I Am an Atheist' is an essay written by the iconic Indian revolutionary Bhagat Singh in 1930 in the Lahore Central Jail as a reply to his fellow prisoner who accused him of vanity.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The popular political book 'The Accidental Prime Minister' was authored by which journalist or advisor?",
+    "hi": "लोकप्रिय राजनीतिक पुस्तक 'द एक्सीडेंटल प्राइम मिनिस्टर' किस पत्रकार या सलाहकार द्वारा लिखी गई थी?",
+    "oEn": ["Sanjaya Baru", "Karan Thapar", "Rajdeep Sardesai", "Barkha Dutt"],
+    "oHi": ["संजय बारू", "करण थापर", "राजदीप सरदेसाई", "बरखा दत्त"],
+    "c": 0,
+    "exp": "'The Accidental Prime Minister' (2014) is a memoir written by Sanjaya Baru, who served as the media advisor to Prime Minister Dr. Manmohan Singh from 2004 to 2008.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Who wrote the ancient Indian collection of interrelated animal fables titled 'Panchatantra'?",
+    "hi": "एक-दूसरे से जुड़ी पशु दंतकथाओं का प्रसिद्ध प्राचीन भारतीय संग्रह 'पंचतंत्र' किसने लिखा था?",
+    "oEn": ["Narayan Pandit", "Vishnu Sharma", "Gunadhya", "Somadeva"],
+    "oHi": ["नारायण पंडित", "विष्णु शर्मा", "गुणाढ्य", "सोमदेव"],
+    "c": 1,
+    "exp": "The 'Panchatantra' is an ancient Indian collection of interrelated animal fables written in Sanskrit verse and prose, traditionally attributed to scholar Vishnu Sharma around 300 BCE.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The iconic novel 'Anandamath', containing our national song 'Vande Mataram', was written by:",
+    "hi": "हमारा राष्ट्रीय गीत 'वंदे मातरम' समाहित करने वाला प्रसिद्ध उपन्यास 'आनंदमठ' किसके द्वारा लिखा गया था?",
+    "oEn": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Sarat Chandra Chattopadhyay", "Dinabandhu Mitra"],
+    "oHi": ["रवींद्रनाथ टैगोर", "बंकिम चंद्र चट्टोपाध्याय", "शरत्चंद्र चट्टोपाध्याय", "दीनबंधु मित्र"],
+    "c": 1,
+    "exp": "'Anandamath' is a Bengali fiction novel written by Bankim Chandra Chattopadhyay and published in 1882. It is based against the backdrop of the Sannyasi Rebellion of the late 18th century.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "Who is the author of the autobiography titled 'A Shot at History'?",
+    "hi": "'A Shot at History' नामक आत्मकथा के लेखक कौन हैं?",
+    "oEn": ["Abhinav Bindra", "Rajyavardhan Singh Rathore", "Gagan Narang", "Jaspal Rana"],
+    "oHi": ["अभिनव बिंद्रा", "राज्यवर्धन सिंह राठौर", "गगन नारंग", "जसपाल राणा"],
+    "c": 0,
+    "exp": "'A Shot at History: My Obsessive Journey to Olympic Gold' is the 2011 autobiography of Abhinav Bindra, who won India's first-ever individual Olympic gold medal in the 10m Air Rifle event at the 2008 Beijing Olympics.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "The book 'Gora', which deals with themes of religion, nationalism, and identity in colonial India, was written by:",
+    "hi": "औपनिवेशिक भारत में धर्म, राष्ट्रवाद और पहचान के विषयों पर आधारित पुस्तक 'गोरा' किसके द्वारा लिखी गई थी?",
+    "oEn": ["Michael Madhusudan Dutt", "Rabindranath Tagore", "Sarat Chandra Chattopadhyay", "Kazi Nazrul Islam"],
+    "oHi": ["माइकल मधुसूदन दत्त", "रवींद्रनाथ टैगोर", "शरत्चंद्र चट्टोपाध्याय", "काजी नजरुल इस्लाम"],
+    "c": 1,
+    "exp": "'Gora' is a famous novel written by Rabindranath Tagore, published in 1910. It is the longest and most complex of Tagore's twelve novels, exploring the philosophical conflicts of British India.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The famous play 'Mricchakatika' (The Little Clay Cart) was composed by which ancient dramatist?",
+    "hi": "प्रसिद्ध नाटक 'मृच्छकटिकम' (द लिटिल क्ले कार्ट) की रचना किस प्राचीन नाटककार द्वारा की गई थी?",
+    "oEn": ["Shudraka", "Bhasa", "Bhavabhuti", "Harsha"],
+    "oHi": ["शूद्रक", "भास", "भवभूति", "हर्ष"],
+    "c": 0,
+    "exp": "'Mricchakatika' is a ten-act Sanskrit drama written by King Shudraka in the 2nd century BCE. It is celebrated for its realistic portrayal of urban life, romance, and judicial corruption rather than mythological themes.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Who is the author of the popular non-fiction economics book 'The India Way: Strategies for an Uncertain World'?",
+    "hi": "लोकप्रिय गैर-काल्पनिक आर्थिक-राजनीतिक पुस्तक 'द इंडिया वे: स्ट्रेटेजीज फॉर एन अनसर्टेन वर्ल्ड' के लेखक कौन हैं?",
+    "oEn": ["S. Jaishankar", "Nirmala Sitharaman", "Hardeep Singh Puri", "Arvind Subramanian"],
+    "oHi": ["एस. जयशंकर", "निर्मला सीतारमण", "हरदीप सिंह पुरी", "अरविंद सुब्रमण्यम"],
+    "c": 0,
+    "exp": "'The India Way: Strategies for an Uncertain World' (2020) is authored by Dr. S. Jaishankar, the External Affairs Minister of India, analyzing India's foreign policy challenges and diplomatic strategy.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The ancient mathematical and astronomical treatise 'Aryabhatiya' was authored by whom?",
+    "hi": "प्राचीन गणितीय और खगोलीय ग्रंथ 'आर्यभटीय' के लेखक कौन थे?",
+    "oEn": ["Varahamihira", "Aryabhata", "Brahmagupta", "Bhaskara I"],
+    "oHi": ["वराहमिहिर", "आर्यभट", "ब्रह्मगुप्त", "भास्कर प्रथम"],
+    "c": 1,
+    "exp": "The 'Aryabhatiya' is a Sanskrit astronomical treatise written by the legendary 5th-century Indian mathematician and astronomer Aryabhata, which includes approximations for pi and foundational trigonometry principles.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The autobiography titled 'The Race of My Life' belongs to which legendary Indian track and field athlete?",
+    "hi": "'द रेस ऑफ माय लाइफ' (The Race of My Life) नामक आत्मकथा किस महान भारतीय एथलीट की है?",
+    "oEn": ["Milkha Singh", "P.T. Usha", "Anju Bobby George", "Abhinav Bindra"],
+    "oHi": ["मिल्खा सिंह", "पी.टी. उषा", "अंजू बॉबी जॉर्ज", "अभिनव बिंद्रा"],
+    "c": 0,
+    "exp": "'The Race of My Life' is the autobiography of the legendary Indian sprinter Milkha Singh, co-authored with his daughter Sonia Sanwalka, published in 2013.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Who among the following wrote the medieval period text 'Tuzuk-i-Babri' (Baburnama) in Chagatai Turkic language?",
+    "hi": "निम्नलिखित में से किसने चगताई तुर्की भाषा में मध्यकाल का ग्रंथ 'तुजुक-ए-बाबरी' (बाबरनामा) लिखा था?",
+    "oEn": ["Babur", "Humayun", "Akbar", "Jahangir"],
+    "oHi": ["बाबर", "हुमायूँ", "अकबर", "जहांगीर"],
+    "c": 0,
+    "exp": "'Tuzuk-i-Babri' is the autobiography of Babur, the founder of the Mughal Empire. Unlike later official Mughal histories which were written in Persian, Babur wrote his memoirs in his native Chagatai Turkic language.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The literary work 'Midnight's Children', which won the Booker of Bookers prize, was written by:",
+    "hi": "साहित्यिक कृति 'मिडनाइट्स चिल्ड्रन', जिसने 'बुकर ऑफ बुकर' पुरस्कार जीता था, किसके द्वारा लिखी गई थी?",
+    "oEn": ["Salman Rushdie", "V.S. Naipaul", "Vikram Seth", "Amitav Ghosh"],
+    "oHi": ["सल्मान रुश्दी", "वी.एस. नायपॉल", "विक्रम सेठ", "अमिताभ घोष"],
+    "c": 0,
+    "exp": "'Midnight's Children' is a 1981 novel by Salman Rushdie that deals with India's transition from British colonial rule to independence and partition. It was awarded the Booker Prize, the Booker of Bookers (1993), and the Best of the Booker (2008).",
+    "Pyq": "SSC_CHSL_2023"
+  }
+]
