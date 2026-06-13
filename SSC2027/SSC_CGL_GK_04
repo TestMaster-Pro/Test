@@ -1,0 +1,452 @@
+[
+  {
+    "en": "Who among the following was the first Indian to be appointed as a permanent judge at the International Court of Justice (ICJ)?",
+    "hi": "निम्नलिखित में से कौन अंतर्राष्ट्रीय न्यायालय (ICJ) में स्थायी न्यायाधीश के रूप में नियुक्त होने वाले पहले भारतीय थे?",
+    "oEn": ["Nagendra Singh", "Sir Benegal Narsing Rau", "Raghunandan Swarup Pathak", "Dalveer Bhandari"],
+    "oHi": ["नागेन्द्र सिंह", "सर बेनेगल नरसिंग राव", "रघुनंदन स्वरूप पाठक", "दलवीर भंडारी"],
+    "c": 1,
+    "exp": "Sir Benegal Narsing Rau (B.N. Rau) was the first Indian permanent judge at the ICJ, serving from 1952 to 1953. Nagendra Singh later served as the first Indian to become the President of the ICJ.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following is the highest saltwater lake in the world, located at an altitude of over 4,200 meters?",
+    "hi": "4,200 मीटर से अधिक की ऊंचाई पर स्थित, निम्नलिखित में से कौन सी दुनिया की सबसे ऊंची खारे पानी की झील है?",
+    "oEn": ["Lake Titicaca", "Pangong Tso Lake", "Caspian Sea", "Lake Van"],
+    "oHi": ["टिटिकाका झील", "पैंगोंग त्सो झील", "कैस्पियन सागर", "वान झील"],
+    "c": 1,
+    "exp": "Pangong Tso, extending from India (Ladakh) to China (Tibet), is the highest landlocked saltwater lake in the world, situated at an elevation of roughly 4,225 meters.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who was the first female Governor of an Indian state in independent India?",
+    "hi": "स्वतंत्र भारत में किसी भारतीय राज्य की पहली महिला राज्यपाल कौन थीं?",
+    "oEn": ["Sucheta Kripalani", "Sarojini Naidu", "Padmaja Naidu", "Vijayalakshmi Pandit"],
+    "oHi": ["सुचेता कृपलानी", "सरोजिनी नायडू", "पद्मजा नायडू", "विजयालक्ष्मी पंडित"],
+    "c": 1,
+    "exp": "Sarojini Naidu was appointed as the Governor of the United Provinces (now Uttar Pradesh) in 1947, making her the first woman to hold the governor's post in independent India.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Which is the longest national highway in India, stretching from Srinagar in the north to Kanyakumari in the south?",
+    "hi": "उत्तर में श्रीनगर से लेकर दक्षिण में कन्याकुमारी तक विस्तृत, भारत का सबसे लंबा राष्ट्रीय राजमार्ग कौन सा है?",
+    "oEn": ["National Highway 2", "National Highway 44", "National Highway 7", "National Highway 48"],
+    "oHi": ["राष्ट्रीय राजमार्ग 2", "राष्ट्रीय राजमार्ग 44", "राष्ट्रीय राजमार्ग 7", "राष्ट्रीय राजमार्ग 48"],
+    "c": 1,
+    "exp": "National Highway 44 (NH 44) is the longest-running National Highway in India, covering a distance of 3,745 kilometers by renumbering and consolidating old highways like NH 7.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Who among the following was the first Indian scientist to receive the prestigious prestigious Lenin Peace Prize?",
+    "hi": "निम्नलिखित में से कौन प्रतिष्ठित लेनिन शांति पुरस्कार प्राप्त करने वाले पहले भारतीय वैज्ञानिक थे?",
+    "oEn": ["C.V. Raman", "Saifuddin Kitchlew", "Major General Sahib Singh Sokhey", "K.S. Krishnan"],
+    "oHi": ["सी.वी. रमन", "सैफुद्दीन किचलू", "मेजर जनरल साहिब सिंह सोखी", "के.एस. कृष्णन"],
+    "c": 2,
+    "exp": "While Dr. Saifuddin Kitchlew was the first Indian to receive it (1952), Major General S.S. Sokhey, a distinguished medical scientist and director of the Haffkine Institute, was the first Indian scientist honored with the Lenin Peace Prize in 1947.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which of the following is the deepest land depression on the Earth's surface exposed to the open air?",
+    "hi": "खुली हवा के संपर्क में आने वाला पृथ्वी की सतह पर सबसे गहरा भूमि अवसाद (लैंड डिप्रेशन) निम्नलिखित में से कौन सा है?",
+    "oEn": ["Mariana Trench", "The Dead Sea Shore", "Lake Baikal Rift", "Turpan Depression"],
+    "oHi": ["मरियाना गर्त", "मृत सागर तट (Dead Sea Shore)", "बैकाल झील दरार", "तुरपान अवसाद"],
+    "c": 1,
+    "exp": "The surface of the Dead Sea and its shores are roughly 430 meters below sea level, making it the lowest/deepest land elevation on Earth's surface exposed to air. Mariana Trench is an ocean trench, not land surface.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Who was the first Chief Election Commissioner of independent India?",
+    "hi": "स्वतंत्र भारत के पहले मुख्य चुनाव आयुक्त कौन थे?",
+    "oEn": ["K.V.K. Sundaram", "Sukumar Sen", "S.P. Sen Verma", "T.N. Seshan"],
+    "oHi": ["के.वी.के. सुंदरम", "सुकुमार सेन", "एस.पी. सेन वर्मा", "टी.एन. शेषन"],
+    "c": 1,
+    "exp": "Sukumar Sen was an Indian civil servant who served as the first Chief Election Commissioner of India from 21 March 1950 to 19 December 1958, managing the first two general elections successfully.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which is the highest and largest plateau in the world, often referred to as the 'Roof of the World'?",
+    "hi": "विश्व का सबसे ऊंचा और सबसे बड़ा पठार कौन सा है, जिसे अक्सर 'दुनिया की छत' भी कहा जाता है?",
+    "oEn": ["Deccan Plateau", "Colorado Plateau", "Tibetan Plateau", "Anatolian Plateau"],
+    "oHi": ["दक्कन का पठार", "कोलोराडो का पठार", "तिब्बत का पठार", "अनातोलिया का पठार"],
+    "c": 2,
+    "exp": "The Tibetan Plateau is the world's highest and largest plateau, covering an area of 2.5 million square kilometers with an average elevation exceeding 4,500 meters.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Who among the following was the first woman to climb Mount Everest twice in consecutive years?",
+    "hi": "निम्नलिखित में से कौन लगातार वर्षों में दो बार माउंट एवरेस्ट पर चढ़ने वाली पहली महिला थीं?",
+    "oEn": ["Bachendri Pal", "Santosh Yadav", "Premlata Agrawal", "Malavath Poorna"],
+    "oHi": ["बछेंद्री पाल", "संतोष यादव", "प्रेमलता अग्रवाल", "मालावत पूर्णा"],
+    "c": 1,
+    "exp": "Santosh Yadav is the first woman in the world to scale Mount Everest twice, achieving this feat in May 1992 and again in May 1993.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "Which of the following is the longest river dam in India, stretching across the Mahanadi River in Odisha?",
+    "hi": "ओडिशा में महानदी पर निर्मित, भारत का सबसे लंबा नदी बांध निम्नलिखित में से कौन सा है?",
+    "oEn": ["Tehri Dam", "Bhakra Nangal Dam", "Hirakud Dam", "Nagarjuna Sagar Dam"],
+    "oHi": ["टिहरी बांध", "भाखड़ा नांगल बांध", "हीराकुंड बांध", "नागार्जुन सागर बांध"],
+    "c": 2,
+    "exp": "The Hirakud Dam is the longest earthen dam in India with an overall length of 25.79 km, built across the Mahanadi River near Sambalpur in Odisha.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Who was the first Indian to fly into space as part of the Soviet Interkosmos program?",
+    "hi": "सोवियत इंटरकॉस्मोस कार्यक्रम के हिस्से के रूप में अंतरिक्ष में उड़ान भरने वाले पहले भारतीय कौन थे?",
+    "oEn": ["Rakesh Sharma", "Ravish Malhotra", "Kalpana Chawla", "Sunita Williams"],
+    "oHi": ["राकेश शर्मा", "रवीश मल्होत्रा", "कल्पना चावला", "सुनीता विलियम्स"],
+    "c": 0,
+    "exp": "Wing Commander Rakesh Sharma became the first Indian citizen to enter space on April 3, 1984, aboard the Soviet spacecraft Soyuz T-11.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which country features the world's longest coastline, stretching across multiple oceans?",
+    "hi": "किस देश की तटरेखा दुनिया में सबसे लंबी है, जो कई महासागरों तक फैली हुई है?",
+    "oEn": ["Russia", "Canada", "Australia", "Indonesia"],
+    "oHi": ["रूस", "कनाडा", "ऑस्ट्रेलिया", "इंडोनेशिया"],
+    "c": 1,
+    "exp": "Canada has the longest coastline of any country in the world, measuring approximately 243,042 kilometers along the Atlantic, Pacific, and Arctic Oceans.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Who was the first woman to serve as the Chief Justice of a High Court in India?",
+    "hi": "भारत में किसी उच्च न्यायालय (High Court) की मुख्य न्यायाधीश के रूप में सेवा करने वाली पहली महिला कौन थीं?",
+    "oEn": ["Fathima Beevi", "Leila Seth", "Anna Chandy", "Ruma Pal"],
+    "oHi": ["फातिमा बीवी", "लीला सेठ", "अन्ना चांडी", "रूमा पाल"],
+    "c": 1,
+    "exp": "Justice Leila Seth was the first female judge on the Delhi High Court and later became the first woman to be appointed Chief Justice of a state High Court (Himachal Pradesh High Court) in 1991.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which of the following is the largest delta in the world, formed by the convergence of the Ganga, Brahmaputra, and Meghna rivers?",
+    "hi": "गंगा, ब्रह्मपुत्र और मेघना नदियों के अभिसरण से निर्मित दुनिया का सबसे बड़ा डेल्टा निम्नलिखित में से कौन सा है?",
+    "oEn": ["Mississippi Delta", "Sundarbans Delta", "Mekong Delta", "Niger Delta"],
+    "oHi": ["मिसिसिपी डेल्टा", "सुंदरवन डेल्टा", "मेकांग डेल्टा", "नाइजर डेल्टा"],
+    "c": 1,
+    "exp": "The Sundarbans Delta, spanning across India and Bangladesh, is the world's largest delta, occupying an area of around 10,000 square kilometers along the Bay of Bengal.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Who among the following was the first Commander-in-Chief of the Indian Army post-independence?",
+    "hi": "स्वतंत्रता के बाद भारतीय सेना के पहले कमांडर-इन-चीफ निम्नलिखित में से कौन थे?",
+    "oEn": ["Field Marshal Sam Manekshaw", "General K.M. Cariappa", "General Maharaj Shri Rajendrasinhji", "Field Marshal K.S. Thimayya"],
+    "oHi": ["फील्ड मार्शल सैम मानेकशॉ", "जनरल के.एम. करियप्पा", "जनरल महाराज श्री राजेंद्रसिंहजी", "फील्ड मार्शल के.एस. थिमैया"],
+    "c": 1,
+    "exp": "General K.M. Cariappa took over as the first Indian Commander-in-Chief of the Indian Army from Sir Roy Bucher on January 15, 1949, which is now celebrated annually as Indian Army Day.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Which is the largest hot desert in the world, stretching over vast territories of North Africa?",
+    "hi": "उत्तरी अफ्रीका के विशाल क्षेत्रों में फैला हुआ, विश्व का सबसे बड़ा गर्म रेगिस्तान (hot desert) कौन सा है?",
+    "oEn": ["Gobi Desert", "Kalahari Desert", "Sahara Desert", "Arabian Desert"],
+    "oHi": ["गोबी रेगिस्तान", "कालाहारी रेगिस्तान", "सहारा रेगिस्तान", "अरब रेगिस्तान"],
+    "c": 2,
+    "exp": "The Sahara Desert is the largest hot desert in the world (and third largest overall behind Arctic and Antarctic deserts), covering an area of roughly 9.2 million square kilometers.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who was the first Indian woman to win an individual gold medal at the Asian Games?",
+    "hi": "एशियाई खेलों (Asian Games) में व्यक्तिगत स्वर्ण पदक जीतने वाली पहली भारतीय महिला कौन थीं?",
+    "oEn": ["Kamaljeet Sandhu", "P.T. Usha", "Karnam Malleswari", "Mary Kom"],
+    "oHi": ["कमलजीत संधू", "पी.टी. उषा", "कर्णम मल्लेश्वरी", "मैरी कॉम"],
+    "c": 0,
+    "exp": "Kamaljeet Sandhu won a gold medal at the 1970 Bangkok Asian Games in the 400-meter race, crossing the line in 57.3 seconds to become the first Indian woman to win an individual Asian Games gold.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Which state features India's longest natural cave, known as Krem Liat Prah?",
+    "hi/": "भारत की सबसे लंबी प्राकृतिक गुफा 'क्रेम लियात प्राह' (Krem Liat Prah) किस राज्य में स्थित है?",
+    "oEn": ["Meghalaya", "Uttarakhand", "Madhya Pradesh", "Andhra Pradesh"],
+    "oHi": ["मेघालय", "उत्तराखंड", "मध्य प्रदेश", "आंध्र प्रदेश"],
+    "c": 0,
+    "exp": "Krem Liat Prah is the longest natural cave in India, currently explored to a length of around 34 kilometers. It is situated in the Jaintia Hills of Meghalaya.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Who was the first speaker of the Lok Sabha in independent India?",
+    "hi": "स्वतंत्र भारत में लोकसभा के पहले अध्यक्ष (स्पीकर) कौन थे?",
+    "oEn": ["M. Ananthasayanam Ayyangar", "Ganesh Vasudev Mavalankar", "Hukum Singh", "Neelam Sanjiva Reddy"],
+    "oHi": ["एम. अनंतशयनम अय्यंगार", "गणेश वासुदेव मावलंकर", "हुकम सिंह", "नीलम संजीव रेड्डी"],
+    "c": 1,
+    "exp": "Ganesh Vasudev Mavalankar (G.V. Mavalankar) served as the first Speaker of the Constituent Assembly and later the first Lok Sabha from 1952 until his death in 1956.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which of the following is the deepest lake in the world, containing roughly 20% of the world's unfrozen surface freshwater?",
+    "hi": "निम्नलिखित में से कौन सी दुनिया की सबसे गहरी झील है, जिसमें दुनिया का लगभग 20% अलवणीय सतह का ताज़ा पानी मौजूद है?",
+    "oEn": ["Lake Superior", "Lake Tanganyika", "Lake Baikal", "Lake Malawi"],
+    "oHi": ["सुपीरियर झील", "तांगानिका झील", "बैकाल झील", "मलावी झील"],
+    "c": 2,
+    "exp": "Located in southern Siberia, Russia, Lake Baikal is the deepest lake in the world at 1,642 meters and also the oldest freshwater lake on Earth.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who was the first Indian citizen to receive the prestigious Nobel Prize in Physics?",
+    "hi": "भौतिकी (Physics) में प्रतिष्ठित नोबेल पुरस्कार प्राप्त करने वाले पहले भारतीय नागरिक कौन थे?",
+    "oEn": ["Homi J. Bhabha", "C.V. Raman", "Subrahmanyan Chandrasekhar", "Satyendra Nath Bose"],
+    "oHi": ["होमी जे. भाभा", "सी.वी. रमन", "सुब्रह्मण्यन चंद्रशेखर", "सत्येन्द्र नाथ बोस"],
+    "c": 1,
+    "exp": "Sir Chandrasekhara Venkata Raman (C.V. Raman) won the Nobel Prize in Physics in 1930 for his groundbreaking discovery regarding the scattering of light, known as the Raman Effect.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which is the highest waterfall in India, located in the Western Ghats of Karnataka?",
+    "hi": "कर्नाटक के पश्चिमी घाट में स्थित भारत का सबसे ऊंचा जलप्रपात (waterfall) कौन सा है?",
+    "oEn": ["Jog Falls", "Dudhsagar Falls", "Kunchikal Falls", "Nohkalikai Falls"],
+    "oHi": ["जोग जलप्रपात", "दूधसागर जलप्रपात", "कुंचिकल जलप्रपात", "नोहकालिकाई जलप्रपात"],
+    "c": 2,
+    "exp": "Kunchikal Falls in Shimoga district, Karnataka, is the highest tiered waterfall in India with a height of 455 meters (1,493 feet), formed by the Varahi River.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "Who among the following was the first woman to win the prestigious Jnanpith Award?",
+    "hi": "निम्नलिखित में से कौन प्रतिष्ठित ज्ञानपीठ पुरस्कार जीतने वाली पहली महिला थीं?",
+    "oEn": ["Mahasweta Devi", "Amrita Pritam", "Ashapoorna Devi", "Mahadevi Varma"],
+    "oHi": ["महाश्वेता देवी", "अमृता प्रीतम", "आशापूर्णा देवी", "महादेवी वर्मा"],
+    "c": 2,
+    "exp": "Bengali novelist Ashapoorna Devi became the first woman to receive the Jnanpith Award in 1976 for her magnum opus trilogy starting with 'Pratham Pratisruti'.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which of the following is the world's largest river island, nestled within the Brahmaputra River in Assam?",
+    "hi": "असम में ब्रह्मपुत्र नदी के भीतर स्थित, दुनिया का सबसे बड़ा नदी द्वीप (river island) निम्नलिखित में से कौन सा है?",
+    "oEn": ["Marajó Island", "Majuli Island", "Bananal Island", "Isle of Wight"],
+    "oHi": ["मराजो द्वीप", "माजुली द्वीप", "बनानाल द्वीप", "आयल ऑफ वाइट"],
+    "c": 1,
+    "exp": "Majuli is the largest river island in the world according to Guinness World Records. It is formed by the Brahmaputra River and its anabranches in Assam, India.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Who was the first Indian woman to successfully swim across the English Channel?",
+    "hi": "इंग्लिश चैनल को सफलतापूर्वक तैरकर पार करने वाली पहली भारतीय महिला कौन थीं?",
+    "oEn": ["Arati Saha", "Bula Choudhury", "Shikha Tandon", "Shivani Kataria"],
+    "oHi": ["आरती साहा", "बुला चौधरी", "शिखा टंडन", "शिवानी कटारिया"],
+    "c": 0,
+    "exp": "Arati Saha became the first Indian and Asian woman to swim across the English Channel on September 29, 1959, traveling from Cape Gris-Nez to Sandgate.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which country boasts the highest density of active volcanoes in the world, situated along the Pacific Ring of Fire?",
+    "hi": "प्रशांत महासागर के 'रिंग ऑफ फायर' पर स्थित, दुनिया में सक्रिय ज्वालामुखियों का सबसे अधिक घनत्व किस देश में है?",
+    "oEn": ["Japan", "Indonesia", "Chile", "United States"],
+    "oHi": ["जापान", "इंडोनेशिया", "चिली", "संयुक्त राज्य अमेरिका"],
+    "c": 1,
+    "exp": "Indonesia has the highest density and largest number of active volcanoes in the world, with over 120+ historically active volcanic centers causing continuous monitoring.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Who was the first Foreign Secretary of independent India?",
+    "hi": "स्वतंत्र भारत के पहले विदेश सचिव (Foreign Secretary) कौन थे?",
+    "oEn": ["K.P.S. Menon", "Subimal Dutt", "Y.D. Gundevia", "Harishwar Dayal"],
+    "oHi": ["के.पी.एस. मेनन", "सुबीमल दत्त", "वाई.डी. गुंडेविया", "हरीश्वर दयाल"],
+    "c": 0,
+    "exp": "K.P.S. Menon (Kumara Padmanabha Sivasankara Menon) served as India's first Foreign Secretary from 1948 to 1952 during Jawaharlal Nehru's prime ministership.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which is the highest structural and operating railway line in the world?",
+    "hi": "विश्व की सबसे ऊंची संरचनात्मक और संचालित रेलवे लाइन कौन सी है?",
+    "oEn": ["Qinghai-Tibet Railway", "Peruvian Central Railway", "Jungfrau Railway", "Pamir Railway"],
+    "oHi": ["किंघई-तिब्बत रेलवे", "पेरूवियन सेंट्रल रेलवे", "जुंगफ्राउ रेलवे", "पामीर रेलवे"],
+    "c": 0,
+    "exp": "The Qinghai-Tibet (Qingzang) Railway connecting Xining to Lhasa in China is the highest operating railway line in the world, reaching an altitude of 5,072 meters at the Tanggula Pass.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Who was the first Indian to be elected as a member of the British House of Commons?",
+    "hi": "ब्रिटिश हाउस ऑफ कॉमन्स के सदस्य के रूप में चुने जाने वाले पहले भारतीय कौन थे?",
+    "oEn": ["Dinshaw Edulji Wacha", "Dadabhai Naoroji", "Womesh Chandra Bonnerjee", "Satyendra Prasanna Sinha"],
+    "oHi": ["दिनशॉ एडुल्जी वाचा", "दादाभाई नौरोजी", "व्योमेश चन्द्र बनर्जी", "सत्येन्द्र प्रसन्न सिन्हा"],
+    "c": 1,
+    "exp": "Dadabhai Naoroji, known as the 'Grand Old Man of India', was elected to the British Parliament in 1892 as a Liberal Party candidate representing Finsbury Central.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which is the longest ship canal in the world, connecting the Mediterranean Sea to the Red Sea?",
+    "hi": "भूमध्य सागर को लाल सागर से जोड़ने वाली दुनिया की सबसे लंबी जहाज नहर (ship canal) कौन सी है?",
+    "oEn": ["Panama Canal", "Suez Canal", "Kiel Canal", "Erie Canal"],
+    "oHi": ["पनामा नहर", "स्वेज नहर", "कील नहर", "एरी नहर"],
+    "c": 1,
+    "exp": "The Suez Canal in Egypt is an artificial sea-level waterway that cuts across the Isthmus of Suez. Spanning 193 km, it is the longest canal without any locks system.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Who among the following was the first woman to receive the prestigious Ashoka Chakra award?",
+    "hi": "निम्नलिखित में से कौन प्रतिष्ठित अशोक चक्र पुरस्कार प्राप्त करने वाली पहली महिला थीं?",
+    "oEn": ["Kiran Bedi", "Neerja Bhanot", "Kamlesh Kumari", "Punita Arora"],
+    "oHi": ["किरण बेदी", "नीरजा भनोट", "कमलेश कुमारी", "पुनीता अरोड़ा"],
+    "c": 1,
+    "exp": "Flight purser Neerja Bhanot was posthumously awarded the Ashoka Chakra for saving passenger lives during the hijacking of Pan Am Flight 73 in 1986, becoming its youngest and first female recipient.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which is the largest and deepest ocean on Earth, covering more surface area than all of Earth's landmasses combined?",
+    "hi": "पृथ्वी पर सबसे बड़ा और सबसे गहरा महासागर कौन सा है, जो पृथ्वी के सभी भूभागों के संयुक्त क्षेत्रफल से अधिक सतह को कवर करता है?",
+    "oEn": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "oHi": ["अटलांटिक महासागर", "हिंद महासागर", "प्रशांत महासागर", "आर्कटिक महासागर"],
+    "c": 2,
+    "exp": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions. It extends from the Arctic Ocean in the north to the Southern Ocean in the south.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Who was the first Indian woman to climb Mount Everest, achieving the feat in 1984?",
+    "hi": "1984 में माउंट एवरेस्ट पर चढ़ने वाली पहली भारतीय महिला कौन थीं?",
+    "oEn": ["Santosh Yadav", "Bachendri Pal", "Arunima Sinha", "Dickey Dolma"],
+    "oHi": ["संतोष यादव", "बछेंद्री पाल", "अरुणिमा सिन्हा", "डिकी डोल्मा"],
+    "c": 1,
+    "exp": "Bachendri Pal made history in 1984 when she successfully reached the summit of Mount Everest, becoming the first Indian woman and the fifth woman in the world to do so.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which is the largest freshwater lake in India by surface area, located in the state of Jammu & Kashmir?",
+    "hi": "सतह के क्षेत्रफल के हिसाब से भारत की सबसे बड़ी मीठे पानी की झील कौन सी है, जो जम्मू और कश्मीर में स्थित है?",
+    "oEn": ["Chilika Lake", "Wular Lake", "Loktak Lake", "Vembanad Lake"],
+    "oHi": ["चिल्का झील", "वुलर झील", "लोकटक झील", "वेम्बनाड झील"],
+    "c": 1,
+    "exp": "Wular Lake is one of the largest freshwater lakes in Asia and the largest in India, fed by the Jhelum River. Its size varies seasonally from 30 to 260 square kilometers.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "Who was the first President of the Indian National Congress (INC) at its inaugural session in 1885?",
+    "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस (INC) के उद्घाटन सत्र के पहले अध्यक्ष कौन थे?",
+    "oEn": ["Allan Octavian Hume", "Womesh Chandra Bonnerjee", "Dinshaw Wacha", "Surendranath Banerjee"],
+    "oHi": ["एलन ऑक्टेवियन ह्यूम", "व्योमेश चन्द्र बनर्जी", "दिनशॉ वाचा", "सुरेंद्रनाथ बनर्जी"],
+    "c": 1,
+    "exp": "The first session of the INC was held in Bombay in December 1885. It was presided over by barrister Womesh Chandra Bonnerjee (W.C. Bonnerjee) and attended by 72 delegates.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which of the following is the world's largest landlocked country by total land area?",
+    "hi": "कुल भूमि क्षेत्र के आधार पर दुनिया का सबसे बड़ा भूमिबद्ध (लैंडलॉक्ड) देश निम्नलिखित में से कौन सा है?",
+    "oEn": ["Mongolia", "Kazakhstan", "Bolivia", "Chad"],
+    "oHi": ["मंगोलिया", "कजाकिस्तान", "बोलीविया", "चाड"],
+    "c": 1,
+    "exp": "Kazakhstan is the largest landlocked country in the world, and the ninth-largest country overall, spanning across Central Asia and Eastern Europe over 2.7 million square kilometers.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Who was the first recipient of the Param Vir Chakra, India's highest military decoration?",
+    "hi": "भारत का सर्वोच्च सैन्य अलंकरण 'परमवीर चक्र' पाने वाले पहले प्राप्तकर्ता कौन थे?",
+    "oEn": ["Naik Jadunath Singh", "Major Somnath Sharma", "Company Quartermaster Havildar Abdul Hamid", "Captain Vikram Batra"],
+    "oHi": ["नायक जदुनाथ सिंह", "मेजर सोमनाथ शर्मा", "कंपनी क्वार्टरमास्टर हवलदार अब्दुल हमीद", "कैप्टन विक्रम बत्रा"],
+    "c": 1,
+    "exp": "Major Somnath Sharma was posthumously awarded the first Param Vir Chakra for his exemplary bravery in defending Badgam airfield during the 1947 Indo-Pak war.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which is the highest active volcano in the world, located on the border between Chile and Argentina?",
+    "hi": "चिली और अर्जेंटीना की सीमा पर स्थित, दुनिया का सबसे ऊंचा सक्रिय ज्वालामुखी कौन सा है?",
+    "oEn": ["Mount Vesuvius", "Ojos del Salado", "Mount Cotopaxi", "Mount Kilimanjaro"],
+    "oHi": ["माउंट विसुवियस", "ओजोस डेल सालाडो", "माउंट कोटोपैक्सी", "माउंट किलिमंजारो"],
+    "c": 1,
+    "exp": "Nevado Ojos del Salado is a massive stratovolcano in the Andes on the Argentina-Chile border. It is the highest active volcano on Earth at 6,893 meters.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Who was the first Indian to receive the prestigious Magsaysay Award, often called Asia's Nobel Prize?",
+    "hi": "प्रतिष्ठित मैग्सेसे पुरस्कार (जिसे अक्सर एशिया का नोबेल पुरस्कार कहा जाता है) प्राप्त करने वाले पहले भारतीय कौन थे?",
+    "oEn": ["Baba Amte", "Acharya Vinoba Bhave", "Jayaprakash Narayan", "Mother Teresa"],
+    "oHi": ["बाबा आम्टे", "आचार्य विनोबा भावे", "जयप्रकाश नारायण", "मदर टेरेसा"],
+    "c": 1,
+    "exp": "Acharya Vinoba Bhave was chosen as the inaugural recipient of the Ramon Magsaysay Award for Community Leadership in 1958 for his Bhoodan (Land Gift) Movement.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which of the following is the longest beach in India, located along the Bay of Bengal in Chennai?",
+    "hi": "चेन्नई में बंगाल की खाड़ी के किनारे स्थित, भारत का सबसे लंबा समुद्र तट (beach) निम्नलिखित में से कौन सा है?",
+    "oEn": ["Calangute Beach", "Marina Beach", "Kovalam Beach", "Juhu Beach"],
+    "oHi": ["कलंगूट बीच", "मरीना बीच", "कोवलम बीच", "जुहू बीच"],
+    "c": 1,
+    "exp": "Marina Beach in Chennai is a natural urban beach along the Bay of Bengal. It stretches for about 13 km, making it the longest natural urban beach in the country.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Who among the following was the first female pilot in the Indian Navy?",
+    "hi": "निम्नलिखित में से कौन भारतीय नौसेना की पहली महिला पायलट थीं?",
+    "oEn": ["Avani Chaturvedi", "Shivangi Singh", "Sub-Lieutenant Shivangi", "Bhawana Kanth"],
+    "oHi": ["अवनि चतुर्वेदी", "शिवांगी सिंह", "सब-लेफ्टिनेंट शिवांगी", "भावना कंठ"],
+    "c": 2,
+    "exp": "Sub-Lieutenant Shivangi (from Bihar) became the first-ever female pilot for the Indian Navy in December 2019, flying the Dornier surveillance aircraft. Avani Chaturvedi was the first in the Indian Air Force.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Which is the largest gulf in the world by surface shoreline area?",
+    "hi": "सतही तटरेखा क्षेत्र के आधार पर विश्व की सबसे बड़ी खाड़ी (gulf) कौन सी है?",
+    "oEn": ["Persian Gulf", "Gulf of Mexico", "Gulf of Aden", "Gulf of Oman"],
+    "oHi": ["फारस की खाड़ी", "मेक्सिको की खाड़ी", "अदन की खाड़ी", "ओमान की खाड़ी"],
+    "c": 1,
+    "exp": "The Gulf of Mexico is the largest gulf in the world, bounded by North America, Mexico, and Cuba, covering a total surface area of roughly 1.5 million square kilometers.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "Who was the first Indian to successfully clear the Indian Civil Services (ICS) examination during British rule?",
+    "hi": "ब्रिटिश शासन के दौरान भारतीय सिविल सेवा (ICS) परीक्षा सफलतापूर्वक उत्तीर्ण करने वाले पहले भारतीय कौन थे?",
+    "oEn": ["Satyendranath Tagore", "Surendranath Banerjee", "Subhash Chandra Bose", "Romesh Chunder Dutt"],
+    "oHi": ["सत्येन्द्रनाथ टैगोर", "सुरेन्द्रनाथ बनर्जी", "सुभाष चन्द्र बोस", "रमेश चन्द्र दत्त"],
+    "c": 0,
+    "exp": "Satyendranath Tagore, the elder brother of Rabindranath Tagore, was the first Indian to pass the competitive ICS exam in 1863. He was allocated to the Bombay presidency cadre.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which is the highest peak of the Peninsular Plateau (South India), located in the state of Kerala?",
+    "hi": "प्रायद्वीपीय पठार (दक्षिण भारत) की सबसे ऊंची चोटी कौन सी है, जो केरल राज्य में स्थित है?",
+    "oEn": ["Doddabetta", "Anaimudi", "Mahendragiri", "Arma Konda"],
+    "oHi": ["दोद्दाबेट्टा", "अनामुडी", "महेंद्रगिरि", "अरमा कोंडा"],
+    "c": 1,
+    "exp": "Anaimudi (or Anamudi) is the highest peak in the Western Ghats and South India, standing at an elevation of 2,695 meters (8,842 feet) in the Ernakulam/Idukki district of Kerala.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Who was the first woman to win a Nobel Prize, and remains the only person to win Nobel Prizes in two different scientific fields?",
+    "hi": "नोबेल पुरस्कार जीतने वाली पहली महिला कौन थीं, और दो अलग-अलग वैज्ञानिक क्षेत्रों में नोबेल पुरस्कार जीतने वाली एकमात्र व्यक्ति हैं?",
+    "oEn": ["Irène Joliot-Curie", "Marie Curie", "Dorothy Hodgkin", "Rosalind Franklin"],
+    "oHi": ["इरेन जोलियट-क्यूरी", "मैरी क्यूरी", "डोरोथी हॉजकिन", "रोजालिंड फ्रैंकलिन"],
+    "c": 1,
+    "exp": "Marie Curie was the first woman to win a Nobel Prize (Physics, 1903) and later won a second Nobel Prize (Chemistry, 1911) for her research into radium and polonium.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which of the following is the largest brackish water lagoon in India and Asia, situated on the east coast?",
+    "hi": "पूर्वी तट पर स्थित, निम्नलिखित में से कौन सी भारत और एशिया की सबसे बड़ी खारे पानी की लैगून झील है?",
+    "oEn": ["Pulicat Lake", "Chilika Lake", "Kolleru Lake", "Ashtamudi Lake"],
+    "oHi": ["पुलिकट झील", "चिल्का झील", "कोल्लेरू झील", "अष्टमुडी झील"],
+    "c": 1,
+    "exp": "Chilika Lake in Odisha is the largest brackish water lagoon in Asia and the second-largest coastal lagoon in the world, covering an area of over 1,100 square kilometers.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Who was the first Chief Justice of the Supreme Court of India established under the Constitution?",
+    "hi": "संविधान के तहत स्थापित भारत के सर्वोच्च न्यायालय (Supreme Court) के पहले मुख्य न्यायाधीश कौन थे?",
+    "oEn": ["M. Patanjali Sastri", "Harilal Jekisundas Kania", "Mehr Chand Mahajan", "Sudhi Ranjan Das"],
+    "oHi": ["एम. पतंजलि शास्त्री", "हरिलाल जेकिसुनदास कानिया", "मेहर चंद महाजन", "सुधी रंजन दास"],
+    "c": 1,
+    "exp": "Justice Harilal Jekisundas Kania (H.J. Kania) served as the first Chief Justice of independent India from 26 January 1950 until his sudden death while in office in November 1951.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Which is the highest plateau in India, acting as a high-altitude cold desert?",
+    "hi": "भारत का सबसे ऊंचा पठार कौन सा है, जो एक उच्च ऊंचाई वाले ठंडे रेगिस्तान के रूप में कार्य करता है?",
+    "oEn": ["Malwa Plateau", "Chota Nagpur Plateau", "Ladakh Plateau", "Deccan Traps"],
+    "oHi": ["मालवा का पठार", "छोटा नागपुर का पठार", "लद्दाख का पठार", "दक्कन ट्रैप"],
+    "c": 2,
+    "exp": "The Ladakh Plateau is the highest plateau in India, with an altitude varying from over 3,000 meters to more than 5,000 meters, lying between the Kunlun and western Himalayan mountain ranges.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Who among the following was the first woman to cross seven important seas of the world by swimming?",
+    "hi": "निम्नलिखित में से कौन तैरकर दुनिया के सात महत्वपूर्ण सागरों को पार करने वाली पहली महिला थीं?",
+    "oEn": ["Bula Choudhury", "Arati Saha", "Bhakti Sharma", "Arati Pradhan"],
+    "oHi": ["बुला चौधरी", "आरती साहा", "भक्ति शर्मा", "आरती प्रधान"],
+    "c": 0,
+    "exp": "Bula Choudhury is a former national swimming champion of India who became the first woman to swim across sea channels off five continents, including crossing the English Channel twice.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which country features the world's largest drainage basin by volume of water discharged?",
+    "hi": "विसर्जित पानी की मात्रा (जल प्रवाह वॉल्यूम) के हिसाब से दुनिया का सबसे बड़ा जल निकासी बेसिन (ड्रेनेज बेसिन) किस देश में है?",
+    "oEn": ["Egypt (Nile River)", "Brazil (Amazon River)", "China (Yangtze River)", "United States (Mississippi River)"],
+    "oHi": ["मिस्र (नील नदी)", "ब्राजील (अमेज़न नदी)", "चीन (यांग्तज़ी नदी)", "संयुक्त राज्य अमेरिका (मिसिसिपी नदी)"],
+    "c": 1,
+    "exp": "The Amazon River in South America (primarily flowing through Brazil) possesses the largest drainage basin in the world, discharging more water into the ocean than the next seven largest rivers combined.",
+    "Pyq": "SSC_CGL_2024"
+  }
+]
