@@ -1,0 +1,452 @@
+[
+  {
+    "en": "Which of the following falls under the primary sector of an economy?",
+    "hi": "निम्नलिखित में से कौन सा अर्थव्यवस्था के प्राथमिक क्षेत्र के अंतर्गत आता है?",
+    "oEn": ["Banking", "Automobile manufacturing", "Forestry and Logging", "Information Technology"],
+    "oHi": ["बैंकिंग", "ऑटोमोबाइल विनिर्माण", "वानिकी और लॉगिंग", "सूचना प्रौद्योगिकी"],
+    "c": 2,
+    "exp": "The primary sector involves the extraction and harvesting of natural resources. Forestry, logging, agriculture, and mining fall under this sector.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The value of national income adjusted for inflation is called:",
+    "hi": "मुद्रास्फीति के लिए समायोजित राष्ट्रीय आय के मूल्य को क्या कहा जाता है?",
+    "oEn": ["Nominal National Income", "Real National Income", "Per Capita Income", "Disposable Income"],
+    "oHi": ["नाममात्र राष्ट्रीय आय", "वास्तविक राष्ट्रीय आय", "प्रति व्यक्ति आय", "प्रयोज्य आय"],
+    "c": 1,
+    "exp": "Real National Income is calculated by adjusting nominal income for inflation using a base year price index.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which organization calculates the National Income in India?",
+    "hi": "भारत में राष्ट्रीय आय की गणना कौन सा संगठन करता है?",
+    "oEn": ["NITI Aayog", "National Statistical Office (NSO)", "Reserve Bank of India", "Ministry of Finance"],
+    "oHi": ["नीति आयोग", "राष्ट्रीय सांख्यिकी कार्यालय (NSO)", "भारतीय रिजर्व बैंक", "वित्त मंत्रालय"],
+    "c": 1,
+    "exp": "The National Statistical Office (NSO), which comes under the Ministry of Statistics and Programme Implementation (MoSPI), calculates National Income in India.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "What is the formula to calculate Net Domestic Product (NDP)?",
+    "hi": "शुद्ध घरेलू उत्पाद (NDP) की गणना करने का सूत्र क्या है?",
+    "oEn": ["GDP + Net Factor Income from Abroad", "GDP - Depreciation", "GNP - Depreciation", "GDP - Subsidies"],
+    "oHi": ["GDP + विदेशों से शुद्ध कारक आय", "GDP - मूल्यह्रास (Depreciation)", "GNP - मूल्यह्रास (Depreciation)", "GDP - सब्सिडी"],
+    "c": 1,
+    "exp": "Net Domestic Product (NDP) is equal to Gross Domestic Product (GDP) minus Depreciation.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The relationship between the rate of tax and the total tax revenue collected by the government is illustrated by which of the following curves?",
+    "hi": "कर की दर और सरकार द्वारा एकत्र किए गए कुल कर राजस्व के बीच के संबंध को निम्नलिखित में से किस वक्र द्वारा दर्शाया गया है?",
+    "oEn": ["Phillips Curve", "Lorenz Curve", "Laffer Curve", "Kuznets Curve"],
+    "oHi": ["फिलिप्स वक्र", "लॉरेंज वक्र", "लाफ़र वक्र", "कुज़नेट वक्र"],
+    "c": 2,
+    "exp": "The Laffer Curve shows the relationship between tax rates and tax revenue, suggesting an optimal tax rate that maximizes revenue.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "In economic terms, what does 'Stagflation' mean?",
+    "hi": "आर्थिक संदर्भ में, 'स्टैगफ्लेशन' (Stagflation) का क्या अर्थ है?",
+    "oEn": ["High inflation combined with high unemployment", "Low inflation combined with high growth", "High inflation combined with high growth", "Hyperinflation with zero unemployment"],
+    "oHi": ["उच्च मुद्रास्फीति के साथ उच्च बेरोजगारी", "कम मुद्रास्फीति के साथ उच्च विकास", "उच्च मुद्रास्फीति के साथ उच्च विकास", "शून्य बेरोजगारी के साथ अति-मुद्रास्फीति"],
+    "c": 0,
+    "exp": "Stagflation is an economic condition characterized by slow economic growth (stagnation) and relatively high unemployment accompanied by rising prices (inflation).",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which index is primarily used by the Reserve Bank of India (RBI) to measure headline inflation for its monetary policy?",
+    "hi": "भारतीय रिजर्व बैंक (RBI) द्वारा मौद्रिक नीति के लिए मुख्य (Headline) मुद्रास्फीति को मापने के लिए मुख्य रूप से किस सूचकांक का उपयोग किया जाता है?",
+    "oEn": ["Wholesale Price Index (WPI)", "Consumer Price Index (CPI) Combined", "Index of Industrial Production (IIP)", "GDP Deflator"],
+    "oHi": ["थोक मूल्य सूचकांक (WPI)", "उपभोक्ता मूल्य सूचकांक (CPI) संयुक्त", "औद्योगिक उत्पादन सूचकांक (IIP)", "जीडीपी डिफ्लेटर"],
+    "c": 1,
+    "exp": "The RBI uses the Consumer Price Index (CPI) Combined as its primary measure of inflation to set target policy rates.",
+    "Pyq": "SSC_CGL_2025"
+  },
+  {
+    "en": "What kind of unemployment is mostly found in the agricultural sector of India?",
+    "hi": "भारत के कृषि क्षेत्र में अधिकांशतः किस प्रकार की बेरोजगारी पाई जाती है?",
+    "oEn": ["Structural Unemployment", "Frictional Unemployment", "Disguised Unemployment", "Cyclical Unemployment"],
+    "oHi": ["संरचनात्मक बेरोजगारी", "घर्षणात्मक बेरोजगारी", "प्रच्छन्न (छिपी हुई) बेरोजगारी", "चक्रीय बेरोजगारी"],
+    "c": 2,
+    "exp": "Disguised unemployment occurs when more people are employed than are actually needed. It is heavily prevalent in Indian agriculture.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The type of unemployment that occurs during a recession in an economy is known as:",
+    "hi": "अर्थव्यवस्था में मंदी के दौरान होने वाली बेरोजगारी को किस रूप में जाना जाता है?",
+    "oEn": ["Frictional Unemployment", "Structural Unemployment", "Cyclical Unemployment", "Voluntary Unemployment"],
+    "oHi": ["घर्षणात्मक बेरोजगारी", "संरचनात्मक बेरोजगारी", "चक्रीय बेरोजगारी", "स्वैच्छिक बेरोजगारी"],
+    "c": 2,
+    "exp": "Cyclical unemployment is directly related to the macroeconomic ups and downs, rising during economic recessions and falling during expansions.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Planning Commission of India was replaced by NITI Aayog in which year?",
+    "hi": "भारत के योजना आयोग को किस वर्ष नीति (NITI) आयोग द्वारा प्रतिस्थापित किया गया था?",
+    "oEn": ["2014", "2015", "2016", "2017"],
+    "oHi": ["2014", "2015", "2016", "2017"],
+    "c": 1,
+    "exp": "NITI Aayog (National Institution for Transforming India) was established on January 1, 2015, replacing the 65-year-old Planning Commission.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Who is the ex-officio Chairperson of NITI Aayog?",
+    "hi": "नीति (NITI) आयोग का पदेन अध्यक्ष कौन होता है?",
+    "oEn": ["President of India", "Finance Minister of India", "Prime Minister of India", "Governor of RBI"],
+    "oHi": ["भारत के राष्ट्रपति", "भारत के वित्त मंत्री", "भारत के प्रधानमंत्री", "आरबीआई के गवर्नर"],
+    "c": 2,
+    "exp": "The Prime Minister of India serves as the ex-officio Chairperson of NITI Aayog.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "During which Five-Year Plan did India introduce the 'Green Revolution'?",
+    "hi": "किस पंचवर्षीय योजना के दौरान भारत में 'हरित क्रांति' की शुरुआत की गई थी?",
+    "oEn": ["First Five-Year Plan", "Second Five-Year Plan", "Third Five-Year Plan", "Fourth Five-Year Plan"],
+    "oHi": ["पहली पंचवर्षीय योजना", "दूसरी पंचवर्षीय योजना", "तीसरी पंचवर्षीय योजना", "चौथी पंचवर्षीय योजना"],
+    "c": 2,
+    "exp": "The Green Revolution was launched in the mid-1960s, during the Third Five-Year Plan period (specifically during the Plan Holidays following it).",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The 'Mahalanobis Model' was the basis for which Five-Year Plan of India?",
+    "hi">'महालनोबिस मॉडल' भारत की किस पंचवर्षीय योजना का आधार था?",
+    "oEn": ["First Five-Year Plan", "Second Five-Year Plan", "Third Five-Year Plan", "Fifth Five-Year Plan"],
+    "oHi": ["पहली पंचवर्षीय योजना", "दूसरी पंचवर्षीय योजना", "तीसरी पंचवर्षीय योजना", "पांचवीं पंचवर्षीय योजना"],
+    "c": 1,
+    "exp": "The Second Five-Year Plan (1956–1961) was based on the Mahalanobis model, which focused on heavy industrialization.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "What is the slogan of the 11th Five-Year Plan of India?",
+    "hi": "भारत की 11वीं पंचवर्षीय योजना का नारा क्या था?",
+    "oEn": ["Eradication of Poverty", "Towards faster and more inclusive growth", "Faster, Sustainable and More Inclusive Growth", "Growth with Justice and Equity"],
+    "oHi": ["गरीबी उन्मूलन", "तीव्र और अधिक समावेशी विकास की ओर", "तीव्र, सतत और अधिक समावेशी विकास", "न्याय और समानता के साथ विकास"],
+    "c": 1,
+    "exp": "The basic theme of the 11th Five-Year Plan (2007-2012) was 'Towards faster and more inclusive growth'.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The quantitative instrument of monetary policy used by RBI to mandatorily keep a certain percentage of deposits with itself in cash form is called:",
+    "hi": "आरबीआई द्वारा मौद्रिक नीति के मात्रात्मक उपकरण के रूप में, जमा का एक निश्चित प्रतिशत अपने पास नकद रूप में रखना अनिवार्य करना क्या कहलाता है?",
+    "oEn": ["Statutory Liquidity Ratio (SLR)", "Cash Reserve Ratio (CRR)", "Bank Rate", "Repo Rate"],
+    "oHi": ["वैधानिक तरलता अनुपात (SLR)", "नकद आरक्षित अनुपात (CRR)", "बैंक दर", "रेपो दर"],
+    "c": 1,
+    "exp": "Cash Reserve Ratio (CRR) is a specific percentage of total deposits (NDTL) that commercial banks have to keep with the RBI in the form of cash.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The interest rate at which the Reserve Bank of India lends short-term money to commercial banks against government securities is called:",
+    "hi": "वह ब्याज दर जिस पर भारतीय रिजर्व बैंक सरकारी प्रतिभूतियों के एवज में वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है, कहलाती है:",
+    "oEn": ["Reverse Repo Rate", "Repo Rate", "Bank Rate", "Marginal Standing Facility Rate"],
+    "oHi": ["रिवर्स रेपो दर", "रेपो दर", "बैंक दर", "सीमांत स्थायी सुविधा दर"],
+    "c": 1,
+    "exp": "Repo Rate (Repurchase Option) is the rate at which RBI lends short-term money to commercial banks.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which of the following is an example of a qualitative or selective credit control weapon of the RBI?",
+    "hi": "निम्नलिखित में से कौन सा आरबीआई के गुणात्मक या चयनात्मक साख नियंत्रण उपकरण का एक उदाहरण है?",
+    "oEn": ["Open Market Operations", "Moral Suasion", "Bank Rate Policy", "Variable Reserve Ratios"],
+    "oHi": ["खुले बाजार की प्रक्रियाएं", "नैतिक दबाव (Moral Suasion)", "बैंक दर नीति", "परिवर्तनीय आरक्षित अनुपात"],
+    "c": 1,
+    "exp": "Moral suasion, fixing margin requirements, and rationing of credit are qualitative credit control methods used by the RBI.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "In which year were 14 major commercial banks nationalized in India for the first time?",
+    "hi": "भारत में पहली बार 14 प्रमुख वाणिज्यिक बैंकों का राष्ट्रीयकरण किस वर्ष किया गया था?",
+    "oEn": ["1955", "1969", "1980", "1991"],
+    "oHi": ["1955", "1969", "1980", "1991"],
+    "c": 1,
+    "exp": "On July 19, 1969, the Government of India nationalized 14 major commercial banks under the premiership of Indira Gandhi.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which committee recommended the establishment of NABARD?",
+    "hi "नाबार्ड (NABARD) की स्थापना की सिफारिश किस समिति ने की थी?",
+    "oEn": ["Narasimham Committee", "B. Sivaraman Committee", "Hilton Young Commission", "Urjit Patel Committee"],
+    "oHi": ["नरसिम्हम समिति", "बी. शिवरामन समिति", "हिल्टन यंग आयोग", "उर्जित पटेल समिति"],
+    "c": 1,
+    "exp": "NABARD (National Bank for Agriculture and Rural Development) was established on July 12, 1982, on the recommendations of the B. Sivaraman Committee.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The market structure in which there are only a few dominant sellers selling homogeneous or differentiated products is called:",
+    "hi": "वह बाजार संरचना जिसमें समरूप या विभेदित उत्पादों को बेचने वाले केवल कुछ ही प्रमुख विक्रेता होते हैं, कहलाती है:",
+    "oEn": ["Monopoly", "Monopolistic Competition", "Oligopoly", "Perfect Competition"],
+    "oHi": ["एकाधिकार (Monopoly)", "एकाधिकारी प्रतियोगिता", "अल्पाधिकार (Oligopoly)", "पूर्ण प्रतियोगिता"],
+    "c": 2,
+    "exp": "An Oligopoly is a market structure characterized by a small number of large firms that dominate the industry.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Goods for which demand expands when the price of the good rises and contracts when price falls are legally called:",
+    "hi": "वे वस्तुएँ जिनकी माँग वस्तु की कीमत बढ़ने पर बढ़ती है और कीमत कम होने पर घटती है, क्या कहलाती हैं?",
+    "oEn": ["Normal Goods", "Giffen Goods", "Complementary Goods", "Substitute Goods"],
+    "oHi": ["सामान्य वस्तुएँ", "गिफन वस्तुएँ (Giffen Goods)", "पूरक वस्तुएँ", "स्थानापन्न वस्तुएँ"],
+    "c": 1,
+    "exp": "Giffen goods are inferior goods that violate the basic law of demand, showing an upward-sloping demand curve because positive income effects outweigh substitution effects.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "If two goods are perfect substitutes for each other, the cross-price elasticity of demand between them will be:",
+    "hi": "यदि दो वस्तुएँ एक-दूसरे के पूर्ण स्थानापन्न हैं, तो उनके बीच माँग की आड़ी-तिरछी लोच (Cross-Price Elasticity) क्या होगी?",
+    "oEn": ["Zero", "Negative", "Infinite", "One"],
+    "oHi": ["शून्य", "ऋणात्मक", "अनंत (Infinite)", "एक"],
+    "c": 2,
+    "exp": "For perfect substitutes, the cross-price elasticity of demand is positive and infinite because consumers will completely switch over to the substitute if price increases slightly.",
+    "Pyq": "SSC_CGL_2025"
+  },
+  {
+    "en": "The law of diminishing marginal utility states that as a consumer increases the consumption of a commodity, the marginal utility derived from each additional unit:",
+    "hi": "ह्रासमान सीमांत उपयोगिता का नियम बताता है कि जैसे-जैसे एक उपभोक्ता किसी वस्तु की खपत बढ़ाता है, प्रत्येक अतिरिक्त इकाई से प्राप्त सीमांत उपयोगिता:",
+    "oEn": ["Increases", "Decreases", "Remains Constant", "First decreases then increases"],
+    "oHi": ["बढ़ती है", "घटती है", "स्थिर रहती है", "पहले घटती है फिर बढ़ती है"],
+    "c": 1,
+    "exp": "According to this law, the marginal utility (extra satisfaction) obtained from consuming sequential extra units of a good continuously declines.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following acts as the regulator for the capital market and stock exchanges in India?",
+    "hi": "निम्नलिखित में से कौन भारत में पूंजी बाजार और शेयर बाजारों के नियामक (Regulator) के रूप में कार्य करता है?",
+    "oEn": ["RBI", "SEBI", "IRDAI", "PFRDA"],
+    "oHi": ["RBI", "SEBI (सेबी)", "IRDAI", "PFRDA"],
+    "c": 1,
+    "exp": "The Securities and Exchange Board of India (SEBI) is the regulatory body for securities and capital markets in India, established statutory powers in 1992.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "What type of tax is the Goods and Services Tax (GST) in India?",
+    "hi": "भारत में वस्तु एवं सेवा कर (GST) किस प्रकार का कर है?",
+    "oEn": ["Direct Tax", "Indirect Tax", "Progressive Tax", "Corporation Tax"],
+    "oHi": ["प्रत्यक्ष कर", "अप्रत्यक्ष कर", "प्रगतिशील कर", "निगम कर"],
+    "c": 1,
+    "exp": "GST is a comprehensive, multi-stage, destination-based indirect tax that replaced many central and state indirect taxes in India.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which article of the Indian Constitution mentions the Union Budget as the 'Annual Financial Statement'?",
+    "hi": "भारतीय संविधान के किस अनुच्छेद में केंद्रीय बजट को 'वार्षिक वित्तीय विवरण' के रूप में उल्लेखित किया गया है?",
+    "oEn": ["Article 110", "Article 112", "Article 280", "Article 360"],
+    "oHi": ["अनुच्छेद 110", "अनुच्छेद 112", "अनुच्छेद 280", "अनुच्छेद 360"],
+    "c": 1,
+    "exp": "Article 112 of the Constitution of India deals with the Annual Financial Statement, popularly referred to as the Union Budget.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The situation when government's total expenditure exceeds its total revenue excluding borrowings is called:",
+    "hi": "वह स्थिति जब सरकार का कुल व्यय, ऋण लेने को छोड़कर कुल राजस्व से अधिक हो जाता है, कहलाती है:",
+    "oEn": ["Revenue Deficit", "Fiscal Deficit", "Primary Deficit", "Budgetary Deficit"],
+    "oHi": ["राजस्व घाटा", "राजकोषीय घाटा (Fiscal Deficit)", "प्राथमिक घाटा", "बजटीय घाटा"],
+    "c": 1,
+    "exp": "Fiscal Deficit is the excess of total expenditure over total receipts excluding borrowings. It reflects the total borrowing requirements of the government.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Primary Deficit is measured as:",
+    "hi": "प्राथमिक घाटे (Primary Deficit) को किस रूप में मापा जाता है?",
+    "oEn": ["Fiscal Deficit - Interest Payments", "Fiscal Deficit + Interest Payments", "Revenue Deficit - Subsidies", "Total Budget Expenditure - Borrowings"],
+    "oHi": ["राजकोषीय घाटा - ब्याज भुगतान", "राजकोषीय घाटा + ब्याज भुगतान", "राजस्व घाटा - सब्सिडी", "कुल बजट व्यय - ऋण"],
+    "c": 0,
+    "exp": "Primary Deficit is calculated by subtracting interest payments from the fiscal deficit of the current year.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which Finance Commission is responsible for recommendations regarding tax devolution for the period 2021-22 to 2025-26?",
+    "hi": "वर्ष 2021-22 से 2025-26 की अवधि के लिए कर हस्तांतरण के संबंध में सिफारिशों के लिए कौन सा वित्त आयोग जिम्मेदार है?",
+    "oEn": ["13th Finance Commission", "14th Finance Commission", "15th Finance Commission", "16th Finance Commission"],
+    "oHi": ["13वां वित्त आयोग", "14वां वित्त आयोग", "15वां वित्त आयोग", "16वां वित्त आयोग"],
+    "c": 2,
+    "exp": "The 15th Finance Commission, chaired by N.K. Singh, gave recommendations covering the period up to 2025-26.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The Lorenz Curve is used to measure which economic concept?",
+    "hi": "लॉरेंज वक्र का उपयोग किस आर्थिक अवधारणा को मापने के लिए किया जाता है?",
+    "oEn": ["Inflation rate", "Unemployment rate", "Income Inequality", "Poverty Line"],
+    "oHi": ["मुद्रास्फीति दर", "बेरोजगारी दर", "आय की असमानता", "गरीबी रेखा"],
+    "c": 2,
+    "exp": "The Lorenz curve is a graphical representation of the distribution of income or of wealth. It is closely used to calculate the Gini Coefficient.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "What is the mathematical coefficient value representing perfect income equality in an economy via Gini Index?",
+    "hi": "गिनी सूचकांक के माध्यम से किसी अर्थव्यवस्था में पूर्ण आय समानता को दर्शाने वाला गणितीय गुणांक मान क्या है?",
+    "oEn": ["1", "0", "100", "0.5"],
+    "oHi": ["1", "0", "100", "0.5"],
+    "c": 1,
+    "exp": "A Gini coefficient of 0 expresses perfect equality (everyone has the same income), while a coefficient of 1 (or 100%) expresses maximal inequality.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Deficit financing leads to inflation because it increases which of the following directly?",
+    "hi": "घाटे की वित्तव्यवस्था (Deficit financing) से मुद्रास्फीति होती है क्योंकि इससे सीधे तौर पर निम्नलिखित में से क्या बढ़ता है?",
+    "oEn": ["Public debt", "Money supply in the economy", "Direct taxes", "Government structural control"],
+    "oHi": ["सार्वजनिक ऋण", "अर्थव्यवस्था में मुद्रा की आपूर्ति", "प्रत्यक्ष कर", "सरकारी संरचनात्मक नियंत्रण"],
+    "c": 1,
+    "exp": "Deficit financing involves printing more currency or expanding credit, which directly increases the total money supply in the economy, causing inflation.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following institutions releases the 'Global Economic Prospects' report?",
+    "hi": "निम्नलिखित में से कौन सा संस्थान 'ग्लोबल इकोनॉमिक प्रॉस्पेक्ट्स' (Global Economic Prospects) रिपोर्ट जारी करता है?",
+    "oEn": ["International Monetary Fund (IMF)", "World Bank", "World Economic Forum (WEF)", "World Trade Organization (WTO)"],
+    "oHi": ["अंतरराष्ट्रीय मौद्रिक कोष (IMF)", "विश्व बैंक (World Bank)", "विश्व आर्थिक मंच (WEF)", "विश्व व्यापार संगठन (WTO)"],
+    "c": 1,
+    "exp": "The Global Economic Prospects is a flagship report of the World Bank Group issued twice a year.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Where are the headquarters of the World Trade Organization (WTO) located?",
+    "hi": "विश्व व्यापार संगठन (WTO) का मुख्यालय कहाँ स्थित है?",
+    "oEn": ["Washington D.C., USA", "Geneva, Switzerland", "Paris, France", "Vienna, Austria"],
+    "oHi": ["वाशिंगटन डी.सी., यूएसए", "जेनेवा, स्विट्जरलैंड", "पेरिस, फ्रांस", "वियना, ऑस्ट्रिया"],
+    "c": 1,
+    "exp": "The World Trade Organization (WTO) officially commenced on 1 January 1995 under the Marrakesh Agreement, replacing GATT. Its headquarters are in Geneva, Switzerland.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Devaluation of a currency typically leads to which outcome in international trade?",
+    "hi": "किसी मुद्रा के अवमूल्यन (Devaluation) से आमतौर पर अंतरराष्ट्रीय व्यापार में क्या परिणाम होता है?",
+    "oEn": ["Exports become cheaper and imports become costlier", "Exports become costlier and imports become cheaper", "Both exports and imports become cheaper", "No effect on trade balance"],
+    "oHi": ["निर्यात सस्ता और आयात महंगा हो जाता है", "निर्यात महंगा और आयात सस्ता हो जाता है", "निर्यात और आयात दोनों सस्ते हो जाते हैं", "व्यापार संतुलन पर कोई प्रभाव नहीं पड़ता"],
+    "c": 0,
+    "exp": "Devaluation means lowering the value of a domestic currency against foreign currencies. It makes the country's exports cheaper and imports more expensive.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The concept of 'Inside Money' and 'Outside Money' was originally introduced by whom?",
+    "hi": "'इनसाइड मनी' (Inside Money) और 'आउटसाइड मनी' (Outside Money) की अवधारणा मूल रूप से किसके द्वारा प्रस्तुत की गई थी?",
+    "oEn": ["John Maynard Keynes", "Milton Friedman", "Gurley and Shaw", "Adam Smith"],
+    "oHi": ["जॉन मेनार्ड कीन्स", "मिल्टन फ्रीडमैन", "गुर्ले और शॉ", "एडम स्मिथ"],
+    "c": 2,
+    "exp": "John G. Gurley and Edward S. Shaw introduced the distinction between inside money (backed by private debt) and outside money (backed by fiat government asset).",
+    "Pyq": "SSC_CGL_2025"
+  },
+  {
+    "en": "Who wrote the famous book 'The Wealth of Nations', published in 1776, founding modern classical economics?",
+    "hi": "1776 में प्रकाशित प्रसिद्ध पुस्तक 'द वेल्थ ऑफ नेशंस' किसने लिखी थी, जिसने आधुनिक शास्त्रीय अर्थशास्त्र की नींव रखी?",
+    "oEn": ["David Ricardo", "Adam Smith", "Karl Marx", "Alfred Marshall"],
+    "oHi": ["डेविड रिकार्डो", "एडम स्मिथ", "कार्ल मार्क्स", "अल्फ्रेड मार्शल"],
+    "c": 1,
+    "exp": "Adam Smith is known as the 'Father of Economics'. His work 'An Inquiry into the Nature and Causes of the Wealth of Nations' is foundational.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The minimum interest rate below which a commercial bank is legally not permitted to lend to its customers (except cases allowed by RBI) is currently governed under which system?",
+    "hi": "वह न्यूनतम ब्याज दर जिसके नीचे एक वाणिज्यिक बैंक को अपने ग्राहकों को उधार देने की कानूनी रूप से अनुमति नहीं होती है (आरबीआई द्वारा स्वीकृत मामलों को छोड़कर), वर्तमान में किस प्रणाली के तहत प्रशासित होती है?",
+    "oEn": ["Base Rate", "MCLR", "External Benchmark Lending Rate (EBLR)", "Prime Lending Rate"],
+    "oHi": ["बेस रेट", "MCLR", "एक्सटर्नल बेंचमार्क लेंडिंग रेट (EBLR)", "प्राइम लेंडिंग रेट"],
+    "c": 2,
+    "exp": "RBI mandates retail loans to be tied to an External Benchmark Lending Rate (EBLR) such as the Repo Rate to ensure faster monetary transmission.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which sector contributes the maximum to India's Gross Domestic Product (GDP) currently?",
+    "hi": "वर्तमान में भारत के सकल घरेलू उत्पाद (GDP) में कौन सा क्षेत्र अधिकतम योगदान देता है?",
+    "oEn": ["Primary Sector", "Secondary Sector", "Tertiary (Service) Sector", "Manufacturing Sector"],
+    "oHi": ["प्राथमिक क्षेत्र", "द्वितीयक क्षेत्र", "तृतीयक (सेवा) क्षेत्र", "विनिर्माण क्षेत्र"],
+    "c": 2,
+    "exp": "The Service/Tertiary sector contributes more than 53% to India's GDP, making it the largest contributor.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The process of selling government equity stakes in public sector enterprises to private entities is called:",
+    "hi": "सार्वजनिक क्षेत्र के उद्यमों में सरकारी इक्विटी हिस्सेदारी को निजी संस्थाओं को बेचने की प्रक्रिया को क्या कहा जाता है?",
+    "oEn": ["Disinvestment", "Nationalization", "Capitalization", "Globalization"],
+    "oHi": ["विनिवेश (Disinvestment)", "राष्ट्रीयकरण", "पूंजीकरण", "वैश्वीकरण"],
+    "c": 0,
+    "exp": "Disinvestment means dilution of the government's stake in a public sector undertaking.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which of the following is considered the most liquid measure of money supply in India?",
+    "hi": "निम्नलिखित में से किसे भारत में मुद्रा आपूर्ति का सबसे तरल (Most Liquid) माप माना जाता है?",
+    "oEn": ["M1", "M2", "M3", "M4"],
+    "oHi": ["M1", "M2", "M3", "M4"],
+    "c": 0,
+    "exp": "M1 consists of currency with the public + demand deposits with banks. It is called narrow money and is the most liquid.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "M3 money supply measure is widely known as:",
+    "hi": "M3 मुद्रा आपूर्ति माप को व्यापक रूप से किस रूप में जाना जाता है?",
+    "oEn": ["Narrow Money", "Broad Money", "Reserve Money", "High Powered Money"],
+    "oHi": ["संकीर्ण मुद्रा (Narrow Money)", "विस्तृत मुद्रा (Broad Money)", "आरक्षित मुद्रा", "उच्च शक्ति वाली मुद्रा"],
+    "c": 1,
+    "exp": "M3 includes M1 + time deposits with the banking system. It is called Broad Money due to its size and scope.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "An economy that does not engage in any international trade or economic exchanges with other nations is called:",
+    "hi": "वह अर्थव्यवस्था जो अन्य राष्ट्रों के साथ किसी भी अंतरराष्ट्रीय व्यापार या आर्थिक आदान-प्रदान में शामिल नहीं होती है, कहलाती है:",
+    "oEn": ["Open Economy", "Mixed Economy", "Closed Economy", "Socialist Economy"],
+    "oHi": ["खुली अर्थव्यवस्था", "मिश्रित अर्थव्यवस्था", "बंद अर्थव्यवस्था (Closed Economy)", "समाजवादी अर्थव्यवस्था"],
+    "c": 2,
+    "exp": "A closed economy is self-sufficient, meaning no imports come into the country and no exports leave the country.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The marginal propensity to consume (MPC) lies strictly between which values?",
+    "hi": "उपभोग करने की सीमांत प्रवृत्ति (MPC) का मान निश्चित रूप से किन मूल्यों के बीच होता है?",
+    "oEn": ["-1 and 1", "0 and 1", "1 and 10", "0 and infinity"],
+    "oHi": ["-1 और 1", "0 और 1", "1 और 10", "0 और अनंत"],
+    "c": 1,
+    "exp": "MPC represents the proportion of an aggregate raise in pay that a consumer spends on the consumption of goods and services. It always ranges between 0 and 1.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "What does a Phillips Curve show the inverse relationship between?",
+    "hi": "फिलिप्स वक्र (Phillips Curve) किनके बीच के व्युत्क्रम (Inverse) संबंध को दर्शाता है?",
+    "oEn": ["Tax rate and revenue", "Inflation and Unemployment", "Income and inequality", "Poverty and economic growth"],
+    "oHi": ["कर की दर और राजस्व", "मुद्रास्फीति और बेरोजगारी", "आय और असमानता", "गरीबी और आर्थिक विकास"],
+    "c": 1,
+    "exp": "The Phillips Curve shows that inflation and unemployment have an inverse relationship; higher inflation is associated with lower unemployment.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The absolute concept of 'Human Development Index' (HDI) was introduced by which economist?",
+    "hi": "'मानव विकास सूचकांक' (HDI) की अमूर्त अवधारणा किस अर्थशास्त्री द्वारा शुरू की गई थी?",
+    "oEn": ["Amartya Sen", "Mahbub ul Haq", "Jagdish Bhagwati", "Abhijit Banerjee"],
+    "oHi": ["अमर्त्य सेन", "महबूब उल हक", "जगदीश भगवती", "अभिजीत बनर्जी"],
+    "c": 1,
+    "exp": "Pakistani economist Mahbub ul Haq created the Human Development Index in 1990, alongside Indian Nobel laureate Amartya Sen.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following is not included in the calculation of GDP of a nation?",
+    "hi": "निम्नलिखित में से किसे किसी देश के सकल घरेलू उत्पाद (GDP) की गणना में शामिल नहीं किया जाता है?",
+    "oEn": ["Sale of a newly manufactured car", "Brokerage fee on property sale", "Resale of old second-hand goods", "Services produced by a local hotel"],
+    "oHi": ["एक नई निर्मित कार की बिक्री", "संपत्ति की बिक्री पर ब्रोकरेज शुल्क", "पुरानी सेकंड-हैंड वस्तुओं की पुनर्विक्रय", "एक स्थानीय होटल द्वारा उत्पादित सेवाएँ"],
+    "c": 2,
+    "exp": "GDP includes only newly produced goods and services in the current year. The resale of old second-hand goods is excluded as its value was already counted when produced.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The value of an asset or alternative that is forgone to choose a certain action or asset is called:",
+    "hi": "किसी निश्चित कार्य या संपत्ति को चुनने के लिए छोड़ी गई वैकल्पिक वस्तु या संपत्ति के मूल्य को क्या कहा जाता है?",
+    "oEn": ["Sunk Cost", "Variable Cost", "Opportunity Cost", "Marginal Cost"],
+    "oHi": ["डूबत लागत (Sunk Cost)", "परिवर्तनीय लागत", "अवसर लागत (Opportunity Cost)", "सीमांत लागत"],
+    "c": 2,
+    "exp": "Opportunity cost represents the potential benefits an individual, investor, or business misses out on when choosing one alternative over another.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "In India, the Foreign Exchange Reserves are kept under the safe custody of which institution?",
+    "hi": "भारत में, विदेशी मुद्रा भंडार को किस संस्थान के सुरक्षित संरक्षण में रखा जाता है?",
+    "oEn": ["State Bank of India", "Ministry of Commerce", "Reserve Bank of India", "Exim Bank of India"],
+    "oHi": ["भारतीय स्टेट बैंक", "वाणिज्य मंत्रालय", "भारतीय रिजर्व बैंक (RBI)", "भारतीय एक्ज़िम बैंक"],
+    "c": 2,
+    "exp": "The Reserve Bank of India (RBI) is the custodian and manager of India's foreign exchange reserves.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which financial market instrument is also known as 'Maturity over 1 day up to 14 days' money in the inter-bank market?",
+    "hi": "अंतर-बैंक बाजार में किस वित्तीय बाजार उपकरण को '1 दिन से अधिक और 14 दिन तक की परिपक्वता' वाले धन के रूप में जाना जाता है?",
+    "oEn": ["Call Money", "Notice Money", "Term Money", "Commercial Paper"],
+    "oHi": ["कॉल मनी (Call Money)", "नोटिस मनी (Notice Money)", "टर्म मनी (Term Money)", "कमर्शियल पेपर"],
+    "c": 1,
+    "exp": "In the Indian money market, Call money is for 1 day, Notice money is for 2 to 14 days, and Term money is for more than 14 days.",
+    "Pyq": "SSC_CGL_2025"
+  }
+]
