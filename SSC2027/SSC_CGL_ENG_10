@@ -1,0 +1,302 @@
+[
+  {
+    "en": "The rapid expansion of online streaming platforms has fundamentally transformed the global entertainment landscape. Traditional television networks, once the undisputed ________ (1) of media consumption, are now struggling to retain their audiences. Viewers are increasingly drawn to the convenience of on-demand content, which allows them to bypass rigid broadcasting schedules. This shift has forced production houses to invest heavily in original programming to avoid becoming redundant in a highly competitive market. Furthermore, the global reach of these platforms has democratized content distribution, allowing foreign-language films to gain unprecedented international acclaim. However, this digital boom is not without its challenges, as content creators must constantly navigate shifting algorithmic preferences that dictate visibility. The sheer volume of choice can also lead to decision fatigue, where consumers spend more time browsing titles than actually watching them. Ultimately, platforms that fail to continuously innovate their content delivery systems risk losing their subscriber base to more dynamic rivals. In this rapidly changing ecosystem, adaptability has become the ultimate determinant of long-term viability.\n\n**Question:** Select the most appropriate option to fill in blank number (1).",
+    "oEn": [
+      "arbiters",
+      "spectators",
+      "detractors",
+      "supporters"
+    ],
+    "c": 0,
+    "exp": "'Arbiters' means people or entities that have ultimate authority or control over something. In this context, traditional TV networks were the supreme authorities of media consumption.",
+    "Pyq": "High-Weightage TCS Trend"
+  },
+  {
+    "en": "The rapid expansion of online streaming platforms has fundamentally transformed the global entertainment landscape. Traditional television networks, once the undisputed arbiters of media consumption, are now struggling to retain their audiences. Viewers are increasingly drawn to the convenience of on-demand content, which allows them to bypass rigid broadcasting schedules. This shift has forced production houses to invest heavily in original programming to avoid becoming ________ (2) in a highly competitive market. Furthermore, the global reach of these platforms has democratized content distribution, allowing foreign-language films to gain unprecedented international acclaim. However, this digital boom is not without its challenges, as content creators must constantly navigate shifting algorithmic preferences that dictate visibility. The sheer volume of choice can also lead to decision fatigue, where consumers spend more time browsing titles than actually watching them. Ultimately, platforms that fail to continuously innovate their content delivery systems risk losing their subscriber base to more dynamic rivals. In this rapidly changing ecosystem, adaptability has become the ultimate determinant of long-term viability.\n\n**Question:** Select the most appropriate option to fill in blank number (2).",
+    "oEn": [
+      "redundant",
+      "pivotal",
+      "illustrious",
+      "resilient"
+    ],
+    "c": 0,
+    "exp": "'Redundant' means no longer needed or useful. Production houses must invest in original programming to avoid becoming obsolete or useless in the market.",
+    "Pyq": ""
+  },
+  {
+    "en": "The rapid expansion of online streaming platforms has fundamentally transformed the global entertainment landscape. Traditional television networks, once the undisputed arbiters of media consumption, are now struggling to retain their audiences. Viewers are increasingly drawn to the convenience of on-demand content, which allows them to bypass rigid broadcasting schedules. This shift has forced production houses to invest heavily in original programming to avoid becoming redundant in a highly competitive market. Furthermore, the global reach of these platforms has democratized content distribution, allowing foreign-language films to gain unprecedented international ________ (3). However, this digital boom is not without its challenges, as content creators must constantly navigate shifting algorithmic preferences that dictate visibility. The sheer volume of choice can also lead to decision fatigue, where consumers spend more time browsing titles than actually watching them. Ultimately, platforms that fail to continuously innovate their content delivery systems risk losing their subscriber base to more dynamic rivals. In this rapidly changing ecosystem, adaptability has become the ultimate determinant of long-term viability.\n\n**Question:** Select the most appropriate option to fill in blank number (3).",
+    "oEn": [
+      "isolation",
+      "acclaim",
+      "deprivation",
+      "indifference"
+    ],
+    "c": 1,
+    "exp": "'Acclaim' means enthusiastic approval or praise. Digital platforms have allowed foreign films to achieve widespread international praise.",
+    "Pyq": ""
+  },
+  {
+    "en": "The rapid expansion of online streaming platforms has fundamentally transformed the global entertainment landscape. Traditional television networks, once the undisputed arbiters of media consumption, are now struggling to retain their audiences. Viewers are increasingly drawn to the convenience of on-demand content, which allows them to bypass rigid broadcasting schedules. This shift has forced production houses to invest heavily in original programming to avoid becoming redundant in a highly competitive market. Furthermore, the global reach of these platforms has democratized content distribution, allowing foreign-language films to gain unprecedented international acclaim. However, this digital boom is not without its challenges, as content creators must constantly navigate shifting algorithmic preferences that dictate visibility. The sheer volume of choice can also lead to decision fatigue, where consumers spend more time browsing titles than actually watching them. Ultimately, platforms that fail to continuously ________ (4) their content delivery systems risk losing their subscriber base to more dynamic rivals. In this rapidly changing ecosystem, adaptability has become the ultimate determinant of long-term viability.\n\n**Question:** Select the most appropriate option to fill in blank number (4).",
+    "oEn": [
+      "stagnate",
+      "innovate",
+      "relinquish",
+      "curtail"
+    ],
+    "c": 1,
+    "exp": "'Innovate' means to introduce new methods or ideas. Platforms must upgrade and introduce new content systems to retain users.",
+    "Pyq": "High-Weightage TCS Trend"
+  },
+  {
+    "en": "The rapid expansion of online streaming platforms has fundamentally transformed the global entertainment landscape. Traditional television networks, once the undisputed arbiters of media consumption, are now struggling to retain their audiences. Viewers are increasingly drawn to the convenience of on-demand content, which allows them to bypass rigid broadcasting schedules. This shift has forced production houses to invest heavily in original programming to avoid becoming redundant in a highly competitive market. Furthermore, the global reach of these platforms has democratized content distribution, allowing foreign-language films to gain unprecedented international acclaim. However, this digital boom is not without its challenges, as content creators must constantly navigate shifting algorithmic preferences that dictate visibility. The sheer volume of choice can also lead to decision fatigue, where consumers spend more time browsing titles than actually watching them. Ultimately, platforms that fail to continuously innovate their content delivery systems risk losing their subscriber base to more dynamic rivals. In this rapidly changing ecosystem, adaptability has become the ultimate determinant of long-term ________ (5).\n\n**Question:** Select the most appropriate option to fill in blank number (5).",
+    "oEn": [
+      "obsolescence",
+      "viability",
+      "extinction",
+      "regression"
+    ],
+    "c": 1,
+    "exp": "'Viability' means the ability to work successfully or survive long-term. Adaptability determines whether a platform survives or fails.",
+    "Pyq": ""
+  },
+  {
+    "en": "In the realm of global economics, inflation remains a complex phenomenon that requires constant vigilance from central banks. When the supply of money outpaces economic growth, the purchasing power of currency inevitably ________ (6). To counter this, monetary authorities often raise benchmark interest rates, a move designed to cool down an overheating economy by making borrowing more expensive. While this strategy can effectively curb rising prices, it also runs the risk of stifling economic expansion. Businesses may delay capital investments, and consumers might reduce spending on big-ticket items. Striking the right balance is incredibly difficult, as aggressive rate hikes can accidentally plunge a nation into a recession. Economists frequently debate the optimal threshold for inflation, with some arguing that a low level of controlled inflation is actually conducive for growth. Conversely, hyperinflation can completely destroy public confidence in a nation's financial stability, leading to widespread social unrest. Therefore, central banks must act with extreme circumspection to ensure that policy adjustments do not destabilize the broader financial architecture. Ultimately, maintaining price stability is essential for fostering sustained, long-term economic prosperity.\n\n**Question:** Select the most appropriate option to fill in blank number (6).",
+    "oEn": [
+      "appreciates",
+      "erodes",
+      "stabilizes",
+      "escalates"
+    ],
+    "c": 1,
+    "exp": "'Erodes' means to gradually destroy or wear away. Inflation reduces or wears away the purchasing power of money over time.",
+    "Pyq": "High-Weightage TCS Trend"
+  },
+  {
+    "en": "In the realm of global economics, inflation remains a complex phenomenon that requires constant vigilance from central banks. When the supply of money outpaces economic growth, the purchasing power of currency inevitably erodes. To counter this, monetary authorities often raise benchmark interest rates, a move designed to cool down an overheating economy by making borrowing more expensive. While this strategy can effectively curb rising prices, it also runs the risk of ________ (7) economic expansion. Businesses may delay capital investments, and consumers might reduce spending on big-ticket items. Striking the right balance is incredibly difficult, as aggressive rate hikes can accidentally plunge a nation into a recession. Economists frequently debate the optimal threshold for inflation, with some arguing that a low level of controlled inflation is actually conducive for growth. Conversely, hyperinflation can completely destroy public confidence in a nation's financial stability, leading to widespread social unrest. Therefore, central banks must act with extreme circumspection to ensure that policy adjustments do not destabilize the broader financial architecture. Ultimately, maintaining price stability is essential for fostering sustained, long-term economic prosperity.\n\n**Question:** Select the most appropriate option to fill in blank number (7).",
+    "oEn": [
+      "stimulating",
+      "stifling",
+      "catalyzing",
+      "accelerating"
+    ],
+    "c": 1,
+    "exp": "'Stifling' means suffocating, suppressing, or choking off. Raising interest rates risks suppressing or slowing down economic growth.",
+    "Pyq": ""
+  },
+  {
+    "en": "In the realm of global economics, inflation remains a complex phenomenon that requires constant vigilance from central banks. When the supply of money outpaces economic growth, the purchasing power of currency inevitably erodes. To counter this, monetary authorities often raise benchmark interest rates, a move designed to cool down an overheating economy by making borrowing more expensive. While this strategy can effectively curb rising prices, it also runs the risk of stifling economic expansion. Businesses may delay capital investments, and consumers might reduce spending on big-ticket items. Striking the right balance is incredibly difficult, as aggressive rate hikes can accidentally plunge a nation into a recession. Economists frequently debate the optimal threshold for inflation, with some arguing that a low level of controlled inflation is actually ________ (8) for growth. Conversely, hyperinflation can completely destroy public confidence in a nation's financial stability, leading to widespread social unrest. Therefore, central banks must act with extreme circumspection to ensure that policy adjustments do not destabilize the broader financial architecture. Ultimately, maintaining price stability is essential for fostering sustained, long-term economic prosperity.\n\n**Question:** Select the most appropriate option to fill in blank number (8).",
+    "oEn": [
+      "detrimental",
+      "conducive",
+      "hazardous",
+      "inimical"
+    ],
+    "c": 1,
+    "exp": "'Conducive' means making a certain situation or outcome likely or possible (helpful for growth). The other options all mean harmful.",
+    "Pyq": "High-Weightage TCS Trend"
+  },
+  {
+    "en": "In the realm of global economics, inflation remains a complex phenomenon that requires constant vigilance from central banks. When the supply of money outpaces economic growth, the purchasing power of currency inevitably erodes. To counter this, monetary authorities often raise benchmark interest rates, a move designed to cool down an overheating economy by making borrowing more expensive. While this strategy can effectively curb rising prices, it also runs the risk of stifling economic expansion. Businesses may delay capital investments, and consumers might reduce spending on big-ticket items. Striking the right balance is incredibly difficult, as aggressive rate hikes can accidentally plunge a nation into a recession. Economists frequently debate the optimal threshold for inflation, with some arguing that a low level of controlled inflation is actually conducive for growth. Conversely, hyperinflation can completely destroy public confidence in a nation's financial stability, leading to widespread social unrest. Therefore, central banks must act with extreme ________ (9) to ensure that policy adjustments do not destabilize the broader financial architecture. Ultimately, maintaining price stability is essential for fostering sustained, long-term economic prosperity.\n\n**Question:** Select the most appropriate option to fill in blank number (9).",
+    "oEn": [
+      "recklessness",
+      "circumspection",
+      "apathy",
+      "audacity"
+    ],
+    "c": 1,
+    "exp": "'Circumspection' means caution, prudence, or care. Central banks need to act carefully and prudently to avoid economic damage.",
+    "Pyq": "High-Weightage TCS Trend"
+  },
+  {
+    "en": "In the realm of global economics, inflation remains a complex phenomenon that requires constant vigilance from central banks. When the supply of money outpaces economic growth, the purchasing power of currency inevitably erodes. To counter this, monetary authorities often raise benchmark interest rates, a move designed to cool down an overheating economy by making borrowing more expensive. While this strategy can effectively curb rising prices, it also runs the risk of stifling economic expansion. Businesses may delay capital investments, and consumers might reduce spending on big-ticket items. Striking the right balance is incredibly difficult, as aggressive rate hikes can accidentally plunge a nation into a recession. Economists frequently debate the optimal threshold for inflation, with some arguing that a low level of controlled inflation is actually conducive for growth. Conversely, hyperinflation can completely destroy public confidence in a nation's financial stability, leading to widespread social unrest. Therefore, central banks must act with extreme circumspection to ensure that policy adjustments do not destabilize the broader financial architecture. Ultimately, maintaining price stability is essential for fostering sustained, long-term economic ________ (10).\n\n**Question:** Select the most appropriate option to fill in blank number (10).",
+    "oEn": [
+      "prosperity",
+      "decline",
+      "stagnation",
+      "bankruptcy"
+    ],
+    "c": 0,
+    "exp": "'Prosperity' means the state of flourishing, thriving, or good fortune. Price stability helps create continuous long-term economic well-being.",
+    "Pyq": ""
+  },
+  {
+    "en": "The human brain is an extraordinarily intricate organ, capable of processing massive streams of sensory information simultaneously. For decades, neuroscientists believed that the adult brain's structure was largely fixed, an assumption that has been completely ________ (11) by recent discoveries. We now know that the brain exhibits a high degree of neuroplasticity, which is the ability to reorganize itself by forming new neural connections throughout life. This remarkable trait allows individuals to recover from traumatic injuries and adapt to entirely new cognitive challenges. Learning a new language or mastering a musical instrument, for instance, triggers structural changes that optimize brain efficiency. However, neuroplasticity is a double-edged sword; negative behavioral patterns can also become entrenched over time if repeatedly practiced. This means that breaking bad habits requires conscious effort to weaken old neural pathways and reinforce positive alternatives. Mental exercises and continuous intellectual engagement are critical to staving off cognitive decline as we age. Conversely, chronic stress and prolonged isolation can have an adverse impact on brain health, leading to the atrophy of vital structures. Therefore, adopting a lifestyle that prioritizes mental stimulation and physical activity is vital to preserving optimal brain function. In essence, the choices we make daily directly sculpt the literal architecture of our minds.\n\n**Question:** Select the most appropriate option to fill in blank number (11).",
+    "oEn": [
+      "validated",
+      "corroborated",
+      "debunked",
+      "reinforced"
+    ],
+    "c": 2,
+    "exp": "'Debunked' means exposed as false or incorrect. The old belief that the brain's structure was unchangeable has been proven false by modern science.",
+    "Pyq": "High-Weightage TCS Trend"
+  },
+  {
+    "en": "The human brain is an extraordinarily intricate organ, capable of processing massive streams of sensory information simultaneously. For decades, neuroscientists believed that the adult brain's structure was largely fixed, an assumption that has been completely debunked by recent discoveries. We now know that the brain exhibits a high degree of neuroplasticity, which is the ability to reorganize itself by forming new neural connections throughout life. This remarkable trait allows individuals to recover from traumatic injuries and adapt to entirely new cognitive challenges. Learning a new language or mastering a musical instrument, for instance, triggers structural changes that optimize brain efficiency. However, neuroplasticity is a double-edged sword; negative behavioral patterns can also become ________ (12) over time if repeatedly practiced. This means that breaking bad habits requires conscious effort to weaken old neural pathways and reinforce positive alternatives. Mental exercises and continuous intellectual engagement are critical to staving off cognitive decline as we age. Conversely, chronic stress and prolonged isolation can have an adverse impact on brain health, leading to the atrophy of vital structures. Therefore, adopting a lifestyle that prioritizes mental stimulation and physical activity is vital to preserving optimal brain function. In essence, the choices we make daily directly sculpt the literal architecture of our minds.\n\n**Question:** Select the most appropriate option to fill in blank number (12).",
+    "oEn": [
+      "entrenched",
+      "evanescent",
+      "transient",
+      "superficial"
+    ],
+    "c": 0,
+    "exp": "'Entrenched' means firmly established and difficult to change. Negative habits can become deep-seated in the brain's neural structures.",
+    "Pyq": ""
+  },
+  {
+    "en": "The human brain is an extraordinarily intricate organ, capable of processing massive streams of sensory information simultaneously. For decades, neuroscientists believed that the adult brain's structure was largely fixed, an assumption that has been completely debunked by recent discoveries. We now know that the brain exhibits a high degree of neuroplasticity, which is the ability to reorganize itself by forming new neural connections throughout life. This remarkable trait allows individuals to recover from traumatic injuries and adapt to entirely new cognitive challenges. Learning a new language or mastering a musical instrument, for instance, triggers structural changes that optimize brain efficiency. However, neuroplasticity is a double-edged sword; negative behavioral patterns can also become entrenched over time if repeatedly practiced. This means that breaking bad habits requires conscious effort to weaken old neural pathways and reinforce positive alternatives. Mental exercises and continuous intellectual engagement are critical to ________ (13) cognitive decline as we age. Conversely, chronic stress and prolonged isolation can have an adverse impact on brain health, leading to the atrophy of vital structures. Therefore, adopting a lifestyle that prioritizes mental stimulation and physical activity is vital to preserving optimal brain function. In essence, the choices we make daily directly sculpt the literal architecture of our minds.\n\n**Question:** Select the most appropriate option to fill in blank number (13).",
+    "oEn": [
+      "accelerating",
+      "staving off",
+      "precipitating",
+      "fostering"
+    ],
+    "c": 1,
+    "exp": "'Staving off' is a phrasal verb that means to ward off or delay something bad. Intellectual activities help delay or prevent cognitive decline.",
+    "Pyq": "High-Weightage TCS Trend"
+  },
+  {
+    "en": "The human brain is an extraordinarily intricate organ, capable of processing massive streams of sensory information simultaneously. For decades, neuroscientists believed that the adult brain's structure was largely fixed, an assumption that has been completely debunked by recent discoveries. We now know that the brain exhibits a high degree of neuroplasticity, which is the ability to reorganize itself by forming new neural connections throughout life. This remarkable trait allows individuals to recover from traumatic injuries and adapt to entirely new cognitive challenges. Learning a new language or mastering a musical instrument, for instance, triggers structural changes that optimize brain efficiency. However, neuroplasticity is a double-edged sword; negative behavioral patterns can also become entrenched over time if repeatedly practiced. This means that breaking bad habits requires conscious effort to weaken old neural pathways and reinforce positive alternatives. Mental exercises and continuous intellectual engagement are critical to staving off cognitive decline as we age. Conversely, chronic stress and prolonged isolation can have an adverse impact on brain health, leading to the atrophy of vital structures. Therefore, adopting a lifestyle that prioritizes mental stimulation and physical activity is vital to ________ (14) optimal brain function. In essence, the choices we make daily directly sculpt the literal architecture of our minds.\n\n**Question:** Select the most appropriate option to fill in blank number (14).",
+    "oEn": [
+      "jeopardizing",
+      "preserving",
+      "neglecting",
+      "undermining"
+    ],
+    "c": 1,
+    "exp": "'Preserving' means maintaining something in its original or existing state. A healthy lifestyle helps maintain optimal brain function.",
+    "Pyq": ""
+  },
+  {
+    "en": "The human brain is an extraordinarily intricate organ, capable of processing massive streams of sensory information simultaneously. For decades, neuroscientists believed that the adult brain's structure was largely fixed, an assumption that has been completely debunked by recent discoveries. We now know that the brain exhibits a high degree of neuroplasticity, which is the ability to reorganize itself by forming new neural connections throughout life. This remarkable trait allows individuals to recover from traumatic injuries and adapt to entirely new cognitive challenges. Learning a new language or mastering a musical instrument, for instance, triggers structural changes that optimize brain efficiency. However, neuroplasticity is a double-edged sword; negative behavioral patterns can also become entrenched over time if repeatedly practiced. This means that breaking bad habits requires conscious effort to weaken old neural pathways and reinforce positive alternatives. Mental exercises and continuous intellectual engagement are critical to staving off cognitive decline as we age. Conversely, chronic stress and prolonged isolation can have an adverse impact on brain health, leading to the atrophy of vital structures. Therefore, adopting a lifestyle that prioritizes mental stimulation and physical activity is vital to preserving optimal brain function. In essence, the choices we make daily directly ________ (15) the literal architecture of our minds.\n\n**Question:** Select the most appropriate option to fill in blank number (15).",
+    "oEn": [
+      "sculpt",
+      "obliterate",
+      "mimic",
+      "evade"
+    ],
+    "c": 0,
+    "exp": "'Sculpt' means to shape or give form to something. Daily lifestyle choices actively shape the physical architecture of the human brain.",
+    "Pyq": ""
+  },
+  {
+    "en": "Climate change poses an existential threat to global biodiversity, with ecosystems across the planet facing severe disruption. As global temperatures continue to rise, many species are being forced to alter their geographic ranges to find suitable habitats. Polar bears, for example, are losing critical hunting grounds due to the rapid melting of Arctic sea ice, pushing them closer to the brink of ________ (16). Coral reefs, which support a massive portion of marine life, are suffering from widespread bleaching events caused by warming ocean waters. These fragile marine networks are highly sensitive, and even a minor temperature increase can have a devastating cascading effect on the entire ecosystem. Conservationists argue that simply protecting isolated pockets of land is no longer adequate to prevent biodiversity loss. Instead, global initiatives must focus on establishing ecological corridors that allow wildlife to migrate safely across fragmented landscapes. Furthermore, reducing greenhouse gas emissions remains the most critical objective in mitigating long-term climate impacts. Governments must shift away from fossil fuels and actively embrace renewable energy technologies. Transitioning to a green economy requires immense political will and robust international collaboration. If the global community remains vacillating in its environmental commitments, the damage to our planet's biosphere will become entirely irreversible.\n\n**Question:** Select the most appropriate option to fill in blank number (16).",
+    "oEn": [
+      "proliferation",
+      "extinction",
+      "rejuvenation",
+      "abundance"
+    ],
+    "c": 1,
+    "exp": "'Extinction' means the complete dying out of a species. Melting ice caps are pushing polar bears toward disappearing completely.",
+    "Pyq": ""
+  },
+  {
+    "en": "Climate change poses an existential threat to global biodiversity, with ecosystems across the planet facing severe disruption. As global temperatures continue to rise, many species are being forced to alter their geographic ranges to find suitable habitats. Polar bears, for example, are losing critical hunting grounds due to the rapid melting of Arctic sea ice, pushing them closer to the brink of extinction. Coral reefs, which support a massive portion of marine life, are suffering from widespread bleaching events caused by warming ocean waters. These fragile marine networks are highly sensitive, and even a minor temperature increase can have a devastating cascading effect on the entire ecosystem. Conservationists argue that simply protecting isolated pockets of land is no longer ________ (17) to prevent biodiversity loss. Instead, global initiatives must focus on establishing ecological corridors that allow wildlife to migrate safely across fragmented landscapes. Furthermore, reducing greenhouse gas emissions remains the most critical objective in mitigating long-term climate impacts. Governments must shift away from fossil fuels and actively embrace renewable energy technologies. Transitioning to a green economy requires immense political will and robust international collaboration. If the global community remains vacillating in its environmental commitments, the damage to our planet's biosphere will become entirely irreversible.\n\n**Question:** Select the most appropriate option to fill in blank number (17).",
+    "oEn": [
+      "insufficient",
+      "adequate",
+      "superfluous",
+      "redundant"
+    ],
+    "c": 1,
+    "exp": "The sentence context states that protecting small pockets is 'no longer adequate' (no longer sufficient or enough) to completely solve the issue.",
+    "Pyq": "High-Weightage TCS Trend"
+  },
+  {
+    "en": "Climate change poses an existential threat to global biodiversity, with ecosystems across the planet facing severe disruption. As global temperatures continue to rise, many species are being forced to alter their geographic ranges to find suitable habitats. Polar bears, for example, are losing critical hunting grounds due to the rapid melting of Arctic sea ice, pushing them closer to the brink of extinction. Coral reefs, which support a massive portion of marine life, are suffering from widespread bleaching events caused by warming ocean waters. These fragile marine networks are highly sensitive, and even a minor temperature increase can have a devastating cascading effect on the entire ecosystem. Conservationists argue that simply protecting isolated pockets of land is no longer adequate to prevent biodiversity loss. Instead, global initiatives must focus on establishing ecological corridors that allow wildlife to migrate safely across fragmented landscapes. Furthermore, reducing greenhouse gas emissions remains the most critical objective in mitigating long-term climate impacts. Governments must shift away from fossil fuels and actively ________ (18) renewable energy technologies. Transitioning to a green economy requires immense political will and robust international collaboration. If the global community remains vacillating in its environmental commitments, the damage to our planet's biosphere will become entirely irreversible.\n\n**Question:** Select the most appropriate option to fill in blank number (18).",
+    "oEn": [
+      "improve",
+      "reject",
+      "curtail",
+      "embrace"
+    ],
+    "c": 3,
+    "exp": "'Embrace' means to accept or support a belief or change willingly. Governments must welcome and adopt renewable technologies.",
+    "Pyq": ""
+  },
+  {
+    "en": "Climate change poses an existential threat to global biodiversity, with ecosystems across the planet facing severe disruption. As global temperatures continue to rise, many species are being forced to alter their geographic ranges to find suitable habitats. Polar bears, for example, are losing critical hunting grounds due to the rapid melting of Arctic sea ice, pushing them closer to the brink of extinction. Coral reefs, which support a massive portion of marine life, are suffering from widespread bleaching events caused by warming ocean waters. These fragile marine networks are highly sensitive, and even a minor temperature increase can have a devastating cascading effect on the entire ecosystem. Conservationists argue that simply protecting isolated pockets of land is no longer adequate to prevent biodiversity loss. Instead, global initiatives must focus on establishing ecological corridors that allow wildlife to migrate safely across fragmented landscapes. Furthermore, reducing greenhouse gas emissions remains the most critical objective in mitigating long-term climate impacts. Governments must shift away from fossil fuels and actively embrace renewable energy technologies. Transitioning to a green economy requires immense political will and robust international collaboration. If the global community remains ________ (19) in its environmental commitments, the damage to our planet's biosphere will become entirely irreversible.\n\n**Question:** Select the most appropriate option to fill in blank number (19).",
+    "oEn": [
+      "resolute",
+      "vacillating",
+      "steadfast",
+      "unyielding"
+    ],
+    "c": 1,
+    "exp": "'Vacillating' means wavering between different opinions or actions; being irresolute. If nations waver or hesitate on their promises, climate damage will accelerate.",
+    "Pyq": "High-Weightage TCS Trend"
+  },
+  {
+    "en": "Climate change poses an existential threat to global biodiversity, with ecosystems across the planet facing severe disruption. As global temperatures continue to rise, many species are being forced to alter their geographic ranges to find suitable habitats. Polar bears, for example, are losing critical hunting grounds due to the rapid melting of Arctic sea ice, pushing them closer to the brink of extinction. Coral reefs, which support a massive portion of marine life, are suffering from widespread bleaching events caused by warming ocean waters. These fragile marine networks are highly sensitive, and even a minor temperature increase can have a devastating cascading effect on the entire ecosystem. Conservationists argue that simply protecting isolated pockets of land is no longer adequate to prevent biodiversity loss. Instead, global initiatives must focus on establishing ecological corridors that allow wildlife to migrate safely across fragmented landscapes. Furthermore, reducing greenhouse gas emissions remains the most critical objective in mitigating long-term climate impacts. Governments must shift away from fossil fuels and actively embrace renewable energy technologies. Transitioning to a green economy requires immense political will and robust international collaboration. If the global community remains vacillating in its environmental commitments, the damage to our planet's biosphere will become entirely ________ (20).\n\n**Question:** Select the most appropriate option to fill in blank number (20).",
+    "oEn": [
+      "reversible",
+      "negligible",
+      "irreversible",
+      "temporary"
+    ],
+    "c": 2,
+    "exp": "'Irreversible' means not able to be undone or altered. If promises are broken, the structural damage to the biosphere becomes completely permanent.",
+    "Pyq": ""
+  },
+  {
+    "en": "The study of ancient civilizations provides fascinating insights into how human societies evolved over thousands of years. Archeologists reconstruct the daily lives of past cultures by carefully analyzing remaining artifacts, architecture, and written records. These historical discoveries often reveal that ancient peoples possessed surprisingly advanced knowledge of engineering, astronomy, and mathematics. For instance, the precise alignment of the Egyptian pyramids with celestial bodies demonstrates a sophisticated understanding of the night sky. However, interpreting these ancient clues is a painstakingly slow process that requires immense expertise. Many written scripts from early civilizations remain completely ________ (21), leaving key historical eras shrouded in deep mystery. Over time, natural disasters, warfare, and simple decay have destroyed a substantial portion of our shared material heritage, making the archaeological record highly fragmented. To fill these historical gaps, modern researchers increasingly rely on cutting-edge technologies like satellite imaging and ground-penetrating radar. These non-invasive tools allow experts to locate buried structures without causing any physical disturbance to historical sites. Collaborative efforts between historians, scientists, and local communities are essential to safeguarding these treasures from illegal looting. Preserving these sites is not just about honoring antiquity; it allows us to better understand the universal patterns of human development. Ultimately, studying our past is the most effective way to gain clarity on our future trajectory.\n\n**Question:** Select the most appropriate option to fill in blank number (21).",
+    "oEn": [
+      "undeciphered",
+      "translated",
+      "comprehensible",
+      "lucid"
+    ],
+    "c": 0,
+    "exp": "'Undeciphered' means a written text or code that has not been converted into a known language or understood. Many ancient scripts remain unread.",
+    "Pyq": "High-Weightage TCS Trend"
+  },
+  {
+    "en": "The study of ancient civilizations provides fascinating insights into how human societies evolved over thousands of years. Archeologists reconstruct the daily lives of past cultures by carefully analyzing remaining artifacts, architecture, and written records. These historical discoveries often reveal that ancient peoples possessed surprisingly advanced knowledge of engineering, astronomy, and mathematics. For instance, the precise alignment of the Egyptian pyramids with celestial bodies demonstrates a sophisticated understanding of the night sky. However, interpreting these ancient clues is a painstakingly slow process that requires immense expertise. Many written scripts from early civilizations remain completely undeciphered, leaving key historical eras shrouded in deep mystery. Over time, natural disasters, warfare, and simple decay have destroyed a substantial portion of our shared material heritage, making the archaeological record highly ________ (22). To fill these historical gaps, modern researchers increasingly rely on cutting-edge technologies like satellite imaging and ground-penetrating radar. These non-invasive tools allow experts to locate buried structures without causing any physical disturbance to historical sites. Collaborative efforts between historians, scientists, and local communities are essential to safeguarding these treasures from illegal looting. Preserving these sites is not just about honoring antiquity; it allows us to better understand the universal patterns of human development. Ultimately, studying our past is the most effective way to gain clarity on our future trajectory.\n\n**Question:** Select the most appropriate option to fill in blank number (22).",
+    "oEn": [
+      "comprehensive",
+      "fragmented",
+      "exhaustive",
+      "unbroken"
+    ],
+    "c": 1,
+    "exp": "'Fragmented' means broken into separate pieces or incomplete. Due to historical decay and destruction, the remaining record is highly incomplete.",
+    "Pyq": ""
+  },
+  {
+    "en": "The study of ancient civilizations provides fascinating insights into how human societies evolved over thousands of years. Archeologists reconstruct the daily lives of past cultures by carefully analyzing remaining artifacts, architecture, and written records. These historical discoveries often reveal that ancient peoples possessed surprisingly advanced knowledge of engineering, astronomy, and mathematics. For instance, the precise alignment of the Egyptian pyramids with celestial bodies demonstrates a sophisticated understanding of the night sky. However, interpreting these ancient clues is a painstakingly slow process that requires immense expertise. Many written scripts from early civilizations remain completely undeciphered, leaving key historical eras shrouded in deep mystery. Over time, natural disasters, warfare, and simple decay have destroyed a substantial portion of our shared material heritage, making the archaeological record highly fragmented. To fill these historical gaps, modern researchers increasingly rely on cutting-edge technologies like satellite imaging and ground-penetrating radar. These non-invasive tools allow experts to locate buried structures without causing any physical ________ (23) to historical sites. Collaborative efforts between historians, scientists, and local communities are essential to safeguarding these treasures from illegal looting. Preserving these sites is not just about honoring antiquity; it allows us to better understand the universal patterns of human development. Ultimately, studying our past is the most effective way to gain clarity on our future trajectory.\n\n**Question:** Select the most appropriate option to fill in blank number (23).",
+    "oEn": [
+      "reconstruction",
+      "dilapidation",
+      "disturbance",
+      "restoration"
+    ],
+    "c": 2,
+    "exp": "'Disturbance' means interfering with the normal arrangement or condition of something. Radar tools allow mapping without physically disrupting sites.",
+    "Pyq": ""
+  },
+  {
+    "en": "The study of ancient civilizations provides fascinating insights into how human societies evolved over thousands of years. Archeologists reconstruct the daily lives of past cultures by carefully analyzing remaining artifacts, architecture, and written records. These historical discoveries often reveal that ancient peoples possessed surprisingly advanced knowledge of engineering, astronomy, and mathematics. For instance, the precise alignment of the Egyptian pyramids with celestial bodies demonstrates a sophisticated understanding of the night sky. However, interpreting these ancient clues is a painstakingly slow process that requires immense expertise. Many written scripts from early civilizations remain completely undeciphered, leaving key historical eras shrouded in deep mystery. Over time, natural disasters, warfare, and simple decay have destroyed a substantial portion of our shared material heritage, making the archaeological record highly fragmented. To fill these historical gaps, modern researchers increasingly rely on cutting-edge technologies like satellite imaging and ground-penetrating radar. These non-invasive tools allow experts to locate buried structures without causing any physical disturbance to historical sites. Collaborative efforts between historians, scientists, and local communities are essential to safeguarding these treasures from illegal looting. Preserving these sites is not just about honoring antiquity; it allows us to better understand the universal patterns of human ________ (24). Ultimately, studying our past is the most effective way to gain clarity on our future trajectory.\n\n**Question:** Select the most appropriate option to fill in blank number (24).",
+    "oEn": [
+      "regression",
+      "development",
+      "extinction",
+      "stagnation"
+    ],
+    "c": 1,
+    "exp": "'Development' means the process of growing, progressing, or changing over time. It helps track how human groups successfully evolved.",
+    "Pyq": ""
+  },
+  {
+    "en": "The study of ancient civilizations provides fascinating insights into how human societies evolved over thousands of years. Archeologists reconstruct the daily lives of past cultures by carefully analyzing remaining artifacts, architecture, and written records. These historical discoveries often reveal that ancient peoples possessed surprisingly advanced knowledge of engineering, astronomy, and mathematics. For instance, the precise alignment of the Egyptian pyramids with celestial bodies demonstrates a sophisticated understanding of the night sky. However, interpreting these ancient clues is a painstakingly slow process that requires immense expertise. Many written scripts from early civilizations remain completely undeciphered, leaving key historical eras shrouded in deep mystery. Over time, natural disasters, warfare, and simple decay have destroyed a substantial portion of our shared material heritage, making the archaeological record highly fragmented. To fill these historical gaps, modern researchers increasingly rely on cutting-edge technologies like satellite imaging and ground-penetrating radar. These non-invasive tools allow experts to locate buried structures without causing any physical disturbance to historical sites. Collaborative efforts between historians, scientists, and local communities are essential to safeguarding these treasures from illegal looting. Preserving these sites is not just about honoring antiquity; it allows us to better understand the universal patterns of human development. Ultimately, studying our past is the most effective way to gain clarity on our future ________ (25).\n\n**Question:** Select the most appropriate option to fill in blank number (25).",
+    "oEn": [
+      "trajectory",
+      "regression",
+      "ancestry",
+      "reminiscence"
+    ],
+    "c": 0,
+    "exp": "'Trajectory' means the path followed by a flying object or, metaphorically, the future path or direction of development. Studying our history illuminates our future direction.",
+    "Pyq": "High-Weightage TCS Trend"
+  }
+]
