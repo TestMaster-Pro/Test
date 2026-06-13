@@ -1,0 +1,452 @@
+[
+  {
+    "en": "With which of the following classical dance forms is the legendary guru Kelucharan Mohapatra associated?",
+    "hi": "महान गुरु केलुचरण महापात्र का संबंध निम्नलिखित में से किस शास्त्रीय नृत्य शैली से है?",
+    "oEn": ["Kathak", "Odissi", "Manipuri", "Sattriya"],
+    "oHi": ["कथक", "ओडिसी", "मणिपुरी", "सत्रिया"],
+    "c": 1,
+    "exp": "Guru Kelucharan Mohapatra was a legendary Indian classical dancer, guru, and exponent of Odissi dance, who is credited with the revival of this classical dance form in the 20th century.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The 'Ambubachi Mela' is a major annual festival celebrated in which of the following temples?",
+    "hi": "अम्बुबाची मेला' निम्नलिखित में से किस मंदिर में मनाया जाने वाला एक प्रमुख वार्षिक उत्सव है?",
+    "oEn": ["Kamakhya Temple", "Jagannath Temple", "Lingaraj Temple", "Kashi Vishwanath Temple"],
+    "oHi": ["कामाख्या मंदिर", "जगन्नाथ मंदिर", "लिंगराज मंदिर", "काशी विश्वनाथ मंदिर"],
+    "c": 0,
+    "exp": "The Ambubachi Mela is an annual Hindu mela held at Kamakhya Temple in Guwahati, Assam, celebrating the yearly menstruation course of goddess Kamakhya.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Which of the following musical instruments is Ustad Bismillah Khan famously associated with?",
+    "hi": "उस्ताद बिस्मिल्लाह खान का संबंध मुख्य रूप से किस वाद्य यंत्र से है?",
+    "oEn": ["Flute", "Santoor", "Shehnai", "Sarod"],
+    "oHi": ["बांसुरी", "संतूर", "शहनाई", "सरोद"],
+    "c": 2,
+    "exp": "Ustad Bismillah Khan was a legendary Shehnai maestro who was awarded the Bharat Ratna in 2001 for his monopolizing contribution to Indian classical music.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The famous painting 'Bani Thani' belongs to which school of Rajasthani paintings?",
+    "hi": "प्रसिद्ध चित्र 'बनी ठनी' राजस्थानी चित्रकला की किस शैली से संबंधित है?",
+    "oEn": ["Mewar School", "Kishangarh School", "Bundelkhand School", "Marwar School"],
+    "oHi": ["मेवाड़ शैली", "किशनगढ़ शैली", "बुंदेलखंड शैली", "मारवाड़ शैली"],
+    "c": 1,
+    "exp": "Bani Thani is an Indian painting belonging to the Kishangarh school of Rajasthani paintings. It was painted by the artist Nihal Chand and is often referred to as India's 'Mona Lisa'.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "Sattriya is a classical dance form originating from which Indian state?",
+    "hi": "सत्रिया एक शास्त्रीय नृत्य शैली है, जिसकी उत्पत्ति भारत के किस राज्य में हुई है?",
+    "oEn": ["Manipur", "Odisha", "Assam", "Kerala"],
+    "oHi": ["मणिपुर", "ओडिशा", "असम", "केरल"],
+    "c": 2,
+    "exp": "Sattriya was introduced in the 15th century A.D by the great Vaishnava saint and reformer Srimanta Sankardev in Assam as a powerful medium for the propagation of the Vaishnava faith.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The Hornbill Festival is celebrated annually in which North-Eastern state of India?",
+    "hi": "हॉर्नबिल महोत्सव प्रतिवर्ष भारत के किस उत्तर-पूर्वी राज्य में मनाया जाता है?",
+    "oEn": ["Mizoram", "Nagaland", "Arunachal Pradesh", "Meghalaya"],
+    "oHi": ["मिजोरम", "नागालैंड", "अरुणाचल प्रदेश", "मेघालय"],
+    "c": 1,
+    "exp": "The Hornbill Festival is held every year from 1 to 10 December in Nagaland. It is also called the 'Festival of Festivals' and showcases the traditional culture of Naga tribes.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which of the following architectural styles is prominently used in the Sun Temple of Konark?",
+    "hi": "कोणार्क के सूर्य मंदिर में मुख्य रूप से निम्नलिखित में से किस स्थापत्य शैली का उपयोग किया गया है?",
+    "oEn": ["Dravidian Style", "Nagara Style", "Kalinga Architecture", "Vesara Style"],
+    "oHi": ["द्रविड़ शैली", "नागर शैली", "कलिंग वास्तुकला", "वेसर शैली"],
+    "c": 2,
+    "exp": "The Konark Sun Temple built in the 13th century by King Narasimhadeva I of the Eastern Ganga Dynasty features the classic Kalinga architectural style, a sub-style of Nagara architecture.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Who among the following is considered the pioneer of the 'Santoor' in Indian Classical Music?",
+    "hi": "निम्नलिखित में से किसे भारतीय शास्त्रीय संगीत में 'संतूर' का जनक/अग्रणी माना जाता है?",
+    "oEn": ["Pandit Shivkumar Sharma", "Ustad Zakir Hussain", "Pandit Hariprasad Chaurasia", "Ustad Amjad Ali Khan"],
+    "oHi": ["पंडित शिवकुमार शर्मा", "उस्ताद जाकिर हुसैन", "पंडित हरिप्रसाद चौरसिया", "उस्ताद अमजद अली खान"],
+    "c": 0,
+    "exp": "Pandit Shivkumar Sharma was an Indian classical musician who single-handedly elevated the Santoor, a folk instrument from Jammu and Kashmir, to the status of a classical instrument.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "The folk dance 'Kailash' and 'Charkula' are prominently associated with which state?",
+    "hi": "लोक नृत्य 'कैलाश' और 'चरकुला' मुख्य रूप से किस राज्य से संबंधित हैं?",
+    "oEn": ["Madhya Pradesh", "Uttar Pradesh", "Rajasthan", "Haryana"],
+    "oHi": ["मध्य प्रदेश", "उत्तर प्रदेश", "राजस्थान", "हरियाणा"],
+    "c": 1,
+    "exp": "Charkula is a traditional folk dance performed in the Braj region of Uttar Pradesh, where women balance multi-tiered wooden pyramids with lighted oil lamps on their heads.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The Shore Temple, a UNESCO World Heritage site, is located in which state?",
+    "hi": "यूनेस्को (UNESCO) विश्व धरोहर स्थल 'शोर मंदिर' (तट मंदिर) किस राज्य में स्थित है?",
+    "oEn": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+    "oHi": ["केरल", "कर्नाटक", "तमिलनाडु", "आंध्र प्रदेश"],
+    "c": 2,
+    "exp": "The Shore Temple is located in Mahabalipuram, Tamil Nadu. Built during the reign of the Pallava dynasty king Narasimhavarman II, it overlooks the shore of the Bay of Bengal.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "In which classical dance form do dancers wear a large, spherical, drum-like skirt known as 'Kumil'?",
+    "hi": "किस शास्त्रीय नृत्य शैली में नर्तक 'कुमिल' नामक एक बड़ा, गोलाकार, ढोल जैसा घाघरा पहनते हैं?",
+    "oEn": ["Kathakali", "Manipuri", "Mohiniyattam", "Bharatanatyam"],
+    "oHi": ["कथकली", "मणिपुरी", "मोहिनीअट्टम", "भरतनाट्यम"],
+    "c": 1,
+    "exp": "In Manipuri classical dance, especially during the Raas Leela, the female dancers wear a unique stiffened barrel-shaped skirt called Kumil, decorated with mirrors and embroidery.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "The 'Losar' festival is celebrated as the New Year by which community?",
+    "hi": "लोसार' त्योहार किस समुदाय द्वारा नव वर्ष के रूप में मनाया जाता है?",
+    "oEn": ["Sikhs", "Tibetan Buddhists", "Jains", "Zoroastrians"],
+    "oHi": ["सिख", "तिब्बती बौद्ध", "जैन", "पारसी"],
+    "c": 1,
+    "exp": "Losar is the Tibetan New Year and is celebrated with immense joy in regions like Ladakh, Arunachal Pradesh, Himachal Pradesh, and Sikkim by the Buddhist community.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Who among the following was the first Indian musician to receive the Ramon Magsaysay Award?",
+    "hi": "निम्नलिखित में से कौन रेमन मैग्सेसे पुरस्कार प्राप्त करने वाले पहले भारतीय संगीतकार थे?",
+    "oEn": ["Ravi Shankar", "M. S. Subbulakshmi", "Lata Mangeshkar", "Zubin Mehta"],
+    "oHi": ["रवि शंकर", "एम. एस. सुब्बुलक्ष्मी", "लता मंगेशकर", "ज़ुबिन मेहता"],
+    "c": 1,
+    "exp": "Carnatic vocalist M. S. Subbulakshmi was the first Indian musician to receive the Ramon Magsaysay Award in 1974. She was also the first musician to receive the Bharat Ratna in 1998.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Traditional art form 'Patachitra' is primarily associated with which state?",
+    "hi": "पारंपरिक कला रूप 'पट्टाचित्र' मुख्य रूप से किस राज्य से संबंधित है?",
+    "oEn": ["West Bengal", "Odisha", "Bihar", "Jharkhand"],
+    "oHi": ["पश्चिम बंगाल", "ओडिशा", "बिहार", "झारखंड"],
+    "c": 1,
+    "exp": "Pattachitra is a traditional, cloth-based scroll painting based on Hindu mythology, tightly linked with the cult of Lord Jagannath in Odisha.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "The famous folk dance 'Ghoomar' was originally developed by which of the following tribal communities?",
+    "hi": "प्रसिद्ध लोक नृत्य 'घूमन' मूल रूप से निम्नलिखित में से किस जनजातीय समुदाय द्वारा विकसित किया गया था?",
+    "oEn": ["Gond Tribe", "Bhil Tribe", "Santhal Tribe", "Mina Tribe"],
+    "oHi": ["गोंड जनजाति", "भील जनजाति", "संथाल जनजाति", "मीणा जनजाति"],
+    "c": 1,
+    "exp": "Ghoomar was introduced by the Bhil tribe of Rajasthan to worship Goddess Saraswati. Later, it was adopted by other Rajasthani communities and royal families.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Which Mughal Emperor built the famous Moti Masjid inside the Red Fort complex in Delhi?",
+    "hi": "दिल्ली के लाल किला परिसर के अंदर प्रसिद्ध 'मोती मस्जिद' का निर्माण किस मुगल सम्राट ने करवाया था?",
+    "oEn": ["Shah Jahan", "Akbar", "Aurangzeb", "Jahangir"],
+    "oHi": ["शाहजहां", "अकबर", "औरंगजेब", "जहांगीर"],
+    "c": 2,
+    "exp": "The Moti Masjid (Pearl Mosque) inside the Red Fort complex in Delhi was built by the Mughal emperor Aurangzeb between 1659-1660 for his personal use.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "With which of the following string instruments is Pandit Budhaditya Mukherjee associated?",
+    "hi": "पंडित बुद्धादित्य मुखर्जी का संबंध निम्नलिखित में से किस तार वाले वाद्य यंत्र (स्ट्रिंग इंस्ट्रूमेंट) से है?",
+    "oEn": ["Sitar", "Sarod", "Violin", "Veena"],
+    "oHi": ["सितार", "सरोद", "वायलिन", "वीणा"],
+    "c": 0,
+    "exp": "Pandit Budhaditya Mukherjee is a pioneering sitar maestro of the Imdadkhani Gharana, recognized worldwide for his immense speed and technical mastery over the sitar.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The 'Chapchar Kut' is a prominent spring festival celebrated in which state?",
+    "hi": "'चापचार कुट' किस राज्य में मनाया जाने वाला एक प्रमुख वसंत उत्सव है?",
+    "oEn": ["Mizoram", "Tripura", "Meghalaya", "Nagaland"],
+    "oHi": ["मिजोरम", "त्रिपुरा", "मेघालय", "नागालैंड"],
+    "c": 0,
+    "exp": "Chapchar Kut is a festival of Mizoram, celebrated in March after completion of their most arduous task of Jhum cultivation (clearing of the remnants of burning).",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The famous Gol Gumbaz at Vijayapura (Bijapur) was built by which ruler?",
+    "hi": "विजयपुरा (बीजापुर) में प्रसिद्ध गोल गुंबद का निर्माण किस शासक द्वारा कराया गया था?",
+    "oEn": ["Yusuf Adil Shah", "Mohammed Adil Shah", "Ibrahim Adil Shah II", "Ali Adil Shah"],
+    "oHi": ["युसुफ आदिल शाह", "मोहम्मद आदिल शाह", "इब्राहिम आदिल शाह II", "अली आदिल शाह"],
+    "c": 1,
+    "exp": "Gol Gumbaz is the tomb of King Mohammed Adil Shah, Sultan of Bijapur. Completed in 1656, it features one of the largest dome structures in the world without structural supports.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The 'Kalamkari' fabric painting style is indigenous to which of the following states?",
+    "hi": "'कलमकारी' कपड़ा पेंटिंग शैली निम्नलिखित में से किस राज्य की मूल शैली है?",
+    "oEn": ["Tamil Nadu", "Andhra Pradesh", "Karnataka", "Kerala"],
+    "oHi": ["तमिलनाडु", "आंध्र प्रदेश", "कर्नाटक", "केरल"],
+    "c": 1,
+    "exp": "Kalamkari is an ancient style of hand-painting or block-printing on cotton textile, produced primarily in Machilipatnam and Srikalahasti towns of Andhra Pradesh.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Who among the following is known as the 'Father of Carnatic Music'?",
+    "hi": "निम्नलिखित में से किसे 'कर्नाटक संगीत का पितामह' कहा जाता है?",
+    "oEn": ["Purandara Dasa", "Tyagaraja", "Muthuswami Dikshitar", "Shyama Shastri"],
+    "oHi": ["पुरंदर दास", "त्यागराज", "मुथुस्वामी दीक्षितर", "श्यामा शास्त्री"],
+    "c": 0,
+    "exp": "Purandara Dasa is widely referred to as the 'Pitamaha' or the Father of Carnatic music due to his foundational contribution in structuring the grading exercises for music students.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The 'Lai Haraoba' festival is traditionally celebrated by which ethnic group of Manipur?",
+    "hi": "'लाई हरोबा' त्योहार पारंपरिक रूप से मणिपुर के किस जातीय समूह द्वारा मनाया जाता है?",
+    "oEn": ["Naga", "Meitei", "Kuki", "Mizo"],
+    "oHi": ["नागा", "मैतेई", "कुकी", "मिज़ो"],
+    "c": 1,
+    "exp": "Lai Haraoba is an important festival celebrated by the Meitei community of Manipur to please the traditional deities (Umang Lai). It includes dance, oral literature, and rituals.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "'Koodiyattam' is a traditional Sanskrit theatre form performed in which state of India?",
+    "hi": "'कुडियाट्टम' एक पारंपरिक संस्कृत रंगमंच कला है जो भारत के किस राज्य में प्रदर्शित की जाती है?",
+    "oEn": ["Tamil Nadu", "Karnataka", "Kerala", "Odisha"],
+    "oHi": ["तमिलनाडु", "कर्नाटक", "केरल", "ओडिशा"],
+    "c": 2,
+    "exp": "Koodiyattam is a traditional Sanskrit temple theatre performed in Kerala. It is officially recognized by UNESCO as a Masterpiece of the Oral and Intangible Heritage of Humanity.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The Buland Darwaza at Fatehpur Sikri was built by Akbar to commemorate his victory over which region?",
+    "hi": "अकबर ने किस क्षेत्र पर अपनी विजय के उपलक्ष्य में फतेहपुर सीकरी में 'बुलंद दरवाजा' का निर्माण करवाया था?",
+    "oEn": ["Bengal", "Gujarat", "Deccan", "Malwa"],
+    "oHi": ["बंगाल", "गुजरात", "दक्खन", "मालवा"],
+    "c": 1,
+    "exp": "Akbar built the Buland Darwaza ('Door of Victory') in 1602 at Fatehpur Sikri to commemorate his successful military campaign and victory over Gujarat in 1573.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Teejan Bai is a world-renowned exponent of which traditional performing art form?",
+    "hi": "तीजन बाई किस पारंपरिक प्रदर्शन कला रूप की विश्व प्रसिद्ध प्रतिपादक हैं?",
+    "oEn": ["Maach", "Pandavani", "Nautanki", "Bhavai"],
+    "oHi": ["माच", "पंडवानी", "नौटंकी", "भवाई"],
+    "c": 1,
+    "exp": "Teejan Bai is a legendary exponent of Pandavani, a traditional performing art form from Chhattisgarh involving narration of stories from the Mahabharata with musical accompaniment.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Which of the following string instruments does NOT use a bow to produce sound?",
+    "hi": "निम्नलिखित में से कौन सा तार वाला वाद्य यंत्र (स्ट्रिंग इंस्ट्रूमेंट) ध्वनि उत्पन्न करने के लिए धनुष (गज/Bow) का उपयोग नहीं करता है?",
+    "oEn": ["Sarangi", "Dilruba", "Sarod", "Esraj"],
+    "oHi": ["सारंगी", "दिलरुबा", "सरोद", "इसराज"],
+    "c": 2,
+    "exp": "Sarangi, Dilruba, and Esraj are bowed string instruments. Sarod is a plucked string instrument with a fretless metal fingerboard, played using a plectrum (java) made of coconut shell.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The 'Nishagandhi Dance Festival' is an annual cultural event organized in which Indian state?",
+    "hi": "'निशैगंधी नृत्य उत्सव' प्रतिवर्ष किस भारतीय राज्य में आयोजित होने वाला एक सांस्कृतिक कार्यक्रम है?",
+    "oEn": ["Tamil Nadu", "Karnataka", "Kerala", "Goa"],
+    "oHi": ["तमिलनाडु", "कर्नाटक", "केरल", "गोवा"],
+    "c": 2,
+    "exp": "The Nishagandhi Dance Festival is a prestigious seven-day dance festival organized annually by the Kerala Tourism Development Corporation in Thiruvananthapuram, Kerala.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The historic Sun Temple of Modhera is situated on the banks of which river?",
+    "hi": "मोढेरा का ऐतिहासिक सूर्य मंदिर किस नदी के तट पर स्थित है?",
+    "oEn": ["Sabarmati River", "Pushpavati River", "Narmada River", "Tapi River"],
+    "oHi": ["साबरमती नदी", "पुष्पावती नदी", "नर्मदा नदी", "तापी नदी"],
+    "c": 1,
+    "exp": "The Sun Temple at Modhera, Gujarat, was built after 1026-27 CE during the reign of Bhima I of the Chaulukya (Solanki) dynasty and is situated on the banks of the Pushpavati River.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The 'Wangala Festival', also known as the 100 Drums Festival, is celebrated by which tribe?",
+    "hi": "'वांगला महोत्सव', जिसे 100 ड्रम महोत्सव भी कहा जाता है, किस जनजाति द्वारा मनाया जाता है?",
+    "oEn": ["Garo Tribe", "Khasi Tribe", "Jaintia Tribe", "Bodo Tribe"],
+    "oHi": ["गारो जनजाति", "खासी जनजाति", "जयंतिया जनजाति", "बोडो जनजाति"],
+    "c": 0,
+    "exp": "The Wangala festival is a post-harvest thanksgiving festival celebrated by the Garo tribe in Meghalaya and Assam, dedicated to Saljong, the Sun God of fertility.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Sonal Mansingh is an iconic figure recognized for her mastery in which two classical dance forms?",
+    "hi": "सोनाल मानसिंह को किन दो शास्त्रीय नृत्य शैलियों में उनकी उत्कृष्ट महारत के लिए जाना जाता है?",
+    "oEn": ["Bharatanatyam and Kathak", "Odissi and Kathakali", "Bharatanatyam and Odissi", "Kuchipudi and Mohiniyattam"],
+    "oHi": ["भरतनाट्यम और कथक", "ओडिसी और कथकली", "भरतनाट्यम और ओडिसी", "कुचिपुड़ी और मोहिनीअट्टम"],
+    "c": 2,
+    "exp": "Sonal Mansingh is an eminent Indian classical dancer and Guru of Bharatanatyam and Odissi dance forms. She was the youngest recipient of the Padma Bhushan in 1992.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Who among the following Mughal rulers is described as an expert Veena player?",
+    "hi": "निम्नलिखित में से किस मुगल शासक को एक कुशल वीणा वादक के रूप में वर्णित किया गया है?",
+    "oEn": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+    "oHi": ["अकबर", "जहांगीर", "शाहजहां", "औरंगजेब"],
+    "c": 3,
+    "exp": "Despite banning secular music and royal court musicians due to his orthodox beliefs, the Mughal emperor Aurangzeb was himself an accomplished player of the Veena.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The famous rock-cut 'Kailash Temple' at Ellora Caves was built by which Rashtrakuta King?",
+    "hi": "एलोरा की गुफाओं में प्रसिद्ध रॉक-कट 'कैलाश मंदिर' का निर्माण किस राष्ट्रकूट राजा द्वारा कराया गया था?",
+    "oEn": ["Dantidurga", "Krishna I", "Dhruva", "Amoghavarsha I"],
+    "oHi": ["दंतिदुर्ग", "कृष्ण प्रथम", "ध्रुव", "अमोघवर्ष प्रथम"],
+    "c": 1,
+    "exp": "The Kailash Temple (Cave 16) at Ellora, Maharashtra, is a monolithic rock-cut structure built in the 8th century under the patronage of Rashtrakuta king Krishna I.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "The traditional theatrical form 'Bhavai' is predominantly popular in which Indian state?",
+    "hi": "पारंपरिक नाट्य शैली 'भवाई' मुख्य रूप से किस भारतीय राज्य में लोकप्रिय है?",
+    "oEn": ["Maharashtra", "Gujarat", "Rajasthan", "Madhya Pradesh"],
+    "oHi": ["महाराष्ट्र", "गुजरात", "राजस्थान", "मध्य प्रदेश"],
+    "c": 1,
+    "exp": "Bhavai is a popular folk theater form of western India, especially Gujarat. Asaita Thakar is traditionally credited with its origin in the 14th century.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "The 'Dhangari Gaja' folk dance form is associated with which of the following states?",
+    "hi": "'धनगरी गजा' लोक नृत्य शैली का संबंध निम्नलिखित में से किस राज्य से है?",
+    "oEn": ["Goa", "Maharashtra", "Gujarat", "Karnataka"],
+    "oHi": ["गोवा", "महाराष्ट्र", "गुजरात", "कर्नाटक"],
+    "c": 1,
+    "exp": "Dhangari Gaja is a vibrant folk dance performed by the Dhangars (shepherds) of Solapur district in Maharashtra to please their deity Biruba.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "With which musical instrument is the maestro Pandit Hariprasad Chaurasia associated?",
+    "hi": "दिग्गज संगीतकार पंडित हरिप्रसाद चौरसिया का संबंध किस वाद्य यंत्र से है?",
+    "oEn": ["Sitar", "Flute", "Santoor", "Tabla"],
+    "oHi": ["सितार", "बांसुरी", "संतूर", "तबला"],
+    "c": 1,
+    "exp": "Pandit Hariprasad Chaurasia is an internationally acclaimed classical instumentalist who plays the Bansuri (Indian bamboo flute) in the Hindustani classical tradition.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The famous 'Phulkari' traditional embroidery art belongs to which state?",
+    "hi": "प्रसिद्ध 'फुलकारी' पारंपरिक कढ़ाई कला का संबंध किस राज्य से है?",
+    "oEn": ["Punjab", "Rajasthan", "Uttar Pradesh", "Gujarat"],
+    "oHi": ["पंजाब", "राजस्थान", "उत्तर प्रदेश", "गुजरात"],
+    "c": 0,
+    "exp": "Phulkari, which literally translates to 'flower work', is the signature traditional embroidery craft originating from the Punjab region.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Which of the following architectural styles is exemplified by the Khajuraho Group of Monuments?",
+    "hi": "खजुराहो के स्मारकों का समूह निम्नलिखित में से किस स्थापत्य शैली का सटीक उदाहरण है?",
+    "oEn": ["Dravidian Style", "Nagara Style", "Vesara Style", "Indo-Islamic Style"],
+    "oHi": ["द्रविड़ शैली", "नागर शैली", "वेसर शैली", "इंडो-इस्लामिक शैली"],
+    "c": 1,
+    "exp": "The Khajuraho temples in Madhya Pradesh were built by the Chandela Dynasty rulers between 950 and 1050 CE. They are a magnificent example of the Nagara (North Indian) temple architectural style.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The 'Bathukamma' festival, celebrated by women with colorful floral arrangements, is native to which state?",
+    "hi": "फूलों की रंग-बिरंगी सजावट के साथ महिलाओं द्वारा मनाया जाने वाला 'बतुकम्मा' उत्सव किस राज्य का मूल उत्सव है?",
+    "oEn": ["Andhra Pradesh", "Telangana", "Karnataka", "Tamil Nadu"],
+    "oHi": ["आंध्र प्रदेश", "तेलंगाना", "कर्नाटक", "तमिलनाडु"],
+    "c": 1,
+    "exp": "Bathukamma is a vibrant floral festival celebrated prominently by Hindu women in Telangana during the Navratri period, representing the state's cultural spirit.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Who among the following established the 'Kalakshetra Foundation' to revitalize Bharatanatyam?",
+    "hi": "भरतनाट्यम को पुनर्जीवित करने के लिए निम्नलिखित में से किसने 'कलाक्षेत्र फाउंडेशन' की स्थापना की थी?",
+    "oEn": ["Rukmini Devi Arundale", "Balasaraswati", "Yamini Krishnamurthy", "Padma Subrahmanyam"],
+    "oHi": ["रुक्मिणी देवी अरुंडेल", "बालासरस्वती", "यामिनी कृष्णमूर्ति", "पद्मा सुब्रमण्यम"],
+    "c": 0,
+    "exp": "Rukmini Devi Arundale was an Indian classical dancer who led the renaissance of Bharatanatyam and established the Kalakshetra Foundation at Adyar, Chennai, in 1936.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The traditional folk music 'Baul' belongs to which of the following Indian states?",
+    "hi": "पारंपरिक लोक संगीत 'बाउल' निम्नलिखित में से किस भारतीय राज्य से संबंधित है?",
+    "oEn": ["Assam", "Odisha", "West Bengal", "Bihar"],
+    "oHi": ["असम", "ओडिशा", "पश्चिम बंगाल", "बिहार"],
+    "c": 2,
+    "exp": "Baul represents both a religious sect and a musical tradition of mystic minstrel singers originating from Bengal (comprising West Bengal and Bangladesh).",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "The world-famous 'Madhubani' painting form originated in which district of Bihar?",
+    "hi": "विश्व प्रसिद्ध 'मधुबनी' चित्रकला शैली की उत्पत्ति बिहार के किस जिले में हुई थी?",
+    "oEn": ["Patna", "Gaya", "Madhubani", "Darbhanga"],
+    "oHi": ["पटना", "गया", "मधुबनी", "दरभंगा"],
+    "c": 2,
+    "exp": "Madhubani painting (or Mithila painting) is a traditional art form practiced in the Mithila region of Bihar, particularly centered around the Madhbubani district.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The 'Kandariya Mahadeva Temple', the largest in the Khajuraho complex, was built by which Chandela ruler?",
+    "hi": "खजुराहो परिसर का सबसे बड़ा मंदिर 'कंदारिया महादेव मंदिर' किस चंदेल शासक द्वारा बनवाया गया था?",
+    "oEn": ["Dhanga Deva", "Vidyadhara", "Yashovarman", "Ganda Deva"],
+    "oHi": ["धंग देव", "विद्याधर", "यशोवर्मन", "गंड देव"],
+    "c": 1,
+    "exp": "The Kandariya Mahadeva Temple was built during the reign of King Vidyadhara (around 1030 CE) to celebrate his successful defense against Mahmud of Ghazni.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "With which musical instrument is the legendary percussionist Ustad Allah Rakha primarily associated?",
+    "hi": "दिग्गज तालवाद्य वादक (परकशनिस्ट) उस्ताद अल्ला रक्खा मुख्य रूप से किस वाद्य यंत्र से जुड़े हैं?",
+    "oEn": ["Tabla", "Mridangam", "Ghatam", "Pakhawaj"],
+    "oHi": ["तबला", "मृदंगम", "घटम", "पखावज"],
+    "c": 0,
+    "exp": "Ustad Allah Rakha Qureshi was an iconic Indian tabla player specializing in the Punjab Gharana. He was a frequent accompanist to sitar maestro Ravi Shankar and father of Zakir Hussain.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The famous martial dance form 'Chhau' is NOT natively prevalent in which of the following states?",
+    "hi": "प्रसिद्ध युद्ध कला नृत्य शैली 'छऊ' मूल रूप से निम्नलिखित में से किस राज्य में प्रचलित नहीं है?",
+    "oEn": ["Jharkhand", "Odisha", "West Bengal", "Madhya Pradesh"],
+    "oHi": ["झारखंड", "ओडिशा", "पश्चिम बंगाल", "मध्य प्रदेश"],
+    "c": 3,
+    "exp": "Chhau is a major classical-folk composite dance form of Eastern India. It has three distinct sub-types: Seraikella Chhau (Jharkhand), Mayurbhanj Chhau (Odisha), and Purulia Chhau (West Bengal).",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The historic 'Buland Darwaza' is built out of which of the following stones?",
+    "hi": "ऐतिहासिक 'बुलंद दरवाजा' निम्नलिखित में से किस पत्थर से निर्मित है?",
+    "oEn": ["White Marble", "Red and Buff Sandstone", "Black Basalt", "Granite"],
+    "oHi": ["सफेद संगमरमर", "लाल और हल्के पीले रंग का बलुआ पत्थर", "काला बेसाल्ट", "ग्रेनाइट"],
+    "c": 1,
+    "exp": "The Buland Darwaza is constructed using semi-octagonal red and buff sandstone with decorative carvings and inlay work of white and black marble.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "The annual cultural festival 'Taj Mahotsav' is celebrated in Agra during which month?",
+    "hi": "आगरा में प्रतिवर्ष आयोजित होने वाला सांस्कृतिक उत्सव 'ताज महोत्सव' किस महीने में मनाया जाता है?",
+    "oEn": ["January", "February", "October", "December"],
+    "oHi": ["जनवरी", "फरवरी", "अक्टूबर", "दिसंबर"],
+    "c": 1,
+    "exp": "Taj Mahotsav is a 10-day long annual festival held in Shilpgram near the Eastern Gate of the Taj Mahal in Agra every year from February 18 to February 27.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Who among the following Kathak maestros founded the 'Kadamb Centre for Dance' in Ahmedabad?",
+    "hi": "निम्नलिखित कथक उस्तादों में से किसने अहमदाबाद में 'कादंब सेंटर फॉर डांस' की स्थापना की थी?",
+    "oEn": ["Pandit Birju Maharaj", "Kumudini Lakhia", "Sitara Devi", "Shovana Narayan"],
+    "oHi": ["पंडित बिरजू महाराज", "कुमुदिनी लाखिया", "सितारा देवी", "शोभना नारायण"],
+    "c": 1,
+    "exp": "Kumudini Lakhia is a renowned Kathak dancer and choreographer who founded the Kadamb Centre for Dance in 1964 to promote contemporary developments in Kathak choreography.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The 'Cheraw' or the Bamboo Dance is a very old traditional folk dance of which state?",
+    "hi": "'चेराव' या बांस नृत्य किस राज्य का एक बहुत पुराना पारंपरिक लोक नृत्य है?",
+    "oEn": ["Tripura", "Mizoram", "Arunachal Pradesh", "Manipur"],
+    "oHi": ["त्रिपुरा", "मिजोरम", "अरुणाचल प्रदेश", "मणिपुर"],
+    "c": 1,
+    "exp": "Cheraw dance is a traditional cultural dance of Mizoram performed by six to eight people holding pairs of bamboo staves horizontally on the ground.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "The iconic musical treatise 'Natya Shastra', the primary source for classical dances, was compiled by whom?",
+    "hi": "शास्त्रीय नृत्यों का प्राथमिक स्रोत माने जाने वाले प्रसिद्ध संगीत ग्रंथ 'नाट्यशास्त्र' का संकलन किसके द्वारा किया गया था?",
+    "oEn": ["Abhinavagupta", "Bharata Muni", "Nandikeshvara", "Sarangadeva"],
+    "oHi": ["अभिनवगुप्त", "भरत मुनि", "नंदिकेश्वर", "सारंगदेव"],
+    "c": 1,
+    "exp": "The Natya Shastra is an ancient Indian treatise on the performing arts, encompassing theatre, dance and music, traditionally attributed to the sage Bharata Muni (compiled between 200 BCE and 200 CE).",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The 'Hemis Festival' of Ladakh is celebrated to commemorate the birth anniversary of which Buddhist guru?",
+    "hi": "लद्दाख का 'हेमिस महोत्सव' किस बौद्ध गुरु की जयंती के उपलक्ष्य में मनाया जाता है?",
+    "oEn": ["Guru Padmasambhava", "Gautama Buddha", "Dalai Lama", "Atisa"],
+    "oHi": ["गुरु पद्मसंभव", "गौतम बुद्ध", "दलाई लामा", "अतिश"],
+    "c": 0,
+    "exp": "The Hemis Festival is held at the Hemis Gompa (monastery) in Ladakh to celebrate the birth anniversary of Guru Padmasambhava (also known as Guru Rinpoche), the founder of Tibetan Buddhism.",
+    "Pyq": "SSC_MTS_2024"
+  }
+]
