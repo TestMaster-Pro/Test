@@ -1,6 +1,6 @@
 [
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** This rapid urbanization forces civic planners to quickly redesign public transport grids to avoid permanent gridlock.\n**B.** As a direct consequence, modern commuters now favor shared micro-mobility options over traditional personal vehicles.\n**C.** The structural layout of metropolitan transit has undergone a massive shift due to the unexpected influx of suburban populations.\n**D.** Furthermore, municipalities are now compelled to subsidize electric vehicle fleets to meet aggressive emission targets.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. This rapid urbanization forces civic planners to quickly redesign public transport grids to avoid permanent gridlock.\nB. As a direct consequence, modern commuters now favor shared micro-mobility options over traditional personal vehicles.\nC. The structural layout of metropolitan transit has undergone a massive shift due to the unexpected influx of suburban populations.\nD. Furthermore, municipalities are now compelled to subsidize electric vehicle fleets to meet aggressive emission targets.",
     "oEn": [
       "CBAD",
       "CABD",
@@ -9,10 +9,10 @@
     ],
     "c": 0,
     "exp": "Sentence C introduces the core theme regarding metropolitan transit shifts. Sentence B follows logically by showing the immediate consequence on commuters through the transition word As a direct consequence. Sentence A links directly back to this consumer movement by mentioning this rapid urbanization, and Sentence D adds an extra dimension with Furthermore. Therefore, CBAD is the correct sequence.",
-    "Pyq": "TCS Tier-2 Advanced Grid Pattern"
+    "Pyq": "High-Weightage TCS Trend"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** However, if this chemical equilibrium is disrupted, these delicate marine biomes can suffer widespread bleaching.\n**B.** The oceanic environment maintains a highly complex network of symbiotic relationships that naturally balance chemistry.\n**C.** For example, shallow water coral reefs absorb heavy wave energy and shelter diverse fish species.\n**D.** These organic systems function flawlessly as long as sea surface temperatures remain within historical baselines.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. However, if this chemical equilibrium is disrupted, these delicate marine biomes can suffer widespread bleaching.\nB. The oceanic environment maintains a highly complex network of symbiotic relationships that naturally balance chemistry.\nC. For example, shallow water coral reefs absorb heavy wave energy and shelter diverse fish species.\nD. These organic systems function flawlessly as long as sea surface temperatures remain within historical baselines.",
     "oEn": [
       "BCDA",
       "BCAD",
@@ -21,10 +21,10 @@
     ],
     "c": 0,
     "exp": "Sentence B opens the paragraph by introducing the main topic of complex oceanic networks. Sentence C provides a concrete illustration of this network working using the phrase For example. Sentence D refers back to these processes by calling them These organic systems. Sentence A provides the contrasting warning starting with However, detailing the threat of bleaching. This creates the flow BCDA.",
-    "Pyq": "High-Weightage Environment Trend"
+    "Pyq": "CGL Tier-II Pattern Variation"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Such regional supply shocks, while localized initially, can rapidly paralyze international manufacturing hubs.\n**B.** For example, when a severe drought halted cargo shipping through the Panama Canal, it disrupted global electronics delivery.\n**C.** Today economic stability relies heavily on highly automated logistics pipelines that span multiple oceans.\n**D.** This systemic vulnerability highlights the urgent need for localizing production and building safety stock inventories.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. Such regional supply shocks, while localized initially, can rapidly paralyze international manufacturing hubs.\nB. For example, when a severe drought halted cargo shipping through the Panama Canal, it disrupted global electronics delivery.\nC. Today economic stability relies heavily on highly automated logistics pipelines that span multiple oceans.\nD. This systemic vulnerability highlights the urgent need for localizing production and building safety stock inventories.",
     "oEn": [
       "CBAD",
       "CABD",
@@ -33,10 +33,10 @@
     ],
     "c": 0,
     "exp": "Sentence C introduces the broad topic of global economic reliance on logistics pipelines. Sentence B uses For example to illustrate a specific problem with the Panama Canal. Sentence A characterizes this specific issue by calling it Such regional supply shocks. Sentence D concludes with a logical solution based on the vulnerability described. Sequence: CBAD.",
-    "Pyq": "Recent Tier-1 Tough Shift PYQ Match"
+    "Pyq": "Recent Tier-1 Hard Shift PYQ"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** This strategic outpost was originally constructed to monitor maritime trade routes during colonial expansion.\n**B.** International travelers now trek to the coastal peak daily to photograph the massive iron cannons.\n**C.** Over the centuries, however, it gradually transformed into a peaceful wildlife sanctuary and a weather tracking station.\n**D.** Positioned high on the rocky cliffs of the southern peninsula stands an ancient citadel built of volcanic basalt.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. This strategic outpost was originally constructed to monitor maritime trade routes during colonial expansion.\nB. International travelers now trek to the coastal peak daily to photograph the massive iron cannons.\nC. Over the centuries, however, it gradually transformed into a peaceful wildlife sanctuary and a weather tracking station.\nD. Positioned high on the rocky cliffs of the southern peninsula stands an ancient citadel built of volcanic basalt.",
     "oEn": [
       "DACB",
       "DABC",
@@ -45,10 +45,10 @@
     ],
     "c": 0,
     "exp": "Sentence D is the introductory sentence as it defines the physical location and the structure. Sentence A uses the noun phrase This strategic outpost to refer back to the ancient citadel. Sentence C introduces a historical modification over time using the word however. Sentence B brings the narrative to the present day by noting what travelers do now. Sequence: DACB.",
-    "Pyq": "Non-PYQ Expected Conceptual Frame"
+    "Pyq": "Non-PYQ Expected Standard"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Repeating the identical process without adjusting structural parameters is a common error in software testing.\n**B.** Analytical development is rarely a straightforward task; instead, it requires systematic iteration and constant bug remediation.\n**C.** Each unexpected crash yields crucial diagnostic logs, guiding the engineering team closer to a stable deployment.\n**D.** Therefore, cataloging runtime exceptions meticulously is mandatory before initiating subsequent compilation phases.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. Repeating the identical process without adjusting structural parameters is a common error in software testing.\nB. Analytical development is rarely a straightforward task; instead, it requires systematic iteration and constant bug remediation.\nC. Each unexpected crash yields crucial diagnostic logs, guiding the engineering team closer to a stable deployment.\nD. Therefore, cataloging runtime exceptions meticulously is mandatory before initiating subsequent compilation phases.",
     "oEn": [
       "BCAD",
       "BCDA",
@@ -57,10 +57,10 @@
     ],
     "c": 0,
     "exp": "Sentence B introduces the main premise that development requires systematic iteration. Sentence C links directly to the errors mentioned in B by explaining how each unexpected crash yields data. Sentence A warns against the wrong handling of these errors by repeating the process without adjustments. Sentence D closes with a logical conclusion marked by Therefore. Sequence: BCAD.",
-    "Pyq": "CGL Tier-2 Typology Practice"
+    "Pyq": "CGL Tier-II Typology"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Enterprises that completely ignored this cloud-native movement suffered extreme operational latency and customer loss.\n**B.** The sudden evolution of cloud computing infrastructure totally reconfigured traditional on-premise corporate server setups.\n**C.** Administrators quickly realized the immense cost reduction of remote computational scaling and server management.\n**D.** This operational transition triggered an aggressive corporate race to retrain legacy database engineers.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. Enterprises that completely ignored this cloud-native movement suffered extreme operational latency and customer loss.\nB. The sudden evolution of cloud computing infrastructure totally reconfigured traditional on-premise corporate server setups.\nC. Administrators quickly realized the immense cost reduction of remote computational scaling and server management.\nD. This operational transition triggered an aggressive corporate race to retrain legacy database engineers.",
     "oEn": [
       "BCDA",
       "BCAD",
@@ -69,10 +69,10 @@
     ],
     "c": 0,
     "exp": "Sentence B introduces the central subject regarding cloud computing infrastructure. Sentence C explains why it happened from the perspective of administrators. Sentence D frames this organizational change as a movement using the phrase This operational transition. Sentence A describes the negative outcome for businesses that ignored the trend. Sequence: BCDA.",
-    "Pyq": "Corporate and Technical Trend"
+    "Pyq": "TCS Trend Corporate Theme"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** He spent hours recording how sound waves propagated through subterranean caves, mapping acoustic variations.\n**B.** Vignesh felt an intense curiosity toward geological formations from a very early, impressionable age.\n**C.** These early childhood explorations ultimately formed the empirical basis for his famous theories on seismic resonance.\n**D.** This scientific obsession frequently motivated him to explore dangerous underground caverns entirely alone.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. He spent hours recording how sound waves propagated through subterranean caves, mapping acoustic variations.\nB. Vignesh felt an intense curiosity toward geological formations from a very early, impressionable age.\nC. These early childhood explorations ultimately formed the empirical basis for his famous theories on seismic resonance.\nD. This scientific obsession frequently motivated him to explore dangerous underground caverns entirely alone.",
     "oEn": [
       "BDAC",
       "BADC",
@@ -81,10 +81,10 @@
     ],
     "c": 0,
     "exp": "Sentence B introduces the main subject Vignesh and his early interest in geological formations. Sentence D links directly to his interest by identifying it as This scientific obsession and explaining his cavern explorations. Sentence A expands on what he actually performed inside those caves. Sentence C concludes by explaining how these childhood explorations shaped his mature theories. Sequence: BDAC.",
-    "Pyq": "Biographical Paragraph Variant"
+    "Pyq": "Biographical Paragraph Trend"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Ultimately, these miniature sensors can detect microscopic arterial blockages well before traditional scans register a hazard.\n**B.** In preventative cardiology, nanomedicine is beginning to deliver some highly remarkable diagnostic breakthroughs.\n**C.** Once deployed into the capillary network, these tiny compounds monitor blood viscosity changes autonomously.\n**D.** They are carefully calibrated to broadcast high-frequency telemetry alerts directly to an external digital monitor.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. Ultimately, these miniature sensors can detect microscopic arterial blockages well before traditional scans register a hazard.\nB. In preventative cardiology, nanomedicine is beginning to deliver some highly remarkable diagnostic breakthroughs.\nC. Once deployed into the capillary network, these tiny compounds monitor blood viscosity changes autonomously.\nD. They are carefully calibrated to broadcast high-frequency telemetry alerts directly to an external digital monitor.",
     "oEn": [
       "BCDA",
       "BDCA",
@@ -93,10 +93,10 @@
     ],
     "c": 0,
     "exp": "Sentence B introduces the specific field of nanomedicine in cardiology. Sentence C describes the initial operational step inside the capillary network. Sentence D explains how the sensors communicate data once inside by using the pronoun They. Sentence A presents the final ultimate long-term diagnostic result. Sequence: BCDA.",
-    "Pyq": "Science and Medical Pattern"
+    "Pyq": "Science and Tech Pattern"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** This localized cellular reaction creates an immediate defensive barrier without involving the central nervous system.\n**B.** Histamine then increases capillary permeability in the surrounding tissue to facilitate white blood cell migration.\n**C.** Cutaneous inflammation is a vital physiological defense mechanism where tissue isolates localized toxic threats.\n**D.** In dermal injuries, this process commences when specialized mast cells release chemical signaling agents.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. This localized cellular reaction creates an immediate defensive barrier without involving the central nervous system.\nB. Histamine then increases capillary permeability in the surrounding tissue to facilitate white blood cell migration.\nC. Cutaneous inflammation is a vital physiological defense mechanism where tissue isolates localized toxic threats.\nD. In dermal injuries, this process commences when specialized mast cells release chemical signaling agents.",
     "oEn": [
       "CDBA",
       "CDAB",
@@ -105,10 +105,10 @@
     ],
     "c": 0,
     "exp": "Sentence C gives the overarching definition of cutaneous inflammation. Sentence D restricts the topic to a specific scenario involving dermal injuries. Sentence B uses the chronological transition word then to explain the next chemical step in the process involving histamine. Sentence A summarizes the outcome of the entire event sequence. Sequence: CDBA.",
-    "Pyq": "High-Difficulty Biological Process"
+    "Pyq": "High-Difficulty Nature PYQ"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Conversely, secondary socialization occurs during later years through peer networks, media exposure, and occupational groups.\n**B.** Synthesizing the distinct impacts of both developmental phases is crucial for understanding behavioral variations in adulthood.\n**C.** Primary socialization takes place during infancy when a child absorbs fundamental language and behavioral baselines from family.\n**D.** Sociologists routinely classify human identity development into two separate, chronological phases.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. Conversely, secondary socialization occurs during later years through peer networks, media exposure, and occupational groups.\nB. Synthesizing the distinct impacts of both developmental phases is crucial for understanding behavioral variations in adulthood.\nC. Primary socialization takes place during infancy when a child absorbs fundamental language and behavioral baselines from family.\nD. Sociologists routinely classify human identity development into two separate, chronological phases.",
     "oEn": [
       "DCAB",
       "DCBA",
@@ -117,10 +117,10 @@
     ],
     "c": 0,
     "exp": "Sentence D establishes the primary classification into two separate phases. Sentence C defines the first phase called primary socialization. Sentence A uses the explicit transition word Conversely to present the second phase called secondary socialization. Sentence B concludes the paragraph by highlighting the necessity of combining both phases. Sequence: DCAB.",
-    "Pyq": "Social Sciences Conceptual Mix"
+    "Pyq": "Non-PYQ Logical Conceptual Frame"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Such a sudden escalation in power demand can destabilize regional electrical grids within minutes.\n**B.** During intense heatwaves, commercial zones face severe, unpredictable grid failures.\n**C.** Consequently, grid operators are forced to initiate rolling blackouts to prevent total system collapse.\n**D.** As temperature parameters climb, retail centers maximize their climate control units for consumer safety.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. Such a sudden escalation in power demand can destabilize regional electrical grids within minutes.\nB. During intense heatwaves, commercial zones face severe, unpredictable grid failures.\nC. Consequently, grid operators are forced to initiate rolling blackouts to prevent total system collapse.\nD. As temperature parameters climb, retail centers maximize their climate control units for consumer safety.",
     "oEn": [
       "BCAD",
       "BDAC",
@@ -129,10 +129,10 @@
     ],
     "c": 1,
     "exp": "Sentence B sets up the main problem regarding grid failures during heatwaves. Sentence D connects directly to the heatwave timeline by stating what happens as temperature parameters climb. Sentence A points out the immediate physical consequence of that business behavior by using the reference phrase Such a sudden escalation. Sentence C completes the chain with Consequently, detailing the emergency operator reaction. Sequence: BDAC.",
-    "Pyq": "TCS Infrastructure Theme"
+    "Pyq": "TCS Socio-Economic Trend"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** It also prevents nitrogen volatilization, ensuring that adjacent ecosystems stay safe from nitrate poisoning.\n**B.** Conservation tillage centers on minimizing mechanical soil disturbance rather than preparing a perfectly smooth seedbed.\n**C.** By preserving residual crop stubble, this agricultural method builds rich organic matter over multiple seasons.\n**D.** This undisturbed soil structure demonstrates a significantly higher capacity to absorb moisture during intense rainstorms.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. It also prevents nitrogen volatilization, ensuring that adjacent ecosystems stay safe from nitrate poisoning.\nB. Conservation tillage centers on minimizing mechanical soil disturbance rather than preparing a perfectly smooth seedbed.\nC. By preserving residual crop stubble, this agricultural method builds rich organic matter over multiple seasons.\nD. This undisturbed soil structure demonstrates a significantly higher capacity to absorb moisture during intense rainstorms.",
     "oEn": [
       "BCDA",
       "BCAD",
@@ -141,10 +141,10 @@
     ],
     "c": 0,
     "exp": "Sentence B introduces the core philosophy of conservation tillage. Sentence C details how it operates by stating the method of preserving crop stubble. Sentence D tracks the immediate physical benefit to the soil structure by calling it This undisturbed soil structure. Sentence A adds an additional chemical benefit via the transition phrase It also prevents. Sequence: BCDA.",
-    "Pyq": "Agriculture and Geography Practice"
+    "Pyq": "Agriculture and Environment Theme"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** This environmental extreme complicates exploration, demanding expensive titanium hulls to safeguard scientific equipment.\n**B.** Near ocean trenches, hydrostatic pressure reaches levels thousands of times greater than baseline surface conditions.\n**C.** Despite these highly destructive parameters, specialized extremophile communities manage to survive around active seamounts.\n**D.** These unique organisms utilize exotic chemosynthetic pathways to generate metabolic energy without any access to sunlight.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. This environmental extreme complicates exploration, demanding expensive titanium hulls to safeguard scientific equipment.\nB. Near ocean trenches, hydrostatic pressure reaches levels thousands of times greater than baseline surface conditions.\nC. Despite these highly destructive parameters, specialized extremophile communities manage to survive around active seamounts.\nD. These unique organisms utilize exotic chemosynthetic pathways to generate metabolic energy without any access to sunlight.",
     "oEn": [
       "BACD",
       "BADC",
@@ -153,10 +153,10 @@
     ],
     "c": 0,
     "exp": "Sentence B states the core physical reality regarding hydrostatic pressure near ocean trenches. Sentence A outlines the immediate consequence for explorers by using the phrase This environmental extreme. Sentence C presents a biological contrast using the opening phrase Despite these highly destructive parameters. Sentence D explains the precise survival mechanism of the organisms introduced in C. Sequence: BACD.",
-    "Pyq": "Tier-2 Advanced Science Passage"
+    "Pyq": "Tier-2 Shift Standard"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** For instance, a regional bank can now process global remittances without using an international clearinghouse intermediary.\n**B.** Decentralized ledger technology has drastically compressed transaction settlement times for financial institutions worldwide.\n**C.** However, this distributed architecture also introduces complex cybersecurity vectors that legacy protocols cannot defend.\n**D.** To counter this exposure, engineering teams must build continuous cryptographic validation loops into their network nodes.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. For instance, a regional bank can now process global remittances without using an international clearinghouse intermediary.\nB. Decentralized ledger technology has drastically compressed transaction settlement times for financial institutions worldwide.\nC. However, this distributed architecture also introduces complex cybersecurity vectors that legacy protocols cannot defend.\nD. To counter this exposure, engineering teams must build continuous cryptographic validation loops into their network nodes.",
     "oEn": [
       "BACD",
       "BCDA",
@@ -165,10 +165,10 @@
     ],
     "c": 0,
     "exp": "Sentence B introduces the primary topic regarding decentralized ledger technology. Sentence A provides a concrete real-world example using the introductory phrase For instance. Sentence C uses the contrast word However to highlight the security downsides of this architecture. Sentence D details the exact engineering resolution required to fix the risk described in C. Sequence: BACD.",
-    "Pyq": "Fintech Standard Practice"
+    "Pyq": "Economy Concept PYQ"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** These complex quantitative algorithms parse massive market order books to predict fractional pricing movements.\n**B.** Algorithmic market makers have fundamentally modified the baseline liquidity parameters of modern derivative exchanges.\n**C.** Because these computations resolve within nanoseconds, human brokers cannot safely track execution sequences manually.\n**D.** Consequently, a dominant share of daily futures volume is now executed entirely by automated institutional servers.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. These complex quantitative algorithms parse massive market order books to predict fractional pricing movements.\nB. Algorithmic market makers have fundamentally modified the baseline liquidity parameters of modern derivative exchanges.\nC. Because these computations resolve within nanoseconds, human brokers cannot safely track execution sequences manually.\nD. Consequently, a dominant share of daily futures volume is now executed entirely by automated institutional servers.",
     "oEn": [
       "BACD",
       "BADC",
@@ -177,10 +177,10 @@
     ],
     "c": 1,
     "exp": "Sentence B establishes the main topic regarding algorithmic market makers. Sentence A refers back to them by using the descriptive phrase These complex quantitative algorithms. Sentence C emphasizes the extreme speed of these calculations. Sentence D shows the ultimate macroeconomic result with the transition word Consequently. Sequence: BADC.",
-    "Pyq": "Advanced Economics Typology"
+    "Pyq": "Advanced Technical Passage Pattern"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** If unmanaged, this persistent state of neural overstimulation can progressively damage spatial working memory banks.\n**B.** When an individual processes an acute stressor, the endocrine system initiates a massive surge of systemic hormones.\n**C.** In contemporary sedentary environments, however, this primordial physical survival mechanism is triggered constantly.\n**D.** This physiological defense mechanism was originally optimized to help primitive hominids evade apex predators.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. If unmanaged, this persistent state of neural overstimulation can progressively damage spatial working memory banks.\nB. When an individual processes an acute stressor, the endocrine system initiates a massive surge of systemic hormones.\nC. In contemporary sedentary environments, however, this primordial physical survival mechanism is triggered constantly.\nD. This physiological defense mechanism was originally optimized to help primitive hominids evade apex predators.",
     "oEn": [
       "BDCA",
       "BDAC",
@@ -189,10 +189,10 @@
     ],
     "c": 0,
     "exp": "Sentence B details the initial endocrine response to an acute stressor. Sentence D directly references this biological event by calling it This physiological defense mechanism. Sentence C contrasts its ancient evolutionary purpose with contemporary lifestyle realities using the word however. Sentence A shows the long-term pathological danger if this state remains unmanaged. Sequence: BDCA.",
-    "Pyq": "Health and Neurobiology Shift"
+    "Pyq": "Psychology and Health High-Yield Theme"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** This drastic reduction in fluid momentum causes the suspended alluvial payload to precipitate rapidly.\n**B.** As a fast-moving mountain stream exits a narrow canyon, its physical channel widens out abruptly.\n**C.** Over geographic epochs, these deposited mineral layers harden to form extensive, fertile alluvial fans.\n**D.** The heavy mixture of coarse gravel and sand can no longer remain supported by the slowing current.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. This drastic reduction in fluid momentum causes the suspended alluvial payload to precipitate rapidly.\nB. As a fast-moving mountain stream exits a narrow canyon, its physical channel widens out abruptly.\nC. Over geographic epochs, these deposited mineral layers harden to form extensive, fertile alluvial fans.\nD. The heavy mixture of coarse gravel and sand can no longer remain supported by the slowing current.",
     "oEn": [
       "BDAC",
       "BADC",
@@ -201,10 +201,10 @@
     ],
     "c": 1,
     "exp": "Sentence B introduces the primary physical event of a mountain stream exiting a narrow canyon and widening. Sentence A links directly to the physical effect of this widening by referencing This drastic reduction in fluid momentum. Sentence D explains why the payload drops because of the slowing current. Sentence C defines the long-term geological consequence over epochs. Sequence: BADC.",
-    "Pyq": "Physical Geography Process"
+    "Pyq": "Geography Process Typology"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** To fill this engagement void, curators are now embedding interactive spatial audio systems inside galleries.\n**B.** Traditional art galleries frequently struggle to hold the attention of younger demographics raised on interactive media.\n**C.** These motionless frames and silent display halls can feel unstimulating to digitally saturated children.\n**D.** By wearing specialized wireless headsets, visitors can now experience dynamic sonic soundscapes linked to each canvas.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. To fill this engagement void, curators are now embedding interactive spatial audio systems inside galleries.\nB. Traditional art galleries frequently struggle to hold the attention of younger demographics raised on interactive media.\nC. These motionless frames and silent display halls can feel unstimulating to digitally saturated children.\nD. By wearing specialized wireless headsets, visitors can now experience dynamic sonic soundscapes linked to each canvas.",
     "oEn": [
       "BCAD",
       "BCDA",
@@ -213,10 +213,10 @@
     ],
     "c": 0,
     "exp": "Sentence B introduces the foundational problem of traditional galleries struggling to engage younger generations. Sentence C elaborates on why they face this issue by characterizing the spaces as These motionless frames. Sentence A introduces the explicit solution designed by curators to address this gap. Sentence D expands on the practical experience of that spatial audio solution. Sequence: BCAD.",
-    "Pyq": "Modern Cultural Trends Pattern"
+    "Pyq": "Modern Digital Trends Mix"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Such a targeted defense model ensures that the most devastating logical exploits are neutralized immediately.\n**B.** Incident response teams cannot realistically mitigate every software vulnerability across a distributed enterprise network instantly.\n**C.** Therefore, they prioritize network assets based on active threat intelligence and business impact scores.\n**D.** This strategy effectively limits defensive resource depletion while maintaining system confidentiality baselines.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. Such a targeted defense model ensures that the most devastating logical exploits are neutralized immediately.\nB. Incident response teams cannot realistically mitigate every software vulnerability across a distributed enterprise network instantly.\nC. Therefore, they prioritize network assets based on active threat intelligence and business impact scores.\nD. This strategy effectively limits defensive resource depletion while maintaining system confidentiality baselines.",
     "oEn": [
       "BCAD",
       "BCDA",
@@ -225,10 +225,10 @@
     ],
     "c": 0,
     "exp": "Sentence B explains the primary limitation facing incident response teams. Sentence C follows up with their logical method to resolve the problem using the conclusion word Therefore. Sentence A evaluates and describes this prioritization strategy using the phrase Such a targeted defense model. Sentence D highlights the broad strategic benefit. Sequence: BCAD.",
-    "Pyq": "Enterprise Technology Domain"
+    "Pyq": "Corporate Tech PYQ Practice"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** The resulting particulate clouds can obstruct solar rays, initiating a significant drop in planetary temperatures.\n**B.** An asteroid impact event represents one of the most cataclysmic extinction drivers in geological history.\n**C.** For example, the historic Chicxulub event triggered a multi-year global winter that ended the dinosaur era.\n**D.** When such a body collides with Earth, billions of tons of vaporized crust are ejected into the stratosphere.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. The resulting particulate clouds can obstruct solar rays, initiating a significant drop in planetary temperatures.\nB. An asteroid impact event represents one of the most cataclysmic extinction drivers in geological history.\nC. For example, the historic Chicxulub event triggered a multi-year global winter that ended the dinosaur era.\nD. When such a body collides with Earth, billions of tons of vaporized crust are ejected into the stratosphere.",
     "oEn": [
       "BDAC",
       "BDCA",
@@ -237,10 +237,10 @@
     ],
     "c": 1,
     "exp": "Sentence B introduces the central macro-concept of an asteroid impact event. Sentence D tracks the immediate mechanical outcome of the collision when such a body collides. Sentence A transitions to the secondary atmospheric result of the debris cloud. Sentence C closes by providing a historical example using the phrase For example. Sequence: BDAC.",
-    "Pyq": "Geological Sciences Trend"
+    "Pyq": "Earth Sciences Pattern"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** This cultural displacement frequently leads to the permanent loss of non-written historical records.\n**B.** When pastoral communities settle permanently in urban centers, they face intense pressure to assimilate structurally.\n**C.** Consequently, rare dialect variations and ancient oral storytelling traditions face imminent extinction.\n**D.** To safeguard this intangible heritage, community elders are cataloging recordings inside digital audio archives.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. This cultural displacement frequently leads to the permanent loss of non-written historical records.\nB. When pastoral communities settle permanently in urban centers, they face intense pressure to assimilate structurally.\nC. Consequently, rare dialect variations and ancient oral storytelling traditions face imminent extinction.\nD. To safeguard this intangible heritage, community elders are cataloging recordings inside digital audio archives.",
     "oEn": [
       "BACD",
       "BADC",
@@ -249,10 +249,10 @@
     ],
     "c": 0,
     "exp": "Sentence B introduces the primary migration context and assimilation pressures. Sentence A connects directly to the fallout of that assimilation by calling it This cultural displacement. Sentence C details the specific consequence using Consequently, naming the loss of dialects and storytelling. Sentence D introduces the conservation efforts designed to fix the loss. Sequence: BACD.",
-    "Pyq": "Sociological Trend Standard"
+    "Pyq": "Sociological Trend PYQ"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Once inside the combustion chamber, this highly compressed mixture is detonated by a timed electrical spark.\n**B.** Inside an industrial gas turbine, intake air must be processed extensively before it can drive the generator shaft.\n**C.** This violent expansion forces the turbine blades to rotate, generating substantial electrical output.\n**D.** Heavy-duty multi-stage compressors handle this requirement by elevating air density to extreme operational pressures.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. Once inside the combustion chamber, this highly compressed mixture is detonated by a timed electrical spark.\nB. Inside an industrial gas turbine, intake air must be processed extensively before it can drive the generator shaft.\nC. This violent expansion forces the turbine blades to rotate, generating substantial electrical output.\nD. Heavy-duty multi-stage compressors handle this requirement by elevating air density to extreme operational pressures.",
     "oEn": [
       "BDAC",
       "BDCA",
@@ -261,10 +261,10 @@
     ],
     "c": 2,
     "exp": "Sentence B states the general physical prerequisite regarding intake air in an industrial turbine. Sentence D names the mechanical asset responsible for this processing by stating Heavy-duty multi-stage compressors handle this requirement. Sentence A moves forward to the combustion stage once the mixture is compressed. Sentence C explains how the resulting explosion drives the turbine blades. Sequence: BADC.",
-    "Pyq": "Industrial Engineering Process"
+    "Pyq": "Mechanical and Applied Physics Shift"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** Such dynamic tool mechanics prove that advanced logic structures are not exclusive to primates.\n**B.** For instance, some individuals will modify thin twigs to extract deep-dwelling larvae from tree bark holes.\n**C.** New Caledonian crows are widely celebrated by avian researchers for their exceptional cognitive faculties.\n**D.** They consistently exhibit an unmatched capacity for complex multi-step problem solving in wild habitats.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. Such dynamic tool mechanics prove that advanced logic structures are not exclusive to primates.\nB. For instance, some individuals will modify thin twigs to extract deep-dwelling larvae from tree bark holes.\nC. New Caledonian crows are widely celebrated by avian researchers for their exceptional cognitive faculties.\nD. They consistently exhibit an unmatched capacity for complex multi-step problem solving in wild habitats.",
     "oEn": [
       "CDBA",
       "CDAB",
@@ -273,10 +273,10 @@
     ],
     "c": 0,
     "exp": "Sentence C introduces the specific subject of New Caledonian crows and their intelligence. Sentence D expands on their mental capabilities using the personal pronoun They. Sentence B presents a concrete behavioral example using the transition phrase For instance. Sentence A concludes with a high-level theoretical deduction starting with Such dynamic tool mechanics. Sequence: CDBA.",
-    "Pyq": "Zoological/Ethology Pattern"
+    "Pyq": "Animal Behavior Standard Trend"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** This economic buffer empowers these enterprises to fund speculative research initiatives without fearing immediate insolvency.\n**B.** Mature conglomerates possess an immense liquidity advantage over boot-strapped operations in the marketplace.\n**C.** On the contrary, early-stage ventures must achieve rapid monetization to satisfy demanding venture capital firms.\n**D.** They hold significant capital reserves built through decades of dominating high-margin legacy sectors.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. This economic buffer empowers these enterprises to fund speculative research initiatives without fearing immediate insolvency.\nB. Mature conglomerates possess an immense liquidity advantage over boot-strapped operations in the marketplace.\nC. On the contrary, early-stage ventures must achieve rapid monetization to satisfy demanding venture capital firms.\nD. They hold significant capital reserves built through decades of dominating high-margin legacy sectors.",
     "oEn": [
       "BDAA",
       "BDAC",
@@ -285,10 +285,10 @@
     ],
     "c": 1,
     "exp": "Sentence B delivers the main thesis stating that mature conglomerates hold a liquidity advantage over smaller firms. Sentence D immediately explains the composition of that liquidity advantage using the pronoun They. Sentence A references those capital reserves by calling them This economic buffer. Sentence C introduces the contrasting struggle of small ventures using the transition phrase On the contrary. Sequence: BDAC.",
-    "Pyq": "Corporate Finance Concept Shift"
+    "Pyq": "Business and Finance Conceptual Shift"
   },
   {
-    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\n**A.** These massive collector satellites capture raw sunlight constantly, completely insulated from atmospheric scattering.\n**B.** Orbital solar harvesting constellations could soon stream an uninterrupted supply of green energy to domestic grids.\n**C.** The collected electrical energy is subsequently beamed down safely to planetary receptors via targeted microwave beams.\n**D.** However, the extreme financial investment required to launch these heavy structural arrays currently restricts commercial viability.",
+    "en": "Given below are four jumbled sentences. Out of the given options, select the one that signals their correct order.\n\nA. These massive collector satellites capture raw sunlight constantly, completely insulated from atmospheric scattering.\nB. Orbital solar harvesting constellations could soon stream an uninterrupted supply of green energy to domestic grids.\nC. The collected electrical energy is subsequently beamed down safely to planetary receptors via targeted microwave beams.\nD. However, the extreme financial investment required to launch these heavy structural arrays currently restricts commercial viability.",
     "oEn": [
       "BACD",
       "BADC",
@@ -297,6 +297,6 @@
     ],
     "c": 0,
     "exp": "Sentence B introduces the broad technical concept of orbital solar harvesting constellations. Sentence A explains their operational function by detailing how these massive collector satellites operate. Sentence C follows the operational chain by tracking how the energy is transferred down using the word subsequently. Sentence D highlights the economic barrier using the contrast word However. Sequence: BACD.",
-    "Pyq": "Non-PYQ Advanced Aerotech Mix"
+    "Pyq": "Non-PYQ Hard Technical Expected Standard"
   }
 ]
