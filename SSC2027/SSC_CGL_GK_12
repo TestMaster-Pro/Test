@@ -1,0 +1,452 @@
+[
+  {
+    "en": "Which of the following atmospheric layers contains the ozone layer which absorbs harmful ultraviolet (UV) radiation?",
+    "hi": "निम्नलिखित में से किस वायुमंडलीय परत में ओजोन परत होती है जो हानिकारक पराबैंगनी (UV) विकिरण को अवशोषित करती है?",
+    "oEn": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "oHi": ["क्षोभमंडल (Troposphere)", "समतापमंडल (Stratosphere)", "मध्यमंडल (Mesosphere)", "बाह्य वायुमंडल (Thermosphere)"],
+    "c": 1,
+    "exp": "The stratosphere contains the ozone layer (mainly between 15-35 km), which plays a crucial role in shielding the Earth from dangerous UV rays.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The 'Moho' (Mohorovicic) discontinuity separates which of the following layers of the Earth?",
+    "hi ('हिन्दी')": "'मोहो' (मोहोरोविचिक) असंबद्धता पृथ्वी की निम्नलिखित में से किस परत को अलग करती है?",
+    "oEn": ["Crust and Mantle", "Upper Mantle and Lower Mantle", "Mantle and Core", "Outer Core and Inner Core"],
+    "oHi": ["पर्पटी (Crust) और मैंटल (Mantle)", "ऊपरी मैंटल और निचला मैंटल", "मैंटल और कोर (Core)", "बाहरी कोर और आंतरिक कोर"],
+    "c": 0,
+    "exp": "The Mohorovicic discontinuity, or Moho, marks the boundary between the Earth's crust and the underlying mantle layer.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which type of rocks are formed due to the cooling and solidification of magma or lava?",
+    "hi": "मैग्मा या लावा के ठंडे होने और जमने के कारण किस प्रकार की चट्टानों का निर्माण होता है?",
+    "oEn": ["Sedimentary rocks", "Metamorphic rocks", "Igneous rocks", "Halite rocks"],
+    "oHi": ["अवसादी चट्टानें (Sedimentary)", "रूपांतरित चट्टानें (Metamorphic)", "आग्नेय चट्टानें (Igneous)", "हैलाइट चट्टानें"],
+    "c": 2,
+    "exp": "Igneous rocks (primary rocks) are formed when molten rock (magma or lava) cools and solidifies, such as granite and basalt.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "What is the term used for the point on the Earth's surface directly above the focus of an earthquake?",
+    "hi": "भूकंप के उद्गम केंद्र (Focus) के ठीक ऊपर पृथ्वी की सतह पर स्थित बिंदु के लिए किस शब्द का उपयोग किया जाता है?",
+    "oEn": ["Epicenter", "Hypocenter", "Seismic center", "Apex"],
+    "oHi": ["अधिकेंद्र (Epicenter)", "अवकेंद्र (Hypocenter)", "भूकंपीय केंद्र", "शीर्ष बिंदु"],
+    "c": 0,
+    "exp": "The epicenter is the point directly above the hypocenter (or focus) where the earthquake originates inside the Earth.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which of the following landforms is created by the erosional work of a glacier?",
+    "hi": "निम्नलिखित में से कौन सी स्थलाकृति ग्लेशियर (हिमनद) के अपरदनात्मक कार्य द्वारा निर्मित होती है?",
+    "oEn": ["Stalactite", "Cirque", "Mushroom Rock", "Ox-bow Lake"],
+    "oHi": ["स्टैलेक्टाइट", "सर्क (Cirque)", "छत्रक शैल (Mushroom Rock)", "गोखुर झील"],
+    "c": 1,
+    "exp": "A Cirque is an amphitheater-like valley formed by glacial erosion. Mushroom rocks are formed by wind, stalactites by groundwater, and ox-bow lakes by rivers.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The phenomenon of deflection of winds caused by the Earth's rotation is known as which effect?",
+    "hi": "पृथ्वी के घूर्णन के कारण हवाओं के विक्षेपण (मुड़ने) की घटना को किस प्रभाव के रूप में जाना जाता है?",
+    "oEn": ["Greenhouse Effect", "Coriolis Effect", "Doppler Effect", "Pressure Effect"],
+    "oHi": ["ग्रीनहाउस प्रभाव", "कोरिओलिस प्रभाव (Coriolis Effect)", "डॉप्लर प्रभाव", "दबाव प्रभाव"],
+    "c": 1,
+    "exp": "The Coriolis effect, caused by Earth's rotation, deflects winds to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Which of the following options represents the correct sequence of atmospheric layers starting from the Earth's surface upwards?",
+    "hi": "निम्नलिखित में से कौन सा विकल्प पृथ्वी की सतह से ऊपर की ओर वायुमंडलीय परतों के सही क्रम को दर्शाता है?",
+    "oEn": ["Troposphere, Stratosphere, Mesosphere, Thermosphere", "Stratosphere, Troposphere, Mesosphere, Thermosphere", "Troposphere, Mesosphere, Stratosphere, Exosphere", "Thermosphere, Mesosphere, Stratosphere, Troposphere"],
+    "oHi": ["क्षोभमंडल, समतापमंडल, मध्यमंडल, बाह्य वायुमंडल", "समतापमंडल, क्षोभमंडल, मध्यमंडल, बाह्य वायुमंडल", "क्षोभमंडल, मध्यमंडल, समतापमंडल, बहिर्मंडल", "बाह्य वायुमंडल, मध्यमंडल, समतापमंडल, क्षोभमंडल"],
+    "c": 0,
+    "exp": "The correct vertical sequence of atmospheric layers from the surface upward is Troposphere, Stratosphere, Mesosphere, Thermosphere, and Exosphere.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The steep-sided depressions found in oceans, which represent the deepest parts of the ocean floor, are called what?",
+    "hi": "महासागरों में पाए जाने वाले तीव्र ढाल वाले गर्त, जो महासागरीय नितल के सबसे गहरे भागों का प्रतिनिधित्व करते हैं, क्या कहलाते हैं?",
+    "oEn": ["Continental Shelves", "Abyssal Plains", "Oceanic Trenches", "Continental Slopes"],
+    "oHi": ["महाद्वीपीय मग्नतट", "गंभीर सागरीय मैदान", "महासागरीय गर्त (Trenches)", "महाद्वीपीय ढाल"],
+    "c": 2,
+    "exp": "Oceanic trenches are long, narrow, steep-sided depressions on the ocean floor and are the deepest parts of the marine environment (e.g., Mariana Trench).",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which type of rainfall occurs when a warm, moisture-laden air mass is forced to rise over a mountain barrier?",
+    "hi": "जब एक गर्म, नमी से भरी वायु राशि को किसी पर्वतीय अवरोध के ऊपर उठने के लिए मजबूर किया जाता है, तो किस प्रकार की वर्षा होती है?",
+    "oEn": ["Convectional rainfall", "Cyclonic rainfall", "Orographic rainfall", "Frontal rainfall"],
+    "oHi": ["संवहनीय वर्षा", "चक्रवातीय वर्षा", "पर्वतीय वर्षा (Orographic)", "वाताग्र वर्षा"],
+    "c": 2,
+    "exp": "Orographic rainfall (or relief rainfall) is caused when moisture-laden air encounters a mountain range and is forced to ascend, cooling and condensing in the process.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "What is the average salinity of ocean water globally?",
+    "hi": "वैश्विक स्तर पर महासागरीय जल की औसत लवणता कितनी है?",
+    "oEn": ["25 parts per thousand", "30 parts per thousand", "35 parts per thousand", "40 parts per thousand"],
+    "oHi": ["25 प्रति हजार", "30 प्रति हजार", "35 प्रति हजार (35‰)", "40 प्रति हजार"],
+    "c": 2,
+    "exp": "The average salinity of seawater is roughly 35 parts per thousand (35 grams of salt per 1000 grams of water).",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Grand Canyon in the USA, a spectacular example of a deep gorge, was formed by the erosional activity of which river?",
+    "hi": "संयुक्त राज्य अमेरिका (USA) में ग्रैंड कैनियन, जो एक गहरे गॉर्ज का शानदार उदाहरण है, किस नदी की अपरदन गतिविधि द्वारा निर्मित हुआ था?",
+    "oEn": ["Mississippi River", "Colorado River", "Amazon River", "Hudson River"],
+    "oHi": ["मिसिसिपी नदी", "कोलोराडो नदी", "अमेज़न नदी", "हडसन नदी"],
+    "c": 1,
+    "exp": "The Grand Canyon was carved out over millions of years by the erosional action of the Colorado River in Arizona, USA.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following is a warm ocean current of the Atlantic Ocean?",
+    "hi": "निम्नलिखित में से कौन सी अटलांटिक महासागर की एक गर्म जलधारा है?",
+    "oEn": ["Labrador Current", "Gulf Stream", "Canary Current", "Benguela Current"],
+    "oHi": ["लेब्राडोर धारा", "गल्फ स्ट्रीम (Gulf Stream)", "कनारी धारा", "बेंगुएला धारा"],
+    "c": 1,
+    "exp": "The Gulf Stream is a powerful, warm ocean current in the North Atlantic Ocean. Labrador, Canary, and Benguela are cold currents.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The dry, warm local wind that blows down the eastern slopes of the Rocky Mountains in North America is called what?",
+    "hi": "उत्तरी अमेरिका में रॉकी पर्वत के पूर्वी ढालों पर नीचे बहने वाली सूखी, गर्म स्थानीय हवा को क्या कहा जाता है?",
+    "oEn": ["Chinook", "Foehn", "Mistral", "Sirocco"],
+    "oHi": ["चिनूक (Chinook)", "फॉन", "मिस्ट्रल", "सिराॅको"],
+    "c": 0,
+    "exp": "Chinook is a warm, dry wind that blows down the leeward side of the Rocky Mountains, often called the 'Snow Eater'.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "According to Wegener's Continental Drift Theory, all landmasses initially formed a single supercontinent named what?",
+    "hi": "वेगेनर के महाद्वीपीय विस्थापन सिद्धांत के अनुसार, सभी महाद्वीप प्रारंभ में एक विशाल एकल महाद्वीप के रूप में जुड़े थे, जिसे क्या नाम दिया गया था?",
+    "oEn": ["Panthalassa", "Pangea", "Gondwanaland", "Laurasia"],
+    "oHi": ["पैंथालसा", "पेंजिया (Pangea)", "गोंडवानालैंड", "लॉरेशिया"],
+    "c": 1,
+    "exp": "Alfred Wegener proposed that around 200 million years ago, all continents were joined together as a supercontinent called 'Pangea', surrounded by a mega-ocean called 'Panthalassa'.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which of the following instruments is used to measure atmospheric pressure?",
+    "hi": "वायुमंडलीय दाब को मापने के लिए निम्नलिखित में से किस उपकरण का उपयोग किया जाता है?",
+    "oEn": ["Anemometer", "Hygrometer", "Barometer", "Thermometer"],
+    "oHi": ["एनेमोमीटर", "हाइग्रोमीटर", "बैरोमीटर (Barometer)", "थर्मामीटर"],
+    "c": 2,
+    "exp": "A barometer is used to measure atmospheric air pressure. An anemometer measures wind speed, and a hygrometer measures humidity.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "What is the boundary or transition zone between two different air masses called?",
+    "hi": "दो अलग-अलग वायु राशियों के बीच की सीमा या संक्रमण क्षेत्र को क्या कहा जाता है?",
+    "oEn": ["Isobar", "Front", "Trough", "Ridge"],
+    "oHi": ["समदाब रेखा", "वाताग्र (Front)", "द्रोणी (Trough)", "कटक"],
+    "c": 1,
+    "exp": "A 'Front' is the boundary line or zone of transition between two air masses that possess distinctly different temperatures and humidity characteristics.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "The deep sea plains that occupy about 40% of the ocean floor and are covered with fine-grained sediments are called what?",
+    "hi": "गहरे समुद्री मैदान जो महासागरीय नितल का लगभग 40% भाग घेरते हैं और महीन कणों वाले अवसादों से ढके होते हैं, क्या कहलाते हैं?",
+    "oEn": ["Continental Slopes", "Abyssal Plains", "Mid-Oceanic Ridges", "Trenches"],
+    "oHi": ["महाद्वीपीय ढाल", "गंभीर सागरीय मैदान (Abyssal Plains)", "मध्य-महासागरीय कटक", "गर्त"],
+    "c": 1,
+    "exp": "Abyssal plains are vast, flat areas of the deep ocean floor lying between 3,000 and 6,000 meters below sea level.",
+    "Pyq": "SSC_CGL_2023_Trend"
+  },
+  {
+    "en": "The standard unit 'milibar' or 'Pascal' is associated with the measurement of which physical attribute?",
+    "hi": "मानक इकाई 'मिलीबार' या 'पास्कल' किस भौतिक विशेषता के मापन से जुड़ी है?",
+    "oEn": ["Oceanic Depth", "Atmospheric Pressure", "Wind Speed", "Solar Radiation"],
+    "oHi": ["महासागरीय गहराई", "वायुमंडलीय दाब (Atmospheric Pressure)", "हवा की गति", "सौर विकिरण"],
+    "c": 1,
+    "exp": "Atmospheric pressure is commonly measured in millibars (mb) or hectopascals (hPa) in meteorological practices.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Ox-bow lakes are distinctive depositional and erosional features formed in the middle and lower courses of which geomorphic agent?",
+    "hi": "गोखुर झीलें (Ox-bow lakes) किस भू-आकृतिक कारक के मध्य और निचले मार्गों में बनने वाली विशिष्ट विशेषताएँ हैं?",
+    "oEn": ["Wind", "Glacier", "River", "Sea waves"],
+    "oHi": ["पवन", "हिमनद", "नदी (River)", "समुद्री लहरें"],
+    "c": 2,
+    "exp": "Ox-bow lakes are formed when a river creates a pronounced meander, and over time due to continuous erosion and deposition, the loop gets cut off from the main channel.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following seismic waves are the fastest and can pass through solid, liquid, and gaseous materials inside the Earth?",
+    "hi": "निम्नलिखित में से कौन सी भूकंपीय तरंगें सबसे तेज़ होती हैं और पृथ्वी के भीतर ठोस, तरल और गैसीय तीनों माध्यमों से गुजर सकती हैं?",
+    "oEn": ["S-waves", "P-waves", "L-waves", "Rayleigh waves"],
+    "oHi": ["S-तरंगें", "P-तरंगें (Primary waves)", "L-तरंगें (धरातलीय)", "रेले तरंगें"],
+    "c": 1,
+    "exp": "P-waves (Primary waves) are longitudinal waves that travel fastest through seismic media and can propagate through all states of matter (solid, liquid, gas).",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The transition layer between the warm surface water and the cold deep water of an ocean, where temperature drops rapidly with depth, is known as what?",
+    "hi": "महासागर के गर्म सतही जल और ठंडे गहरे जल के बीच की संक्रमण परत, जहाँ गहराई के साथ तापमान तेजी से गिरता है, क्या कहलाती है?",
+    "oEn": ["Halocline", "Thermocline", "Pycnocline", "Isocline"],
+    "oHi": ["हैलोक्लाइन", "थर्मोक्लाइन (Thermocline)", "पिक्नोक्लाइन", "आइसोक्लाइन"],
+    "c": 1,
+    "exp": "The thermocline is the intermediate ocean layer characterized by a rapid decrease in water temperature with increasing depth.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "What type of soil, found heavily in the Deccan Plateau of India, is also known as Black Cotton Soil?",
+    "hi": "भारत के दक्कन के पठार में प्रचुर मात्रा में पाई जाने वाली किस प्रकार की मिट्टी को काली कपास मिट्टी भी कहा जाता है?",
+    "oEn": ["Laterite Soil", "Regur Soil", "Alluvial Soil", "Red and Yellow Soil"],
+    "oHi": ["लेटेराइट मिट्टी", "रेगुर मिट्टी (Regur Soil)", "जलोढ़ मिट्टी", "लाल और पीली मिट्टी"],
+    "c": 1,
+    "exp": "Regur soil, commonly known as Black soil, is rich in clay content and excellent for cotton cultivation. It develops from the weathering of basaltic lava rocks.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which of the following planetary wind belts is located between the Subtropical High-Pressure belts and the Equatorial Low-Pressure belt?",
+    "hi": "निम्नलिखित में से कौन सी सनातनी/पवन पट्टी उपोष्णकटिबंधीय उच्च दाब पट्टियों और भूमध्यरेखीय निम्न दाब पट्टी के बीच स्थित होती है?",
+    "oEn": ["Westerlies", "Polar Easterlies", "Trade Winds", "Monsoon winds"],
+    "oHi": ["पछुआ पवनें (Westerlies)", "ध्रुवीय पूर्वी पवनें", "व्यापारिक पवनें (Trade Winds)", "मानसून पवनें"],
+    "c": 2,
+    "exp": "Trade winds blow from the Subtropical Highs towards the Equatorial Low (ITCZ) in both hemispheres.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "The periodic rise and fall of sea levels caused by the combined effects of the gravitational forces exerted by the Moon and the Sun is called what?",
+    "hi": "चंद्रमा और सूर्य द्वारा लगाए गए गुरुत्वाकर्षण बलों के संयुक्त प्रभाव के कारण समुद्र के स्तर में होने वाले आवधिक उतार-चढ़ाव को क्या कहा जाता है?",
+    "oEn": ["Ocean Currents", "Tsunami", "Tides", "Waves"],
+    "oHi": ["महासागरीय धाराएँ", "सुनामी", "ज्वार-भाटा (Tides)", "लहरें"],
+    "c": 2,
+    "exp": "Tides are the regular, alternating rise and fall of sea surface levels driven primarily by lunar and solar gravitational pulls.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "When the Sun, Moon, and Earth are aligned in a straight line (Syzygy), it results in which type of extreme tides?",
+    "hi": "जब सूर्य, चंद्रमा और पृथ्वी एक सीधी रेखा (Syzygy) में संरेखित होते हैं, तो इसके परिणामस्वरूप किस प्रकार के उच्च ज्वार आते हैं?",
+    "oEn": ["Neap Tides", "Spring Tides", "Diurnal Tides", "Equinoctial Tides"],
+    "oHi": ["लघु ज्वार (Neap Tides)", "दीर्घ ज्वार (Spring Tides)", "दैनिक ज्वार", "विषुवतीय ज्वार"],
+    "c": 1,
+    "exp": "Spring tides occur during New Moon and Full Moon phases when the solar and lunar gravitational pulls reinforce each other in a straight alignment.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which layer of the atmosphere reflects radio waves back to Earth, thereby facilitating long-distance wireless communication?",
+    "hi": "वायुमंडल की कौन सी परत रेडियो तरंगों को वापस पृथ्वी पर परावर्तित करती है, जिससे लंबी दूरी के वायरलेस संचार में मदद मिलती है?",
+    "oEn": ["Stratosphere", "Mesosphere", "Ionosphere", "Troposphere"],
+    "oHi": ["समतापमंडल", "मध्यमंडल", "आयनमंडल (Ionosphere)", "क्षोभमंडल"],
+    "c": 2,
+    "exp": "The Ionosphere (part of the thermosphere) contains electrically charged particles that reflect ground-based radio waves back down to Earth.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "What is the process called where water vapor changes directly into solid ice without passing through the liquid phase?",
+    "hi": "वह प्रक्रिया क्या कहलाती है जिसमें जलवाष्प बिना तरल अवस्था से गुजरे सीधे ठोस बर्फ में बदल जाती है?",
+    "oEn": ["Sublimation", "Deposition", "Evaporation", "Condensation"],
+    "oHi": ["ऊर्ध्वपातन (Sublimation)", "निक्षेपण (Deposition)", "वाष्पीकरण", "संघनन"],
+    "c": 1,
+    "exp": "Deposition (also known as desublimation) is the thermodynamic phase transition where gas transforms directly into solid. *Note*: In many general contexts, sub-branches accept sublimation bilaterally, but deposition is precisely accurate for gas-to-solid.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which of the following scales is used to measure the intensity and damage of an earthquake rather than its magnitude?",
+    "hi": "भूकंप की परिमाण (Magnitude) के बजाय उसकी तीव्रता और होने वाले नुकसान को मापने के लिए निम्नलिखित में से किस पैमाने का उपयोग किया जाता है?",
+    "oEn": ["Richter Scale", "Mercalli Scale", "Mohs Scale", "Beaufort Scale"],
+    "oHi": ["रिक्टर पैमाना", "मर्केली पैमाना (Mercalli Scale)", "मोहस पैमाना", "ब्यूफोर्ट पैमाना"],
+    "c": 1,
+    "exp": "The Mercalli scale measures the intensity of an earthquake based on observable destruction, while the Richter scale measures the mathematical magnitude (energy released).",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The phenomenon of 'Albedo' refers to which of the following properties of a planetary body?",
+    "hi": "'एल्बीडो' (Albedo) की घटना किसी खगोलीय पिंड या ग्रह की निम्नलिखित में से किस विशेषता को संदर्भित करती है?",
+    "oEn": ["Ability to absorb heat", "Reflective power of solar radiation", "Internal core temperature", "Atmospheric density"],
+    "oHi": ["ऊष्मा अवशोषित करने की क्षमता", "सौर विकिरण को परावर्तित करने की शक्ति", "आंतरिक कोर का तापमान", "वायुमंडलीय घनत्व"],
+    "c": 1,
+    "exp": "Albedo is the measure of the diffuse reflection of solar radiation out of the total solar radiation received by a body or surface (e.g., snow has high albedo).",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "A deep valley characterized by a narrow top and steep canyon walls carved out by limestone dissolution is characteristic of which topography?",
+    "hi": "चूना पत्थर के घुलने से बनी संकीर्ण शीर्ष और तीव्र ढाल वाली गहरी घाटी किस स्थलाकृति की विशेषता है?",
+    "oEn": ["Karst Topography", "Aeolian Topography", "Glacial Topography", "Fluvial Topography"],
+    "oHi": ["कार्स्ट स्थलाकृति (Karst)", "मरुस्थलीय/पवन स्थलाकृति", "हिमनद स्थलाकृति", "नदीकृत स्थलाकृति"],
+    "c": 0,
+    "exp": "Karst topography refers to landscapes formed by the dissolution of soluble rocks like limestone, dolomite, and gypsum by groundwater.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which type of volcanic eruption is characterized by fluid basaltic lava blowing out quietly to form wide, low-profile structures like the Hawaiian volcanoes?",
+    "hi": "हवाई द्वीपों के ज्वालामुखियों की तरह चौड़ी और कम ढाल वाली संरचना बनाने वाले तरल बेसाल्टिक लावा के शांत प्रवाह वाले ज्वालामुखी विस्फोट को क्या कहा जाता है?",
+    "oEn": ["Shield Volcanoes", "Composite Volcanoes", "Caldera Volcanoes", "Flood Basalt Provinces"],
+    "oHi": ["शील्ड ज्वालामुखी (Shield Volcanoes)", "मिश्रित ज्वालामुखी", "काल्डेरा ज्वालामुखी", "बाढ़ बेसाल्ट प्रांत"],
+    "c": 0,
+    "exp": "Shield volcanoes are the largest of all volcanoes on Earth, made of basaltic lava that is highly fluid when erupted, giving them a flattened dome shape.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The fast-flowing, narrow bands of winding air currents located near the tropopause in the upper atmosphere are known as what?",
+    "hi": "ऊपरी वायुमंडल में क्षोभसीमा (Tropopause) के पास स्थित तेजी से बहने वाली, संकीर्ण वायु धाराओं को किस नाम से जाना जाता है?",
+    "oEn": ["Trade Winds", "Jet Streams", "Monsoon Winds", "Katabatic Winds"],
+    "oHi": ["व्यापारिक पवनें", "जेट स्ट्रीम (Jet Streams)", "मानसून पवनें", "कैटैबेटिक पवनें"],
+    "c": 1,
+    "exp": "Jet streams are geostrophic winds blowing horizontally from west to east in the upper troposphere at very high speeds.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The temperature at which an air mass reaches 100% relative humidity and saturation occurs is called what?",
+    "hi": "वह तापमान जिस पर कोई वायु राशि 100% सापेक्ष आर्द्रता तक पहुंच जाती है और संतृप्त हो जाती है, क्या कहलाता है?",
+    "oEn": ["Boiling point", "Freezing point", "Dew point", "Critical point"],
+    "oHi": ["क्वथनांक", "हिमांक", "ओसांक बिंदु (Dew point)", "क्रांतिक बिंदु"],
+    "c": 2,
+    "exp": "The dew point is the atmospheric temperature below which water droplets begin to condense and dew can form, signifying complete saturation.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Which of the following lines on a weather map connects points of equal atmospheric pressure?",
+    "hi": "मौसम मानचित्र पर निम्नलिखित में से कौन सी रेखा समान वायुमंडलीय दाब वाले बिंदुओं को जोड़ती है?",
+    "oEn": ["Isotherms", "Isohyets", "Isobars", "Isohalines"],
+    "oHi": ["समताप रेखा (Isotherms)", "समवर्षा रेखा (Isohyets)", "समदाब रेखा (Isobars)", "समलवण रेखा"],
+    "c": 2,
+    "exp": "Isobars are isolines on a meteorological map connecting locations sharing identical barometric pressure levels.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "Which layer of the Earth's interior is believed to be in a completely molten/liquid state and is responsible for Earth's magnetic field?",
+    "hi": "पृथ्वी के आंतरिक भाग की कौन सी परत पूरी तरह से तरल/पिघली हुई अवस्था में मानी जाती है और पृथ्वी के चुंबकीय क्षेत्र के लिए जिम्मेदार है?",
+    "oEn": ["Inner Core", "Outer Core", "Lower Mantle", "Asthenosphere"],
+    "oHi": ["आंतरिक कोर", "बाहरी कोर (Outer Core)", "निचला मैंटल", "दुर्बलतामंडल (Asthenosphere)"],
+    "c": 1,
+    "exp": "The liquid outer core contains convecting molten iron and nickel, generating electrical currents that power Earth's geomagnetism (Dynamo effect).",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The sharp, crescent-shaped sand dunes formed by wind action with the horns pointing downwind are called what?",
+    "hi": "पवन की क्रिया द्वारा निर्मित तीखे, अर्धचंद्राकार रेत के टीले, जिनके सींग (horns) हवा की दिशा में आगे बढ़े होते हैं, क्या कहलाते हैं?",
+    "oEn": ["Seif dunes", "Barchans", "Loess", "Pediments"],
+    "oHi": ["सीफ टीले", "बरखान (Barchans)", "लोएस", "पेडीमेंट"],
+    "c": 1,
+    "exp": "Barchans are crescent-shaped, shifting sand dunes with a gentle windward slope and a steep leeward slip face, pointing away from the wind direction.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "What is the process of mechanical breaking down of rocks without any chemical changes called?",
+    "hi": "बिना किसी रासायनिक परिवर्तन के चट्टानों के यांत्रिक रूप से टूटने की प्रक्रिया को क्या कहा जाता है?",
+    "oEn": ["Chemical Weathering", "Physical Weathering", "Oxidation", "Carbonation"],
+    "oHi": ["रासायनिक अपक्षय", "भौतिक अपक्षय (Physical Weathering)", "ऑक्सीकरण", "कार्बोनेशन"],
+    "c": 1,
+    "exp": "Physical or mechanical weathering causes rocks to disintegrate due to thermal stress, frost action, or pressure release without modifying their chemical composition.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The Mariana Trench, the deepest spot known on Earth, is located in which ocean?",
+    "hi": "पृथ्वी पर ज्ञात सबसे गहरा स्थान, मरियाना गर्त (Mariana Trench) किस महासागर में स्थित है?",
+    "oEn": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "oHi": ["अटलांटिक महासागर", "हिंद महासागर", "प्रशांत महासागर (Pacific Ocean)", "आर्कटिक महासागर"],
+    "c": 2,
+    "exp": "The Mariana Trench is located in the western Pacific Ocean, containing Challenger Deep, the lowest point on the Earth's crust.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which of the following local cold winds blows down from the Alps mountains over the Mediterranean Sea region?",
+    "hi": "निम्नलिखित में से कौन सी ठंडी स्थानीय हवा आल्प्स पर्वत से भूमध्य सागर क्षेत्र की ओर नीचे बहती है?",
+    "oEn": ["Sirocco", "Mistral", "Khamsin", "Harmattan"],
+    "oHi": ["सिराॅको", "मिस्ट्रल (Mistral)", "खमसिन", "हरमट्टन"],
+    "c": 1,
+    "exp": "Mistral is a strong, cold, northwestern wind that blows from southern France into the Gulf of Lion in the northern Mediterranean.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "What is the phenomenon called when the normal cold water upwelling off the coast of Peru is replaced by a warm ocean current, disrupting global monsoons?",
+    "hi": "पेरू के तट पर सामान्य ठंडे पानी के उद्द्वेलन (upwelling) के स्थान पर एक गर्म महासागरीय धारा के आ जाने की घटना को क्या कहा जाता है, जो वैश्विक मानसून को बाधित करती है?",
+    "oEn": ["La Nina", "El Nino", "Walker Circulation", "Southern Oscillation"],
+    "oHi": ["ला नीना", "अल नीनो (El Nino)", "वाकर परिसंचरण", "दक्षिणी दोलन"],
+    "c": 1,
+    "exp": "El Nino is a climate pattern describing the unusual warming of surface waters in the eastern tropical Pacific Ocean, negatively impacting the Indian Monsoon.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The upper semi-fluid layer of the Earth's mantle on which tectonic plates float is called what?",
+    "hi": "पृथ्वी के मैंटल की ऊपरी अर्ध-तरल परत जिस पर विवर्तनिक प्लेटें (tectonic plates) तैरती हैं, क्या कहलाती है?",
+    "oEn": ["Lithosphere", "Asthenosphere", "Barysphere", "Mesosphere"],
+    "oHi": ["स्थल मंडल (Lithosphere)", "दुर्बलतामंडल (Asthenosphere)", "बेरीस्फीयर", "मध्यमंडल"],
+    "c": 1,
+    "exp": "The asthenosphere is a highly viscous, mechanically weak, ductile region of the upper mantle lying just below the rigid lithosphere.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The vertical transfer of heat energy through the atmosphere by the actual movement of air masses or fluids is called what?",
+    "hi": "वायु या तरल पदार्थों की वास्तविक गति द्वारा वायुमंडल के माध्यम से ऊष्मा ऊर्जा का लंबवत (vertical) स्थानांतरण क्या कहलाता है?",
+    "oEn": ["Conduction", "Radiation", "Convection", "Advection"],
+    "oHi": ["चालन (Conduction)", "विकिरण (Radiation)", "संवहन (Convection)", "अभिवहन (Advection)"],
+    "c": 2,
+    "exp": "Convection involves the vertical movement of mass/fluid carrying thermal energy. Horizontal thermal transfer is called advection.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which ecosystem has the highest net primary productivity per unit area globally?",
+    "hi": "वैश्विक स्तर पर प्रति इकाई क्षेत्र में किस पारिस्थितिकी तंत्र की शुद्ध प्राथमिक उत्पादकता (Net Primary Productivity) सबसे अधिक है?",
+    "oEn": ["Desert", "Temperate Grasslands", "Tropical Rainforest", "Deep Oceans"],
+    "oHi": ["मरुस्थल", "शीतोष्ण घास के मैदान", "ऊष्णकटिबंधीय वर्षावन (Tropical Rainforest)", "गहरे महासागर"],
+    "c": 2,
+    "exp": "Tropical rainforests showcase maximum terrestrial biodiversity and high net primary biological productivity due to constant high temperatures and rainfall.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Sargasso Sea, a unique marine region without a land coastline, is located in which ocean?",
+    "hi": "सारगासो सागर (Sargasso Sea), बिना ज़मीनी तटरेखा वाला एक अनूठा समुद्री क्षेत्र, किस महासागर में स्थित है?",
+    "oEn": ["North Atlantic Ocean", "South Pacific Ocean", "North Indian Ocean", "Southern Ocean"],
+    "oHi": ["उत्तरी अटलांटिक महासागर", "दक्षिणी प्रशांत महासागर", "उत्तरी हिंद महासागर", "दक्षिणी महासागर"],
+    "c": 0,
+    "exp": "The Sargasso Sea is bounded by four ocean currents forming an ocean gyre in the North Atlantic Ocean, and is named after the Sargassum seaweed.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The boundary between the troposphere and the stratosphere where the temperature stop decreasing with height is named what?",
+    "hi": "क्षोभमंडल और समतापमंडल के बीच की सीमा जहाँ ऊंचाई के साथ तापमान का घटना बंद हो जाता है, क्या कहलाती है?",
+    "oEn": ["Stratopause", "Mesopause", "Tropopause", "Ionopause"],
+    "oHi": ["समतापसीमा", "मध्यसीमा", "क्षोभसीमा (Tropopause)", "आयनसीमा"],
+    "c": 2,
+    "exp": "The tropopause acts as a transitional ceiling separating the highly convective troposphere from the stable stratosphere.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "What type of delta is formed by the Mississippi River, looking like a bird's foot?",
+    "hi": "मिसिसिपी नदी द्वारा किस प्रकार के डेल्टा का निर्माण किया जाता है, जो पक्षी के पैर के समान दिखता है?",
+    "oEn": ["Arcuate Delta", "Bird's-foot Delta", "Cuspate Delta", "Estuarine Delta"],
+    "oHi": ["चापाकार डेल्टा", "पक्षी-पाद डेल्टा (Bird's-foot)", "दंताग्र डेल्टा", "ज्वारनदमुखी डेल्टा"],
+    "c": 1,
+    "exp": "The Mississippi River forms a bird's-foot delta because its distributaries branch out outward resembling bird talons, carrying heavy mud deposits.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The 'Ring of Fire', an area prone to frequent earthquakes and volcanic activity, encircles the basin of which ocean?",
+    "hi": "बार-बार आने वाले भूकंपों और ज्वालामुखी गतिविधियों के लिए प्रवृत्त क्षेत्र 'रिंग ऑफ फायर' किस महासागर के बेसिन को घेरता है?",
+    "oEn": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+    "oHi": ["अटलांटिक महासागर", "प्रशांत महासागर (Pacific Ocean)", "हिंद महासागर", "आर्कटिक महासागर"],
+    "c": 1,
+    "exp": "The Pacific Ring of Fire is a major horseshoe-shaped ring in the basin of the Pacific Ocean where a large number of earthquakes and volcanic eruptions occur due to plate subduction zones.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which of the following elements is the most abundant by weight in the Earth's crust?",
+    "hi": "पृथ्वी की पर्पटी (Crust) में भार के अनुसार निम्नलिखित में से कौन सा तत्व सबसे प्रचुर मात्रा में पाया जाता है?",
+    "oEn": ["Silicon", "Iron", "Oxygen", "Aluminum"],
+    "oHi": ["सिलिकॉन", "लोहा", "ऑक्सीजन (Oxygen)", "एल्युमिनियम"],
+    "c": 2,
+    "exp": "Oxygen accounts for about 46.6% of the Earth's crust by weight, followed by Silicon (27.7%) and Aluminum (8.1%).",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The large-scale horizontal movement of oceanic water driven by prevailing winds, salinity differences, and temperature gradients is called what?",
+    "hi": "प्रचलित हवाओं, लवणता के अंतर और तापमान प्रवणता द्वारा संचालित समुद्री जल के बड़े पैमाने पर होने वाले क्षैतिज प्रवाह को क्या कहा जाता है?",
+    "oEn": ["Ocean Waves", "Ocean Currents", "Tides", "Tsunamis"],
+    "oHi": ["समुद्री तरंगें", "महासागरीय धाराएँ (Ocean Currents)", "ज्वार-भाटा", "सुनामी"],
+    "c": 1,
+    "exp": "Ocean currents represent continuous, directed movements of ocean water generated by forces like wind, Coriolis effect, and thermohaline density factors.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which type of rainfall is common in the equatorial regions where hot afternoons cause high evaporation and cloud formation daily?",
+    "hi": "भूमध्यरेखीय क्षेत्रों में किस प्रकार की वर्षा आम है जहाँ गर्म दोपहर के कारण प्रतिदिन भारी वाष्पीकरण और बादलों का निर्माण होता है?",
+    "oEn": ["Orographic rainfall", "Convectional rainfall", "Cyclonic rainfall", "Frontal rainfall"],
+    "oHi": ["पर्वतीय वर्षा", "संवहनीय वर्षा (Convectional)", "चक्रवातीय वर्षा", "वाताग्र वर्षा"],
+    "c": 1,
+    "exp": "Convectional rainfall is a daily phenomenon in the equatorial or hot zone. Intense solar heating triggers heavy convection current updates, resulting in cumulative afternoon 4 o'clock downpours.",
+    "Pyq": "SSC_CGL_2022"
+  }
+]
