@@ -1,0 +1,452 @@
+[
+  {
+    "en": "Which of the following physical quantities has the same SI unit as that of work?",
+    "hi": "निम्नलिखित में से किस भौतिक राशि का SI मात्रक कार्य के समान है?",
+    "oEn": ["Power", "Energy", "Force", "Pressure"],
+    "oHi": ["शक्ति", "ऊर्जा", "बल", "दाब"],
+    "c": 1,
+    "exp": "Both work and energy are measured in Joules (J) in the SI system, representing the capacity to do work.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "What is the working principle of an optical fiber?",
+    "hi": "ऑप्टिकल फाइबर (प्रकाशिक तंतु) का कार्य सिद्धांत क्या है?",
+    "oEn": ["Total Internal Reflection", "Refraction", "Scattering", "Interference"],
+    "oHi": ["पूर्ण आंतरिक परावर्तन (Total Internal Reflection)", "अपवर्तन", "प्रकीर्णन", "व्यतिकरण"],
+    "c": 0,
+    "exp": "Optical fibers work on the principle of Total Internal Reflection (TIR), where light signals travel through the core without loss of energy.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The value of acceleration due to gravity (g) is maximum at:",
+    "hi": "गुरुत्वीय त्वरण (g) का मान अधिकतम कहाँ होता है?",
+    "oEn": ["The Equator", "The Poles", "The Center of the Earth", "A height equal to Earth's radius"],
+    "oHi": ["भूमध्य रेखा पर", "ध्रुवों पर (The Poles)", "पृथ्वी के केंद्र पर", "पृथ्वी की त्रिज्या के बराबर ऊंचाई पर"],
+    "c": 1,
+    "exp": "The value of 'g' is maximum at the poles because the Earth is flattened at the poles, making the polar radius smaller than the equatorial radius.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which type of mirror is used by dentists to see a magnified image of teeth?",
+    "hi": "दंत चिकित्सकों द्वारा दांतों का बड़ा प्रतिबिंब देखने के लिए किस प्रकार के दर्पण का उपयोग किया जाता है?",
+    "oEn": ["Convex mirror", "Concave mirror", "Plane mirror", "Cylindrical mirror"],
+    "oHi": ["उत्तल दर्पण", "अवतल दर्पण (Concave mirror)", "समतल दर्पण", "बेलनाकार दर्पण"],
+    "c": 1,
+    "exp": "A concave mirror produces an erect, virtual, and magnified image when an object is placed close to it (between pole and focus).",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "If the velocity of a moving body is doubled, its kinetic energy becomes:",
+    "hi": "यदि किसी गतिशील पिंड का वेग दोगुना कर दिया जाए, तो उसकी गतिज ऊर्जा कितनी हो जाएगी?",
+    "oEn": ["Doubled", "Half", "Four times", "One-fourth"],
+    "oHi": ["दोगुनी", "आधी", "चार गुना (Four times)", "एक-चौथाई"],
+    "c": 2,
+    "exp": "Kinetic Energy ($KE$) is proportional to the square of velocity ($v$). Since $KE = \\frac{1}{2}mv^2$, doubling $v$ makes $KE$ four times larger.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which law states that the current flowing through a conductor is directly proportional to the potential difference across its ends, provided physical conditions remain constant?",
+    "hi": "कौन सा नियम यह बताता है कि किसी चालक से प्रवाहित होने वाली धारा उसके सिरों के बीच के विभवांतर के सीधे आनुपातिक होती है, यदि भौतिक स्थितियां स्थिर रहें?",
+    "oEn": ["Joule's Law", "Coulomb's Law", "Ohm's Law", "Faraday's Law"],
+    "oHi": ["जूल का नियम", "कूलाम का नियम", "ओम का नियम (Ohm's Law)", "फैराडे का नियम"],
+    "c": 2,
+    "exp": "Ohm's Law states that $V = IR$, meaning voltage ($V$) and current ($I$) are directly proportional under constant temperature and physical conditions.",
+    "Pyq": "CUET_UG_2023"
+  },
+  {
+    "en": "Hydraulic brakes in automobiles work on the principle of:",
+    "hi": "ऑटोमोबाइल में हाइड्रोलिक ब्रेक किस सिद्धांत पर कार्य करते हैं?",
+    "oEn": ["Archimedes' principle", "Pascal's law", "Bernoulli's theorem", "Newton's laws of motion"],
+    "oHi": ["आर्किमिडीज का सिद्धांत", "पास्कल का नियम (Pascal's law)", "बरनौली की प्रमेय", "न्यूटन के गति के नियम"],
+    "c": 1,
+    "exp": "Pascal's Law states that pressure applied to an enclosed fluid is transmitted undiminished throughout the fluid, which is the basis of hydraulic systems.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which electromagnetic wave has the shortest wavelength?",
+    "hi": "किस विद्युत चुंबकीय तरंग की तरंगदैर्ध्य सबसे कम होती है?",
+    "oEn": ["Infrared waves", "Ultraviolet waves", "X-rays", "Gamma rays"],
+    "oHi": ["अवरक्त तरंगें", "पराबैंगनी तरंगें", "एक्स-किरणें", "गामा किरणें (Gamma rays)"],
+    "c": 3,
+    "exp": "Gamma rays have the highest frequency and shortest wavelength in the electromagnetic spectrum, giving them extremely high energy.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The phenomenon of splitting white light into its component colors when passing through a prism is called:",
+    "hi": "प्रिज्म से गुजरने पर श्वेत प्रकाश के अपने घटक रंगों में विभाजित होने की घटना को क्या कहा जाता है?",
+    "oEn": ["Reflection", "Refraction", "Dispersion", "Scattering"],
+    "oHi": ["परावर्तन", "अपवर्तन", "वर्ण-विक्षेपण (Dispersion)", "प्रकीर्णन"],
+    "c": 2,
+    "exp": "Dispersion occurs because different colors of light bend at different angles due to their unique wavelengths when entering a refracting medium.",
+    "Pyq": "CUET_UG_2022"
+  },
+  {
+    "en": "What is the escape velocity from the surface of the Earth?",
+    "hi": "पृथ्वी की सतह से पलायन वेग (Escape velocity) का मान कितना है?",
+    "oEn": ["11.2 km/s", "9.8 km/s", "42 km/s", "7.4 km/s"],
+    "oHi": ["11.2 किमी/सेकंड", "9.8 किमी/सेकंड", "42 किमी/सेकंड", "7.4 किमी/सेकंड"],
+    "c": 0,
+    "exp": "The minimum speed required for an object to permanently escape Earth's gravitational pull without further propulsion is approximately 11.2 km/s.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "A person suffering from Myopia (short-sightedness) is advised to use which lens?",
+    "hi": "निकट-दृष्टि दोष (Myopia) से पीड़ित व्यक्ति को किस लेंस का उपयोग करने की सलाह दी जाती है?",
+    "oEn": ["Convex lens", "Concave lens", "Bifocal lens", "Cylindrical lens"],
+    "oHi": ["उत्तर लेंस", "अवतल लेंस (Concave lens)", "द्विफोकसी लेंस", "बेलनाकार लेंस"],
+    "c": 1,
+    "exp": "Myopia causes light rays to focus in front of the retina. A diverging (concave) lens spreads the rays out so they focus correctly on the retina.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which of the following is a scalar quantity?",
+    "hi": "निम्नलिखित में से कौन सी एक अदिश राशि (scalar quantity) है?",
+    "oEn": ["Velocity", "Acceleration", "Electric Current", "Force"],
+    "oHi": ["वेग", "त्वरण", "विद्युत धारा (Electric Current)", "बल"],
+    "c": 2,
+    "exp": "Electric current has both magnitude and direction but behaves as a scalar because it follows ordinary laws of algebra instead of vector addition.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Why does a piece of iron sink in water but a massive steel ship floats?",
+    "hi": "लोहे का एक टुकड़ा पानी में डूब जाता है लेकिन स्टील का एक विशाल जहाज तैरता है, क्यों?",
+    "oEn": ["The ship is lighter than iron", "The ship displaces more water than its weight", "Water exerts no upward force on iron", "Iron reacts chemically with water"],
+    "oHi": ["जहाज लोहे से हल्का होता है", "जहाज अपने वजन से अधिक पानी को विस्थापित करता है", "पानी लोहे पर कोई ऊपर की ओर बल नहीं लगाता", "लोहा पानी के साथ रासायनिक अभिक्रिया करता है"],
+    "c": 1,
+    "exp": "Based on Archimedes' principle, the hollow design of a ship ensures its average density is less than water by displacing a huge volume of water.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which device is used to convert alternating current (AC) into direct current (DC)?",
+    "hi": "प्रत्यावर्ती धारा (AC) को दिष्ट धारा (DC) में बदलने के लिए किस उपकरण का उपयोग किया जाता है?",
+    "oEn": ["Inverter", "Transformer", "Rectifier", "Dynamo"],
+    "oHi": ["इन्वर्टर", "ट्रांसफॉर्मर", "रेक्टिफायर (Rectifier)", "डायनेमो"],
+    "c": 2,
+    "exp": "A rectifier allows electric current to flow through it in only one direction, effectively converting AC into DC.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The phenomenon of total internal reflection occurs only when light travels from:",
+    "hi": "पूर्ण आंतरिक परावर्तन की घटना केवल तब होती है जब प्रकाश यात्रा करता है:",
+    "oEn": ["Rarer to denser medium", "Denser to rarer medium", "One vacuum to another", "Air to glass"],
+    "oHi": ["विरल से सघन माध्यम में", "सघन से विरल माध्यम में (Denser to rarer)", "एक निर्वात से दूसरे में", "वायु से काँच में"],
+    "c": 1,
+    "exp": "Total internal reflection happens only when light travels from an optically denser medium to a rarer medium at an angle greater than the critical angle.",
+    "Pyq": "CUET_UG_2024"
+  },
+  {
+    "en": "What happens to the boiling point of water at higher altitudes like mountains?",
+    "hi": "अधिक ऊंचाई वाले स्थानों (जैसे पहाड़ों) पर पानी के क्वथनांक (boiling point) पर क्या प्रभाव पड़ता है?",
+    "oEn": ["It increases", "It decreases", "It remains the same", "It fluctuates constantly"],
+    "oHi": ["यह बढ़ जाता है", "यह घट जाता है (It decreases)", "यह समान रहता है", "यह लगातार उतार-चढ़ाव करता है"],
+    "c": 1,
+    "exp": "Atmospheric pressure decreases at higher altitudes. Lower external pressure means water requires less heat to boil, thus lowering its boiling point.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Sound waves cannot travel through which of the following media?",
+    "hi": "ध्वनि तरंगें निम्नलिखित में से किस माध्यम में यात्रा नहीं कर सकती हैं?",
+    "oEn": ["Solids", "Liquids", "Gases", "Vacuum"],
+    "oHi": ["ठोस", "द्रव", "गैस", "निर्वात (Vacuum)"],
+    "c": 3,
+    "exp": "Sound is a mechanical wave requiring a material medium (particles) to propagate. It cannot travel through a vacuum where no particles exist.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following colors of white light undergoes the least deviation when passed through a glass prism?",
+    "hi": "काँच के प्रिज्म से गुजरने पर श्वेत प्रकाश का कौन सा रंग सबसे कम विचलित (least deviation) होता है?",
+    "oEn": ["Violet", "Green", "Yellow", "Red"],
+    "oHi": ["बैंगनी", "हरा", "पीला", "लाल (Red)"],
+    "c": 3,
+    "exp": "Red light has the longest wavelength and highest speed in glass among visible colors, meaning it refracts and deviates the least.",
+    "Pyq": "CUET_UG_2023"
+  },
+  {
+    "en": "The persistence of sound in an auditorium due to repeated reflections is called:",
+    "hi": "बार-बार होने वाले परावर्तन के कारण किसी सभागार (auditorium) में ध्वनि के बने रहने की घटना कहलाती है:",
+    "oEn": ["Echo", "Reverberation", "Resonance", "Diffraction"],
+    "oHi": ["प्रतिध्वनि (Echo)", "अनुरणन (Reverberation)", "अनुनाद", "विवर्तन"],
+    "c": 1,
+    "exp": "Reverberation is the prolonged persistence of sound waves created by multiple reflections off walls and ceilings before dying out.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "The primary stars in our universe generate energy through which physical process?",
+    "hi": "हमारे ब्रह्मांड में मुख्य तारे किस भौतिक प्रक्रिया के माध्यम से ऊर्जा उत्पन्न करते हैं?",
+    "oEn": ["Nuclear Fission", "Nuclear Fusion", "Chemical Combustion", "Radioactive Decay"],
+    "oHi": ["नाभिकीय विखंडन", "नाभिकीय संलयन (Nuclear Fusion)", "रासायनिक दहन", "रेडियोधर्मी क्षय"],
+    "c": 1,
+    "exp": "Stars generate immense energy via nuclear fusion, where light atomic nuclei (like hydrogen) fuse under extreme temperature and pressure to form heavier elements (helium).",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "What is the unit of astronomical distance light-year?",
+    "hi": "खगोलीय दूरी के मात्रक 'प्रकाश-वर्ष' (Light-year) का क्या अर्थ है?",
+    "oEn": ["Time taken by light to reach earth", "Distance traveled by light in one year", "Intensity of stellar light", "Average distance between Sun and Earth"],
+    "oHi": ["प्रकाश द्वारा पृथ्वी तक पहुँचने में लिया गया समय", "प्रकाश द्वारा एक वर्ष में तय की गई दूरी", "तारकीय प्रकाश की तीव्रता", "सूर्य और पृथ्वी के बीच की औसत दूरी"],
+    "c": 1,
+    "exp": "A light-year is a unit of distance, defined as the total distance light travels through a vacuum in one Julian year (approx. 9.46 trillion km).",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Which parameter remains constant during an isothermal thermodynamic process?",
+    "hi": "एक समतापी (isothermal) ऊष्मागतिक प्रक्रिया के दौरान कौन सा पैरामीटर स्थिर रहता है?",
+    "oEn": ["Pressure", "Volume", "Temperature", "Internal Energy"],
+    "oHi": ["दाब", "आयतन", "तापमान (Temperature)", "आंतरिक ऊर्जा"],
+    "c": 2,
+    "exp": "An isothermal process is a thermodynamic transition during which the temperature of the system remains perfectly constant ($dT = 0$).",
+    "Pyq": "CUET_UG_2024"
+  },
+  {
+    "en": "What type of wave is a sound wave in air?",
+    "hi": "वायु में ध्वनि तरंग किस प्रकार की तरंग होती है?",
+    "oEn": ["Transverse wave", "Longitudinal wave", "Electromagnetic wave", "Stationary wave"],
+    "oHi": ["अनुप्रस्थ तरंग", "अनुदैर्ध्य तरंग (Longitudinal wave)", "विद्युत चुंबकीय तरंग", "अप्रगामी तरंग"],
+    "c": 1,
+    "exp": "Sound waves in air are longitudinal because particles of the medium vibrate parallel to the direction of wave propagation, forming compressions and rarefactions.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The resistance of an ideal ammeter should be:",
+    "hi": "एक आदर्श अमीटर (ideal ammeter) का प्रतिरोध होना चाहिए:",
+    "oEn": ["Zero", "Very high", "Infinite", "Equal to the circuit resistance"],
+    "oHi": ["शून्य (Zero)", "बहुत अधिक", "अनंत", "परिपथ के प्रतिरोध के बराबर"],
+    "c": 0,
+    "exp": "An ideal ammeter is connected in series and must have zero resistance so that it does not alter the actual current flowing through the circuit.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The bending of light rays around the sharp edges of an obstacle is known as:",
+    "hi": "किसी अवरोध के तीखे किनारों के चारों ओर प्रकाश किरणों का मुड़ना क्या कहलाता है?",
+    "oEn": ["Interference", "Diffraction", "Polarization", "Dispersion"],
+    "oHi": ["व्यतिकरण", "विवर्तन (Diffraction)", "ध्रुवण", "वर्ण-विक्षेपण"],
+    "c": 1,
+    "exp": "Diffraction is the slight bending of light or sound waves as they pass around the edge of an obstacle or through a small aperture.",
+    "Pyq": "CUET_UG_2022"
+  },
+  {
+    "en": "Which basic property of a sound wave determines its pitch?",
+    "hi": "ध्वनि तरंग का कौन सा मूल गुण उसकी तीक्ष्णता/तारत्व (pitch) निर्धारित करता है?",
+    "oEn": ["Amplitude", "Frequency", "Loudness", "Velocity"],
+    "oHi": ["आयाम", "आवृत्ति (Frequency)", "प्रबलता", "वेग"],
+    "c": 1,
+    "exp": "The pitch of a sound is directly determined by its frequency. Higher frequency waves create shriller, higher-pitched sounds.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "What is the primary reason why water droplets assume a perfectly spherical shape?",
+    "hi": "पानी की बूंदों के पूर्णतः गोलाकार आकार धारण करने का प्राथमिक कारण क्या है?",
+    "oEn": ["Viscosity", "Surface Tension", "Gravitational force", "Atmospheric pressure"],
+    "oHi": ["श्यानता", "पृष्ठ तनाव (Surface Tension)", "गुरुत्वाकर्षण बल", "वायुमंडलीय दाब"],
+    "c": 1,
+    "exp": "Surface tension forces liquid surfaces to shrink into the minimum possible surface area. For a given volume, a sphere has the smallest surface area.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which state of matter possesses the highest kinetic energy of particles?",
+    "hi": "पदार्थ की किस अवस्था में कणों की गतिज ऊर्जा सबसे अधिक होती है?",
+    "oEn": ["Solids", "Liquids", "Gases", "Plasma"],
+    "oHi": ["ठोस", "द्रव", "गैस", "प्लाज्मा (Plasma)"],
+    "c": 3,
+    "exp": "Plasma consists of superheated, highly energetic ionized gas particles, giving them higher kinetic energy than standard solid, liquid, or gas states.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "According to Lenz's law, the direction of an induced current always:",
+    "hi": "लेंज़ के नियम के अनुसार, प्रेरित धारा (induced current) की दिशा हमेशा:",
+    "oEn": ["Assists the cause producing it", "Opposes the cause producing it", "Remains independent of magnetic fields", "Points northwards"],
+    "oHi": ["इसे उत्पन्न करने वाले कारण की सहायता करती है", "इसे उत्पन्न करने वाले कारण का विरोध करती है", "चुंबकीय क्षेत्र से स्वतंत्र रहती है", "उत्तर की ओर इंगित करती है"],
+    "c": 1,
+    "exp": "Lenz's Law states that the induced electromotive force always sets up a current whose magnetic field opposes the change in magnetic flux that produced it.",
+    "Pyq": "CUET_UG_2023"
+  },
+  {
+    "en": "What is the equivalent resistance when two resistors of $6\\ \\Omega$ and $3\\ \\Omega$ are connected in parallel?",
+    "hi": "जब $6\\ \\Omega$ और $3\\ \\Omega$ के दो प्रतिरोधों को समानांतर (parallel) क्रम में जोड़ा जाता है, तो उनका तुल्य प्रतिरोध क्या होगा?",
+    "oEn": ["$9\\ \\Omega$", "$2\\ \\Omega$", "$4.5\\ \\Omega$", "$0.5\\ \\Omega$"],
+    "oHi": ["$9\\ \\Omega$", "$2\\ \\Omega$", "$4.5\\ \\Omega$", "$0.5\\ \\Omega$"],
+    "c": 1,
+    "exp": "For parallel combination: $\\frac{1}{R_p} = \\frac{1}{6} + \\frac{1}{3} = \\frac{1+2}{6} = \\frac{3}{6} = \\frac{1}{2}$. Therefore, $R_p = 2\\ \\Omega$.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The working of a rocket is based on which conservation law?",
+    "hi": "रॉकेट का कार्य सिद्धांत किस संरक्षण नियम पर आधारित है?",
+    "oEn": ["Conservation of Mass", "Conservation of Energy", "Conservation of Linear Momentum", "Conservation of Angular Momentum"],
+    "oHi": ["द्रव्यमान का संरक्षण", "ऊर्जा का संरक्षण", "रेखीय संवेग का संरक्षण (Linear Momentum)", "कोणीय संवेग का संरक्षण"],
+    "c": 2,
+    "exp": "Rockets accelerate forward by expelling exhaust gases backward at high velocity, relying strictly on Newton's third law and the conservation of linear momentum.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which property of ultrasound waves enables their use in sonar systems to measure ocean depth?",
+    "hi": "पराबैंगनी (Ultrasound) तरंगों का कौन सा गुण उन्हें सोनार (SONAR) प्रणालियों में समुद्र की गहराई मापने में सक्षम बनाता है?",
+    "oEn": ["High speed in vacuum", "Ability to reflect off underwater objects", "Extremely long wavelength", "Low frequency propagation"],
+    "oHi": ["निर्वात में उच्च गति", "पानी के भीतर की वस्तुओं से परावर्तित होने की क्षमता", "अत्यधिक लंबी तरंगदैर्ध्य", "कम आवृत्ति का संचरण"],
+    "c": 1,
+    "exp": "Ultrasound waves can travel long distances through water cleanly and reflect back efficiently off solid obstructions like the seabed.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "When a light ray enters from air into glass, its frequency:",
+    "hi": "जब कोई प्रकाश किरण वायु से काँच में प्रवेश करती है, तो उसकी आवृत्ति (frequency):",
+    "oEn": ["Increases", "Decreases", "Remains unchanged", "Becomes zero"],
+    "oHi": ["बढ़ जाती है", "घट जाती है", "अपरिवर्तित रहती है (Remains unchanged)", "शून्य हो जाती है"],
+    "c": 2,
+    "exp": "Frequency is a fundamental characteristic of the light source. When light enters a denser medium, its speed and wavelength decrease, but frequency stays the same.",
+    "Pyq": "CUET_UG_2024"
+  },
+  {
+    "en": "Newton's first law of motion is also historically known as the:",
+    "hi": "न्यूटन के गति के प्रथम नियम को ऐतिहासिक रूप से किस नाम से भी जाना जाता है?",
+    "oEn": ["Law of Inertia", "Law of Acceleration", "Law of Action-Reaction", "Law of Gravitation"],
+    "oHi": ["जड़त्व का नियम (Law of Inertia)", "त्वरण का नियम", "क्रिया-प्रतिक्रिया का नियम", "गुरुत्वाकर्षण का नियम"],
+    "c": 0,
+    "exp": "Newton's first law states that an object remains at rest or in uniform motion unless acted upon by an external force, which defines the concept of inertia.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which instrument is specifically designed to measure solar radiation?",
+    "hi": "कौन सा उपकरण विशेष रूप से सौर विकिरण (solar radiation) को मापने के लिए डिज़ाइन किया गया है?",
+    "oEn": ["Galvanometer", "Pyrheliometer", "Anemometer", "Hydrometer"],
+    "oHi": ["गैल्वेनोमीटर", "पायरहेलियोमीटर (Pyrheliometer)", "एनेमोमीटर", "हाइड्रोमीटर"],
+    "c": 1,
+    "exp": "A pyrheliometer is an instrument used to measure direct beam solar irradiance reaching Earth's surface.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The absolute refractive index of any material medium is always:",
+    "hi": "किसी भी पदार्थ माध्यम का निरपेक्ष अपवर्तनांक (absolute refractive index) हमेशा होता है:",
+    "oEn": ["Less than 1", "Equal to 1", "Greater than 1", "Zero"],
+    "oHi": ["1 से कम", "1 के बराबर", "1 से अधिक (Greater than 1)", "शून्य"],
+    "c": 2,
+    "exp": "Refractive index ($n$) equals the speed of light in a vacuum ($c$) divided by its speed in the medium ($v$). Since light is fastest in a vacuum ($c > v$), $n$ is always $> 1$.",
+    "Pyq": "CUET_UG_2023"
+  },
+  {
+    "en": "What is the critical temperature above which a ferromagnetic material turns into a paramagnetic material?",
+    "hi": "वह क्रांतिक तापमान कौन सा है जिसके ऊपर एक लौह-चुंबकीय (ferromagnetic) पदार्थ, अनुचुंबकीय (paramagnetic) पदार्थ में बदल जाता है?",
+    "oEn": ["Boyle temperature", "Curie temperature", "Kelvin point", "Inversion temperature"],
+    "oHi": ["बॉयल तापमान", "क्यूरी तापमान (Curie temperature)", "केल्विन बिंदु", "व्युत्क्रमण तापमान"],
+    "c": 1,
+    "exp": "The Curie temperature is the threshold where thermal agitation destroys the long-range magnetic alignment inherent in ferromagnetic materials.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "If a passenger in a fast-moving train tosses a coin upward and it falls behind him, the train is moving with:",
+    "hi": "यदि चलती ट्रेन में बैठा कोई यात्री एक सिक्का ऊपर उछालता है और वह उसके पीछे गिरता है, तो ट्रेन किस प्रकार गति कर रही है?",
+    "oEn": ["Uniform velocity", "Acceleration", "Retardation", "Circular motion"],
+    "oHi": ["समान वेग से", "त्वरण के साथ (Acceleration)", "मंदन के साथ", "वृत्ताकार गति से"],
+    "c": 1,
+    "exp": "If the train accelerates forward after the coin is tossed, the train gains speed relative to the coin's constant horizontal inertia, causing the coin to land behind.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The working of an electric generator is conceptually based on:",
+    "hi": "विद्युत जनरेटर (generator) का कार्य वैचारिक रूप से किस पर आधारित है?",
+    "oEn": ["Magnetic effect of electric current", "Heating effect of electric current", "Electromagnetic induction", "Chemical effect of current"],
+    "oHi": ["विद्युत धारा का चुंबकीय प्रभाव", "विद्युत धारा का तापीय प्रभाव", "विद्युत चुंबकीय प्रेरण (Electromagnetic induction)", "विद्युत धारा का रासायनिक प्रभाव"],
+    "c": 2,
+    "exp": "Electric generators convert mechanical energy into electrical energy using Michael Faraday's principle of electromagnetic induction.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which primary factor determines the color of a specific star in the night sky?",
+    "hi": "रात के आकाश में किसी विशिष्ट तारे का रंग मुख्य रूप से किस कारक द्वारा निर्धारित होता है?",
+    "oEn": ["Its distance from earth", "Its surface temperature", "Its total mass", "Its age"],
+    "oHi": ["पृथ्वी से इसकी दूरी", "इसका सतही तापमान (Its surface temperature)", "इसका कुल द्रव्यमान", "इसकी आयु"],
+    "c": 1,
+    "exp": "The color of a star indicates its peak blackbody radiation wavelength, which directly maps to its surface temperature (e.g., blue stars are hot, red stars are cooler).",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "What type of lens is utilized to correct the vision defect known as Astigmatism?",
+    "hi": "अबिन्दुकता (Astigmatism) नामक दृष्टि दोष को दूर करने के लिए किस प्रकार के लेंस का उपयोग किया जाता है?",
+    "oEn": ["Concave lens", "Convex lens", "Cylindrical lens", "Bifocal lens"],
+    "oHi": ["अवतल लेंस", "उत्तल लेंस", "बेलनाकार लेंस (Cylindrical lens)", "द्विफोकसी लेंस"],
+    "c": 2,
+    "exp": "Astigmatism is caused by an irregular curvature of the cornea. A cylindrical lens corrects this by focusing light along a single specified axis.",
+    "Pyq": "CUET_UG_2022"
+  },
+  {
+    "en": "One kilowatt-hour (1 kWh) of electrical energy is equal to how many Joules?",
+    "hi": "एक किलोवाट-घंटा (1 kWh) विद्युत ऊर्जा कितने जूल के बराबर होती है?",
+    "oEn": ["$3.6 \\times 10^5\\ J$", "$3.6 \\times 10^6\\ J$", "$10^3\\ J$", "$3.6 \\times 10^4\\ J$"],
+    "oHi": ["$3.6 \\times 10^5\\ J$", "$3.6 \\times 10^6\\ J$", "$10^3\\ J$", "$3.6 \\times 10^4\\ J$"],
+    "c": 1,
+    "exp": "$1\\ kWh = 1000\\ Watts \\times 3600\\ seconds = 3,600,000\\ Joules = 3.6 \\times 10^6\\ J$.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "The velocity of light is measured to be maximum in which medium?",
+    "hi": "प्रकाश का वेग किस माध्यम में अधिकतम मापा जाता है?",
+    "oEn": ["Water", "Glass", "Vacuum", "Diamond"],
+    "oHi": ["जल", "काँच", "निर्वात (Vacuum)", "हीरा"],
+    "c": 2,
+    "exp": "Light experiences no refractive impedance or scattering particles in a vacuum, traveling at its universal speed limit of approx $3 \\times 10^8\\ m/s$.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The sudden upward jerk experienced by passengers in a stationary bus when it starts moving forward is due to:",
+    "hi": "खड़ी बस के अचानक आगे बढ़ने पर यात्रियों को पीछे की ओर लगने वाला झटका किसके कारण होता है?",
+    "oEn": ["Inertia of rest", "Inertia of motion", "Conservation of momentum", "Centrifugal force"],
+    "oHi": ["विराम का जड़त्व (Inertia of rest)", "गति का जड़त्व", "संवेग का संरक्षण", "अपकेंद्री बल"],
+    "c": 0,
+    "exp": "Due to the inertia of rest, the lower body moves forward with the bus, while the upper body tries to maintain its initial resting state.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which force is strictly responsible for keeping planets in orbit around the Sun?",
+    "hi": "ग्रहों को सूर्य के चारों ओर उनकी कक्षा में बनाए रखने के लिए कौन सा बल पूरी तरह जिम्मेदार है?",
+    "oEn": ["Magnetic force", "Electrostatic force", "Gravitational force", "Centrifugal force"],
+    "oHi": ["चुंबकीय बल", "स्थिर विद्युत बल", "गुरुत्वाकर्षण बल (Gravitational force)", "अपकेंद्री बल"],
+    "c": 2,
+    "exp": "The mutual gravitational attraction between the Sun and planets provides the necessary centripetal force required to sustain their curved orbital paths.",
+    "Pyq": "CUET_UG_2024"
+  },
+  {
+    "en": "What is the SI unit of electric conductancy?",
+    "hi": "विद्युत चालकत्व (electric conductance) का SI मात्रक क्या है?",
+    "oEn": ["Ohm", "Siemens", "Ampere", "Volt"],
+    "oHi": ["ओम", "सीमेंस (Siemens)", "एम्पियर", "वोल्ट"],
+    "c": 1,
+    "exp": "Conductance is the inverse of resistance ($1/R$). Its SI unit is Siemens (S), previously referred to as 'mho'.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which primary factor determines the capacity of a capacitor?",
+    "hi": "कौन सा प्राथमिक कारक किसी संधारित्र (capacitor) की धारिता को निर्धारित करता है?",
+    "oEn": ["Only the applied voltage", "Only the current flow", "Geometry of plates and dielectric medium", "The weight of the capacitor"],
+    "oHi": ["केवल अनुप्रयुक्त वोल्टेज", "केवल धारा प्रवाह", "प्लेटों की ज्यामिति और परावैद्युत माध्यम", "संधारित्र का भार"],
+    "c": 2,
+    "exp": "Capacitance ($C = \\epsilon_0 A/d$) depends fundamentally on plate area ($A$), plate separation distance ($d$), and the dielectric material used.",
+    "Pyq": "CUET_UG_2023"
+  },
+  {
+    "en": "The conversion of sound energy into electrical energy is performed by which device?",
+    "hi": "ध्वनि ऊर्जा को विद्युत ऊर्जा में बदलने का कार्य किस उपकरण द्वारा किया जाता है?",
+    "oEn": ["Loudspeaker", "Microphone", "Amplifier", "Gramophone"],
+    "oHi": ["लाउडस्पीकर", "माइक्रोफोन (Microphone)", "एम्प्लीफायर", "ग्रामोफोन"],
+    "c": 1,
+    "exp": "A microphone captures mechanical sound vibrations via a diaphragm and converts them into an equivalent electrical signal.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "What is the value of absolute zero temperature on the Celsius scale?",
+    "hi": "सेल्सियस पैमाने पर परम शून्य तापमान (absolute zero temperature) का मान कितना होता है?",
+    "oEn": ["$0^\\circ\\ C$", "$-273.15^\\circ\\ C$", "$-100^\\circ\\ C$", "$100^\\circ\\ C$"],
+    "oHi": ["$0^\\circ\\ C$", "$-273.15^\\circ\\ C$", "$-100^\\circ\\ C$", "$100^\\circ\\ C$"],
+    "c": 1,
+    "exp": "Absolute zero is defined as $0\\ K$ on the Kelvin scale, which corresponds perfectly to $-273.15^\\circ\\ C$ on the Celsius scale.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The core of an electromagnet is ideally made up of which material?",
+    "hi": "एक विद्युत चुम्बक (electromagnet) का कोर आदर्श रूप से किस सामग्री से बना होता है?",
+    "oEn": ["Soft Iron", "Steel", "Copper", "Aluminum"],
+    "oHi": ["नरम लोहा (Soft Iron)", "स्टील", "तांबा", "एल्युमिनियम"],
+    "c": 0,
+    "exp": "Soft iron has high magnetic permeability and low retentivity, meaning it magnetizes strongly and loses magnetism immediately when current turns off.",
+    "Pyq": "SSC_CGL_2024"
+  }
+]
