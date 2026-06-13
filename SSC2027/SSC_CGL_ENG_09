@@ -8,7 +8,7 @@
       "Indolent"
     ],
     "c": 1,
-    "exp": "'Perspicacious' means having a ready insight into and understanding of things (astute/sharp/shrewd). 'Vague' means unclear, 'Dull' means lacking interest or sharp intellect, and 'Indolent' means lazy.",
+    "exp": "*Perspicacious* means having a ready insight into and understanding of things (astute/sharp/shrewd). *Vague* means unclear, *Dull* means lacking interest or sharp intellect, and *Indolent* means lazy.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -20,7 +20,7 @@
       "Stable"
     ],
     "c": 1,
-    "exp": "'Ephemeral' means lasting for a very short time (fleeting/transient). 'Eternal' is the exact opposite (lasting forever), while 'Stable' means firm and steady.",
+    "exp": "*Ephemeral* means lasting for a very short time (fleeting/transient). *Eternal* is the exact opposite (lasting forever), while *Stable* means firm and steady.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -32,7 +32,7 @@
       "Zeal"
     ],
     "c": 0,
-    "exp": "'Alacrity' means brisk and cheerful readiness (eagerness/zeal). Its antonym is 'Apathy' (lack of interest, enthusiasm, or concern) or lethargy.",
+    "exp": "*Alacrity* means brisk and cheerful readiness (eagerness/zeal). Its antonym is *Apathy* (lack of interest, enthusiasm, or concern) or lethargy.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -44,7 +44,7 @@
       "Prudent"
     ],
     "c": 1,
-    "exp": "'Frugal' means sparing or economical with regard to money or food (thrifty). Its antonym is 'Extravagant' (spending money excessively). 'Parsimonious' and 'Miserly' are synonyms of frugal.",
+    "exp": "*Frugal* means sparing or economical with regard to money or food (thrifty). Its antonym is *Extravagant* (spending money excessively). *Parsimonious* and *Miserly* are synonyms of frugal.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -56,7 +56,7 @@
       "Altruist"
     ],
     "c": 1,
-    "exp": "A 'Misanthrope' is a person who hates or distrusts humankind. 'Philanthropist' and 'Altruist' refer to people who love and help humanity, and a 'Polyglot' is someone who knows many languages.",
+    "exp": "A *Misanthrope* is a person who hates or distrusts humankind. *Philanthropist* and *Altruist* refer to people who love and help humanity, and a *Polyglot* is someone who knows many languages.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -68,7 +68,7 @@
       "Bigamy"
     ],
     "c": 1,
-    "exp": "'Celibacy' is the state of voluntarily remaining unmarried or abstaining from sexual relations. 'Monogamy' is marrying one person at a time; 'Polygamy' is having multiple spouses.",
+    "exp": "*Celibacy* is the state of voluntarily remaining unmarried or abstaining from sexual relations. *Monogamy* is marrying one person at a time; *Polygamy* is having multiple spouses.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -80,7 +80,7 @@
       "To live a highly miserable lifestyle"
     ],
     "c": 1,
-    "exp": "'To cut a poor figure' means to produce a bad, awkward, or uninspiring impression through your performance or behavior.",
+    "exp": "*To cut a poor figure* means to produce a bad, awkward, or uninspiring impression through your performance or behavior.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -92,7 +92,7 @@
       "To drag out a dispute unnecessarily"
     ],
     "c": 0,
-    "exp": "'To take time by the forelock' is a classic high-level idiom meaning to seize an opportunity promptly and bravely before it slips away.",
+    "exp": "*To take time by the forelock* is a classic high-level idiom meaning to seize an opportunity promptly and bravely before it slips away.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -104,7 +104,7 @@
       "Manoeuvor"
     ],
     "c": 3,
-    "exp": "The correct spelling is **Manoeuvre** (or Maneuver in American English). Millennium (double 'l', double 'n') and Conscientious are spelled completely correctly here.",
+    "exp": "The correct spelling is **Manoeuvre** (or Maneuver in American English). Millennium (double *l*, double *n*) and Conscientious are spelled completely correctly here.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -116,7 +116,7 @@
       "Asassination"
     ],
     "c": 3,
-    "exp": "The correct spelling is **Assassination** (ass + ass + i + nation; requires double 's' twice). Note that **Inoculation** is correct with a *single* 'c' and *single* 'n'.",
+    "exp": "The correct spelling is **Assassination** (ass + ass + i + nation; requires double *s* twice). Note that **Inoculation** is correct with a *single* *c* and *single* *n*.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -128,7 +128,7 @@
       "Rebellious"
     ],
     "c": 1,
-    "exp": "'Obsequious' means obedient or attentive to an excessive or servile degree (fawning/sycophantic). 'Domineering' and 'Arrogant' are opposing concepts.",
+    "exp": "*Obsequious* means obedient or attentive to an excessive or servile degree (fawning/sycophantic). *Domineering* and *Arrogant* are opposing concepts.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -140,7 +140,7 @@
       "Sloppy"
     ],
     "c": 0,
-    "exp": "'Fastidious' means very attentive to and concerned about accuracy and detail (hard to please/meticulous). Careless and Sloppy are antonyms.",
+    "exp": "*Fastidious* means very attentive to and concerned about accuracy and detail (hard to please/meticulous). Careless and Sloppy are antonyms.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -152,7 +152,7 @@
       "Arbitrary"
     ],
     "c": 2,
-    "exp": "'Capricious' means given to sudden and unaccountable changes of mood or behavior (unpredictable/fickle). Its antonym is 'Steadfast' (resolute, firm, and unchanging).",
+    "exp": "*Capricious* means given to sudden and unaccountable changes of mood or behavior (unpredictable/fickle). Its antonym is *Steadfast* (resolute, firm, and unchanging).",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -164,7 +164,7 @@
       "Consternation"
     ],
     "c": 0,
-    "exp": "'Trepidation' means a feeling of fear or agitation about something that may happen. Its antonym is 'Equanimity' (mental calmness, composure, and evenness of temper).",
+    "exp": "*Trepidation* means a feeling of fear or agitation about something that may happen. Its antonym is *Equanimity* (mental calmness, composure, and evenness of temper).",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -176,7 +176,7 @@
       "Asylum"
     ],
     "c": 1,
-    "exp": "'Archives' refers to the historical documents or the place where they are stored. A 'Cache' is a hidden store of things (like weapons or data).",
+    "exp": "*Archives* refers to the historical documents or the place where they are stored. A *Cache* is a hidden store of things (like weapons or data).",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -188,7 +188,7 @@
       "Nymphomania"
     ],
     "c": 1,
-    "exp": "'Pyromania' is an obsessive desire to set things on fire. 'Kleptomania' is the urge to steal things of little value, and 'Megalomania' is an obsession with the exercise of power.",
+    "exp": "*Pyromania* is an obsessive desire to set things on fire. *Kleptomania* is the urge to steal things of little value, and *Megalomania* is an obsession with the exercise of power.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -200,7 +200,7 @@
       "To show absolute disrespect to elders"
     ],
     "c": 1,
-    "exp": "This idiom is usually used in the negative form ('cannot hold a candle to'), meaning to be fit to be compared with or nearly as good as the person or thing mentioned.",
+    "exp": "This idiom is usually used in the negative form (*cannot hold a candle to*), meaning to be fit to be compared with or nearly as good as the person or thing mentioned.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -224,7 +224,7 @@
       "Supercede"
     ],
     "c": 3,
-    "exp": "The correct spelling is **Supersede** (the only English word ending in '-sede', meaning to replace). Irresistible (-ible), Indispensable (-able), and Liaison (note the 'i' positions: l-i-a-i-s-o-n) are correct.",
+    "exp": "The correct spelling is **Supersede** (the only English word ending in *-sede*, meaning to replace). Irresistible (-ible), Indispensable (-able), and Liaison (note the *i* positions: l-i-a-i-s-o-n) are correct.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -236,7 +236,7 @@
       "Inconveniance"
     ],
     "c": 3,
-    "exp": "The correct spelling is **Inconvenience** (ends in '-ience'). Perseverance (noting the internal '-verance') and Sovereignty are completely accurate.",
+    "exp": "The correct spelling is **Inconvenience** (ends in *-ience*). Perseverance (noting the internal *-verance*) and Sovereignty are completely accurate.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -248,7 +248,7 @@
       "Transparent"
     ],
     "c": 1,
-    "exp": "'Esoteric' means intended for or likely to be understood by only a small number of people with a specialized knowledge (cryptic/obscure).",
+    "exp": "*Esoteric* means intended for or likely to be understood by only a small number of people with a specialized knowledge (cryptic/obscure).",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -260,7 +260,7 @@
       "Generous"
     ],
     "c": 0,
-    "exp": "'Querulous' means complaining in a petulant or whining manner (testy/grumbling). Cheerful and Silent are opposite states of behavior.",
+    "exp": "*Querulous* means complaining in a petulant or whining manner (testy/grumbling). Cheerful and Silent are opposite states of behavior.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -272,7 +272,7 @@
       "Voluble"
     ],
     "c": 2,
-    "exp": "'Loquacious' means tending to talk a great deal (talkative). Its antonym is 'Taciturn' (reserved or uncommunicative in speech; saying little). Garrulous and Voluble are synonyms.",
+    "exp": "*Loquacious* means tending to talk a great deal (talkative). Its antonym is *Taciturn* (reserved or uncommunicative in speech; saying little). Garrulous and Voluble are synonyms.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -284,7 +284,7 @@
       "Noxious"
     ],
     "c": 2,
-    "exp": "'Pernicious' means having a harmful effect, especially in a gradual or subtle way (destructive/deadly). Its antonym is 'Beneficial'. Harmful, Malevolent, and Noxious are synonyms.",
+    "exp": "*Pernicious* means having a harmful effect, especially in a gradual or subtle way (destructive/deadly). Its antonym is *Beneficial*. Harmful, Malevolent, and Noxious are synonyms.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -296,7 +296,7 @@
       "Placebo"
     ],
     "c": 1,
-    "exp": " A 'Panacea' is a universal solution or universal cure-all. An 'Antidote' neutralizes specific poison, and a 'Placebo' is a psychological dummy pill.",
+    "exp": " A *Panacea* is a universal solution or universal cure-all. An *Antidote* neutralizes specific poison, and a *Placebo* is a psychological dummy pill.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -308,7 +308,7 @@
       "Exogamy"
     ],
     "c": 1,
-    "exp": "'Serial Monogamy' is having a sequence of monogamous marriages over time (marry, divorce, marry again). 'Polygamy' is multiple simultaneous partners.",
+    "exp": "*Serial Monogamy* is having a sequence of monogamous marriages over time (marry, divorce, marry again). *Polygamy* is multiple simultaneous partners.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -320,7 +320,7 @@
       "To solve an exceptionally easy question"
     ],
     "c": 1,
-    "exp": "'To hit the nail on the head' means to describe a situation or identify a problem exactly right.",
+    "exp": "*To hit the nail on the head* means to describe a situation or identify a problem exactly right.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -332,7 +332,7 @@
       "To pick up a fight over an old issue"
     ],
     "c": 1,
-    "exp": "'To chew the cud' idiomatically means to reflect deeply, ruminate, or ponder over a thought or situation at leisure.",
+    "exp": "*To chew the cud* idiomatically means to reflect deeply, ruminate, or ponder over a thought or situation at leisure.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -344,7 +344,7 @@
       "Camoflage"
     ],
     "c": 3,
-    "exp": "The correct spelling is **Camouflage** (c-a-m-o-u-f-l-a-g-e). Lieutenant ('Lieu' + 'ten' + 'ant') and Chauffeur (private driver) are correct.",
+    "exp": "The correct spelling is **Camouflage** (c-a-m-o-u-f-l-a-g-e). Lieutenant (*Lieu* + *ten* + *ant*) and Chauffeur (private driver) are correct.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -356,7 +356,7 @@
       "Acheivement"
     ],
     "c": 3,
-    "exp": "The correct spelling is **Achievement** (follows the rule 'i before e except after c'). Privilege (no 'd') and Exaggerate (double 'g') are correct.",
+    "exp": "The correct spelling is **Achievement** (follows the rule *i before e except after c*). Privilege (no *d*) and Exaggerate (double *g*) are correct.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -368,7 +368,7 @@
       "Sincere"
     ],
     "c": 1,
-    "exp": "'Insidious' means proceeding in a gradual, subtle way, but with very harmful effects (treacherous/crafty). Straightforward and Sincere are antonyms.",
+    "exp": "*Insidious* means proceeding in a gradual, subtle way, but with very harmful effects (treacherous/crafty). Straightforward and Sincere are antonyms.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -380,7 +380,7 @@
       "Manifest"
     ],
     "c": 0,
-    "exp": "'Recondite' means a subject or piece of knowledge that is obscure, little known, and deep (abstruse/profound). Obvious and Simple are antonyms.",
+    "exp": "*Recondite* means a subject or piece of knowledge that is obscure, little known, and deep (abstruse/profound). Obvious and Simple are antonyms.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -392,7 +392,7 @@
       "Malicious"
     ],
     "c": 1,
-    "exp": "'Vindictive' means having or showing a strong or unreasoning desire for revenge. Its antonym is 'Forgiving'. Revengeful, Spiteful, and Malicious are synonyms.",
+    "exp": "*Vindictive* means having or showing a strong or unreasoning desire for revenge. Its antonym is *Forgiving*. Revengeful, Spiteful, and Malicious are synonyms.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -404,7 +404,7 @@
       "Confident"
     ],
     "c": 1,
-    "exp": "'Sanguine' means optimistic or positive, especially in an apparently bad or difficult situation. Its antonym is 'Pessimistic'.",
+    "exp": "*Sanguine* means optimistic or positive, especially in an apparently bad or difficult situation. Its antonym is *Pessimistic*.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -416,7 +416,7 @@
       "Truism"
     ],
     "c": 2,
-    "exp": An 'Axiom' is a self-evident truth that requires no proof. A 'Platitude' is a dull, flat, or overused remark.",
+    "exp": " An *Axiom* is a self-evident truth that requires no proof. A *Platitude* is a dull, flat, or overused remark.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -428,7 +428,7 @@
       "Jockey"
     ],
     "c": 1,
-    "exp": " A 'Chauffeur' is an employed private driver. An 'Aviator' flies planes, and a 'Jockey' rides racehorses.",
+    "exp": " A *Chauffeur* is an employed private driver. An *Aviator* flies planes, and a *Jockey* rides racehorses.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -440,7 +440,7 @@
       "To make peace with an old competitor"
     ],
     "c": 1,
-    "exp": "'To leave someone in the lurch' means to desert or abandon a person exactly when they are in deep trouble and require assistance.",
+    "exp": "*To leave someone in the lurch* means to desert or abandon a person exactly when they are in deep trouble and require assistance.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -452,7 +452,7 @@
       "Right from the start line"
     ],
     "c": 1,
-    "exp": " if something occurs 'by fits and starts', it happens fitfully or irregularly, with frequent interruptions rather than in a steady flow.",
+    "exp": " if something occurs *by fits and starts*, it happens fitfully or irregularly, with frequent interruptions rather than in a steady flow.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -464,7 +464,7 @@
       "Sacrelegious"
     ],
     "c": 3,
-    "exp": "The correct spelling is **Sacrilegious** (comes from sacrilege, not religion; it has '-rilegious', which is a major trap for aspirants). Pharaoh (-aoh) is correct.",
+    "exp": "The correct spelling is **Sacrilegious** (comes from sacrilege, not religion; it has *-rilegious*, which is a major trap for aspirants). Pharaoh (-aoh) is correct.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -476,7 +476,7 @@
       "Carribean"
     ],
     "c": 3,
-    "exp": "The correct spelling is **Caribbean** (single 'r', double 'b'). Questionnaire (double 'n') and Renaissance (double 's') are spelled accurately.",
+    "exp": "The correct spelling is **Caribbean** (single *r*, double *b*). Questionnaire (double *n*) and Renaissance (double *s*) are spelled accurately.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -488,7 +488,7 @@
       "Recalcitrant"
     ],
     "c": 1,
-    "exp": "'Tractable' means easy to control, influence, or manipulate (docile/manageable). Stubborn, Obstinate, and Recalcitrant are its antonyms.",
+    "exp": "*Tractable* means easy to control, influence, or manipulate (docile/manageable). Stubborn, Obstinate, and Recalcitrant are its antonyms.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -500,7 +500,7 @@
       "Apathy"
     ],
     "c": 1,
-    "exp": "'Avarice' means extreme greed for wealth or material gain. Generosity and Altruism are its conceptual opposites.",
+    "exp": "*Avarice* means extreme greed for wealth or material gain. Generosity and Altruism are its conceptual opposites.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -512,7 +512,7 @@
       "Essence"
     ],
     "c": 1,
-    "exp": "'Epitome' means a person or thing that is a perfect example of a particular quality or type (a summary/abstract/essence). Its antonym in structural contexts is 'Expansion' or enlargement.",
+    "exp": "*Epitome* means a person or thing that is a perfect example of a particular quality or type (a summary/abstract/essence). Its antonym in structural contexts is *Expansion* or enlargement.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -524,7 +524,7 @@
       "Abate"
     ],
     "c": 1,
-    "exp": "'Mitigate' means to make something less severe, serious, or painful. Its antonym is 'Aggravate' (to make something worse or more serious). Alleviate, Allay, and Abate are synonyms.",
+    "exp": "*Mitigate* means to make something less severe, serious, or painful. Its antonym is *Aggravate* (to make something worse or more serious). Alleviate, Allay, and Abate are synonyms.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -536,7 +536,7 @@
       "Sacrilege"
     ],
     "c": 2,
-    "exp": "'Blasphemy' is the specific verbal act of speaking profanely against God. 'Sacrilege' is the physical violation or misuse of something sacred; 'Apostasy' is abandoning a religious faith.",
+    "exp": "*Blasphemy* is the specific verbal act of speaking profanely against God. *Sacrilege* is the physical violation or misuse of something sacred; *Apostasy* is abandoning a religious faith.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -548,7 +548,7 @@
       "Swag"
     ],
     "c": 1,
-    "exp": " A 'Wreath' is a circular floral arrangement used specifically for honors or graves. A 'Bouquet' is a gathered bunch of flowers given as a standard gift.",
+    "exp": " A *Wreath* is a circular floral arrangement used specifically for honors or graves. A *Bouquet* is a gathered bunch of flowers given as a standard gift.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -560,7 +560,7 @@
       "To establish an alliance with a global superpower"
     ],
     "c": 1,
-    "exp": "'To catch a Tartar' means to encounter or try to deal with someone who turns out to be way more fierce, powerful, or troublesome than expected.",
+    "exp": "*To catch a Tartar* means to encounter or try to deal with someone who turns out to be way more fierce, powerful, or troublesome than expected.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -572,7 +572,7 @@
       "To keep your residential home locked during the night"
     ],
     "c": 1,
-    "exp": "'To keep the wolf from the door' means to maintain a bare minimum income or resource level to stave off severe hunger or financial ruin.",
+    "exp": "*To keep the wolf from the door* means to maintain a bare minimum income or resource level to stave off severe hunger or financial ruin.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -584,7 +584,7 @@
       "Rythm"
     ],
     "c": 3,
-    "exp": "The correct spelling is **Rhythm** (remember the silent 'h' occurs after both 'r' and 't': r-h-y-t-h-m). Acquaintance safely features the silent 'c'.",
+    "exp": "The correct spelling is **Rhythm** (remember the silent *h* occurs after both *r* and *t*: r-h-y-t-h-m). Acquaintance safely features the silent *c*.",
     "Pyq": "High-Weightage TCS Trend"
   },
   {
@@ -596,7 +596,7 @@
       "Changable"
     ],
     "c": 3,
-    "exp": "The correct spelling is **Changeable**. When adding a vowel suffix like `-able` to words ending in a soft 'ge' or 'ce', you must preserve the silent 'e' to maintain the correct pronunciation.",
+    "exp": "The correct spelling is **Changeable**. When adding a vowel suffix like `-able` to words ending in a soft *ge* or *ce*, you must preserve the silent *e* to maintain the correct pronunciation.",
     "Pyq": "High-Weightage TCS Trend"
   }
 ]
