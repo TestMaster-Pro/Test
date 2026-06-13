@@ -1,122 +1,302 @@
 [
-{
-"en": "Identify the segment that contains a grammatical error:\nNeither the captain nor the crew members was present at the briefing yesterday.",
-"oEn": [
-"Neither the captain",
-"nor the crew members",
-"was present at",
-"the briefing yesterday"
-],
-"c": 2,
-"exp": "When two subjects are joined by 'neither... nor', the verb agrees with the closer subject. 'Crew members' is plural, so 'was' should be replaced with 'were'.",
-"Pyq": "SSC_CGL_PRE_2023"
-},
-{
-"en": "Identify the segment that contains a grammatical error:\nScarcely had he reached the station when the train started moving.",
-"oEn": [
-"Scarcely had he",
-"reached the station",
-"when the train",
-"No error"
-],
-"c": 3,
-"exp": "The sentence is grammatically correct. 'Scarcely' is correctly followed by 'had + subject + V3' and the conjunction 'when'.",
-"Pyq": "SSC_CGL_PRE_2022"
-},
-{
-"en": "Identify the segment that contains a grammatical error:\nThe furniture in this showroom are made of high-quality teak wood.",
-"oEn": [
-"The furniture in",
-"this showroom",
-"are made of",
-"high-quality teak wood"
-],
-"c": 2,
-"exp": "'Furniture' is an uncountable noun and always takes a singular verb. Therefore, 'are' must be replaced with 'is'.",
-"Pyq": "SSC_CGL_MAINS_2023"
-},
-{
-"en": "Identify the segment that contains a grammatical error:\nIf I was you, I would not accept this low salary offer from the company.",
-"oEn": [
-"If I was you",
-"I would not accept",
-"this low salary offer",
-"from the company"
-],
-"c": 0,
-"exp": "In imaginary or hypothetical conditional sentences (subjunctive mood), 'were' is used with all subjects instead of 'was'. Change 'was' to 'were'.",
-"Pyq": "SSC_CGL_PRE_2023"
-},
-{
-"en": "Identify the segment that contains a grammatical error:\nHe is one of those men who does not compromise on his core principles.",
-"oEn": [
-"He is one of",
-"those men who",
-"does not compromise",
-"on his core principles"
-],
-"c": 2,
-"exp": "The relative pronoun 'who' refers to the plural antecedent 'men'. Therefore, the verb must be plural ('do not' instead of 'does not').",
-"Pyq": "SSC_CGL_MAINS_2022"
-},
-{
-"en": "Identify the segment that contains a grammatical error:\nUnless you do not work hard, you cannot achieve your desired score in the exam.",
-"oEn": [
-"Unless you do not",
-"work hard, you",
-"cannot achieve your",
-"desired score"
-],
-"c": 0,
-"exp": "'Unless' itself has a negative meaning (if not). Using 'do not' with 'unless' creates a double negative. It should be 'Unless you work hard'.",
-"Pyq": "SSC_CGL_PRE_2023"
-},
-{
-"en": "Identify the segment that contains a grammatical error:\nSenior citizens prefer walking in the park than sitting idle at home.",
-"oEn": [
-"Senior citizens prefer",
-"walking in the park",
-"than sitting idle",
-"at home"
-],
-"c": 2,
-"exp": "The verb 'prefer' is followed by the preposition 'to' instead of 'than' when comparing two actions or nouns. Change 'than' to 'to'.",
-"Pyq": "SSC_CGL_PRE_2021"
-},
-{
-"en": "Identify the segment that contains a grammatical error:\nTwo miles are not a long distance for a healthy young man to cover on foot.",
-"oEn": [
-"Two miles are",
-"not a long distance",
-"for a healthy young man",
-"to cover on foot"
-],
-"c": 0,
-"exp": "When a plural noun denotes a specific quantity, distance, or amount considered as a single unit, it takes a singular verb. Change 'are' to 'is'.",
-"Pyq": "SSC_CGL_PRE_2022"
-},
-{
-"en": "Identify the segment that contains a grammatical error:\nSupposing if it rains tomorrow, will the outdoor sports event be postponed?",
-"oEn": [
-"Supposing if",
-"it rains tomorrow",
-"will the outdoor sports",
-"event be postponed"
-],
-"c": 0,
-"exp": "'Supposing' and 'if' mean the same thing in conditional contexts. Using them together is superfluous. Remove 'if'.",
-"Pyq": "SSC_CGL_PRE_2023"
-},
-{
-"en": "Identify the segment that contains a grammatical error:\nThe population of Mumbai is greater than any other city in India.",
-"oEn": [
-"The population of Mumbai",
-"is greater than",
-"any other city",
-"in India"
-],
-"c": 2,
-"exp": "The comparison must be between identical things. We are comparing the population of Mumbai with the population of other cities, not with the cities themselves. Change to 'than that of any other city'.",
-"Pyq": "SSC_CGL_MAINS_2023"
-}
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe newly appointed manager decided to do away with the archaic regulations that had hindered the department's productivity for years.",
+    "oEn": [
+      "The newly appointed manager",
+      "decided to do away with",
+      "the archaic regulations that",
+      "No error"
+    ],
+    "c": 3,
+    "exp": "The sentence is grammatically correct. The phrasal verb 'do away with' is used correctly to mean abolish or eliminate.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe young entrepreneur was born into the purple, but he preferred to carve out his own destiny through sheer hard work.",
+    "oEn": [
+      "The young entrepreneur",
+      "was born into",
+      "the purple, but he preferred",
+      "to carve out his own destiny"
+    ],
+    "c": 1,
+    "exp": "The idiomatic phrase meaning to be born into a noble, royal, or highly privileged family is 'born in the purple'. 'Into' must be replaced with 'in'.",
+    "Pyq": "SSC_CGL_PRE_2024"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nHardly had the arbitrator read out the terms of the settlement than the disgruntled workers began raising slogans.",
+    "oEn": [
+      "Hardly had the arbitrator",
+      "read out the terms",
+      "of the settlement than",
+      "the disgruntled workers began"
+    ],
+    "c": 2,
+    "exp": "Negative adverbials like 'Hardly' and 'Scarcely' must be paired with the conjunction 'when' or 'before', not 'than' (which is reserved for 'No sooner').",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nHe is highly efficient in managing large-scale logistics, which is why he was promoted to head of operations.",
+    "oEn": [
+      "He is highly efficient in",
+      "managing large-scale logistics,",
+      "which is why he was",
+      "promoted to head"
+    ],
+    "c": 0,
+    "exp": "The adjective 'efficient' takes the fixed preposition 'at' when dealing with a task, skill, or area of activity. Replace 'in' with 'at'.",
+    "Pyq": "SSC_CGL_MAINS_2022"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nSuch a derogatory and low behavior is entirely beneath the character of an honest and dignified judicial officer.",
+    "oEn": [
+      "Such a derogatory",
+      "and low behavior is",
+      "entirely beneath the character",
+      "No error"
+    ],
+    "c": 3,
+    "exp": "The sentence is grammatically correct. 'Beneath' is accurately used to denote something that is completely below one's moral dignity.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nIf the rescue team arrived there a few minutes earlier, the critical casualties could have been saved in time.",
+    "oEn": [
+      "If the rescue team arrived",
+      "there a few minutes earlier,",
+      "the critical casualties",
+      "could have been saved"
+    ],
+    "c": 0,
+    "exp": "This is a Third Conditional sentence. The conditional clause must use the past perfect tense ('had arrived') to align with 'could have been saved' in the main clause.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe continuous thumping of the traditional drum beats persisted through the night and terrified the wild animals.",
+    "oEn": [
+      "The continuous thumping",
+      "of the traditional drum beats",
+      "persisted through the night",
+      "No error"
+    ],
+    "c": 3,
+    "exp": "The sentence contains no errors. The verb 'persisted' properly signifies an unyielding sound continuing over a long duration.",
+    "Pyq": "SSC_CGL_PRE_2024"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe absolute truth regarding the sensitive defense deal remains safely locked inside his breast.",
+    "oEn": [
+      "The absolute truth regarding",
+      "the sensitive defense deal",
+      "remains safely locked",
+      "No error"
+    ],
+    "c": 3,
+    "exp": "The sentence is error-free. The expression 'locked inside his breast' is a valid literary idiom meaning a profound secret kept deep within oneself.",
+    "Pyq": "SSC_CGL_PRE_2024"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe senior defense analyst gave an insightful and comprehensive talk about the underlying causes of cross-border cyber terrorism.",
+    "oEn": [
+      "The senior defense analyst",
+      "gave an insightful",
+      "and comprehensive talk about",
+      "the underlying causes"
+    ],
+    "c": 2,
+    "exp": "For structured, formal academic presentations or books on a specific subject matter, the fixed preposition 'on' is preferred over 'about'. It should be 'talk on'.",
+    "Pyq": "SSC_CGL_PRE_2021"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nIt is high time the state administration takes stringent actions against the perpetrators of illegal sand mining.",
+    "oEn": [
+      "It is high time",
+      "the state administration",
+      "takes stringent actions",
+      "against the perpetrators"
+    ],
+    "c": 2,
+    "exp": "Phrases like 'It is high time' require the subject clause to be in the simple past tense (V2) because the action is overdue. 'Takes' must be changed to 'took'.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe sovereign council finally prevailed against the tribal leaders to surrender their weapons and sign the peace treaty.",
+    "oEn": [
+      "The sovereign council",
+      "finally prevailed against",
+      "the tribal leaders to surrender",
+      "their weapons and sign"
+    ],
+    "c": 1,
+    "exp": "The idiom meaning to successfully persuade or convince someone to do something is 'prevail upon' or 'prevail on', not 'prevail against'.",
+    "Pyq": "SSC_CGL_MAINS_2022"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nDeepak is currently working in a dairy farm in his village, whereas his elder brother is employed in a nationalized bank.",
+    "oEn": [
+      "Deepak is currently working in",
+      "a dairy farm in his village,",
+      "whereas his elder brother",
+      "is employed in a nationalized bank"
+    ],
+    "c": 0,
+    "exp": "Open areas of land or agricultural work locations use the preposition 'on' (on a farm), whereas enclosed buildings use 'in' (in a bank). Replace 'in a dairy farm' with 'on a dairy farm'.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nHe is completely indifferent for both praise and harsh criticism, which helps him stay calm in stressful situations.",
+    "oEn": [
+      "He is completely indifferent for",
+      "both praise and harsh criticism,",
+      "which helps him stay",
+      "calm in stressful situations"
+    ],
+    "c": 0,
+    "exp": "The adjective 'indifferent' requires the fixed preposition 'to'. 'Indifferent for' is incorrect and must be changed to 'indifferent to'.",
+    "Pyq": "SSC_CGL_PRE_2022"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nKing George V’s historic accession for the throne was celebrated with immense pomp and grandeur across the empire.",
+    "oEn": [
+      "King George V’s historic",
+      "accession for the throne",
+      "was celebrated with",
+      "immense pomp and grandeur"
+    ],
+    "c": 1,
+    "exp": "The noun 'accession' (meaning attaining a high title or state of power) is followed by the fixed preposition 'to', not 'for'. It should be 'accession to the throne'.",
+    "Pyq": "SSC_CGL_PRE_2022"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe global community was profoundly indignant with the blatant injustice done to the war refugees.",
+    "oEn": [
+      "The global community",
+      "was profoundly indignant with",
+      "the blatant injustice done",
+      "to the war refugees"
+    ],
+    "c": 1,
+    "exp": "One is 'indignant with' a specific person, but 'indignant at' an unfair action, situation, or behavior. Since 'injustice' is a situation, replace 'with' with 'at'.",
+    "Pyq": "SSC_CGL_MAINS_2022"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe newly elected Prime Minister promised that all major policy decisions anyhow are likely to be taken by consensus.",
+    "oEn": [
+      "The newly elected Prime Minister",
+      "promised that all major",
+      "policy decisions anyhow",
+      "are likely to be taken"
+    ],
+    "c": 2,
+    "exp": "The adverb 'anyhow' means in an uncontrolled or careless manner. The context demands 'henceforth' (from this point forward) to correctly show a future promise.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe local community council has requested the industries to refrain from discharging untreated effluents into the river basin.",
+    "oEn": [
+      "The local community council",
+      "has requested the industries",
+      "to refrain from discharging",
+      "No error"
+    ],
+    "c": 3,
+    "exp": "The sentence is correct. The verb 'refrain' is appropriately followed by 'from' + gerund (V1+ing).",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe committee members were highly satisfied with our surprise visit in their remote research facility.",
+    "oEn": [
+      "The committee members were",
+      "highly satisfied with",
+      "our surprise visit in",
+      "their remote research facility"
+    ],
+    "c": 2,
+    "exp": "When 'visit' is used as a noun followed by a destination, it requires the preposition 'to' instead of 'in'. Change 'visit in' to 'visit to'.",
+    "Pyq": "SSC_CGL_PRE_2024"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nNo sooner did the honorable chief guest step inside the auditorium when the entire audience rose to give a standing ovation.",
+    "oEn": [
+      "No sooner did the",
+      "honorable chief guest step",
+      "inside the auditorium when",
+      "the entire audience rose"
+    ],
+    "c": 2,
+    "exp": "'No sooner' contains a comparative element and must always be paired with the conjunction 'than', never 'when'.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nHe is an eminent member of the community, so no one dared to question his malicious intentions during the meeting.",
+    "oEn": [
+      "He is an eminent member",
+      "of the community, so no one",
+      "dared to question his",
+      "malicious intentions during"
+    ],
+    "c": 0,
+    "exp": "'Eminent' carries a strongly positive meaning of being highly respected for achievements. The context mentions 'malicious intentions', so 'prominent' (highly visible/conspicuous) is the contextually appropriate choice.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe deceptive trickster managed to smoothly extract the classified passcode off the completely unwilling security guard.",
+    "oEn": [
+      "The deceptive trickster managed",
+      "to smoothly extract the",
+      "classified passcode off",
+      "the completely unwilling security"
+    ],
+    "c": 2,
+    "exp": "The verb 'extract' indicates drawing something out from a source, which requires the preposition 'from'. 'Off' must be changed to 'from'.",
+    "Pyq": "SSC_CGL_PRE_2024"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe old, rare manuscript's beautiful and pristine structural composition is completely beyond compare.",
+    "oEn": [
+      "The old, rare manuscript's",
+      "beautiful and pristine structural",
+      "composition is completely beyond",
+      "No error"
+    ],
+    "c": 3,
+    "exp": "The sentence is error-free. The phrase 'beyond compare' is a standard idiom used to show unparalleled quality.",
+    "Pyq": "SSC_CGL_PRE_2024"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe strict headmaster of the boarding school was notoriously noted as being extremely sparing in praise for his students.",
+    "oEn": [
+      "The strict headmaster of",
+      "the boarding school was",
+      "notoriously noted as being",
+      "extremely sparing in praise"
+    ],
+    "c": 3,
+    "exp": "The adjective 'sparing' (meaning highly economical or restrictive with something) requires the fixed preposition 'of' rather than 'in'. Change 'sparing in' to 'sparing of'.",
+    "Pyq": "SSC_CGL_MAINS_2022"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nAlthough the business partners had a brief fall through over minor financial figures, they decided to stay unified.",
+    "oEn": [
+      "Although the business partners",
+      "had a brief fall through",
+      "over minor financial figures,",
+      "they decided to stay"
+    ],
+    "c": 1,
+    "exp": "'Fall through' means a plan or deal has failed to materialize. The context demands 'fall out' (which means to have a bitter argument or dispute). Change 'fall through' to 'fall out'.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nAn introductory preface of a highly technical textbook should always define the target reader's prerequisite skills clearly.",
+    "oEn": [
+      "An introductory preface of",
+      "a highly technical textbook",
+      "should always define",
+      "the target reader's prerequisite"
+    ],
+    "c": 0,
+    "exp": "The noun 'preface' (an introduction to a literary piece or book) takes the fixed preposition 'to', not 'of'. Change 'preface of' to 'preface to'.",
+    "Pyq": "SSC_CGL_PRE_2021"
+  }
 ]
