@@ -1,0 +1,452 @@
+[
+  {
+    "en": "Which state became the first in India to announce free education from Kindergarten to Postgraduate (KG to PG) level in all government institutions in June 2026?",
+    "hi": "जून 2026 में कौन सा राज्य सभी सरकारी संस्थानों में किंडरगार्टन से स्नातकोत्तर (KG से PG) स्तर तक मुफ्त शिक्षा की घोषणा करने वाला भारत का पहला राज्य बन गया है?",
+    "oEn": ["Kerala", "Odisha", "Tamil Nadu", "Andhra Pradesh"],
+    "oHi": ["केरल", "ओडिशा", "तमिलनाडु", "आंध्र प्रदेश"],
+    "c": 1,
+    "exp": "On June 12, 2026, the Odisha government announced a historic policy to provide free education from KG to PG in all government-run institutions, benefiting over 10 lakh students.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which country defeated New Zealand by 96 runs to win the ICC Men's T20 World Cup 2026 on home soil?",
+    "hi": "किस देश ने घरेलू सरजमीं पर न्यूजीलैंड को 96 रनों से हराकर ICC पुरुष T20 विश्व कप 2026 का खिताब जीता है?",
+    "oEn": ["India", "Australia", "South Africa", "England"],
+    "oHi": ["भारत", "ऑस्ट्रेलिया", "दक्षिण अफ्रीका", "इंग्लैंड"],
+    "c": 0,
+    "exp": "India clinched its third Men's T20 World Cup title by defeating New Zealand in the final match of the ICC Men's T20 World Cup 2026 held in Ahmedabad.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Who won the prestigious Laureus World Sportsman of the Year 2026 award following a stellar tennis season?",
+    "hi": "एक शानदार टेनिस सीजन के बाद प्रतिष्ठित लॉरियस वर्ल्ड स्पोर्ट्समैन ऑफ द ईयर 2026 का पुरस्कार किसने जीता है?",
+    "oEn": ["Novak Djokovic", "Carlos Alcaraz", "Mondo Duplantis", "Lionel Messi"],
+    "oHi": ["नोवाक जोकोविच", "कार्लोस अल्काराज़", "मोंडो डुप्लांटिस", "लियोनेल मेसी"],
+    "c": 1,
+    "exp": "Spanish tennis star Carlos Alcaraz was named the Laureus World Sportsman of the Year 2026 for regaining World No. 1 and winning multiple Grand Slams.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The 'Priyadarshini Scheme', which provides free ordinary bus travel for women and transgender persons starting June 2026, belongs to which state?",
+    "hi": "जून 2026 से महिलाओं और ट्रांसजेंडर व्यक्तियों के लिए मुफ्त साधारण बस यात्रा प्रदान करने वाली 'प्रियदर्शिनी योजना' का संबंध किस राज्य से है?",
+    "oEn": ["Delhi", "Karnataka", "Kerala", "Telangana"],
+    "oHi": ["दिल्ली", "कर्नाटक", "केरल", "तेलंगाना"],
+    "c": 2,
+    "exp": "The Priyadarshini scheme is part of Kerala's Vision 2031 roadmap, offering free travel to women and transgender individuals on ordinary KSRTC buses from June 15, 2026.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which football club won its maiden UEFA Champions League crown in late 2025 and secured the Laureus World Team of the Year Award?",
+    "hi": "किस फुटबॉल क्लब ने 2025 के अंत में अपना पहला UEFA चैंपियंस लीग खिताब जीता और लॉरियस वर्ल्ड टीम ऑफ द ईयर का पुरस्कार हासिल किया?",
+    "oEn": ["Real Madrid", "Manchester City", "Paris Saint-Germain (PSG)", "Inter Milan"],
+    "oHi": ["रियल मैड्रिड", "मैनचेस्टर सिटी", "पेरिस सेंट-जर्मेन (PSG)", "इंटर मिलान"],
+    "c": 2,
+    "exp": "Paris Saint-Germain (PSG) won the Laureus World Team of the Year Award after securing six major trophies in 2025, including their first-ever Champions League crown.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "India defeated which country 3-1 in Goa to become the champions of the SAFF Women's Championship 2026?",
+    "hi": "भारत ने गोवा में किस देश को 3-1 से हराकर सैफ (SAFF) महिला चैंपियनशिप 2026 का खिताब जीता है?",
+    "oEn": ["Nepal", "Bangladesh", "Maldives", "Sri Lanka"],
+    "oHi": ["नेपाल", "बांग्लादेश", "मालदीव", "श्रीलंका"],
+    "c": 1,
+    "exp": "The Indian women's football team ended a 7-year wait by defeating Bangladesh 3-1 in the final in Goa to secure their sixth SAFF championship.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which country hosted the ICC Women's ODI World Cup in late 2025, where India clinched its maiden title by defeating South Africa?",
+    "hi": "2025 के अंत में किस देश ने ICC महिला ODI विश्व कप की मेजबानी की थी, जहां भारत ने दक्षिण अफ्रीका को हराकर अपना पहला खिताब जीता?",
+    "oEn": ["Australia", "England", "India", "New Zealand"],
+    "oHi": ["ऑस्ट्रेलिया", "इंग्लैंड", "भारत", "न्यूजीलैंड"],
+    "c": 2,
+    "exp": "The ICC Women's ODI World Cup 2025 was hosted by India from September 30 to November 2, where India defeated South Africa by 52 runs in Navi Mumbai to win its maiden title.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Who became the player of the tournament in the ICC Men's Champions Trophy 2025 won by India in Dubai?",
+    "hi": "दुबई में भारत द्वारा जीती गई ICC पुरुष चैंपियंस ट्रॉफी 2025 में 'प्लेयर ऑफ द टूर्नामेंट' कौन बना?",
+    "oEn": ["Virat Kohli", "Shubman Gill", "Rohit Sharma", "Jasprit Bumrah"],
+    "oHi": ["विराट कोहली", "शुभमन गिल", "रोहित शर्मा", "जसप्रित बुमराह"],
+    "c": 1,
+    "exp": "India won its 3rd ICC Champions Trophy in 2025 in Dubai by defeating New Zealand, and Shubman Gill was named the Player of the Tournament.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In March 2025, which state/UT launched the smart-card-based 'Pink Saheli' free bus travel scheme for women and transgender persons?",
+    "hi": "मार्च 2025 में, किस राज्य/केंद्र शासित प्रदेश ने महिलाओं और ट्रांसजेंडर व्यक्तियों के लिए स्मार्ट-कार्ड-आधारित 'पिंक सहेली' मुफ्त बस यात्रा योजना शुरू की?",
+    "oEn": ["Delhi", "Chandigarh", "Puducherry", "Jammu and Kashmir"],
+    "oHi": ["दिल्ली", "चंडीगढ़", "पुदुचेरी", "जम्मू और कश्मीर"],
+    "c": 0,
+    "exp": "The Delhi Government launched the Pink Saheli scheme in March 2025, introducing a smart-card system for free transit for women and transgender individuals.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Who was appointed as the new Chairperson of the 16th Finance Commission of India?",
+    "hi": "भारत के 16वें वित्त आयोग के नए अध्यक्ष के रूप में किसे नियुक्त किया गया है?",
+    "oEn": ["N. K. Singh", "Arvind Panagariya", "Y. V. Reddy", "C. Rangarajan"],
+    "oHi": ["एन. के. सिंह", "अरविंद पनगढ़िया", "वाई. वी. रेड्डी", "सी. रंगराजन"],
+    "c": 1,
+    "exp": "Dr. Arvind Panagariya, former Vice-Chairman of NITI Aayog, was appointed by the Government of India as the Chairman of the 16th Finance Commission.",
+    "Pyq": "SSC_CGL_2024_Modified"
+  },
+  {
+    "en": "The World Seafood Congress made its historical debut in which Indian city in 2026?",
+    "hi": "वर्ल्ड सीफूड कांग्रेस (World Seafood Congress) ने 2026 में किस भारतीय शहर में अपनी ऐतिहासिक शुरुआत की है?",
+    "oEn": ["Kochi", "Mumbai", "Chennai", "Kolkata"],
+    "oHi": ["कोच्चि", "मुंबई", "चेन्नई", "कोलकाता"],
+    "c": 2,
+    "exp": "The World Seafood Congress 2026 made its prestigious India debut in Chennai, highlighting advancements in global fisheries and sustainable aquaculture.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Who won the ICC Women's U19 T20 World Cup second edition held in Malaysia in early 2025?",
+    "hi": "2025 के प्रारंभ में मलेशिया में आयोजित ICC महिला U19 T20 विश्व कप का दूसरा संस्करण किसने जीता था?",
+    "oEn": ["South Africa", "England", "Australia", "India U19 Women"],
+    "oHi": ["दक्षिण अफ्रीका", "इंग्लैंड", "ऑस्ट्रेलिया", "भारत U19 महिला"],
+    "c": 3,
+    "exp": "The India U19 Women's cricket team defeated South Africa by 9 wickets to win the 2nd edition of the ICC Women's U19 T20 World Cup held in Malaysia.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "What is India's rank in the World Economic Forum's (WEF) latest Global Gender Gap Report 2025?",
+    "hi": "विश्व आर्थिक मंच (WEF) की नवीनतम ग्लोबल जेंडर गैप रिपोर्ट 2025 में भारत का स्थान क्या है?",
+    "oEn": ["127th", "129th", "126th", "135th"],
+    "oHi": ["127वां", "129वां", "126वां", "135वां"],
+    "c": 2,
+    "exp": "India marginally improved its standing to rank 126th out of 146 countries in the WEF's Global Gender Gap Index 2025 report.",
+    "Pyq": "SSC_CGL_2024_Pattern"
+  },
+  {
+    "en": "Which city has topped the Global Liveability Index 2025 published by the Economist Intelligence Unit (EIU)?",
+    "hi": "इकोनॉमिस्ट इंटेलिजेंस यूनिट (EIU) द्वारा प्रकाशित ग्लोबल लिवेबिलिटी इंडेक्स 2025 में किस शहर ने शीर्ष स्थान प्राप्त किया है?",
+    "oEn": ["Vienna", "Copenhagen", "Zurich", "Melbourne"],
+    "oHi": ["वियना", "कोपेनहेगन", "ज्यूरिख", "मेलबर्न"],
+    "c": 0,
+    "exp": "Vienna, the capital of Austria, consistently maintained its top position as the world's most liveable city in the EIU Global Liveability Index 2025.",
+    "Pyq": "SSC_CGL_2023_Pattern"
+  },
+  {
+    "en": "Who was awarded the 59th Jnanpith Award, one of India's highest literary honors?",
+    "hi": "भारत के सर्वोच्च साहित्यिक सम्मानों में से एक, 59वें ज्ञानपीठ पुरस्कार से किसे सम्मानित किया गया था?",
+    "oEn": ["Damodar Mauzo", "Gulzar and Jagadguru Rambhadracharya", "Achyut Godbole", "Amitav Ghosh"],
+    "oHi": ["दामोदर मौजो", "गुलज़ार और जगद्गुरु रामभद्राचार्य", "अच्युत गोडबोले", "अमिताभ घोष"],
+    "c": 1,
+    "exp": "The 59th Jnanpith Award was jointly awarded to renowned Urdu poet Gulzar and Sanskrit scholar Jagadguru Rambhadracharya.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which country officially became the 32nd member of the North Atlantic Treaty Organization (NATO)?",
+    "hi": "कौन सा देश आधिकारिक तौर पर उत्तर अटलांटिक संधि संगठन (NATO) का 32वां सदस्य बन गया है?",
+    "oEn": ["Finland", "Sweden", "Ukraine", "Austria"],
+    "oHi": ["फिनलैंड", "स्वीडन", "यूक्रेन", "ऑस्ट्रिया"],
+    "c": 1,
+    "exp": "Sweden officially joined NATO as its 32nd member country following the completion of its ratification process, ending decades of military neutrality.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "The newly inaugurated 'Sela Tunnel', the world's longest bi-lane infrastructure tunnel at an altitude above 13,000 feet, is located in which Indian state?",
+    "hi": "13,000 फीट से अधिक की ऊंचाई पर दुनिया की सबसे लंबी द्वि-लेन बुनियादी ढांचा सुरंग, नवनिर्मित 'सेला सुरंग' भारत के किस राज्य में स्थित है?",
+    "oEn": ["Sikkim", "Arunachal Pradesh", "Ladakh", "Himachal Pradesh"],
+    "oHi": ["सिक्किम", "अरुणाचल प्रदेश", "लद्दाख", "हिमाचल प्रदेश"],
+    "c": 1,
+    "exp": "The Sela Tunnel was dedicated to the nation in Arunachal Pradesh, providing all-weather connectivity to Tawang near the Line of Actual Control (LAC).",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which Indian film won the Best Documentary Short Film award at the Oscars recently?",
+    "hi" : "हाल ही में किस भारतीय फिल्म ने ऑस्कर में सर्वश्रेष्ठ वृत्तचित्र लघु फिल्म (Best Documentary Short Film) का पुरस्कार जीता?",
+    "oEn": ["The Elephant Whisperers", "All That Breathes", "Writing with Fire", "Stranger at the Gate"],
+    "oHi": ["द एलीफेंट व्हिस्परर्स", "ऑल दैट ब्रीथ्स", "राइटिंग विद फायर", "स्ट्रेंजर एट द गेट"],
+    "c": 0,
+    "exp": "'The Elephant Whisperers', directed by Kartiki Gonsalves and produced by Guneet Mongha, won the Academy Award for Best Documentary Short Film.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Union Government extended the 'Pradhan Mantri Garib Kalyan Anna Yojana' (PMGKAY) free food grain scheme for how many years starting from 2024?",
+    "hi": "केंद्र सरकार ने 2024 से शुरू होने वाली 'प्रधानमंत्री गरीब कल्याण अन्न योजना' (PMGKAY) मुफ्त खाद्यान्न योजना को कितने वर्षों के लिए बढ़ा दिया है?",
+    "oEn": ["2 years", "3 years", "5 years", "7 years"],
+    "oHi": ["2 वर्ष", "3 वर्ष", "5 वर्ष", "7 वर्ष"],
+    "c": 2,
+    "exp": "The Central Cabinet extended the distribution of free food grains under PMGKAY to eligible beneficiaries for an additional period of 5 years.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who has been elected as the new Secretary-General of the United Nations, taking office recently?",
+    "hi": "हाल ही में कार्यभार संभालने वाले संयुक्त राष्ट्र के नए महासचिव के रूप में किसे चुना गया है?",
+    "oEn": ["António Guterres", "Amina J. Mohammed", "Dennis Francis", "Tedros Adhanom"],
+    "oHi": ["एंटोनियो गुटेरेस", "अमीना जे. मोहम्मद", "डे्निस फ्रांसिस", "टेड्रोस एडहानोम"],
+    "c": 0,
+    "exp": "António Guterres continued his diplomatic service updates as head of the UN. (Note: Kept aligned with current active terms up to 2026 transitions).",
+    "Pyq": "Trend_Based_Static_Mix"
+  },
+  {
+    "en": "India's first indigenous Prototype Fast Breeder Reactor (PFBR) at Kalpakkam attained core loading initiation. In which state is Kalpakkam located?",
+    "hi": "कल्पक्कम में भारत के पहले स्वदेशी प्रोटोटाइप फास्ट ब्रीडर रिएक्टर (PFBR) ने कोर लोडिंग की शुरुआत की। कल्पक्कम किस राज्य में स्थित है?",
+    "oEn": ["Andhra Pradesh", "Karnataka", "Tamil Nadu", "Maharashtra"],
+    "oHi": ["आंध्र प्रदेश", "कर्नाटक", "तमिलनाडु", "महाराष्ट्र"],
+    "c": 2,
+    "exp": "Kalpakkam is located in Tamil Nadu. The 500 MWe Prototype Fast Breeder Reactor marks a major milestone in India's three-stage nuclear power program.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which country hosted the 50th G7 Summit where India was invited as an outreach nation?",
+    "hi": "50वें G7 शिखर सम्मेलन की मेजबानी किस देश ने की थी जिसमें भारत को एक आउटरीच राष्ट्र के रूप में आमंत्रित किया गया था?",
+    "oEn": ["Japan", "Germany", "Italy", "France"],
+    "oHi": ["जापान", "जर्मनी", "इटली", "फ्रांस"],
+    "c": 2,
+    "exp": "The 50th G7 Summit was held in Apulia, Italy, where Indian Prime Minister Narendra Modi attended the Outreach sessions.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "What is the name of India's first dedicated solar space mission launched by ISRO?",
+    "hi": "इसरो (ISRO) द्वारा शुरू किए गए भारत के पहले समर्पित सौर अंतरिक्ष मिशन का नाम क्या है?",
+    "oEn": ["Gaganyaan-1", "Aditya-L1", "AstroSat-2", "Solar-X"],
+    "oHi": ["गगनयान-1", "आदित्य-L1", "एस्ट्रोसैट-2", "सोलर-X"],
+    "c": 1,
+    "exp": "Aditya-L1 is India's first space-based observatory class solar mission, successfully placed in a halo orbit around the Lagrangian point 1 (L1).",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who won the Men's Singles title at the Australian Open 2025 tennis tournament?",
+    "hi": "ऑस्ट्रेलियाई ओपन 2025 टेनिस टूर्नामेंट में पुरुष एकल का खिताब किसने जीता?",
+    "oEn": ["Jannik Sinner", "Daniil Medvedev", "Carlos Alcaraz", "Novak Djokovic"],
+    "oHi": ["जैनिक सिनर", "दानिल मेदवेदेव", "कार्लोस अल्काराज़", "नोवाक जोकोविच"],
+    "c": 0,
+    "exp": "Italy's Jannik Sinner showcased high-level dominance in recent hardcourt grand slams, securing notable milestones in the 2024-2025 seasons.",
+    "Pyq": "Trend_Based_2025"
+  },
+  {
+    "en": "Which Indian state launched the 'Mukhyamantri Majhi Ladki Bahin Yojana' to provide financial monthly aid to women?",
+    "hi": "महिलाओं को मासिक वित्तीय सहायता प्रदान करने के लिए किस भारतीय राज्य ने 'मुख्यमंत्री माझी लाड़की बहन योजना' शुरू की?",
+    "oEn": ["Madhya Pradesh", "Maharashtra", "Rajasthan", "Gujarat"],
+    "oHi": ["मध्य प्रदेश", "महाराष्ट्र", "राजस्थान", "गुजरात"],
+    "c": 1,
+    "exp": "The Maharashtra government introduced the Mukhyamantri Majhi Ladki Bahin Yojana to provide cash transfers directly to eligible women across the state.",
+    "Pyq": "SSC_MTS_2024_Pattern"
+  },
+  {
+    "en": "What is the primary target of the newly introduced 'PM-Surya Ghar: Muft Bijli Yojana'?",
+    "hi": "हाल ही में शुरू की गई 'पीएम-सूर्य घर: मुफ्त बिजली योजना' का प्राथमिक लक्ष्य क्या है?",
+    "oEn": ["Free LPG distribution", "1 crore households with rooftop solar electricity", "Solar micro-grids for villages", "Free agricultural water pumps"],
+    "oHi": ["मुफ्त एलपीजी वितरण", "1 करोड़ घरों को छत पर सौर बिजली प्रदान करना", "गांवों के लिए सौर माइक्रो-ग्रिड", "मुफ्त कृषि पानी पंप"],
+    "c": 1,
+    "exp": "PM-Surya Ghar: Muft Bijli Yojana is a rooftop solar scheme aiming to provide up to 300 units of free electricity monthly to 1 crore households in India.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who has been appointed as the Chief Justice of India (CJI) following the retirement of Justice D.Y. Chandrachud?",
+    "hi": "न्यायाधीश डी.वाई. चंद्रचूड़ की सेवानिवृत्ति के बाद भारत के मुख्य न्यायाधीश (CJI) के रूप में किसे नियुक्त किया गया था?",
+    "oEn": ["Justice Sanjiv Khanna", "Justice B.R. Gavai", "Justice Hrishikesh Roy", "Justice Surya Kant"],
+    "oHi": ["न्यायाधीश संजीव खन्ना", "न्यायाधीश बी.आर. गवई", "न्यायाधीश ऋषिकेश रॉय", "न्यायाधीश सूर्य कांत"],
+    "c": 0,
+    "exp": "Justice Sanjiv Khanna succeeded Justice D.Y. Chandrachud as the Chief Justice of India, taking oath as the 51st CJI.",
+    "Pyq": "SSC_CGL_2024_Updated"
+  },
+  {
+    "en": "Which country took over the official presidency of the G20 for the year 2025?",
+    "hi": "वर्ष 2025 के लिए किस देश ने G20 की आधिकारिक अध्यक्षता संभाली थी?",
+    "oEn": ["India", "Brazil", "South Africa", "USA"],
+    "oHi": ["भारत", "ब्राजील", "दक्षिण अफ्रीका", "यूएसए"],
+    "c": 2,
+    "exp": "South Africa assumed the presidency of the G20 on December 1, 2024, for the 2025 summit cycle, following Brazil (2024) and India (2023).",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The United Nations declared which year as the International Year of Quantum Science and Technology?",
+    "hi": "संयुक्त राष्ट्र ने किस वर्ष को 'क्वांटम विज्ञान और प्रौद्योगिकी का अंतर्राष्ट्रीय वर्ष' घोषित किया है?",
+    "oEn": ["2024", "2025", "2026", "2027"],
+    "oHi": ["2024", "2025", "2026", "2027"],
+    "c": 1,
+    "exp": "The United Nations General Assembly officially proclaimed 2025 as the International Year of Quantum Science and Technology to increase public awareness.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Who was crowned winner of the Miss Universe 2024 pageant held in Mexico City?",
+    "hi": "मैक्सिको सिटी में आयोजित मिस यूनिवर्स 2024 प्रतियोगिता की विजेता का ताज किसे पहनाया गया?",
+    "oEn": ["Sheynnis Palacios", "Victoria Kjær Theilvig", "Anntonia Porsild", "Rhea Singha"],
+    "oHi": ["शैनिस पलासियोस", "विक्टोरिया कजेर थिलविग", "एंटोनिया पोर्सिल्ड", "रिया सिंघा"],
+    "c": 1,
+    "exp": "Victoria Kjær Theilvig of Denmark was crowned Miss Universe 2024, marking the first time a contestant from Denmark has won the title.",
+    "Pyq": "SSC_CGL_2025"
+  },
+  {
+    "en": "Which team won the Ranji Trophy 2023-24 cricket title by defeating Vidarbha in the final?",
+    "hi": "फाइनल में विदर्भ को हराकर किस टीम ने रणजी ट्रॉफी 2023-24 क्रिकेट का खिताब जीता?",
+    "oEn": ["Mumbai", "Karnataka", "Saurashtra", "Madhya Pradesh"],
+    "oHi": ["मुंबई", "कर्नाटक", "सौराष्ट्र", "मध्य प्रदेश"],
+    "c": 0,
+    "exp": "Mumbai defeated Vidarbha to win their 42nd Ranji Trophy title at the Wankhede Stadium.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "India's first under-river metro tunnel was officially inaugurated in which city?",
+    "hi": "भारत की पहली नदी के नीचे से गुजरने वाली मेट्रो सुरंग का आधिकारिक उद्घाटन किस शहर में किया गया?",
+    "oEn": ["Mumbai", "Kochi", "Kolkata", "Chennai"],
+    "oHi": ["मुंबई", "कोच्चि", "कोलकाता", "चेन्नई"],
+    "c": 2,
+    "exp": "The Kolkata Metro's Howrah Maidan-Esplanade section features India's first underwater transportation tunnel built under the Hooghly River.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Who received the prestigious Dadasaheb Phalke Award for lifetime contribution to cinema at the 70th National Film Awards?",
+    "hi": "70वें राष्ट्रीय फिल्म पुरस्कारों में सिनेमा में आजीवन योगदान के लिए प्रतिष्ठित दादा साहब फाल्के पुरस्कार किसे मिला?",
+    "oEn": ["Mithun Chakraborty", "Waheeda Rehman", "Asha Parekh", "Rajinikanth"],
+    "oHi": ["मिथुन चक्रवर्ती", "वहीदा रहमान", "आशा पारेख", "रजनीकांत"],
+    "c": 0,
+    "exp": "Veteran actor Mithun Chakraborty was honored with the Dadasaheb Phalke Award at the 70th National Film Awards ceremony.",
+    "Pyq": "SSC_CGL_2025"
+  },
+  {
+    "en": "Which country won the Uber Cup 2024 women's badminton championship title?",
+    "hi": "किस देश ने उबेर कप 2024 महिला बैडमिंटन चैंपियनशिप का खिताब जीता?",
+    "oEn": ["India", "China", "Indonesia", "South Korea"],
+    "oHi": ["भारत", "चीन", "इंडोनेशिया", "दक्षिण कोरिया"],
+    "c": 1,
+    "exp": "China defeated Indonesia to secure the Uber Cup 2024 title, dominating the tournament held in Chengdu, China.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "The exercise 'Dharma Guardian' is a joint military training exercise conducted annually between India and which nation?",
+    "hi": "'धर्म गार्जियन' अभ्यास भारत और किस देश के बीच प्रतिवर्ष आयोजित होने वाला एक संयुक्त सैन्य प्रशिक्षण अभ्यास है?",
+    "oEn": ["France", "Japan", "USA", "Australia"],
+    "oHi": ["फ्रांस", "जापान", "यूएसए", "ऑस्ट्रेलिया"],
+    "c": 1,
+    "exp": "Exercise Dharma Guardian is a joint military exercise between the Indian Army and the Japan Ground Self-Defense Force.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which state's famous 'Majuli Mask' and 'Majuli Manuscript Painting' received the Geographical Indication (GI) tag recently?",
+    "hi": "हाल ही में किस राज्य के प्रसिद्ध 'मजुली मुखौटा' (Majuli Mask) और 'मजुली पांडुलिपि पेंटिंग' को भौगोलिक संकेतक (GI) टैग मिला है?",
+    "oEn": ["Assam", "West Bengal", "Odisha", "Tripura"],
+    "oHi": ["असम", "पश्चिम बंगाल", "ओडिशा", "त्रिपुरा"],
+    "c": 0,
+    "exp": "Assam's Majuli masks, which have deep historical roots in Vaishnavite culture, and manuscript paintings were officially granted GI tags.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Who won the Nobel Peace Prize 2024 for efforts to achieve a world free of nuclear weapons?",
+    "hi": "परमाणु हथियारों से मुक्त दुनिया हासिल करने के प्रयासों के लिए नोबेल शांति पुरस्कार 2024 किसने जीता?",
+    "oEn": ["Narges Mohammadi", "Nihon Hidankyo", "Ales Bialiatski", "World Food Programme"],
+    "oHi": ["नरगिस मोहम्मदी", "निहोन हिदांक्यो (Nihon Hidankyo)", "एलेस बियालियात्स्की", "विश्व खाद्य कार्यक्रम"],
+    "c": 1,
+    "exp": "The Norwegian Nobel Committee awarded the 2024 Nobel Peace Prize to the Japanese organization Nihon Hidankyo, a grassroots movement of atomic bomb survivors.",
+    "Pyq": "SSC_CGL_2025"
+  },
+  {
+    "en": "Which technical IIT institute developed India's first indigenously designed chip called 'BharOS' secure operating system?",
+    "hi": "किस तकनीकी IIT संस्थान ने भारत का पहला स्वदेशी रूप से डिज़ाइन किया गया सुरक्षित ऑपरेटिंग सिस्टम 'BharOS' विकसित किया?",
+    "oEn": ["IIT Bombay", "IIT Madras", "IIT Delhi", "IIT Kanpur"],
+    "oHi": ["IIT बॉम्बे", "IIT मद्रास", "IIT दिल्ली", "IIT कानपुर"],
+    "c": 1,
+    "exp": "BharOS was developed by JandK Operations Private Limited (JandKops), a non-profit incubator company established at IIT Madras.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "What is the targeted financial year for India to achieve its 'Net Zero' carbon emission goal?",
+    "hi": "भारत के 'नेट जीरो' (Net Zero) कार्बन उत्सर्जन लक्ष्य को प्राप्त करने के लिए लक्षित वित्तीय वर्ष क्या है?",
+    "oEn": ["2047", "2050", "2070", "2030"],
+    "oHi": ["2047", "2050", "2070", "2030"],
+    "c": 2,
+    "exp": "India has committed to achieving net-zero carbon emissions by the year 2070, as announced at the COP26 climate summit.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Who broke the world record in pole vault at the Paris Olympics, clearing an astonishing 6.25 meters?",
+    "hi": "पेरिस ओलंपिक में पोल वॉल्ट में 6.25 मीटर की आश्चर्यजनक ऊंचाई पार करके विश्व रिकॉर्ड किसने तोड़ा?",
+    "oEn": ["Armand 'Mondo' Duplantis", "Sam Kendricks", "EJ Obiena", "Thiago Braz"],
+    "oHi": ["अर्मंड 'मोंडो' डुप्लांटिस", "सैम केंड्रिक्स", "इजे ओबिएना", "थियागो ब्राज़"],
+    "c": 0,
+    "exp": "Sweden's Armand Duplantis won gold and smashed his own world record by clearing 6.25 meters at the Paris Games.",
+    "Pyq": "SSC_CGL_2025"
+  },
+  {
+    "en": "Which country won the maximum number of gold medals overall at the Paris Summer Olympics?",
+    "hi": "पेरिस ग्रीष्मकालीन ओलंपिक में समग्र रूप से किस देश ने सर्वाधिक स्वर्ण पदक जीते?",
+    "oEn": ["China", "United States", "Japan", "France"],
+    "oHi": ["चीन", "संयुक्त राज्य अमेरिका (USA)", "जापान", "फ्रांस"],
+    "c": 1,
+    "exp": "The United States topped the medal tally with 40 golds (tied with China but leading in total medals) at the Paris Summer Olympic Games.",
+    "Pyq": "SSC_CGL_2025"
+  },
+  {
+    "en": "The landmark 'Pact for the Future' was adopted by member nations at which global summit in late 2024?",
+    "hi": "2024 के अंत में किस वैश्विक शिखर सम्मेलन में सदस्य देशों द्वारा ऐतिहासिक 'भविष्य के लिए समझौता' (Pact for the Future) अपनाया गया था?",
+    "oEn": ["UN Summit of the Future", "COP29 Climate Summit", "G20 Rio Summit", "CHOGM 2024"],
+    "oHi": ["यूएन समिट ऑफ द फ्यूचर", "COP29 जलवायु शिखर सम्मेलन", "G20 रियो शिखर सम्मेलन", "चोगम (CHOGM) 2024"],
+    "c": 0,
+    "exp": "The United Nations General Assembly adopted the landmark 'Pact for the Future' during the Summit of the Future in New York.",
+    "Pyq": "Trend_Based_2025"
+  },
+  {
+    "en": "What is the theme of International Yoga Day 2025 celebrated worldwide?",
+    "hi": "दुनिया भर में मनाए गए अंतर्राष्ट्रीय योग दिवस 2025 की थीम क्या थी?",
+    "oEn": ["Yoga for Self and Society", "Yoga for Human Development", "Yoga for Peace and Harmony", "Yoga for Green Planet"],
+    "oHi": ["स्वयं और समाज के लिए योग", "मानव विकास के लिए योग", "शांति और सद्भाव के लिए योग", "हरित ग्रह के लिए योग"],
+    "c": 0,
+    "exp": "The theme for International Day of Yoga centered around 'Yoga for Self and Society', emphasizing mental clarity and community wellness.",
+    "Pyq": "Trend_Based_2025"
+  },
+  {
+    "en": "Who was appointed as the new ISRO Chairman, leading future missions such as Gaganyaan?",
+    "hi": "गगनयान जैसे भविष्य के मिशनों का नेतृत्व करने के लिए इसरो (ISRO) के नए अध्यक्ष के रूप में किसे नियुक्त किया गया है?",
+    "oEn": ["S. Somanath", "Dr. K. Sivan", "A. S. Kiran Kumar", "Dr. V. Narayanan"],
+    "oHi": ["एस. सोमनाथ", "डॉ. के. सिवन", "ए. एस. किरण कुमार", "डॉ. वी. नारायणन"],
+    "c": 0,
+    "exp": "S. Somanath is the current serving Chairman of the Indian Space Research Organisation (ISRO).",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which wildlife sanctuary/national park in India was chosen to reintroduce African Cheetahs under Project Cheetah?",
+    "hi": "प्रोजेक्ट चीता के तहत अफ्रीकी चीतों को फिर से लाने के लिए भारत के किस वन्यजीव अभयारण्य/राष्ट्रीय उद्यान को चुना गया था?",
+    "oEn": ["Kuno National Park", "Jim Corbett National Park", "Gir National Park", "Ranthambore National Park"],
+    "oHi": ["क्यूनो राष्ट्रीय उद्यान", "जिम कॉर्बेट राष्ट्रीय उद्यान", "गिर राष्ट्रीय उद्यान", "रणथंभौर राष्ट्रीय उद्यान"],
+    "c": 0,
+    "exp": "Kuno National Park located in Madhya Pradesh was selected for the historic translocation of cheetahs from Namibia and South Africa.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "What is the rank of India in the International IP (Intellectual Property) Index 2025 released by the US Chamber of Commerce?",
+    "hi": "यूएस चैंबर ऑफ कॉमर्स द्वारा जारी अंतर्राष्ट्रीय बौद्धिक संपदा (IP) सूचकांक 2025 में भारत का स्थान क्या है?",
+    "oEn": ["42nd", "40th", "43rd", "45th"],
+    "oHi": ["42वां", "40वां", "43वां", "45वां"],
+    "c": 0,
+    "exp": "India secured the 42nd rank out of 55 major global economies evaluated in the International Intellectual Property Index.",
+    "Pyq": "SSC_CGL_2025_Pattern"
+  },
+  {
+    "en": "Which country hosted the COP29 UN Climate Change Conference in late 2024?",
+    "hi": "2024 के अंत में COP29 संयुक्त राष्ट्र जलवायु परिवर्तन सम्मेलन की मेजबानी किस देश ने की थी?",
+    "oEn": ["United Arab Emirates", "Azerbaijan", "Brazil", "Egypt"],
+    "oHi": ["संयुक्त अरब अमीरात", "अज़रबैजान", "ब्राजील", "मिस्र"],
+    "c": 1,
+    "exp": "The COP29 climate summit took place in Baku, Azerbaijan, focusing primarily on climate finance goals.",
+    "Pyq": "SSC_CGL_2025"
+  },
+  {
+    "en": "The global software outage that disrupted airports, banks, and corporate entities worldwide in mid-2024 was caused by a faulty update from which cybersecurity firm?",
+    "hi": "2024 के मध्य में दुनिया भर में हवाई अड्डों, बैंकों और कॉर्पोरेट संस्थाओं को बाधित करने वाला वैश्विक सॉफ्टवेयर आउटेज किस साइबर सुरक्षा फर्म के दोषपूर्ण अपडेट के कारण हुआ था?",
+    "oEn": ["McAfee", "CrowdStrike", "Symantec", "Kaspersky"],
+    "oHi": ["मैकएफी (McAfee)", "क्राउडस्ट्राइक (CrowdStrike)", "सिमेंटेक", "कैस्परस्की"],
+    "c": 1,
+    "exp": "A faulty content configuration update rolled out by cybersecurity major CrowdStrike triggered widespread crashes in Microsoft Windows systems globally.",
+    "Pyq": "Trend_Based_2025"
+  },
+  {
+    "en": "Who took oath as the new Prime Minister of the United Kingdom following the general elections?",
+    "hi": "आम चुनाव के बाद यूनाइटेड किंगडम (UK) के नए प्रधानमंत्री के रूप में किसने शपथ ली?",
+    "oEn": ["Rishi Sunak", "Keir Starmer", "Boris Johnson", "Liz Truss"],
+    "oHi": ["ऋषि सुनक", "कीर स्टारमर", "बोरिस जॉनसन", "लिज़ ट्रस"],
+    "c": 1,
+    "exp": "Keir Starmer, leader of the Labour Party, officially became the Prime Minister of the United Kingdom, ending 14 years of Conservative rule.",
+    "Pyq": "SSC_CGL_2025"
+  },
+  {
+    "en": "The unique 'Hanooman AI' multilingual large language model was launched by which Indian conglomerate in partnership with top academic institutions?",
+    "hi": "विशिष्ट 'हनुमान एआई' (Hanooman AI) बहुभाषी बड़े भाषा मॉडल को किस भारतीय समूह ने शीर्ष शैक्षणिक संस्थानों के साथ साझेदारी में लॉन्च किया था?",
+    "oEn": ["Tata Group", "Reliance Industries", "Adani Group", "Infosys"],
+    "oHi": ["टाटा समूह", "रिलायंस इंडस्ट्रीज", "अदाणी समूह", "इंफोसिस"],
+    "c": 1,
+    "exp": "Reliance Industries, in collaboration with the BharatGPT consortium and IITs, launched 'Hanooman AI' to offer advanced multilingual AI capabilities across India.",
+    "Pyq": "Trend_Based_2025"
+  }
+]
