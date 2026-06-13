@@ -1,0 +1,452 @@
+[
+  {
+    "en": "Which of the following Indus Valley Civilization sites provides the earliest evidence of a ploughed field?",
+    "hi": "सिंधु घाटी सभ्यता के निम्नलिखित में से किस स्थल से जुते हुए खेत के सबसे पहले प्रमाण मिलते हैं?",
+    "oEn": ["Kalibangan", "Lothal", "Harappa", "Banawali"],
+    "oHi": ["कालीबंगा", "लोथल", "हड़प्पा", "बनावली"],
+    "c": 0,
+    "exp": "Kalibangan (Rajasthan) provided the earliest evidence of a ploughed agricultural field. It is also famous for fire altars and wooden drainage.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The famous 'Dancing Girl' statue found in Mohenjo-daro was made using which technique?",
+    "hi": "मोहनजोदड़ो में मिली प्रसिद्ध 'नर्तकी' (डांसिंग गर्ल) की मूर्ति किस तकनीक का उपयोग करके बनाई गई थी?",
+    "oEn": ["Lost-wax casting", "Stone carving", "Terracotta molding", "Ivory carving"],
+    "oHi": ["लुप्त-मोम ढलाई (लॉस्ट-वैक्स कास्टिंग)", "पत्थर की नक्काशी", "टेराकोटा मोल्डिंग", "हाथीदांत की नक्काशी"],
+    "c": 0,
+    "exp": "The bronze statue of the Dancing Girl found at Mohenjo-daro was cast using the 'lost-wax' (Cire Perdue) technique, showcasing advanced metallurgical skills.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following Harappan sites is divided into three distinct parts instead of the usual two?",
+    "hi": "निम्नलिखित में से कौन सा हड़प्पा स्थल सामान्य दो भागों के बजाय तीन अलग-अलग भागों में विभाजित है?",
+    "oEn": ["Dholavira", "Chanhudaro", "Surkotada", "Ropar"],
+    "oHi": ["धौलावीरा", "चन्हूदड़ो", "सुरकोटदा", "रोपड़"],
+    "c": 0,
+    "exp": "Dholavira (Gujarat) is uniquely divided into three parts: the Citadel, the Middle Town, and the Lower Town. It is also famous for its sophisticated water harvesting system.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "In the Rigvedic period, the term 'Gaveshana' or 'Gavyuti' literally referred to which of the following?",
+    "hi": "ऋग्वैदिक काल में, 'गवेषणा' या 'गव्यूति' शब्द का शाब्दिक अर्थ निम्नलिखित में से किससे था?",
+    "oEn": ["Search for cows / Conflicts over cows", "A measure of time", "A type of tax paid to the chief", "The assembly of elders"],
+    "oHi": ["गायों की खोज / गायों के लिए संघर्ष", "समय का एक माप", "प्रमुख को दिया जाने वाला एक प्रकार का कर", "बुजुर्गों की सभा"],
+    "c": 0,
+    "exp": "In the Rigvedic economy, cows were the most valuable asset. Warfare was often referred to as 'Gaveshana' (search for cows), and distance/time measurements were often tied to cattle.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Which of the following Mandalas of the Rigveda contains the famous Purusha Sukta hymn that mentions the four varnas for the first time?",
+    "hi": "ऋग्वेद के निम्नलिखित में से किस मंडल में प्रसिद्ध पुरुष सूक्त भजने का उल्लेख है जिसमें पहली बार चार वर्णों का वर्णन किया गया है?",
+    "oEn": ["10th Mandala", "3rd Mandala", "7th Mandala", "9th Mandala"],
+    "oHi": ["10वां मंडल", "3रा मंडल", "7वां मंडल", "9वां मंडल"],
+    "c": 0,
+    "exp": "The Purusha Sukta is found in the 10th Mandala of the Rigveda and explains the origin of the four Varnas from the body of the primeval cosmic being.",
+    "Pyq": "SSC_CGL_2021"
+  },
+  {
+    "en": "The famous Gayatri Mantra is addressed to which solar deity and is found in which Mandala of the Rigveda?",
+    "hi": "प्रसिद्ध गायत्री मंत्र किस सौर देवता को संबोधित है और यह ऋग्वेद के किस मंडल में मिलता है?",
+    "oEn": ["Savitri, 3rd Mandala", "Indra, 2nd Mandala", "Agni, 5th Mandala", "Varuna, 7th Mandala"],
+    "oHi": ["सावित्री, तीसरा मंडल", "इंद्र, दूसरा मंडल", "अग्नि, पांचवां मंडल", "वरुण, सातवां मंडल"],
+    "c": 0,
+    "exp": "The Gayatri Mantra was composed by Sage Vishvamitra in honor of the solar deity Savitri and is located in the 3rd Mandala of the Rigveda.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The national motto of India, 'Satyameva Jayate', is inscribed below the Emblem of India and is taken from which Upanishad?",
+    "hi": "भारत का राष्ट्रीय आदर्श वाक्य, 'सत्यमेव जयते', भारत के प्रतीक चिन्ह के नीचे उत्कीर्ण है और इसे किस उपनिषद से लिया गया है?",
+    "oEn": ["Mundaka Upanishad", "Katha Upanishad", "Chandogya Upanishad", "Brihadaranyaka Upanishad"],
+    "oHi": ["मुंडक उपनिषद", "कठ उपनिषद", "छांदोग्य उपनिषद", "बृहदारण्यक उपनिषद"],
+    "c": 0,
+    "exp": "'Satyameva Jayate' (Truth Alone Triumphs) is a mantra from the ancient Indian scripture Mundaka Upanishad.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which of the following rulers was contemporary to both Vardhamana Mahavira and Gautama Buddha?",
+    "hi": "निम्नलिखित में से कौन सा शासक वर्धमान महावीर और गौतम बुद्ध दोनों का समकालीन था?",
+    "oEn": ["Bimbisara", "Ajatashatru", "Mahapadma Nanda", "Udayin"],
+    "oHi": ["बिंबिसार", "अजातशत्रु", "महापद्म नंद", "उदयन"],
+    "c": 0,
+    "exp": "Haryanka dynasty ruler Bimbisara was a contemporary and patron of both Gautama Buddha and Vardhamana Mahavira.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Who presided over the First Buddhist Council held at Rajgriha immediately after the Mahaparinirvana of Buddha?",
+    "hi": "बुद्ध के महापरिनिर्वाण के तुरंत बाद राजगृह में आयोजित प्रथम बौद्ध संगीति की अध्यक्षता किसने की थी?",
+    "oEn": ["Mahakassapa", "Moggaliputta Tissa", "Vasumitra", "Sabbakami"],
+    "oHi": ["महाकश्यप", "मोगलीपुत्र तिस्स", "वसुमित्र", "सबकामी"],
+    "c": 0,
+    "exp": "The First Buddhist Council was held at Rajgriha in the Saptaparni cave under the patronage of King Ajatashatru and was presided over by Mahakassapa.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The Third Buddhist Council was held at Patliputra during the reign of Ashoka. Who was the president of this council?",
+    "hi": "अशोक के शासनकाल के दौरान पाटलिपुत्र में तीसरी बौद्ध संगीति आयोजित की गई थी। इस संगीति के अध्यक्ष कौन थे?",
+    "oEn": ["Moggaliputta Tissa", "Vasumitra", "Ashvaghosa", "Upagupta"],
+    "oHi": ["मोगलीपुत्र तिस्स", "वसुमित्र", "अश्वघोष", "उपगुप्त"],
+    "c": 0,
+    "exp": "The Third Buddhist Council was convened around 250 BC at Patliputra under the patronage of Emperor Ashoka and was presided over by Moggaliputta Tissa.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Where did Gautama Buddha deliver his first sermon, known as the 'Dharmachakra Pravartana'?",
+    "hi": "गौतम बुद्ध ने अपना पहला उपदेश कहाँ दिया था, जिसे 'धर्मचक्र प्रवर्तन' के नाम से जाना जाता है?",
+    "oEn": ["Sarnath", "Bodh Gaya", "Kushinagar", "Shravasti"],
+    "oHi": ["सारनाथ", "बोधगया", "कुशीनगर", "श्रावस्ती"],
+    "c": 0,
+    "exp": "After attaining enlightenment at Bodh Gaya, Gautama Buddha traveled to Sarnath (Deer Park near Varanasi) and delivered his first sermon to his five former companions.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "The structural concept of 'Stupa' in Buddhism is primarily associated with which of the following?",
+    "hi": "बौद्ध धर्म में 'स्तूप' की संरचनात्मक अवधारणा मुख्य रूप से निम्नलिखित में से किससे जुड़ी है?",
+    "oEn": ["Relics of the Buddha or Buddhist monks", "Monastic lecture halls", "Residential quarters for monks", "Open-air meditation grounds"],
+    "oHi": ["बुद्ध या बौद्ध भिक्षुओं के अवशेष", "मठ के व्याख्यान कक्ष", "भिक्षुओं के लिए आवासीय क्वार्टर", "खुले में ध्यान लगाने का स्थान"],
+    "c": 0,
+    "exp": "Stupas are semicircular mound-like structures containing relics (such as ashes, teeth, or hair) of the Buddha or other revered Buddhist saints.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "The 'Triratna' (Three Jewels) of Jainism consist of which of the following?",
+    "hi": "जैन धर्म के 'त्रिरत्न' (तीन रत्न) में निम्नलिखित में से क्या शामिल हैं?",
+    "oEn": ["Samyak Darshana, Samyak Gyana, Samyak Charitra", "Samyak Karma, Samyak Dharma, Samyak Gyana", "Ahimsa, Satya, Asteya", "Buddha, Dhamma, Sangha"],
+    "oHi": ["सम्यक् दर्शन, सम्यक् ज्ञान, सम्यक् चरित्र", "सम्यक् कर्म, सम्यक् धर्म, सम्यक् ज्ञान", "अहिंसा, सत्य, अस्तेय", "बुद्ध, धम्म, संघ"],
+    "c": 0,
+    "exp": "The Three Jewels (Triratna) of Jainism are Right Faith (Samyak Darshana), Right Knowledge (Samyak Gyana), and Right Conduct (Samyak Charitra).",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "According to Jain tradition, who was the first Tirthankara, and what was his symbol?",
+    "hi": "जैन परंपरा के अनुसार, पहले तीर्थंकर कौन थे, और उनका प्रतीक क्या था?",
+    "oEn": ["Rishabhadeva, Bull", "Parshvanatha, Serpent", "Mahavira, Lion", "Arishtanemi, Conch"],
+    "oHi": ["ऋषभदेव, बैल (वृषभ)", "पार्श्वनाथ, सर्प", "महावीर, सिंह", "अरिष्टनेमि, शंख"],
+    "c": 0,
+    "exp": "Rishabhadeva (also known as Adinatha) was the first Jain Tirthankara, and his associated symbol is the Bull.",
+    "Pyq": "SSC_CHSL_2022"
+  },
+  {
+    "en": "The direct division of Jainism into Digambaras and Shvetambaras occurred after a council held at which place?",
+    "hi": "जैन धर्म का दिगंबर और श्वेतांबर में सीधा विभाजन किस स्थान पर आयोजित एक संगीति के बाद हुआ था?",
+    "oEn": ["Patliputra", "Vallabhi", "Pavapuri", "Vaishali"],
+    "oHi": ["पाटलिपुत्र", "वल्लभी", "पावापुरी", "वैशाली"],
+    "c": 0,
+    "exp": "The First Jain Council was held at Patliputra under the leadership of Sthulabhadra in the 3rd century BC, where the canon was compiled and the division began.",
+    "Pyq": "SSC_CGL_2021"
+  },
+  {
+    "en": "Which Mahajanapada emerged as the most powerful among the 16 Mahajanapadas mentioned in ancient texts like Anguttara Nikaya?",
+    "hi": "अंगुत्तर निकाय जैसे प्राचीन ग्रंथों में वर्णित 16 महाजनपदों में से कौन सा महाजनपद सबसे शक्तिशाली बनकर उभरा?",
+    "oEn": ["Magadha", "Vatsa", "Avanti", "Kosala"],
+    "oHi": ["मगध", "वत्स", "अवंती", "कोसल"],
+    "c": 0,
+    "exp": "Magadha became the most powerful Mahajanapada due to its strategic geographical position, iron ore availability, fertile soil, and powerful rulers like Bimbisara and Mahapadma Nanda.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which ancient ruler is known as the 'Uprooter of all Kshatriyas' (Sarva-Kshatrantaka) and 'Ekarat' in the Puranas?",
+    "hi": "पुराणों में किस प्राचीन शासक को 'सर्वक्षत्रान्तक' (सभी क्षत्रियों का नाश करने वाला) और 'एकराट्' के रूप में जाना जाता है?",
+    "oEn": ["Mahapadma Nanda", "Chandragupta Maurya", "Ajatashatru", "Bimbisara"],
+    "oHi": ["महापद्म नंद", "चन्द्रगुप्त मौर्य", "अजातशत्रु", "बिंबिसार"],
+    "c": 0,
+    "exp": "Mahapadma Nanda, the founder of the Nanda dynasty, destroyed old Kshatriya dynasties and established absolute monarchy, earning titles like Sarva-Kshatrantaka and Ekarat.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Alexander the Great invaded India in 326 BC and fought the famous Battle of Hydaspes against King Porus. Which river is known as Hydaspes in Greek records?",
+    "hi": "सिकंदर महान ने 326 ईसा पूर्व में भारत पर आक्रमण किया और राजा पोरस के खिलाफ हाइडेसपीस का प्रसिद्ध युद्ध लड़ा। ग्रीक अभिलेखों में किस नदी को हाइडेसपीस के नाम से जाना जाता है?",
+    "oEn": ["Jhelum", "Chenab", "Ravi", "Beas"],
+    "oHi": ["झेलम", "चिनाब", "रावी", "ब्यास"],
+    "c": 0,
+    "exp": "The River Jhelum was called 'Hydaspes' by the ancient Greeks. The battle between Alexander and King Porus took place on its banks.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Megasthenes, the Greek ambassador sent by Seleucus Nicator, visited the court of which Maurya emperor and wrote the book 'Indica'?",
+    "hi": "सेल्यूकस निकेटर द्वारा भेजे गए ग्रीक राजदूत मेगस्थनीज ने किस मौर्य सम्राट के दरबार का दौरा किया और 'इंडिका' नामक पुस्तक लिखी?",
+    "oEn": ["Chandragupta Maurya", "Bindusara", "Ashoka", "Dasharatha"],
+    "oHi": ["चन्द्रगुप्त मौर्य", "बिन्दुसार", "अशोक", "दशरथ"],
+    "c": 0,
+    "exp": "Megasthenes visited the court of Chandragupta Maurya. His book 'Indica' provides rich details about Maurya administration and social classes.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which Mauryan minister is traditionally credited with writing the political treatise 'Arthashastra' under the pseudonyms Kautilya and Vishnugupta?",
+    "hi": "किस मौर्य मंत्री को पारंपरिक रूप से कौटिल्य और विष्णुगुप्त के उपनामों से राजनीतिक ग्रंथ 'अर्थशास्त्र' लिखने का श्रेय दिया जाता है?",
+    "oEn": ["Chanakya", "Radhagupta", "Upagupta", "Megasthenes"],
+    "oHi": ["चाणक्य", "राधागुप्त", "उपगुप्त", "मेगस्थनीज"],
+    "c": 0,
+    "exp": "Chanakya (Kautilya/Vishnugupta) was the chief advisor and prime minister to Chandragupta Maurya and authored the seminal work 'Arthashastra'.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "In which of his Major Rock Edicts does Emperor Ashoka describe the horrors of the Kalinga War and express his remorse?",
+    "hi": "सम्राट अशोक ने अपने किस मुख्य शिलालेख में कलिंग युद्ध की विभीषिका का वर्णन किया है और अपना पश्चाताप व्यक्त किया है?",
+    "oEn": ["Major Rock Edict XIII", "Major Rock Edict X", "Major Rock Edict XII", "Major Rock Edict XI"],
+    "oHi": ["मुख्य शिलालेख XIII (13वां)", "मुख्य शिलालेख X (10वां)", "मुख्य शिलालेख XII (12वां)", "मुख्य शिलालेख XI (11वां)"],
+    "c": 0,
+    "exp": "Major Rock Edict XIII contains a detailed account of Ashoka's victory over Kalinga, the massive causalities, and his shift from 'Bherighosha' (war drum) to 'Dhammaghosha' (sound of righteousness).",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The script used in the majority of Emperor Ashoka's inscriptions in the Indian subcontinent was:",
+    "hi": "भारतीय उपमहाद्वीप में सम्राट अशोक के अधिकांश अभिलेखों में प्रयुक्त लिपि कौन सी थी?",
+    "oEn": ["Brahmi", "Kharosthi", "Aramaic", "Greek"],
+    "oHi": ["ब्राह्मी", "खरोष्ठी", "अरामी", "ग्रीक"],
+    "c": 0,
+    "exp": "Most of Ashoka's inscriptions in India were written in the Prakrit language using the Brahmi script. Kharosthi was used mainly in the northwestern parts.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Who among the following was the first British antiquarian/linguist to successfully decipher the Brahmi script of Ashokan edicts in 1837?",
+    "hi": "निम्नलिखित में से कौन 1837 में अशोक के शिलालेखों की ब्राह्मी लिपि को सफलतापूर्वक पढ़ने वाला पहला ब्रिटिश पुरातत्वविद्/भाषाविद् था?",
+    "oEn": ["James Prinsep", "Alexander Cunningham", "John Marshall", "William Jones"],
+    "oHi": ["जेम्स प्रिंसेप", "अलेक्जेंडर कनिंघम", "जॉन मार्शल", "विलियम जोन्स"],
+    "c": 0,
+    "exp": "James Prinsep, an officer of the Calcutta Mint and secretary of the Asiatic Society, deciphered the Brahmi script in 1837, identifying the ruler 'Devanampiya Piyadassi' as Ashoka.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Who assassinated Brihadratha, the last Mauryan emperor, to establish the Shunga Dynasty in 185 BC?",
+    "hi": "185 ईसा पूर्व में शुंग राजवंश की स्थापना के लिए अंतिम मौर्य सम्राट वृहद्रथ की हत्या किसने की थी?",
+    "oEn": ["Pushyamitra Shunga", "Agnimitra Shunga", "Vasumitra", "Devabhuti"],
+    "oHi": ["पुष्यमित्र शुंग", "अग्निमित्र शुंग", "वसुमित्र", "देवभूति"],
+    "c": 0,
+    "exp": "Pushyamitra Shunga, the Commander-in-Chief (Senapati) of the Mauryan army, assassinated King Brihadratha during a military parade and grabbed the throne.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The famous Sanskrit play 'Malavikagnimitram' written by Kalidasa features which Shunga ruler as its protagonist?",
+    "hi": "कालिदास द्वारा लिखित प्रसिद्ध संस्कृत नाटक 'मालविकाग्निमित्रम्' में किस शुंग शासक को नायक के रूप में दर्शाया गया है?",
+    "oEn": ["Agnimitra", "Pushyamitra", "Vasujyeshtha", "Bhagabhadra"],
+    "oHi": ["अग्निमित्र", "पुष्यमित्र", "वसुज्येष्ठ", "भागभद्र"],
+    "c": 0,
+    "exp": "'Malavikagnimitram' tells the love story of Agnimitra, the son of Pushyamitra Shunga, and Malavika, an exiled servant girl.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The Heliodorus Pillar (Garuda Pillar) at Vidisha was erected by a Greek ambassador in honor of which deity?",
+    "hi": "विदिशा में हेलियोडोोरस स्तंभ (गरुड़ स्तंभ) एक ग्रीक राजदूत द्वारा किस देवता के सम्मान में स्थापित किया गया था?",
+    "oEn": ["Vasudeva (Vishnu)", "Shiva", "Gautama Buddha", "Surya"],
+    "oHi": ["वासुदेव (विष्णु)", "शिव", "गौतम बुद्ध", "सूर्य"],
+    "c": 0,
+    "exp": "Heliodorus, a Greek ambassador from Taxila sent to the court of Shunga King Bhagabhadra, set up the Garuda Pillar at Besnagar (Vidisha) dedicating it to Vasudeva (Vishnu) after converting to Bhagavatism.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which dynasty introduced the practice of making royal land grants to Brahmins and Buddhist monks with tax exemptions, as recorded in Nanaghat inscriptions?",
+    "hi": "नानाघाट अभिलेखों के अनुसार, किस राजवंश ने ब्राह्मणों और बौद्ध भिक्षुओं को कर छूट के साथ शाही भूमि दान देने की प्रथा शुरू की थी?",
+    "oEn": ["Satavahana Dynasty", "Kanva Dynasty", "Shunga Dynasty", "Ikshvaku Dynasty"],
+    "oHi": ["सातवाहन राजवंश", "कण्व राजवंश", "शुंग राजवंश", "इक्ष्वाकु राजवंश"],
+    "c": 0,
+    "exp": "The Satavahanas were the first rulers in ancient India to issue land grants to Brahmins and Buddhist monks, a practice that later accelerated feudal tendencies.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who was the most illustrious ruler of the Satavahana dynasty, who described himself as the 'Ekabrahmana' and destroyer of Shakas?",
+    "hi": "सातवाहन राजवंश का सबसे प्रतापी शासक कौन था, जिसने स्वयं को 'एकब्राह्मण' और शकों का नाश करने वाला बताया था?",
+    "oEn": ["Gautamiputra Satakarni", "Simuka", "Vasisthiputra Pulumavi", "Sri Satakarni"],
+    "oHi": ["गौतमीपुत्र शातकर्णी", "सिमुक", "वशिष्ठीपुत्र पुलुमावी", "श्री शातकर्णी"],
+    "c": 0,
+    "exp": "Gautamiputra Satakarni (23rd ruler) restored Satavahana power by defeating the Shaka ruler Nahapana. His achievements are recorded in the Nashik Prashasti by his mother Gautami Balasri.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Saka Era, which is adopted as the basis of the National Calendar of India, was instituted by Kushan Emperor Kanishka in which year?",
+    "hi": "शक संवत, जिसे भारत के राष्ट्रीय कैलेंडर के आधार के रूप में अपनाया गया है, की शुरुआत कुषाण सम्राट कनिष्ठ ने किस वर्ष की थी?",
+    "oEn": ["78 AD", "58 BC", "319 AD", "248 AD"],
+    "oHi": ["78 ईस्वी (AD)", "58 ईसा पूर्व (BC)", "319 ईस्वी (AD)", "248 ईस्वी (AD)"],
+    "c": 0,
+    "exp": "Kanishka ascended the Kushan throne in 78 AD, and to mark this event, he started the Saka Era, which is currently used by the Government of India alongside the Gregorian calendar.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The Fourth Buddhist Council, which caused the formal split of Buddhism into Hinayana and Mahayana sects, was organized by Kanishka at which place?",
+    "hi": "चौथी बौद्ध संगीति, जिसके कारण बौद्ध धर्म का हीनयान और महायान संप्रदायों में औपचारिक विभाजन हुआ, कनिष्क द्वारा किस स्थान पर आयोजित की गई थी?",
+    "oEn": ["Kundalvana, Kashmir", "Jalandhar", "Purushapura", "Mathura"],
+    "oHi": ["कुंडलवन, कश्मीर", "जालंधर", "पुरुषपुर", "मथुरा"],
+    "c": 0,
+    "exp": "The Fourth Buddhist Council was held at Kundalvana in Kashmir under the patronage of Kanishka. It was presided over by Vasumitra, with Ashvaghosa serving as vice-president.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Who was the court physician of Kushan King Kanishka and wrote the classic medical text 'Charaka Samhita'?",
+    "hi": "कुषाण राजा कनिष्क के दरबारी चिकित्सक कौन थे और उन्होंने शास्त्रीय चिकित्सा ग्रंथ 'चरक संहिता' लिखा था?",
+    "oEn": ["Charaka", "Sushruta", "Dhanvantari", "Vagbhata"],
+    "oHi": ["चरक", "सुश्रुत", "धन्वंतरि", "वाग्भट्ट"],
+    "c": 0,
+    "exp": "Charaka was a famous physician of ancient India who served in the court of Kanishka. His 'Charaka Samhita' is a foundational text of Ayurveda.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "The famous Gandhara School of Art flourished prominently during the reign of which dynasty, showing deep Greek and Roman stylistic influences?",
+    "hi": "प्रसिद्ध गांधार कला शैली किस राजवंश के शासनकाल के दौरान प्रमुखता से फली-फूली, जिसमें ग्रीक और रोमन कलात्मक प्रभावों की गहरी झलक मिलती है?",
+    "oEn": ["Kushanas", "Guptas", "Mauryas", "Indo-Greeks"],
+    "oHi": ["कुषाण", "गुप्त", "मौर्य", "हिंद-यवन (इण्डो-ग्रीक)"],
+    "c": 0,
+    "exp": "The Gandhara School developed extensively under the Kushanas, particularly under Kanishka. It is often described as Greco-Buddhist art because it rendered Buddhist subjects in a classical Greek style.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which ruler of the Kharavela dynasty issued the famous Hathigumpha (Elephant Cave) inscription found near Bhubaneswar, Odisha?",
+    "hi": "खारवेल राजवंश के किस शासक ने ओडिशा के भुवनेश्वर के पास पाए जाने वाले प्रसिद्ध हाथीगुम्फा (हाथी गुफा) शिलालेख को जारी किया था?",
+    "oEn": ["King Kharavela", "King Kudepasiri", "King Vaduka", "King Mahameghavahana"],
+    "oHi": ["राजा खारवेल", "राजा कुदेपसिरी", "राजा वदुक", "राजा महामेघवाहन"],
+    "c": 0,
+    "exp": "King Kharavela of the Mahameghavahana (Chedi) dynasty issued the undated Hathigumpha inscription in Prakrit language and Brahmi script, highlighting his military victories and patronage of Jainism.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which Gupta emperor started the Gupta Era in 319-320 AD and was the first to adopt the imperial title of 'Maharajadhiraja'?",
+    "hi": "किस गुप्त सम्राट ने 319-320 ईस्वी में गुप्त संवत की शुरुआत की और सबसे पहले 'महाराजाधिराज' की शाही उपाधि धारण की थी?",
+    "oEn": ["Chandragupta I", "Samudragupta", "Srigupta", "Ghatotkacha"],
+    "oHi": ["चन्द्रगुप्त प्रथम", "समुद्रगुप्त", "श्रीगुप्त", "घटोत्कच"],
+    "c": 0,
+    "exp": "Chandragupta I greatly elevated the status of the dynasty through his marriage to Licchavi princess Kumaradevi, declared himself Maharajadhiraja, and instituted the Gupta Era.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The Prayag Prashasti (Allahabad Pillar Inscription), which details the extensive military conquests of Samudragupta, was composed by his court poet:",
+    "hi": "प्रयाग प्रशस्ति (इलाहाबाद स्तंभ शिलालेख), जो समुद्रगुप्त के व्यापक सैन्य अभियानों का विवरण देता है, उनके किस दरबारी कवि द्वारा रचित था?",
+    "oEn": ["Harisena", "Kalidasa", "Banabhatta", "Ravikirti"],
+    "oHi": ["हरिषेण", "कालीदास", "बाणभट्ट", "रविकिर्ति"],
+    "c": 0,
+    "exp": "Harisena, who was the court poet and 'Sandhivigrahika' (Minister of War and Peace) of Samudragupta, composed the Prayag Prashasti in refined Sanskrit using the Champu Kavyastyle.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Who among the following foreign historians famously dubbed Samudragupta as the 'Napoleon of India' due to his undefeated military campaigns?",
+    "hi": "निम्नलिखित विदेशी इतिहासकारों में से किसने समुद्रगुप्त के अविजित सैन्य अभियानों के कारण उन्हें 'भारत का नेपोलियन' कहा था?",
+    "oEn": ["V.A. Smith", "Max Müller", "James Tod", "William Jones"],
+    "oHi": ["वी. ए. स्मिथ", "मैक्स मूरर", "जेम्स टॉड", "विलियम जोन्स"],
+    "c": 0,
+    "exp": "British historian Vincent Arthur Smith called Samudragupta the 'Napoleon of India' in his book 'Early History of India' because of his brilliant military expeditions across Aryavarta and Dakshinapatha.",
+    "Pyq": "SSC_CGL_2021"
+  },
+  {
+    "en": "The famous iron pillar located at Mehrauli, Delhi, which has withstood rusting for over 1600 years, records the victories of which ruler?",
+    "hi": "दिल्ली के महरौली में स्थित प्रसिद्ध लौह स्तंभ, जो 1600 से अधिक वर्षों से जंग नहीं लगा है, किस शासक की विजयों का उल्लेख करता है?",
+    "oEn": ["Chandragupta II", "Samudragupta", "Skandagupta", "Kumaragupta I"],
+    "oHi": ["चन्द्रगुप्त द्वितीय", "समुद्रगुप्त", "स्कंदगुप्त", "कुमारगुप्त प्रथम"],
+    "c": 0,
+    "exp": "The Mehrauli Iron Pillar inscription mentions a powerful king named 'Chandra', who is widely identified by historians as Gupta Emperor Chandragupta II (Vikramaditya).",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Fa-Hien (Faxian), the first Chinese Buddhist pilgrim to visit India, traveled during the reign of which Gupta ruler?",
+    "hi": "भारत की यात्रा करने वाले पहले चीनी बौद्ध यात्री फा-हियान (फ़ाश्यान) ने किस गुप्त शासक के शासनकाल के दौरान यात्रा की थी?",
+    "oEn": ["Chandragupta II", "Chandragupta I", "Samudragupta", "Skandagupta"],
+    "oHi": ["चन्द्रगुप्त द्वितीय", "चन्द्रगुप्त प्रथम", "समुद्रगुप्त", "स्कंदगुप्त"],
+    "c": 0,
+    "exp": "Fa-Hien spent several years in India during the reign of Chandragupta II, visiting Buddhist holy sites and copying sacred texts, though he curiously never mentions the emperor's name directly.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which Gupta ruler is credited with founding the world-famous Nalanda University in Bihar?",
+    "hi": "बिहार में विश्व प्रसिद्ध नालंदा विश्वविद्यालय की स्थापना का श्रेय किस गुप्त शासक को दिया जाता है?",
+    "oEn": ["Kumaragupta I", "Skandagupta", "Bhanugupta", "Budhagupta"],
+    "oHi": ["कुमारगुप्त प्रथम", "स्कंदगुप्त", "भानुगुप्त", "बुधगुप्त"],
+    "c": 0,
+    "exp": "Nalanda University was founded by Kumaragupta I (also known as Shakraditya) in the early 5th century AD and grew into a premier international center of Buddhist learning.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Junagarh Rock inscription reveals that which Gupta emperor successfully repelled the devastating invasion of the Hunas?",
+    "hi": "जूनागढ़ शिलालेख से पता चलता है कि किस गुप्त सम्राट ने हूणों के विनाशकारी आक्रमण को सफलतापूर्वक विफल कर दिया था?",
+    "oEn": ["Skandagupta", "Kumaragupta I", "Purugupta", "Bhanugupta"],
+    "oHi": ["स्कंदगुप्त", "कुमारगुप्त प्रथम", "पुरुगुप्त", "भानुगुप्त"],
+    "c": 0,
+    "exp": "Skandagupta faced a massive military threat from the Central Asian Hunas (White Huns) and successfully defeated them, saving the empire from premature collapse.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The first epigraphic or written evidence of the practice of Sati in India is found in which inscription dated 510 AD?",
+    "hi": "भारत में सती प्रथा का पहला अभिलेखीय या लिखित प्रमाण 510 ईस्वी के किस शिलालेख में मिलता है?",
+    "oEn": ["Eran Inscription of Bhanugupta", "Aihole Inscription", "Junagarh Inscription", "Mehrauli Inscription"],
+    "oHi": ["भानुगुप्त का एरण शिलालेख", "ऐहोल शिलालेख", "जूनागढ़ शिलालेख", "महरौली शिलालेख"],
+    "c": 0,
+    "exp": "The Eran Pillar Inscription in Madhya Pradesh, dated 510 AD during the reign of Bhanugupta, records that the wife of general Goparaja self-immolated on his funeral pyre.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Who was the author of 'Surya Siddhanta' and 'Aryabhatiya', who calculated the value of Pi and explained the scientific cause of eclipses during the Gupta Golden Age?",
+    "hi": "गुप्त स्वर्ण युग के दौरान 'सूर्य सिद्धांत' और 'आर्यभटीय' के लेखक कौन थे, जिन्होंने पाई (Pi) के मूल्य की गणना की और ग्रहण के वैज्ञानिक कारणों की व्याख्या की?",
+    "oEn": ["Aryabhata", "Varahamihira", "Brahmagupta", "Bhaskara I"],
+    "oHi": ["आर्यभट्ट", "वराहमिहिर", "ब्रह्मगुप्त", "भास्कर प्रथम"],
+    "c": 0,
+    "exp": "Aryabhata was a pioneering mathematician and astronomer. He stated that the earth is spherical and rotates on its axis, and accurately calculated the length of a solar year.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The ancient Sanskrit encyclopedic work 'Brihat Samhita' was composed by which legendary Gupta scientist?",
+    "hi": "प्राचीन संस्कृत विश्वकोश कृति 'वृहत् संहिता' की रचना किस महान गुप्तकालीन वैज्ञानिक ने की थी?",
+    "oEn": ["Varahamihira", "Aryabhata", "Brahmagupta", "Sushruta"],
+    "oHi": ["वराहमिहिर", "आर्यभट्ट", "ब्रह्मगुप्त", "सुश्रुत"],
+    "c": 0,
+    "exp": "Varahamihira wrote the 'Brihat Samhita', which covers astronomy, planetary movements, geology, architecture, weather forecasting, and ecology.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The Aihole inscription composed by court poet Ravikirti celebrates the military victory of which Chalukya king over Harshavardhana?",
+    "hi": "दरबारी कवि रविकीर्ति द्वारा रचित ऐहोल शिलालेख हर्षवर्धन पर किस चालुक्य राजा की सैन्य विजय का उत्सव मनाता है?",
+    "oEn": ["Pulakeshin II", "Pulakeshin I", "Vikramaditya I", "Kirtivarman I"],
+    "oHi": ["पुलकेशिन द्वितीय", "पुलकेशिन प्रथम", "विक्रमादित्य प्रथम", "कीर्तिवर्मन प्रथम"],
+    "c": 0,
+    "exp": "The Aihole inscription (634 AD) written in Sanskrit by Ravikirti records how Chalukya King Pulakeshin II defeated Emperor Harshavardhana on the banks of the Narmada River when Harsha tried to expand into the Deccan.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Chinese pilgrim Hiuen Tsang (Xuanzang), also known as the 'Prince of Pilgrims', visited India during the reign of which North Indian ruler?",
+    "hi": "चीनी यात्री ह्वेनसांग (यूआनच्वांग), जिसे 'यात्रियों का राजकुमार' भी कहा जाता है, ने किस उत्तर भारतीय शासक के शासनकाल के दौरान भारत का दौरा किया था?",
+    "oEn": ["Harshavardhana", "Chandragupta II", "Sasanka", "Prabhakaravardhana"],
+    "oHi": ["हर्षवर्धन", "चन्द्रगुप्त द्वितीय", "शशांक", "प्रभाकरवर्धन"],
+    "c": 0,
+    "exp": "Hiuen Tsang visited India during the reign of Harshavardhana (606-647 AD). He spent years studying at Nalanda University and left a detailed account of Harsha's assembly at Kannauj.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who wrote 'Harshacharita', the earliest surviving biography of an Indian ruler, along with the classical romantic play 'Kadambari'?",
+    "hi": "भारतीय शासक की सबसे पुरानी जीवित जीवनी 'हर्षचरित' के साथ-साथ शास्त्रीय रोमांटिक नाटक 'कादंबरी' किसने लिखी थी?",
+    "oEn": ["Banabhatta", "Harsha", "Ravikirti", "Bhavabhuti"],
+    "oHi": ["बाणभट्ट", "हर्ष", "रविकिर्ति", "भवभूति"],
+    "c": 0,
+    "exp": "Banabhatta was the 'Asthana Kavi' (court poet) of King Harshavardhana. He composed 'Harshacharita' (Life of Harsha) and 'Kadambari', one of the world's earliest novels.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which three powerful early medieval dynasties engaged in the protracted 'Tripartite Struggle' for the control of the strategic city of Kannauj?",
+    "hi": "किन तीन शक्तिशाली प्रारंभिक मध्यकालीन राजवंशों ने रणनीतिक शहर कन्नौज पर नियंत्रण के लिए लंबे समय तक 'त्रिपक्षीय संघर्ष' लड़ा था?",
+    "oEn": ["Palas, Pratiharas, Rashtrakutas", "Cholas, Cheras, Pandyas", "Guptas, Vakatakas, Pallavas", "Chalukyas, Pallavas, Rashtrakutas"],
+    "oHi": ["पाल, प्रतिहार, राष्ट्रकूट", "चोल, चेर, पाण्ड्य", "गुप्त, वाकाटक, पल्लव", "चालुक्य, पल्लव, राष्ट्रकूट"],
+    "c": 0,
+    "exp": "The Tripartite Struggle lasted for nearly two centuries among the Gurjara-Pratiharas (West), the Palas (East), and the Rashtrakutas (South) to capture Kannauj, the symbol of absolute sovereignty in North India.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The world-famous rock-cut Kailash Temple at Ellora (Cave 16) was excavated under the patronage of which Rashtrakuta king?",
+    "hi": "एलोरा में विश्व प्रसिद्ध चट्टानों को काटकर बनाया गया कैलाश मंदिर (गुफा 16) किस राष्ट्रकूट राजा के संरक्षण में खोदा गया था?",
+    "oEn": ["Krishna I", "Dantidurga", "Amoghavarsha I", "Govinda III"],
+    "oHi": ["कृष्ण प्रथम", "दंतीदुर्ग", "अमोघवर्ष प्रथम", "गोविंद तृतीय"],
+    "c": 0,
+    "exp": "The monolithic rock-cut Kailash Temple at Ellora was built in the 8th century under King Krishna I of the Rashtrakuta dynasty. It is carved out of a single solid rock face.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who was the founder of the Pala dynasty of Bengal and was elected to power directly by the local nobility to end the prevailing state of anarchy (Matsyanyaya)?",
+    "hi": "बंगाल के पाल राजवंश के संस्थापक कौन थे और उन्हें अराजकता की स्थिति (मात्स्यन्याय) को समाप्त करने के लिए सीधे स्थानीय सरदारों द्वारा चुना गया था?",
+    "oEn": ["Gopala", "Dharmapala", "Devapala", "Mahipala"],
+    "oHi": ["गोपाल", "धर्मपाल", "देवपाल", "महीपाल"],
+    "c": 0,
+    "exp": "Gopala founded the Pala Dynasty around 750 AD. He brought stability to Bengal by ending 'Matsyanyaya' (a term meaning big fish eating small fish, describing complete political anarchy).",
+    "Pyq": "SSC_CGL_2021"
+  },
+  {
+    "en": "Which Pala emperor founded the famous Vikramashila University, a premier center for Vajrayana Buddhism, in present-day Bhagalpur, Bihar?",
+    "hi": "किस पाल सम्राट ने वर्तमान भागलपुर, बिहार में वज्रयान बौद्ध धर्म के प्रमुख केंद्र प्रसिद्ध विक्रमशिला विश्वविद्यालय की स्थापना की थी?",
+    "oEn": ["Dharmapala", "Gopala", "Devapala", "Ramapala"],
+    "oHi": ["धर्मपाल", "गोपाल", "देवपाल", "रामपाल"],
+    "c": 0,
+    "exp": "Dharmapala, the son of Gopala, expanded the Pala empire significantly, founded the Vikramashila University, and also revived the Nalanda monastery.",
+    "Pyq": "SSC_CHSL_2023"
+  }
+]
