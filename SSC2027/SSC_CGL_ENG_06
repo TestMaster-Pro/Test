@@ -1,0 +1,302 @@
+[
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**To count one's chickens before they hatch**",
+    "oEn": [
+      "To plan ahead for financial security",
+      "To anticipate success before it is certain",
+      "To count on family members for support",
+      "To be overly defensive about failures"
+    ],
+    "c": 1,
+    "exp": "'To count your chickens before they hatch' means to assume you will succeed or get a benefit before it actually happens, which can lead to disappointment.",
+    "Pyq": "SSC_CGL_PRE_2024"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**A wild-goose chase**",
+    "oEn": [
+      "A fast and exciting adventure",
+      "A foolish or hopeless search for something unattainable",
+      "A competitive race between equal rivals",
+      "A well-planned hunting expedition"
+    ],
+    "c": 1,
+    "exp": "A 'wild-goose chase' is a worthlessly useless search or pursuit of something that is impossible to find or catch.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**To leave someone in the lurch**",
+    "oEn": [
+      "To help someone during a financial crisis",
+      "To desert or abandon someone in a difficult situation",
+      "To praise someone publically for their efforts",
+      "To compromise with an old enemy"
+    ],
+    "c": 1,
+    "exp": "'To leave someone in the lurch' means to walk away or abandon someone right when they are going through trouble and need your help.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**By fits and starts**",
+    "oEn": [
+      "Consistently and smoothly",
+      "Irregularly or spasmodically",
+      "With extreme enthusiasm and speed",
+      "Right at the very beginning"
+    ],
+    "c": 1,
+    "exp": "If something happens 'by fits and starts', it happens intermittently, stopping and starting repeatedly rather than progressing smoothly or consistently.",
+    "Pyq": "SSC_CGL_PRE_2024"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**To burn the midnight oil**",
+    "oEn": [
+      "To waste money on luxury goods",
+      "To work or study late into the night",
+      "To provoke a heated argument intentionally",
+      "To repair an old mechanical vehicle"
+    ],
+    "c": 1,
+    "exp": "'To burn the midnight oil' means to stay up late working, reading, or studying hard past midnight.",
+    "Pyq": "SSC_CGL_MAINS_2022"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**A feather in one's cap**",
+    "oEn": [
+      "An embarrassing mistake to acknowledge",
+      "An achievement or honor to be proud of",
+      "A symbol of foolishness or cowardice",
+      "A traditional hunting costume accessory"
+    ],
+    "c": 1,
+    "exp": "A 'feather in your cap' is an accomplishment, victory, or distinction that brings you honor and pride.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**Through thick and thin**",
+    "oEn": [
+      "Only during happy and wealthy times",
+      "Under all conditions, through both good and bad times",
+      "Passing through a dense forest terrain",
+      "Losing an immense amount of body weight"
+    ],
+    "c": 1,
+    "exp": "To stick by someone 'through thick and thin' means supporting them consistently through all struggles, difficulties, and good fortune alike.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**To blow one's own trumpet**",
+    "oEn": [
+      "To praise oneself or brag about achievements",
+      "To play a musical instrument in public",
+      "To criticize others without any proof",
+      "To alarm people about an upcoming danger"
+    ],
+    "c": 0,
+    "exp": "'To blow your own trumpet' (or horn) means to boast loudly or brag continuously about your own skills, talents, or successes.",
+    "Pyq": "SSC_CGL_PRE_2022"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**Gift of the gab**",
+    "oEn": [
+      "An unexpected expensive present",
+      "An exceptional talent for speaking eloquently",
+      "A habit of micro-managing everyone",
+      "An ability to look physically attractive"
+    ],
+    "c": 1,
+    "exp": "A person with the 'gift of the gab' has a natural ability to speak fluently, confidently, and persuasively to others.",
+    "Pyq": "SSC_CGL_PRE_2024"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**At the eleventh hour**",
+    "oEn": [
+      "Exactly at midnight schedule",
+      "At the very last possible moment",
+      "Early in the morning hours",
+      "When everything goes out of control"
+    ],
+    "c": 1,
+    "exp": "Doing something 'at the eleventh hour' means doing it at the absolute last minute or moment right before it becomes too late.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**To bite the dust**",
+    "oEn": [
+      "To work exceptionally hard in fields",
+      "To suffer a defeat, fail, or die",
+      "To clean an old property thoroughly",
+      "To taste unhygienic street food"
+    ],
+    "c": 1,
+    "exp": "'To bite the dust' means to suffer absolute failure, fall in battle, be defeated, or cease to function.",
+    "Pyq": "SSC_CGL_PRE_2022"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**A hard nut to crack**",
+    "oEn": [
+      "A highly nutritious snack food",
+      "A difficult problem to solve or a tough person to deal with",
+      "An easy puzzle that anyone can solve",
+      "A safe locker that cannot be breached"
+    ],
+    "c": 1,
+    "exp": "A 'hard nut to crack' is a statement, situation, or problem that is very complicated to solve, or an individual who is tough to understand or convince.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**To read between the lines**",
+    "oEn": [
+      "To scan text rapidly without focusing",
+      "To understand the hidden or implied meaning",
+      "To spot grammatical mistakes instantly",
+      "To read out loud to a large audience"
+    ],
+    "c": 1,
+    "exp": "'To read between the lines' means to discover a deeper meaning or look for an underlying message that isn't stated directly in the words.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**To turn over a new leaf**",
+    "oEn": [
+      "To damage plants during autumn season",
+      "To change one's behavior for the better",
+      "To search for secrets in old diaries",
+      "To shift to a new job completely"
+    ],
+    "c": 1,
+    "exp": "'To turn over a new leaf' means to start behaving in a better, more responsible, or reformed way, leaving past bad habits behind.",
+    "Pyq": "SSC_CGL_PRE_2024"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**Spill the beans**",
+    "oEn": [
+      "To waste valuable food ingredients accidentally",
+      "To reveal a secret information prematurely",
+      "To work hard to gain a heavy profit",
+      "To cook a traditional dynamic dish"
+    ],
+    "c": 1,
+    "exp": "'To spill the beans' means to indiscreetly let out or reveal secret information before the proper time.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**Face the music**",
+    "oEn": [
+      "To enjoy a live concert performance",
+      "To accept unpleasant consequences or criticism for your actions",
+      "To become famous in the entertainment sector",
+      "To dance gracefully on stage rhythms"
+    ],
+    "c": 1,
+    "exp": "'To face the music' means to confront and accept the harsh consequences, punishment, or criticism resulting from something wrong you did.",
+    "Pyq": "SSC_CGL_MAINS_2022"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**Cold comfort**",
+    "oEn": [
+      "Excellent treatment during harsh winters",
+      "Slight or poor consolation that does not really help",
+      "Complete physical comfort and luxury lifestyle",
+      "Getting relief from a severe fever condition"
+    ],
+    "c": 1,
+    "exp": "'Cold comfort' is a statement or consolation that offers very little actual comfort, encouragement, or satisfaction.",
+    "Pyq": "SSC_CGL_PRE_2024"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**To cut corners**",
+    "oEn": [
+      "To slice objects with precision tools",
+      "To do something in the easiest, cheapest, or fastest way, compromising quality",
+      "To take sharp turns while driving a car",
+      "To build architectural designs creatively"
+    ],
+    "c": 1,
+    "exp": "'To cut corners' means to skimp on effort, time, or funds to save money or complete a task faster, often hurting the quality of the final result.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**To be under the weather**",
+    "oEn": [
+      "To enjoy seasonal rain patterns outdoor",
+      "To feel slightly unwell, sick, or low in spirits",
+      "To travel to cold mountainous regions",
+      "To predict upcoming natural disasters"
+    ],
+    "c": 1,
+    "exp": "When you are 'under the weather', you feel mildly ill, exhausted, under par, or slightly sick.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**To catch a Tartar**",
+    "oEn": [
+      "To catch an elusive dynamic animal easily",
+      "To deal with someone who proves unexpectedly formidable or tough",
+      "To suffer from a severe tooth infection",
+      "To sign an alliance with a foreign power"
+    ],
+    "c": 1,
+    "exp": "'To catch a Tartar' means to encounter or try to deal with someone who turns out to be way more fierce, powerful, or troublesome than anticipated.",
+    "Pyq": "SSC_CGL_PRE_2022"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**Barking up the wrong tree**",
+    "oEn": [
+      "An animal chasing birds continuously",
+      "Pursuing a mistaken line of thought or course of action",
+      "Screaming out of fear in isolated dark woods",
+      "Insulting an old respectable teacher"
+    ],
+    "c": 1,
+    "exp": "If you are 'barking up the wrong tree', you are looking in the wrong place, blaming the wrong person, or pursuing a completely mistaken approach to a problem.",
+    "Pyq": "SSC_CGL_PRE_2024"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**To keep the wolf from the door**",
+    "oEn": [
+      "To safeguard a residential area from animals",
+      "To avoid starvation or extreme financial poverty",
+      "To challenge a physically powerful competitor",
+      "To keep the house locked during night hours"
+    ],
+    "c": 1,
+    "exp": "'To keep the wolf from the door' means to earn just enough money to afford basic food and shelter to keep away starvation or financial ruin.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**To kick the bucket**",
+    "oEn": [
+      "To clear up water spilled over floors",
+      "To pass away or die",
+      "To start an aggressive street flight",
+      "To play an outdoor football match"
+    ],
+    "c": 1,
+    "exp": "'To kick the bucket' is an informal, colloquial euphemism that means to die or pass away.",
+    "Pyq": "SSC_CGL_PRE_2022"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**To smell a rat**",
+    "oEn": [
+      "To suffer from bad indoor air hygiene",
+      "To suspect foul play, deception, or dishonesty",
+      "To track down a hidden underground location",
+      "To catch a domestic pest easily"
+    ],
+    "c": 1,
+    "exp": "'To smell a rat' means to intuitively sense or suspect that something is fishy, dishonest, or a trick is being played on you.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Select the most appropriate meaning of the given idiom:\n**A close shave**",
+    "oEn": [
+      "A neat clean-shaven appearance look",
+      "A narrow escape from extreme danger or disaster",
+      "An expensive package trip discount offer",
+      "A deep haircut session at salons"
+    ],
+    "c": 1,
+    "exp": "A 'close shave' (or a close call) refers to a narrow escape where you barely managed to avoid a major accident, threat, or disaster.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  }
+]
