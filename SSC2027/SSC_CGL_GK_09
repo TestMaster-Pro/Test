@@ -1,0 +1,452 @@
+[
+  {
+    "en": "Who among the following was the first ruler of the Slave Dynasty (Mamluk Dynasty) and started the construction of the Qutub Minar in 1199 AD?",
+    "hi": "निम्नलिखित में से कौन गुलाम वंश (मामलुक वंश) का पहला शासक था और उसने 1199 ईस्वी में कुतुब मीनार का निर्माण शुरू कराया था?",
+    "oEn": ["Qutb-ud-din Aibak", "Shams-ud-din Iltutmish", "Ghiyas-ud-din Balban", "Razia Sultan"],
+    "oHi": ["कुतुबुद्दीन ऐबक", "शम्सुद्दीन इल्तुतमिश", "गयासुद्दीन बलबन", "रज़िया सुल्तान"],
+    "c": 0,
+    "exp": "Qutb-ud-din Aibak founded the Slave Dynasty in 1206 AD. He started building the Qutub Minar dedicated to the Sufi saint Qutbuddin Bakhtiyar Kaki, but could only finish its first floor.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which Delhi Sultan introduced the silver coin 'Tanka' and copper coin 'Jital', and organized the administrative elite group called 'Turkan-i-Chahalgani'?",
+    "hi": "किस दिल्ली सुल्तान ने चांदी का सिक्का 'टंका' और तांबे का सिक्का 'जीतल' पेश किया था, और 'तुर्कान-ए-चहलगानी' नामक प्रशासनिक कुलीन समूह का गठन किया था?",
+    "oEn": ["Shams-ud-din Iltutmish", "Qutb-ud-din Aibak", "Alauddin Khalji", "Ghiyas-ud-din Balban"],
+    "oHi": ["शम्सुद्दीन इल्तुतमिश", "कुतुबुद्दीन ऐबक", "अलाउद्दीन खिलजी", "गयासुद्दीन बलबन"],
+    "c": 0,
+    "exp": "Iltutmish is considered the real consolidator of the Delhi Sultanate. He regularized the currency system with Tanka and Jital and set up the 'Group of Forty' (Chahalgani) trusted slaves.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Razia Sultan, the only female ruler of the Delhi Sultanate, was the daughter of which Sultan and ruled during which period?",
+    "hi": "दिल्ली सल्तनत की एकमात्र महिला शासक रज़िया सुल्तान किस सुल्तान की बेटी थीं और उन्होंने किस अवधि के दौरान शासन किया था?",
+    "oEn": ["Iltutmish, 1236–1240 AD", "Aibak, 1206–1210 AD", "Balban, 1266–1287 AD", "Nasiruddin, 1246–1266 AD"],
+    "oHi": ["इल्तुतमिश, 1236–1240 ईस्वी", "ऐबक, 1206–1210 ईस्वी", "बलबन, 1266–1287 ईस्वी", "नासिरुद्दीन, 1246–1266 ईस्वी"],
+    "c": 0,
+    "exp": "Razia Sultan was the daughter of Iltutmish. Defying conservative norms, she ruled from 1236 to 1240 AD until she was assassinated near Kaithal.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Which Delhi Sultan adopted the policy of 'Blood and Iron' to suppress rebels and introduced the Persian court etiquettes of 'Sajda' and 'Paibos'?",
+    "hi": "किस दिल्ली सुल्तान ने विद्रोहियों को दबाने के लिए 'रक्त और लौह' की नीति अपनाई और 'सिजदा' और 'पाइबोस' की फारसी दरबारी शिष्टाचार प्रथा शुरू की?",
+    "oEn": ["Ghiyas-ud-din Balban", "Alauddin Khalji", "Muhammad bin Tughlaq", "Iltutmish"],
+    "oHi": ["गयासुद्दीन बलबन", "अलाउद्दीन खिलजी", "मोहम्मद बिन तुगलक", "इल्तुतमिश"],
+    "c": 0,
+    "exp": "Balban implemented the ruthless 'Blood and Iron' policy to restore the absolute power of the monarchy, crushed the Chahalgani nobility, and introduced Sajda (prostration) and Paibos (kissing the Sultan's feet).",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The famous Persian poet Amir Khusrau, known as the 'Parrot of India' (Tooti-e-Hind), lived at the courts of how many successive Sultans of Delhi?",
+    "hi": "प्रसिद्ध फारसी कवि अमीर खुसरो, जिन्हें 'भारत का तोता' (तूती-ए-हिंद) कहा जाता है, दिल्ली के कितने लगातार सुल्तानों के दरबार में रहे थे?",
+    "oEn": ["7 Sultans", "3 Sultans", "5 Sultans", "9 Sultans"],
+    "oHi": ["7 सुल्तान", "3 सुल्तान", "5 सुल्तान", "9 सुल्तान"],
+    "c": 0,
+    "exp": "Amir Khusrau witnessed the reigns of 7 to 8 rulers from Balban to Ghiyasuddin Tughlaq. He pioneered the 'Sabaq-i-Hindi' style and is regarded as the father of Qawwali and Urdu literature.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Who was the founder of the Khalji Dynasty who overthrew the weak successors of Balban in 1290 AD?",
+    "hi": "खिलजी राजवंश का संस्थापक कौन था जिसने 1290 ईस्वी में बलबन के कमजोर उत्तराधिकारियों को गद्दी से हटा दिया था?",
+    "oEn": ["Jalal-ud-din Firoz Khalji", "Alauddin Khalji", "Mubarak Shah Khalji", "Khizr Khan"],
+    "oHi": ["जलालुद्दीन फिरोज खिलजी", "अलाउद्दीन खिलजी", "मुबारक शाह खिलजी", "खिज्र खान"],
+    "c": 0,
+    "exp": "Jalal-ud-din Firoz Khalji established the Khalji Dynasty in 1290 AD, ending the Mamluk rule through what is known as the 'Khalji Revolution'.",
+    "Pyq": "SSC_CGL_2021"
+  },
+  {
+    "en": "Which Sultan of Delhi implemented rigid price control measures and market regulations handled by officers called 'Shahna-i-Mandi'?",
+    "hi": "दिल्ली के किस सुल्तान ने कड़े मूल्य नियंत्रण उपायों और बाजार नियमों को लागू किया, जिनका प्रबंधन 'शहना-ए-मंडी' नामक अधिकारियों द्वारा किया जाता था?",
+    "oEn": ["Alauddin Khalji", "Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Balban"],
+    "oHi": ["अलाउद्दीन खिलजी", "मोहम्मद बिन तुगलक", "फिरोज शाह तुगलक", "बलबन"],
+    "c": 0,
+    "exp": "Alauddin Khalji introduced extensive agrarian and market reforms. He fixed the prices of all essential commodities to maintain a massive standing army at low costs, controlled via the Shahna-i-Mandi.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "To maintain military discipline, Alauddin Khalji introduced which two system systems related to horses and soldiers?",
+    "hi": "सैन्य अनुशासन बनाए रखने के लिए, अलाउद्दीन खिलजी ने घोड़ों और सैनिकों से संबंधित किन दो प्रणालियों की शुरुआत की थी?",
+    "oEn": ["Dagh and Chehra", "Iqta and Jagir", "Mansab and Zat", "Zakat and Kham"],
+    "oHi": ["दाग और चेहरा", "इक्ता और जागीर", "मनसब और जात", "जकात और खम्स"],
+    "c": 0,
+    "exp": "Alauddin Khalji introduced 'Dagh' (branding of horses to prevent substitution) and 'Chehra' or 'Huliya' (descriptive roll of individual soldiers) to check corruption in his military.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who was the military general of Alauddin Khalji who led successful campaigns into South India, raiding Devagiri, Warangal, and Madurai?",
+    "hi": "अलाउद्दीन खिलजी का वह सैन्य सेनापति कौन था जिसने दक्षिण भारत में सफल अभियानों का नेतृत्व किया और देवगिरी, वारंगल और मदुरै पर छापे मारे?",
+    "oEn": ["Malik Kafur", "Zafar Khan", "Ulugh Khan", "Alp Khan"],
+    "oHi": ["मलिक काफूर", "जफर खान", "उलुग खान", "अल्प खान"],
+    "c": 0,
+    "exp": "Malik Kafur, also known as 'Hazar Dinari', was a prominent slave-general who successfully led Alauddin's southern military expeditions and brought back immense wealth, including the Koh-i-Noor diamond.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The iconic Alai Darwaza, which serves as the southern gateway to the Quwwat-ul-Islam Mosque, was built by which ruler?",
+    "hi": "प्रसिद्ध अलाई दरवाजा, जो कुव्वत-उल-इस्लाम मस्जिद के दक्षिणी प्रवेश द्वार के रूप में कार्य करता है, किस शासक द्वारा बनाया गया था?",
+    "oEn": ["Alauddin Khalji", "Iltutmish", "Sikandar Lodi", "Firoz Shah Tughlaq"],
+    "oHi": ["अलाउद्दीन खिलजी", "इल्तुतमिश", "सिकंदर लोदी", "फिरोज शाह तुगलक"],
+    "c": 0,
+    "exp": "Alai Darwaza was constructed by Alauddin Khalji in 1311 AD. It is one of the earliest examples of true Islamic architecture in India, using red sandstone and white marble.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Who was the founder of the Tughlaq Dynasty, who built the heavily fortified city of Tughlaqabad?",
+    "hi": "तुगलक राजवंश का संस्थापक कौन था, जिसने अत्यधिक किलेबंद शहर तुगलकाबाद का निर्माण कराया था?",
+    "oEn": ["Ghiyas-ud-din Tughlaq", "Muhammad bin Tughlaq", "Firoz Shah Tughlaq", "Nasiruddin Mahmud"],
+    "oHi": ["गयासुद्दीन तुगलक", "मोहम्मद बिन तुगलक", "फिरोज शाह तुगलक", "नासिरुद्दीन महमूद"],
+    "c": 0,
+    "exp": "Ghazi Malik ascended the throne under the title Ghiyas-ud-din Tughlaq in 1320 AD, replacing the last Khalji ruler and founding the Tughlaq dynasty.",
+    "Pyq": "SSC_CHSL_2022"
+  },
+  {
+    "en": "Sultan Muhammad bin Tughlaq shifted his imperial capital from Delhi to which southern city in 1327 AD?",
+    "hi": "सुल्तान मोहम्मद बिन तुगलक ने 1327 ईस्वी में अपनी शाही राजधानी को दिल्ली से बदलकर किस दक्षिणी शहर में स्थानांतरित किया था?",
+    "oEn": ["Daulatabad (Devagiri)", "Warangal", "Gulbarga", "Hampi"],
+    "oHi": ["दौलताबाद (देवगिरी)", "वारंगल", "गुलबर्गा", "हम्पी"],
+    "c": 0,
+    "exp": "Muhammad bin Tughlaq ordered the capital shift to Daulatabad (Devagiri) in Maharashtra to control south India better. Due to administrative hardships, water scarcity, and defense issues, he ordered everyone to march back to Delhi after a few years.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Muhammad bin Tughlaq created a specialized separate department for agriculture called 'Diwan-i-Amir-Kohi'. What was its primary goal?",
+    "hi": "मोहम्मद बिन तुगलक ने कृषि के लिए 'दीवान-ए-अमीर-कोही' नामक एक विशेष अलग विभाग बनाया था। इसका मुख्य उद्देश्य क्या था?",
+    "oEn": ["To extend cultivation by giving loans (Sondhar) to farmers", "To collect religious taxes directly", "To import food grains from Persia", "To manage royal orchards"],
+    "oHi": ["किसानों को ऋण (सोंधर) देकर कृषि क्षेत्र का विस्तार करना", "सीधे धार्मिक कर एकत्र करना", "फारस से खाद्यान्न आयात करना", "शाही बगीचों का प्रबंधन करना"],
+    "c": 0,
+    "exp": "Diwan-i-Amir-Kohi was created to bring uncultivated land under plowing by providing state loans called Sondhar or Taccavi to farmers to improve crop yields.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The famous Moroccan traveler Ibn Battuta visited India during the reign of Muhammad bin Tughlaq. Which famous book did he author detailing his journeys?",
+    "hi": "प्रसिद्ध मोरक्को का यात्री इब्न बतूता मोहम्मद बिन तुगलक के शासनकाल में भारत आया था। अपनी यात्राओं का विवरण देने वाली उसने किस प्रसिद्ध पुस्तक की रचना की थी?",
+    "oEn": ["Rihla", "Tahqiq-i-Hind", "Tarikh-i-Firoz Shahi", "Futuh-us-Salatin"],
+    "oHi": ["रिहला", "तहकीक-ए-हिंद", "तारीख-ए-फिरोजशाही", "फुतूह-उस-सलातीन"],
+    "c": 0,
+    "exp": "Ibn Battuta arrived in Delhi in 1334 AD and was appointed as the Qazi (judge) of Delhi for eight years by the Sultan. His travelogue is called 'Rihla' (The Journey).",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which Delhi Sultan is known for establishing charitable hospitals called 'Dar-ul-Shifa' and separate public departments like 'Diwan-i-Bundagan' (Department of Slaves)?",
+    "hi": "कौन सा दिल्ली सुल्तान 'दार-उल-शिफा' नामक धर्मार्थ अस्पताल और 'दीवान-ए-बंदगी' (दासों का विभाग) जैसे अलग सार्वजनिक विभागों की स्थापना के लिए जाना जाता है?",
+    "oEn": ["Firoz Shah Tughlaq", "Muhammad bin Tughlaq", "Sikandar Lodi", "Bahlul Lodi"],
+    "oHi": ["फिरोज शाह तुगलक", "मोहम्मद बिन तुगलक", "सिकंदर लोदी", "बहलोल लोदी"],
+    "c": 0,
+    "exp": "Firoz Shah Tughlaq was famous for welfare activities. He set up free medical centers (Dar-ul-Shifa), an employment bureau, Diwan-i-Khairat (for poor women's marriage), and Diwan-i-Bundagan due to his obsession with collecting slaves.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The invasion of Timur (Tamerlane) in 1398 AD took place during the reign of which last ruler of the Tughlaq Dynasty?",
+    "hi": "1398 ईस्वी में तैमूरलंग का आक्रमण तुगलक राजवंश के किस अंतिम शासक के शासनकाल के दौरान हुआ था?",
+    "oEn": ["Nasir-ud-din Mahmud Shah Tughlaq", "Ghiyas-ud-din II", "Abu Bakr Shah", "Firuz Shah Tughlaq"],
+    "oHi": ["नासिरुद्दीन महमूद शाह तुगलक", "गयासुद्दीन द्वितीय", "अबू बक्र शाह", "फिरोज शाह तुगलक"],
+    "c": 0,
+    "exp": "Timur invaded Delhi in 1398 AD during the reign of Nasir-ud-din Mahmud Shah Tughlaq, dealing a death blow to the central authority of the Tughlaq dynasty.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Who founded the Lodi Dynasty, which was the first Pashtun/Afghan dynasty to rule the Delhi Sultanate?",
+    "hi": "लोदी राजवंश की स्थापना किसने की थी, जो दिल्ली सल्तनत पर शासन करने वाला पहला पश्तून/अफगान राजवंश था?",
+    "oEn": ["Bahlul Lodi", "Sikandar Lodi", "Ibrahim Lodi", "Daulat Khan Lodi"],
+    "oHi": ["बहलोल लोदी", "सिकंदर लोदी", "इब्राहिम लोदी", "दौलत खान लोदी"],
+    "c": 0,
+    "exp": "Bahlul Lodi founded the Lodi Dynasty in 1451 AD after displacing the Sayyid Dynasty. He integrated Afghan tribal lords by treating them as equals rather than subjects.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Which Lodi Sultan founded the city of Agra in 1504 AD and shifted his capital there from Delhi in 1506 AD?",
+    "hi": "किस लोदी सुल्तान ने 1504 ईस्वी में आगरा शहर की स्थापना की और 1506 ईस्वी में अपनी राजधानी दिल्ली से वहाँ स्थानांतरित की थी?",
+    "oEn": ["Sikandar Lodi", "Bahlul Lodi", "Ibrahim Lodi", "Sikandar Shah Suri"],
+    "oHi": ["सिकंदर लोदी", "बहलोल लोदी", "इब्राहिम लोदी", "सिकंदर शाह सूरी"],
+    "c": 0,
+    "exp": "Sikandar Lodi founded Agra in 1504 for strategic control over Rajput regions. He also introduced 'Gazz-i-Sikandari', a standardized land-measurement unit of 32 digits.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Vijayanagara Empire was founded in 1336 AD on the banks of which river by the brothers Harihara and Bukka?",
+    "hi": "विजयनगर साम्राज्य की स्थापना 1336 ईस्वी में हरिहर और बुक्का नामक दो भाइयों द्वारा किस नदी के तट पर की गई थी?",
+    "oEn": ["Tungabhadra", "Krishna", "Kaveri", "Godavari"],
+    "oHi": ["तुंगभद्रा", "कृष्णा", "कावेरी", "गोदावरी"],
+    "c": 0,
+    "exp": "Harihara I and Bukka Raya I established the Vijayanagara Empire on the southern bank of the Tungabhadra River. Its capital ruins are located today at Hampi, Karnataka.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Emperor Krishnadeva Raya, the most celebrated ruler of Vijayanagara, belonged to which dynasty and authored the Telugu work 'Amuktamalyada'?",
+    "hi": "विजयनगर के सबसे प्रसिद्ध शासक सम्राट कृष्णदेव राय किस राजवंश से संबंधित थे और उन्होंने तेलुगु कृति 'अमुक्तमाल्यद' की रचना की थी?",
+    "oEn": ["Tuluva Dynasty", "Sangama Dynasty", "Saluva Dynasty", "Aravidu Dynasty"],
+    "oHi": ["तुलुव राजवंश", "संगम राजवंश", "सालुव राजवंश", "आरविदु राजवंश"],
+    "c": 0,
+    "exp": "Krishnadeva Raya belonged to the Tuluva Dynasty. His reign is called the golden age of Telugu literature. He kept a group of eight great scholars called 'Ashtadiggajas' in his court.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "In which historic battle fought in 1565 AD was the Vijayanagara Empire decisively defeated by the combined forces of the Deccan Sultanates?",
+    "hi": "1565 ईस्वी में लड़े गए किस ऐतिहासिक युद्ध में विजयनगर साम्राज्य को दक्कन सल्तनत की संयुक्त सेनाओं द्वारा निर्णायक रूप से पराजित किया गया था?",
+    "oEn": ["Battle of Talikota", "Battle of Khanwa", "Battle of Ambur", "Battle of Wandiwash"],
+    "oHi": ["तालिकोटा का युद्ध (राक्षसी-तांगड़ी का युद्ध)", "खानवा का युद्ध", "अम्बुर का युद्ध", "वांडीवाश का युद्ध"],
+    "c": 0,
+    "exp": "The Battle of Talikota (also known as Rakshasi-Tangadi) was fought in 1565 AD between the Vijayanagara Empire (under Rama Raya) and the combined alliance of Bijapur, Ahmadnagar, Golconda, and Bidar.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Who was the founder of the Bahmani Kingdom in 1347 AD, establishing a powerful independent Muslim state in the Deccan?",
+    "hi": "1347 ईस्वी में बहमनी साम्राज्य का संस्थापक कौन था, जिसने दक्कन में एक शक्तिशाली स्वतंत्र मुस्लिम राज्य की स्थापना की थी?",
+    "oEn": ["Alauddin Hasan Bahman Shah", "Muhammad Shah I", "Mahmud Gawan", "Firoz Shah Bahmani"],
+    "oHi": ["अलाउद्दीन हसन बहमन शाह (हसन गंगू)", "मोहम्मद शाह प्रथम", "महमूद गवाँ", "फिरोज शाह बहमनी"],
+    "c": 0,
+    "exp": "Zafar Khan took the title of Alauddin Hasan Bahman Shah (popularly called Hasan Gangू) and founded the Bahmani Sultanate with Gulbarga as its initial capital.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The 'Nayanars' and 'Alvars' were two prominent religious groups of the early Bhakti movement in South India. Who did they worship?",
+    "hi": "दक्षिण भारत में प्रारंभिक भक्ति आंदोलन के दो प्रमुख धार्मिक समूह 'नयनार' और 'अल्वार' थे। वे किसकी पूजा करते थे?",
+    "oEn": ["Nayanars worshiped Shiva; Alvars worshiped Vishnu", "Nayanars worshiped Vishnu; Alvars worshiped Shiva", "Both worshiped Surya", "Both worshiped Shakti"],
+    "oHi": ["नयनार शिव के उपासक थे; अल्वार विष्णु के उपासक थे", "नयनार विष्णु के उपासक थे; अल्वार शिव के उपासक थे", "दोनों सूर्य के उपासक थे", "दोनों शक्ति के उपासक थे"],
+    "c": 0,
+    "exp": "Nayanars were a group of 63 saints devoted to Lord Shiva, while Alvars were a group of 12 saints devoted to Lord Vishnu in early medieval Tamil Nadu.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which famous saint-philosopher advocated the philosophy of 'Advaita' (Non-dualism) in the early 9th century AD?",
+    "hi": "9वीं शताब्दी की शुरुआत में किस प्रसिद्ध संत-दार्शनिक ने 'अद्वैतवाद' (गैर-द्वैतवाद) के दर्शन का प्रतिपादन किया था?",
+    "oEn": ["Adi Shankaracharya", "Ramanujacharya", "Madhvacharya", "Nimbarkacharya"],
+    "oHi": ["आदि शंकराचार्य", "रामानुजाचार्य", "माध्वाचार्य", "निम्बार्काचार्य"],
+    "c": 0,
+    "exp": "Adi Shankaracharya preached Advaita Vedanta, which teaches that the individual soul (Atman) and the ultimate reality (Brahman) are identical. He established four prominent mathas across India.",
+    "Pyq": "SSC_CGL_2021"
+  },
+  {
+    "en": "The First Battle of Panipat (1526 AD) was fought between Babur and which ruler, establishing the Mughal Empire in India?",
+    "hi": "पानीपत का प्रथम युद्ध (1526 ईस्वी) बाबर और किस शासक के बीच लड़ा गया था, जिसने भारत में मुगल साम्राज्य की नींव रखी थी?",
+    "oEn": ["Ibrahim Lodi", "Sikandar Lodi", "Rana Sanga", "Sher Shah Suri"],
+    "oHi": ["इब्राहिम लोदी", "सिकंदर लोदी", "राणा सांगा", "शेर शाह सूरी"],
+    "c": 0,
+    "exp": "Babur defeated Ibrahim Lodi in the First Battle of Panipat in 1526 AD using superior field artillery and tactical flanking maneuvers (Tulugma system), ending the Delhi Sultanate.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Babur defeated the Rajput confederacy led by Rana Sanga of Mewar in which famous battle fought in 1527 AD?",
+    "hi": "बाबर ने 1527 ईस्वी में लड़े गए किस प्रसिद्ध युद्ध में मेवाड़ के राणा सांगा के नेतृत्व वाले राजपूत संघ को पराजित किया था?",
+    "oEn": ["Battle of Khanwa", "Battle of Chanderi", "Battle of Ghaghra", "Battle of Panipat II"],
+    "oHi": ["खानवा का युद्ध", "चंदेरी का युद्ध", "घाघरा का युद्ध", "पानीपत का दूसरा युद्ध"],
+    "c": 0,
+    "exp": "The Battle of Khanwa was fought in 1527 AD near Agra. Babur declared it a 'Jihad' (holy war) and took the title of 'Ghazi' after securing victory against Rana Sanga.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Mughal Emperor Babur wrote his autobiography, 'Tuzuk-i-Baburi' (Baburnama), in which language?",
+    "hi": "मुगल सम्राट बाबर ने अपनी आत्मकथा 'तुजुक-ए-बाबरी' (बाबरनामा) किस भाषा में लिखी थी?",
+    "oEn": ["Chagatai Turkic", "Persian", "Arabic", "Urdu"],
+    "oHi": ["चगताई तुर्की", "फारसी", "अरबी", "उर्दू"],
+    "c": 0,
+    "exp": "Babur authored his autobiography in his mother tongue, Chagatai Turkic. It was later translated into Persian during Akbar's reign by Abdul Rahim Khan-i-Khana.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "In which two famous battles did Sher Shah Suri defeat the Mughal Emperor Humayun, forcing him into exile in Persia?",
+    "hi": "किन दो प्रसिद्ध युद्धों में शेर शाह सूरी ने मुगल सम्राट हुमायूं को पराजित किया, जिससे उसे फारस में निर्वासित होना पड़ा था?",
+    "oEn": ["Battle of Chausa (1539) and Battle of Kannauj (1540)", "Battle of Ghaghra (1529) and Battle of Chanderi (1528)", "Battle of Panipat (1526) and Battle of Sirhind (1555)", "Battle of Machhiwara (1555) and Battle of Tukaroi (1575)"],
+    "oHi": ["चौसा का युद्ध (1539) और कन्नौज (बिलग्राम) का युद्ध (1540)", "घाघरा का युद्ध (1529) और चंदेरी का युद्ध (1528)", "पानीपत का युद्ध (1526) और सरहिंद का युद्ध (1555)", "माछीवाड़ा का युद्ध (1555) और तुकारोई का युद्ध (1575)"],
+    "c": 0,
+    "exp": "Sher Shah Suri defeated Humayun first at Chausa (near Buxar) in 1539 and then decisively at Bilgram/Kannauj in 1540 to establish the Sur Empire in North India.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who built the famous Purana Qila of Delhi and issued the high-purity silver coin called 'Rupiya' for the first time?",
+    "hi": "दिल्ली का प्रसिद्ध पुराना किला किसने बनवाया था और पहली बार 'रुपया' नामक उच्च शुद्धता का चांदी का सिक्का जारी किया था?",
+    "oEn": ["Sher Shah Suri", "Humayun", "Akbar", "Shah Jahan"],
+    "oHi": ["शेर शाह सूरी", "हुमायूं", "अकबर", "शाहजहाँ"],
+    "c": 0,
+    "exp": "Sher Shah Suri introduced the standard white-metal coin 'Rupiya' (weighing 178 grains), which became the ancestor of modern currencies. He also built Delhi's Purana Qila and reconstructed the Grand Trunk Road.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The Second Battle of Panipat (1556 AD) was fought between Akbar's guardian Bairam Khan and which general/ruler?",
+    "hi": "पानीपत का दूसरा युद्ध (1556 ईस्वी) अकबर के संरक्षक बैरम खान और किस सेनापति/शासक के बीच लड़ा गया था?",
+    "oEn": ["Hemu (Hemchandra Vikramaditya)", "Sikandar Shah Suri", "Rana Pratap", "Sher Shah Suri"],
+    "oHi": ["हेमू (हेमचंद्र विक्रमादित्य)", "सिकंदर शाह सूरी", "राणा प्रताप", "शेर शाह सूरी"],
+    "c": 0,
+    "exp": "Akbar's forces led by Bairam Khan defeated Hemu, the Hindu prime minister of the Adil Shah Suri dynasty, who had captured Delhi and declared himself King Vikramaditya.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The administrative and revenue land-assessment framework called 'Dahsala System' (or Bandobast system) under Akbar was developed by which minister?",
+    "hi": "अकबर के तहत 'दहशाला प्रणाली' (या बंदोबस्त प्रणाली) नामक प्रशासनिक और राजस्व भूमि मूल्यांकन ढांचा किस मंत्री द्वारा विकसित किया गया था?",
+    "oEn": ["Raja Todar Mal", "Raja Man Singh", "Raja Birbal", "Tansen"],
+    "oHi": ["राजा टोडरमल", "राजा मानसिंह", "राजा बीरबल", "तानसेन"],
+    "c": 0,
+    "exp": "Raja Todar Mal, Akbar's Finance Minister (Diwan-i-Ashraf), designed the Dahsala system in 1580 AD, which calculated revenue based on average yields and market prices over the past ten years.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Mughal Emperor Akbar introduced the 'Mansabdari System' for military and civil administration. What did the terms 'Zat' and 'Sawar' indicate?",
+    "hi": "मुगल सम्राट अकबर ने सैन्य और नागरिक प्रशासन के लिए 'मनसबदारी प्रणाली' शुरू की थी। 'जात' और 'सवार' शब्द क्या दर्शाते थे?",
+    "oEn": ["Zat indicated personal rank/salary; Sawar indicated cavalry size required", "Zat indicated cavalry size; Sawar indicated civil salary", "Zat meant court status; Sawar meant revenue collection region", "Zat meant weapon stock; Sawar meant royal family title"],
+    "oHi": ["जात व्यक्तिगत रैंक/वेतन को दर्शाता था; सवार आवश्यक घुड़सवार सेना के आकार को दर्शाता था", "जात घुड़सवार सेना के आकार को दर्शाता था; सवार नागरिक वेतन को दर्शाता था", "जात का अर्थ दरबारी स्थिति था; सवार का अर्थ राजस्व संग्रह क्षेत्र था", "जात का अर्थ हथियार भंडार था; सवार का अर्थ शाही परिवार की उपाधि था"],
+    "c": 0,
+    "exp": "Mansabdari was a grading system. 'Zat' fixed the personal rank and salary of the officer, while 'Sawar' specified the exact number of horsemen/cavalry troops he was legally bound to maintain.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "In 1575 AD, Akbar constructed a special hall for inter-religious debates and theological discussions at Fatehpur Sikri. What was it called?",
+    "hi": "1575 ईस्वी में, अकबर ने फतेहपुर सीकरी में अंतर-धार्मिक बहसों और धार्मिक चर्चाओं के लिए एक विशेष हॉल का निर्माण कराया। इसे क्या कहा जाता था?",
+    "oEn": ["Ibadat Khana", "Diwan-i-Khas", "Diwan-i-Aam", "Buland Darwaza"],
+    "oHi": ["इबादत खाना", "दीवान-ए-खास", "दीवान-ए-आम", "बुलंद दरवाजा"],
+    "c": 0,
+    "exp": "Ibadat Khana (House of Worship) was built for discussions among scholars of various religions (Hinduism, Islam, Christianity, Jainism, Zoroastrianism), leading Akbar to formulate the dynamic concept of 'Din-i-Ilahi'.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The famous 'Battle of Haldighati' (1576 AD) was fought between Maharana Pratap of Mewar and the Mughal army led by whom?",
+    "hi": "प्रसिद्ध 'हल्दीघाटी का युद्ध' (1576 ईस्वी) मेवाड़ के महाराणा प्रताप और किसके नेतृत्व वाली मुगल सेना के बीच लड़ा गया था?",
+    "oEn": ["Raja Man Singh I", "Bairam Khan", "Raja Todar Mal", "Prince Salim"],
+    "oHi": ["राजा मानसिंह प्रथम", "बैरम खान", "राजा टोडरमल", "राजकुमार सलीम"],
+    "c": 0,
+    "exp": "The Battle of Haldighati was fought in June 1576 AD. Emperor Akbar sent a massive force led by Raja Man Singh of Amber and Asaf Khan to bring Mewar under control.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Who authored 'Akbarnama' and its third volume 'Ain-i-Akbari', providing an exhaustive statistical record of Akbar's empire?",
+    "hi": "अकबर के साम्राज्य का एक विस्तृत सांख्यिकीय रिकॉर्ड प्रदान करने वाली 'अकबरनामा' और इसके तीसरे खंड 'आईन-ए-अकबरी' की रचना किसने की थी?",
+    "oEn": ["Abu'l Fazl", "Faizi", "Abdul Qadir Badauni", "Gulbadan Begum"],
+    "oHi": ["अब्दुल फजल (अबू अल-फ़ज़ल)", "फैजी", "अब्दुल कादिर बदायुनी", "गुलबदन बेगम"],
+    "c": 0,
+    "exp": "Abu'l Fazl was one of the nine jewels (Navaratnas) in Akbar's court. He wrote 'Akbarnama' in Persian, which acts as the definitive official history of Akbar's reign.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which Mughal Emperor established the 'Chain of Justice' (Zanjir-i-Adl) outside his Agra palace for common citizens to seek direct royal hearing?",
+    "hi": "किस मुगल सम्राट ने आम नागरिकों को सीधे शाही सुनवाई के लिए अपने आगरा महल के बाहर 'न्याय की जंजीर' (जंजीर-ए-अदल) स्थापित की थी?",
+    "oEn": ["Jahangir", "Akbar", "Shah Jahan", "Aurangzeb"],
+    "oHi": ["जहांगीर", "अकबर", "शाहजहाँ", "औरंगज़ेब"],
+    "c": 0,
+    "exp": "Jahangir set up a 30-yard gold chain fitted with 60 bells linked directly to his private chambers, allowing any aggrieved subject to pull it and seek justice from the Emperor.",
+    "Pyq": "SSC_CHSL_2022"
+  },
+  {
+    "en": "Mughal painting reached its absolute peak of artistic refinement and naturalism under the patronage of which Emperor?",
+    "hi": "मुगल चित्रकला किस सम्राट के संरक्षण में कलात्मक परिष्कार और स्वाभाविकता के अपने पूर्ण शिखर पर पहुँची थी?",
+    "oEn": ["Jahangir", "Akbar", "Shah Jahan", "Humayun"],
+    "oHi": ["जहांगीर", "अकबर", "शाहजहाँ", "हुमायूं"],
+    "c": 0,
+    "exp": "Jahangir's reign was the Golden Age of Mughal painting. He was an expert art critic and popularized nature portraits, animal drawings (by Ustad Mansur), and individual miniatures.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Captain William Hawkins and Sir Thomas Roe visited the Mughal court as official envoys of the English East India Company during the reign of which emperor?",
+    "hi": "कैप्टन विलियम हॉकिन्स और सर थॉमस रो ने किस सम्राट के शासनकाल के दौरान इंग्लिश ईस्ट इंडिया कंपनी के आधिकारिक दूतों के रूप में मुगल दरबार का दौरा किया था?",
+    "oEn": ["Jahangir", "Akbar", "Shah Jahan", "Aurangzeb"],
+    "oHi": ["जहांगीर", "अकबर", "शाहजहाँ", "औरंगज़ेब"],
+    "c": 0,
+    "exp": "Hawkins arrived in 1608 at Jahangir's court but failed to get trade concessions due to Portuguese intrigue. Sir Thomas Roe arrived in 1615 and successfully obtained an imperial farman for factory trade.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "In 1675 AD, Mughal Emperor Aurangzeb ordered the execution of which revered Sikh Guru for refusing to convert and opposing his religious policies?",
+    "hi": "1675 ईस्वी में, मुगल सम्राट औरंगजेब ने धर्म परिवर्तन से इनकार करने और उनकी धार्मिक नीतियों का विरोध करने के कारण किस पूजनीय सिख गुरु को मृत्युदंड देने का आदेश दिया था?",
+    "oEn": ["Guru Tegh Bahadur", "Guru Arjan Dev", "Guru Hargobind", "Guru Gobind Singh"],
+    "oHi": ["गुरु तेग बहादुर", "गुरु अर्जुन देव", "गुरु हरगोबिंद", "गुरु गोबिंद सिंह"],
+    "c": 0,
+    "exp": "Guru Tegh Bahadur, the 9th Sikh Guru, was publicly executed at Chandni Chowk, Delhi on Aurangzeb's orders. (Note: The 5th Guru, Guru Arjan Dev, was executed earlier by Jahangir in 1606).",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The architectural transition to using pure white marble inlaid with semi-precious stones, known as 'Pietra Dura', reached its apex during the reign of:",
+    "hi": "अर्ध-कीमती पत्थरों की नक्काशी वाली शुद्ध सफेद संगमरमर की कलाकृतियों, जिसे 'पित्रा दुरा' कहा जाता है, का वास्तुशिल्प परिवर्तन किसके शासनकाल के दौरान अपने चरम पर पहुँचा?",
+    "oEn": ["Shah Jahan", "Jahangir", "Akbar", "Aurangzeb"],
+    "oHi": ["शाहजहाँ", "जहांगीर", "अकबर", "औरंगज़ेब"],
+    "c": 0,
+    "exp": "Shah Jahan's era represents the golden age of Mughal architecture. Pietra Dura decoration is most heavily displayed on the walls of the Taj Mahal and the Red Fort.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which eldest son of Shah Jahan translated the Upanishads and the Bhagavad Gita into Persian under the title 'Sirr-i-Akbar' (The Great Secret)?",
+    "hi": "शाहजहाँ के किस सबसे बड़े बेटे ने उपनिषदों और भगवद गीता का फारसी में 'सिर्र-ए-अकबर' (महान रहस्य) शीर्षक से अनुवाद किया था?",
+    "oEn": ["Dara Shikoh", "Shah Shuja", "Murad Baksh", "Aurangzeb"],
+    "oHi": ["दारा शिकोह", "शाह शुजा", "मुराद बख्श", "औरंगज़ेब"],
+    "c": 0,
+    "exp": "Dara Shikoh was a liberal scholar of Sufi leanings. He compiled comparative philosophies in 'Majma-ul-Bahrain' (Mingling of Two Oceans) and translated 52 Upanishads into Persian before being killed by Aurangzeb in the war of succession.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Mughal Emperor Aurangzeb re-imposed the discriminatory 'Jizya' tax on non-Muslim subjects in which year?",
+    "hi": "मुगल सम्राट औरंगजेब ने किस वर्ष गैर-मुस्लिम प्रजा पर भेदभावपूर्ण 'जजिया' कर फिर से लागू कर दिया था?",
+    "oEn": ["1679 AD", "1658 AD", "1665 AD", "1707 AD"],
+    "oHi": ["1679 ईस्वी", "1658 ईस्वी", "1665 ईस्वी", "1707 ईस्वी"],
+    "c": 0,
+    "exp": "Akbar had abolished Jizya in 1564 AD. However, Aurangzeb re-introduced it in 1679 AD as part of his orthodox religious policy directives.",
+    "Pyq": "SSC_CGL_2021"
+  },
+  {
+    "en": "The 'Bibi Ka Maqbara', a tomb constructed by Aurangzeb in Aurangabad that closely resembles the design layout of the Taj Mahal, was built in memory of:",
+    "hi": "औरंगाबाद में औरंगजेब द्वारा निर्मित मकबरा 'बीबी का मकबरा', जो काफी हद तक ताजमहल के डिजाइन जैसा दिखता है, किसकी याद में बनाया गया था?",
+    "oEn": ["Dilras Banu Begum", "Mumtaz Mahal", "Nur Jahan", "Jahanara Begum"],
+    "oHi": ["दिलरास बानो बेगम (राबिया-उद-दौरानी)", "मुमताज महल", "नूरजहाँ", "जहाँआरा बेगम"],
+    "c": 0,
+    "exp": "Bibi Ka Maqbara was commissioned by Aurangzeb in memory of his chief queen, Dilras Banu Begum (posthumously titled Rabia-ud-Daurani). It is often referred to as the 'Taj of the Deccan'.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Chhatrapati Shivaji Maharaj was formally crowned as the Chhatrapati of the Maratha Kingdom in 1674 AD at which strategic hill fort?",
+    "hi": "छत्रपति शिवाजी महाराज का 1674 ईस्वी में औपचारिक रूप से मराठा साम्राज्य के छत्रपति के रूप में राज्याभिषेक किस रणनीतिक पहाड़ी किले में हुआ था?",
+    "oEn": ["Raigad Fort", "Shivneri Fort", "Pratapgad Fort", "Torna Fort"],
+    "oHi": ["रायगढ़ का किला", "शिवनेरी का किला", "प्रतापगढ़ का किला", "तोरणा का किला"],
+    "c": 0,
+    "exp": "Shivaji Maharaj's coronation took place at Raigad Fort in 1674, conducted by Gaga Bhatt, a famous pandit from Varanasi. He assumed the title of Chhatrapati and Haindava Dharmodhhaarak.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Under the Maratha administrative setup, the advisory council of eight ministers was known by what specific term?",
+    "hi": "मराठा प्रशासनिक व्यवस्था के तहत, आठ मंत्रियों की सलाहकार परिषद को किस विशिष्ट शब्द से जाना जाता था?",
+    "oEn": ["Ashtapradhan", "Ashtadiggajas", "Navaratnas", "Chahalgani"],
+    "oHi": ["अष्टप्रधान", "अष्टदिग्गज", "नवरत्न", "चहलगानी"],
+    "c": 0,
+    "exp": "Shivaji setup the 'Ashtapradhan' council. The most important post was the 'Peshwa' (Prime Minister), followed by others like Amatya (Finance Minister) and Senapati (Commander).",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "What were the names of the two main types of territorial and security taxes collected by the Marathas from neighboring states outside their core kingdom?",
+    "hi": "मराठों द्वारा अपने मुख्य राज्य के बाहर के पड़ोसी राज्यों से एकत्र किए जाने वाले दो मुख्य प्रकार के क्षेत्रीय और सुरक्षा करों के नाम क्या थे?",
+    "oEn": ["Chauth and Sardeshmukhi", "Khams and Kharaj", "Ushr and Zakat", "Bali and Bhaga"],
+    "oHi": ["चौथ और सरदेशमुखी", "खम्स और खराज", "उश्र और जकात", "बलि और भाग"],
+    "c": 0,
+    "exp": "Chauth was 1/4th (25%) of land revenue paid to secure protection against Maratha raids. Sardeshmukhi was an additional 10% levy claimed by Shivaji by virtue of being the supreme hereditary overlord (Sardeshmukh).",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The famous Sufi saint Hazrat Nizamuddin Auliya belonged to which major Sufi silsilah (order) in India?",
+    "hi": "प्रसिद्ध सूफी संत हजरत निजामुद्दीन औलिया भारत के किस प्रमुख सूफी सिलसिले (आदेश) से संबंधित थे?",
+    "oEn": ["Chishti Silsilah", "Suhrawardi Silsilah", "Naqshbandi Silsilah", "Qadiri Silsilah"],
+    "oHi": ["चिश्ती सिलसिला", "सुहरवर्दी सिलसिला", "नक्शबंदी सिलसिला", "कादिरी सिलसिला"],
+    "c": 0,
+    "exp": "Hazrat Nizamuddin Auliya was a world-famous saint of the Chishti order based in Delhi, emphasizing love, humanity, and spiritual music (Sama) to get closer to God.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which Bhakti saint from Maharashtra composed devotional hymns called 'Abhangas' and was a contemporary of Shivaji Maharaj?",
+    "hi": "महाराष्ट्र के किस भक्ति संत ने 'अभंग' नामक भक्ति भजनों की रचना की थी और वे शिवाजी महाराज के समकालीन थे?",
+    "oEn": ["Sant Tukaram", "Sant Jnaneshwar", "Sant Namdev", "Sant Eknath"],
+    "oHi": ["संत तुकाराम", "संत ज्ञानेश्वर", "संत नामदेव", "संत एकनाथ"],
+    "c": 0,
+    "exp": "Sant Tukaram was a prominent pillar of the Varkari sect in Maharashtra, famous for his Abhang poetry dedicated to Lord Vitthala (Vishnu).",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Battle of Khanwa (1527) and the Battle of Ghaghra (1529) were won by which ruler?",
+    "hi": "खानवा का युद्ध (1527) और घाघरा का युद्ध (1529) किस शासक द्वारा जीता गया था?",
+    "oEn": ["Babur", "Humayun", "Akbar", "Sher Shah Suri"],
+    "oHi": ["बाबर", "हुमायूं", "अकबर", "शेर शाह सूरी"],
+    "c": 0,
+    "exp": "Zahir-ud-din Muhammad Babur won four consecutive major battles: Panipat I (1526), Khanwa (1527), Chanderi (1528), and Ghaghra (1529), cementing Mughal dominance before his death in 1530.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Who built the famous Shalimar Bagh in Srinagar, Kashmir, as a royal garden for his wife?",
+    "hi": "श्रीनगर, कश्मीर में प्रसिद्ध शालिमार बाग का निर्माण अपनी पत्नी के लिए एक शाही बगीचे के रूप में किसने करवाया था?",
+    "oEn": ["Jahangir", "Shah Jahan", "Akbar", "Aurangzeb"],
+    "oHi": ["जहांगीर", "शाहजहाँ", "अकबर", "औरंगज़ेब"],
+    "c": 0,
+    "exp": "Mughal Emperor Jahangir built the stunning Shalimar Bagh in Srinagar in 1619 AD for his favorite queen, Nur Jahan, showcasing classical Mughal garden landscaping.",
+    "Pyq": "SSC_CGL_2024"
+  }
+]
