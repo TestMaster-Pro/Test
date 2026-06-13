@@ -1,0 +1,452 @@
+[
+  {
+    "en": "In which historic battle fought in 1757 did the British East India Company under Robert Clive defeat Nawab Siraj-ud-daulah to lay the foundation of British rule in India?",
+    "hi": "1757 में लड़े गए किस ऐतिहासिक युद्ध में रॉबर्ट क्लाइव के नेतृत्व में ब्रिटिश ईस्ट इंडिया कंपनी ने नवाब सिराजुद्दौला को हराकर भारत में ब्रिटिश शासन की नींव रखी थी?",
+    "oEn": ["Battle of Plassey", "Battle of Buxar", "Battle of Wandiwash", "Battle of Chillianwala"],
+    "oHi": ["प्लासी का युद्ध", "बक्सर का युद्ध", "वांडीवाश का युद्ध", "चिल्लियांवाला का युद्ध"],
+    "c": 0,
+    "exp": "The Battle of Plassey was fought on June 23, 1757, in Bengal. Mir Jafar's betrayal led to the defeat of Siraj-ud-daulah, making the Company a major political power.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The dual system of administration in Bengal, established by Robert Clive after the Battle of Buxar, was abolished by which Governor-General in 1772?",
+    "hi": "बक्सर के युद्ध के बाद रॉबर्ट क्लाइव द्वारा बंगाल में स्थापित द्वैध शासन (दोहरी प्रशासनिक प्रणाली) को 1772 में किस गवर्नर-जनरल द्वारा समाप्त कर दिया गया था?",
+    "oEn": ["Warren Hastings", "Lord Cornwallis", "Lord Wellesley", "Lord William Bentinck"],
+    "oHi": ["वारेन हेस्टिंग्स", "लॉर्ड कॉर्नवालिस", "लॉर्ड वेलेज़ली", "लॉर्ड विलियम बेंटिक"],
+    "c": 0,
+    "exp": "Warren Hastings abolished the Dual Government system in 1772 and brought Bengal under the direct control of the British East India Company.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who introduced the 'Permanent Settlement' (Zamindari System) in Bengal and Bihar in 1793, and is also known as the 'Father of Civil Services in India'?",
+    "hi": "1793 में बंगाल और बिहार में 'स्थायी बंदोबस्त' (जमींदारी प्रणाली) की शुरुआत किसने की थी, जिन्हें 'भारत में सिविल सेवा के जनक' के रूप में भी जाना जाता है?",
+    "oEn": ["Lord Cornwallis", "Lord Wellesley", "Lord Hastings", "Lord Dalhousie"],
+    "oHi": ["लॉर्ड कॉर्नवालिस", "लॉर्ड वेलेज़ली", "लॉर्ड हेस्टिंग्स", "लॉर्ड डलहौजी"],
+    "c": 0,
+    "exp": "Lord Cornwallis introduced the Permanent Settlement in 1793, which fixed land revenue permanently for Zamindars. He also reformed and institutionalized the Civil Services in India.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which Governor-General introduced the imperialistic policy of 'Subsidiary Alliance' in 1798, with the Nizam of Hyderabad being the first to accept it?",
+    "hi": "किस गवर्नर-जनरल ने 1798 में 'सहायक संधि' (सब्सिडियरी एलायंस) की साम्राज्यवादी नीति शुरू की थी, जिसे स्वीकार करने वाला हैदराबाद का निजाम पहला शासक था?",
+    "oEn": ["Lord Wellesley", "Lord Cornwallis", "Lord Minto", "Lord Hastings"],
+    "oHi": ["लॉर्ड वेलेज़ली", "लॉर्ड कॉर्नवालिस", "लॉर्ड मिंटो", "लॉर्ड हेस्टिंग्स"],
+    "c": 0,
+    "exp": "Lord Wellesley used the Subsidiary Alliance system to expand British territory by forcing Indian princely states to maintain British troops at their own expense.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The 'Ryotwari System' of land revenue, where agreements were made directly with the cultivators (ryots), was primarily introduced in Madras and Bombay by whom?",
+    "hi": "भूमि राजस्व की 'रैयतवाड़ी प्रणाली', जहां सीधे कृषकों (रैयतों) के साथ समझौते किए जाते थे, मुख्य रूप से मद्रास और बॉम्बे में किसके द्वारा शुरू की गई थी?",
+    "oEn": ["Thomas Munro and Alexander Read", "Holt Mackenzie", "Lord Cornwallis", "Charles Metcalfe"],
+    "oHi": ["थॉमस मुनरो और अलेक्जेंडर रीड", "हॉल्ट मैकेंजी", "लॉर्ड कॉर्नवालिस", "चार्ल्स मेटकाफ"],
+    "c": 0,
+    "exp": "The Ryotwari system was instituted by Thomas Munro (Governor of Madras) and Alexander Read in the early 19th century to eliminate middleman landlords in the south and west.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Regulation XVII of 1829, which declared the practice of Sati illegal and punishable by law, was passed during the tenure of which Governor-General?",
+    "hi": "1829 का विनियमन XVII (नियम 17), जिसने सती प्रथा को अवैध और कानूनन दंडनीय घोषित किया, किस गवर्नर-जनरल के कार्यकाल के दौरान पारित किया गया था?",
+    "oEn": ["Lord William Bentinck", "Lord Amherst", "Lord Auckland", "Lord Ellenborough"],
+    "oHi": ["लॉर्ड विलियम बेंटिक", "लॉर्ड एमहर्स्ट", "लॉर्ड ऑकलैंड", "लॉर्ड एलेनबरो"],
+    "c": 0,
+    "exp": "Lord William Bentinck, heavily supported by social reformer Raja Ram Mohan Roy, passed the historic Sati Abolition Act in December 1829.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Who was the Governor-General of India when the 'Doctrine of Lapse' was aggressively applied to annex princely states like Satara, Sambalpur, Jhansi, and Nagpur?",
+    "hi": "जब सतारा, संबलपुर, झांसी और नागपुर जैसी रियासतों को हड़पने के लिए 'व्यपगत का सिद्धांत' (हड़प नीति) आक्रामक रूप से लागू किया गया था, तब भारत के गवर्नर-जनरल कौन थे?",
+    "oEn": ["Lord Dalhousie", "Lord Canning", "Lord Hardinge", "Lord Ellenborough"],
+    "oHi": ["लॉर्ड डलहौजी", "लॉर्ड कैनिंग", "लॉर्ड हार्डिंग", "लॉर्ड एलेनबरो"],
+    "c": 0,
+    "exp": "Lord Dalhousie devised the Doctrine of Lapse, which stated that any princely state under the direct or indirect control of the Company where the ruler died without a natural male heir would automatically lapse to the British.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Hindu Widows' Remarriage Act, passed in July 1856 due to the tireless efforts of Ishwar Chandra Vidyasagar, was drafted during the tenure of which Governor-General?",
+    "hi": "ईश्वर चंद्र विद्यासागर के अथक प्रयासों के कारण जुलाई 1856 में पारित हिंदू विधवा पुनर्विवाह अधिनियम किस गवर्नर-जनरल के कार्यकाल के दौरान तैयार किया गया था?",
+    "oEn": ["Lord Dalhousie", "Lord Canning", "Lord Elgin", "Lord Lawrence"],
+    "oHi": ["लॉर्ड डलहौजी", "लॉर्ड कैनिंग", "लॉर्ड एल्गिन", "लॉर्ड लॉरेंस"],
+    "c": 0,
+    "exp": "The Act was drafted and finalized under Lord Dalhousie, but it was formally approved and passed into law by his successor, Lord Canning, in 1856.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Where did the historic Revolt of 1857 begin on May 10, when Indian sepoys mutinied against their British officers?",
+    "hi": "10 मई को ऐतिहासिक 1857 का विद्रोह कहाँ से शुरू हुआ था, जब भारतीय सिपाहियों ने अपने ब्रिटिश अधिकारियों के खिलाफ विद्रोह कर दिया था?",
+    "oEn": ["Meerut", "Barrackpore", "Delhi", "Lucknow"],
+    "oHi": ["मेरठ", "बैरकपुर", "दिल्ली", "लखनऊ"],
+    "c": 0,
+    "exp": "While Mangal Pandey mutinied at Barrackpore in March 1857, the formal, large-scale rebellion broke out at the Meerut cantonment on May 10, 1857.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "During the Revolt of 1857, who led the rebel forces in Kanpur and declared himself the Peshwa after driving out the British?",
+    "hi": "1857 के विद्रोह के दौरान, किसने कानपुर में विद्रोही सेना का नेतृत्व किया और अंग्रेजों को खदेड़ने के बाद खुद को पेशवा घोषित किया था?",
+    "oEn": ["Nana Sahib", "Tatya Tope", "Kunwar Singh", "Khan Bahadur Khan"],
+    "oHi": ["नाना साहेब", "तात्या टोपे", "कुंवर सिंह", "खान बहादुर खान"],
+    "c": 0,
+    "exp": "Nana Sahib, the adopted son of the last Peshwa Baji Rao II, led the revolt in Kanpur with the assistance of his brilliant general Tatya Tope.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Who among the following was the last Mughal Emperor who was chosen as the symbolic leader of the Revolt of 1857 and later exiled to Yangon (Rangoon)?",
+    "hi": "निम्नलिखित में से कौन अंतिम मुगल सम्राट था जिसे 1857 के विद्रोह का प्रतीकात्मक नेता चुना गया था और बाद में यांगून (रंगून) निर्वासित कर दिया गया था?",
+    "oEn": ["Bahadur Shah Zafar", "Shah Alam II", "Akbar Shah II", "Farrukhsiyar"],
+    "oHi": ["बहादुर शाह जफर (बहादुर शाह II)", "शाह आलम II", "अकबर शाह II", "फर्रुखसियर"],
+    "c": 0,
+    "exp": "Bahadur Shah Zafar was proclaimed the Emperor of Hindustan by the rebels. After the fall of Delhi, he was captured by Major Hodson and exiled to Rangoon, where he died in 1862.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The famous Indigo Revolt (Nil Vidroha) of 1859-60 against exploitative European planters took place in which province of British India?",
+    "hi": "शोषक यूरोपीय बागान मालिकों के खिलाफ 1859-60 का प्रसिद्ध नील विद्रोह (नील विद्रोहा) ब्रिटिश भारत के किस प्रांत में हुआ था?",
+    "oEn": ["Bengal", "Bihar", "United Provinces", "Madras"],
+    "oHi": ["बंगाल", "बिहार", "संयुक्त प्रांत", "मद्रास"],
+    "c": 0,
+    "exp": "The Indigo Revolt started in Govindpur village in Nadia district, Bengal, led by Digambar Biswas and Bishnu Biswas. It was famously depicted in Dinabandhu Mitra's play 'Nil Darpan'.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who founded the 'Santhal Hool' (Santhal Rebellion) of 1855-56 against the oppression of Zamindars and the British administration in the Rajmahal hills?",
+    "hi": "राजमहल की पहाड़ियों में जमींदारों और ब्रिटिश प्रशासन के उत्पीड़न के खिलाफ 1855-56 के 'संथाल हुल' (संथाल विद्रोह) की शुरुआत किसने की थी?",
+    "oEn": ["Sidho and Kanhu Murmu", "Birsa Munda", "Alluri Sitarama Raju", "Kumaram Bheem"],
+    "oHi": ["सिधो और कान्हू मुर्मू", "बिरसा मुंडा", "अल्लूरी सीताराम राजू", "कोमाराम भीम"],
+    "c": 0,
+    "exp": "The Santhal Rebellion was led by four Murmu brothers: Sidho, Kanhu, Chand, and Bhairav. It was a massive tribal movement in the Damin-i-Koh region.",
+    "Pyq": "SSC_CHSL_2022"
+  },
+  {
+    "en": "Raja Ram Mohan Roy founded the 'Atmiya Sabha' in 1814, which was later renamed as which of the following organizations in 1828?",
+    "hi": "राजा राममोहन राय ने 1814 में 'आत्मीय सभा' की स्थापना की थी, जिसका नाम बदलकर 1828 में निम्नलिखित में से कौन सा संगठन कर दिया गया था?",
+    "oEn": ["Brahmo Sabha (later Brahmo Samaj)", "Prarthana Samaj", "Arya Samaj", "Theosophical Society"],
+    "oHi": ["ब्रह्म सभा (बाद में ब्रह्म समाज)", "प्रार्थना समाज", "आर्य समाज", "थियोसोफिकल सोसाइटी"],
+    "c": 0,
+    "exp": "Raja Ram Mohan Roy started the Brahmo Sabha in 1828 to promote monotheism and fight social evils like idolatry and caste rigidity. It was later called the Brahmo Samaj.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Who established the 'Arya Samaj' in Bombay in 1875 and gave the historic call of 'Go back to the Vedas'?",
+    "hi": "1875 में बॉम्बे में 'आर्य समाज' की स्थापना किसने की थी और 'वेदों की ओर लौटें' का ऐतिहासिक नारा दिया था?",
+    "oEn": ["Swami Dayanand Saraswati", "Swami Vivekananda", "Raja Ram Mohan Roy", "Keshab Chandra Sen"],
+    "oHi": ["स्वामी दयानंद सरस्वती", "स्वामी विवेकानंद", "राजा राममोहन राय", "केशव चंद्र सेन"],
+    "c": 0,
+    "exp": "Swami Dayanand Saraswati founded the Arya Samaj to reform Hinduism based on the infallible authority of the Vedas. He also authored the book 'Satyarth Prakash'.",
+    "Pyq": "SSC_CGL_2021"
+  },
+  {
+    "en": "The 'Satyashodhak Samaj' (Truth-Seekers' Society) was founded in Pune in 1873 by whom to challenge Brahmanical dominance and uplift lower castes?",
+    "hi": "ब्राह्मणवादी वर्चस्व को चुनौती देने और निचली जातियों के उत्थान के लिए 1873 में पुणे में 'सत्यशोधक समाज' की स्थापना किसके द्वारा की गई थी?",
+    "oEn": ["Jyotirao Phule", "Dr. B.R. Ambedkar", "Periyar E.V. Ramasamy", "Sri Narayana Guru"],
+    "oHi": ["ज्योतिराव फुले", "डॉ. बी.आर. अंबेडकर", "पेरियार ई.वी. रामासामी", "श्री नारायण गुरु"],
+    "c": 0,
+    "exp": "Mahatma Jyotirao Phule founded the Satyashodhak Samaj. He, along with his wife Savitribai Phule, championed girls' education and authored the famous anti-caste book 'Gulamgiri'.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Who founded the Ramakrishna Mission in 1897 at Belur, West Bengal, to propagate the teachings of his spiritual master through humanitarian relief?",
+    "hi": "अपने आध्यात्मिक गुरु के उपदेशों को परोपकारी कार्यों के माध्यम से प्रचारित करने के लिए 1897 में पश्चिम बंगाल के बेलूर में रामकृष्ण मिशन की स्थापना किसने की थी?",
+    "oEn": ["Swami Vivekananda", "Ramakrishna Paramahamsa", "Debendranath Tagore", "Ishwar Chandra Vidyasagar"],
+    "oHi": ["स्वामी विवेकानंद", "रामकृष्ण परमहंस", "देवेन्द्रनाथ टैगोर", "ईश्वर चंद्र विद्यासागर"],
+    "c": 0,
+    "exp": "Swami Vivekananda (Narendranath Datta) founded the mission in honor of Ramakrishna Paramahamsa. He gained global recognition after his Chicago address in 1893.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Vernacular Press Act of 1878, which aimed to suppress local language newspapers criticizing British administrative choices, was passed under which Viceroy?",
+    "hi": "ब्रिटिश प्रशासनिक नीतियों की आलोचना करने वाले स्थानीय भाषा के समाचार पत्रों को दबाने के उद्देश्य से 1878 का वर्नाकुलर प्रेस एक्ट किस वायसराय के काल में पारित किया गया था?",
+    "oEn": ["Lord Lytton", "Lord Ripon", "Lord Dufferin", "Lord Mayo"],
+    "oHi": ["लॉर्ड लिटन", "लॉर्ड रिपन", "लॉर्ड डफ़रिन", "लॉर्ड मेयो"],
+    "c": 0,
+    "exp": "Lord Lytton passed the highly unpopular Gagging Act (Vernacular Press Act) in 1878. It was later repealed by the liberal Viceroy Lord Ripon in 1882.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The Indian National Congress (INC) was founded in Bombay in December 1885. Who served as its first President, and who was the Viceroy of India at that time?",
+    "hi": "भारतीय राष्ट्रीय कांग्रेस (INC) की स्थापना दिसंबर 1885 में बॉम्बे में हुई थी। इसके पहले अध्यक्ष कौन थे, और उस समय भारत के वायसराय कौन थे?",
+    "oEn": ["W.C. Bonnerjee, Lord Dufferin", "Dadabhai Naoroji, Lord Lytton", "A.O. Hume, Lord Ripon", "Badruddin Tyabji, Lord Lansdowne"],
+    "oHi": ["व्योमेश चन्द्र बनर्जी, लॉर्ड डफ़रिन", "दादाभाई नौरोजी, लॉर्ड लिटन", "ए.ओ. ह्यूम, लॉर्ड रिपन", "बदरुद्दीन तैयबजी, लॉर्ड लैंसडाउन"],
+    "c": 0,
+    "exp": "The first session of INC was held at Gokuldas Tejpal Sanskrit College, Bombay, attended by 72 delegates. It was founded by retired civil servant A.O. Hume. W.C. Bonnerjee was the first president, and Lord Dufferin was the Viceroy.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who authored the book 'Poverty and Un-British Rule in India' and formulated the famous 'Drain of Wealth' theory?",
+    "hi": "पुस्तक 'पोवर्टी एंड अन-ब्रिटिश रूल इन इंडिया' किसने लिखी थी और प्रसिद्ध 'धन का निष्कासन' (ड्रेन ऑफ वेल्थ) सिद्धांत प्रतिपादित किया था?",
+    "oEn": ["Dadabhai Naoroji", "Gopal Krishna Gokhale", "Romesh Chunder Dutt", "M.G. Ranade"],
+    "oHi": ["दादाभाई नौरोजी", "गोपाल कृष्ण गोखले", "रमेश चंद्र दत्त", "एम.जी. रानाडे"],
+    "c": 0,
+    "exp": "Dadabhai Naoroji, known as the 'Grand Old Man of India', demonstrated how Indian capital and resources were being systematically drained to Britain without any commercial return.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Viceroy Lord Curzon ordered the partition of the Bengal province in 1905, citing administrative convenience. On which exact date did the partition take effect?",
+    "hi": "वायसराय लॉर्ड कर्जन ने प्रशासनिक सुविधा का हवाला देते हुए 1905 में बंगाल प्रांत के विभाजन का आदेश दिया था। यह विभाजन किस सटीक तिथि को प्रभावी हुआ था?",
+    "oEn": ["October 16, 1905", "August 7, 1905", "July 19, 1905", "December 30, 1905"],
+    "oHi": ["16 अक्टूबर 1905", "7 अगस्त 1905", "19 जुलाई 1905", "30 दिसंबर 1905"],
+    "c": 0,
+    "exp": "The decision to partition Bengal was announced in July, which sparked the Swadeshi Movement (formalized on August 7). The partition came into effect on October 16, 1905, which was observed as a day of national mourning.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The historic split between the Moderates and Extremists (Surat Split) of the Indian National Congress took place in which year's annual session?",
+    "hi": "भारतीय राष्ट्रीय कांग्रेस के नरम दल और गरम दल के बीच ऐतिहासिक विभाजन (सूरत विभाजन) किस वर्ष के वार्षिक अधिवेशन में हुआ था?",
+    "oEn": ["1907", "1905", "1906", "1911"],
+    "oHi": ["1907", "1905", "1906", "1911"],
+    "c": 0,
+    "exp": "The 1907 Surat session, presided over by Rash Behari Ghosh, witnessed a severe ideological split over the expansion of the Boycott and Swadeshi movements.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The All India Muslim League was founded in December 1906 under the leadership of Khwaja Salimullah and Aga Khan III at which city?",
+    "hi": "अखिल भारतीय मुस्लिम लीग की स्थापना दिसंबर 1906 में ख्वाजा सलीमुल्लाह और आगा खान III के नेतृत्व में किस शहर में हुई थी?",
+    "oEn": ["Dhaka", "Aligarh", "Karachi", "Lucknow"],
+    "oHi": ["ढाका", "अलीगढ़", "कराची", "लखनऊ"],
+    "c": 0,
+    "exp": "The Muslim League was established at Dhaka (now in Bangladesh) during a conference of the Muhammadan Educational Conference, with Nawab Salimullah serving as a chief architect.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which British Act introduced separate communal electorates for Muslims in India for the first time?",
+    "hi": "किस ब्रिटिश अधिनियम ने भारत में पहली बार मुसलमानों के लिए अलग सांप्रदायिक निर्वाचन मंडल की शुरुआत की थी?",
+    "oEn": ["Morley-Minto Reforms, 1909", "Montagu-Chelmsford Reforms, 1919", "Government of India Act, 1935", "Regulating Act, 1773"],
+    "oHi": ["मार्ले-मिंटो सुधार, 1909", "मोंटेग्यू-चेम्सफोर्ड सुधार, 1919", "भारत सरकार अधिनियम, 1935", "रेगुलेटिंग एक्ट, 1773"],
+    "c": 0,
+    "exp": "The Indian Councils Act 1909 (Morley-Minto Reforms) institutionalized communalism in Indian politics by introducing separate electorates where only Muslims could vote for Muslim candidates.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The revolutionary Ghadar Party, formed in 1913 to overthrow British rule via an armed rebellion, was headquartered in which city?",
+    "hi": "सशस्त्र विद्रोह के जरिए ब्रिटिश शासन को उखाड़ फेंकने के लिए 1913 में गठित क्रांतिकारी गदर पार्टी का मुख्यालय किस शहर में था?",
+    "oEn": ["San Francisco", "Berlin", "Tokyo", "London"],
+    "oHi": ["सैन फ्रांसिस्को", "बर्लिन", "टोक्यो", "लंदन"],
+    "c": 0,
+    "exp": "The Ghadar Party was founded by Lala Hardayal, Sohan Singh Bhakna, and others at San Francisco, USA. Its official journal was called 'The Ghadar'.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Mahatma Gandhi returned to India from South Africa after over two decades on which historic day, now celebrated as Pravasi Bharatiya Divas?",
+    "hi": "महात्मा गांधी दो दशकों से अधिक समय के बाद किस ऐतिहासिक दिन दक्षिण अफ्रीका से भारत लौटे थे, जिसे अब प्रवासी भारतीय दिवस के रूप में मनाया जाता है?",
+    "oEn": ["January 9, 1915", "January 26, 1915", "October 2, 1914", "April 13, 1915"],
+    "oHi": ["9 जनवरी 1915", "26 जनवरी 1915", "2 अक्टूबर 1914", "13 अप्रैल 1915"],
+    "c": 0,
+    "exp": "Gandhiji landed at Apollo Bunder in Bombay on January 9, 1915. To commemorate his return, January 9 is marked as Pravasi Bharatiya Divas every year.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which of the following was Mahatma Gandhi's first successful Satyagraha campaign in India, launched in 1917 against the oppressive Tinkathia system?",
+    "hi": "निम्नलिखित में से कौन सा भारत में महात्मा गांधी का पहला सफल सत्याग्रह अभियान था, जिसे 1917 में दमनकारी तिनकठिया प्रणाली के खिलाफ शुरू किया गया था?",
+    "oEn": ["Champaran Satyagraha", "Kheda Satyagraha", "Ahmedabad Mill Strike", "Rowlatt Satyagraha"],
+    "oHi": ["चंपारण सत्याग्रह", "खेड़ा सत्याग्रह", "अहमदाबाद मिल हड़ताल", "रौलट सत्याग्रह"],
+    "c": 0,
+    "exp": "At the request of Raj Kumar Shukla, Gandhiji went to Champaran (Bihar) to fight the European planters who forced farmers to grow Indigo on 3/20th (Tinkathia) of their land.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The infamous Jallianwala Bagh Massacre took place on April 13, 1919 at Amritsar. Which British officer ordered the troops to open fire on the peaceful crowd celebrating Baisakhi?",
+    "hi": "अमृतसर में 13 अप्रैल 1919 को कुख्यात जलियांवाला बाग हत्याकांड हुआ था। किस ब्रिटिश अधिकारी ने बैसाखी मना रही शांत भीड़ पर गोलियां चलाने का आदेश दिया था?",
+    "oEn": ["Brigadier-General Reginald Dyer", "Michael O'Dwyer", "Lord Chelmsford", "Sir John Simon"],
+    "oHi": ["ब्रिगेडियर-जनरल रेजिनाल्ड डायर", "माइकल ओ'डायर", "लॉर्ड चेम्सफोर्ड", "सर जॉन साइमन"],
+    "c": 0,
+    "exp": "Brigadier-General Dyer blocked the exit of the park and ordered troops to fire continuously on unarmed people. (Note: Michael O'Dwyer was the Lieutenant Governor of Punjab at the time, later assassinated by Udham Singh).",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The Rowlatt Act of 1919, which provoked widespread protests and the Rowlatt Satyagraha, gave the British government the authority to do which of the following?",
+    "hi": "1919 के रौलट एक्ट ने, जिसके कारण व्यापक विरोध और रौलट सत्याग्रह हुआ, ब्रिटिश सरकार को निम्नलिखित में से कौन सा अधिकार दिया था?",
+    "oEn": ["Detain political prisoners without trial for up to two years", "Ban all vernacular newspapers completely", "Expropriate the properties of princely states", "Impose heavy taxes on agricultural crops"],
+    "oHi": ["बिना किसी मुकदमे के राजनीतिक कैदियों को दो साल तक हिरासत में रखना", "सभी स्थानीय भाषा के समाचार पत्रों को पूरी तरह से प्रतिबंधित करना", "रियासतों की संपत्तियों को जब्त करना", "कृषि फसलों पर भारी कर लगाना"],
+    "c": 0,
+    "exp": "The Anarchical and Revolutionary Crimes Act of 1919 (Rowlatt Act) allowed the government to arrest and imprison people suspected of sedition without any trial or legal appeal ('No Vakil, No Appeal, No Dalil').",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Khilafat Movement was launched in India in 1919 under the leadership of the Ali brothers. Who were the two brothers?",
+    "hi": "भारत में 1919 में अली बंधुओं के नेतृत्व में खिलाफत आंदोलन शुरू किया गया था। वे दो भाई कौन थे?",
+    "oEn": ["Shaukat Ali and Mohammad Ali", "Aga Khan and Salimullah", "Syed Ahmed Khan and Zakir Husain", "Abul Kalam Azad and Liaquat Ali Khan"],
+    "oHi": ["शौकत अली और मोहम्मद अली", "आगा खान और सलीमुल्लाह", "सैयद अहमद खान और जाकिर हुसैन", "अबुल कलाम आज़ाद और लियाकत अली खान"],
+    "c": 0,
+    "exp": "The Khilafat Movement was initiated by Shaukat Ali and Mohammad Ali Jouhar to protest against the dismantling of the Ottoman Caliphate by the British after WWI. Gandhiji integrated it with the Non-Cooperation Movement.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Mahatma Gandhi abruptly suspended the pan-India Non-Cooperation Movement in February 1922 due to a violent clash at which location?",
+    "hi": "महात्मा गांधी ने फरवरी 1922 में किस स्थान पर हुई हिंसक झड़प के कारण अखिल भारतीय असहयोग आंदोलन को अचानक स्थगित कर दिया था?",
+    "oEn": ["Chauri Chaura", "Bardoli", "Dandi", "Champaran"],
+    "oHi": ["चौरी चौरा", "बारडोली", "दांडी", "चंपारण"],
+    "c": 0,
+    "exp": "On February 5, 1922, a violent mob set fire to a police station at Chauri Chaura (Gorakhpur, UP), killing 22 policemen. Committed to absolute non-violence, Gandhiji immediately called off the movement.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who withdrew from the Congress after the suspension of the Non-Cooperation Movement to establish the 'Swaraj Party' in January 1923?",
+    "hi": "असहयोग आंदोलन के स्थगन के बाद जनवरी 1923 में 'स्वराज पार्टी' की स्थापना के लिए कांग्रेस से किसने अलग रास्ता चुना था?",
+    "oEn": ["Chittaranjan Das and Motilal Nehru", "Subhas Chandra Bose and Jawaharlal Nehru", "Vallabhbhai Patel and Rajendra Prasad", "Lala Lajpat Rai and Bipin Chandra Pal"],
+    "oHi": ["चित्तरंजन दास और मोतीलाल नेहरू", "सुभाष चंद्र बोस और जवाहरलाल नेहरू", "वल्लभभाई पटेल और राजेंद्र प्रसाद", "लाला लाजपत राय और बिपिन चंद्र पाल"],
+    "c": 0,
+    "exp": "C.R. Das (as President) and Motilal Nehru (as Secretary) founded the Congress-Khilafat Swarajya Party to enter legislative councils and disrupt British governance from within.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Hindustan Republican Association (HRA), later renamed HSRA, was behind the famous Kakori Train Action in August 1925. Who among the following was NOT executed for this case?",
+    "hi": "हिंदुस्तान रिपब्लिकन एसोसिएशन (HRA), जिसका नाम बाद में HSRA कर दिया गया था, अगस्त 1925 के प्रसिद्ध काकोरी ट्रेन एक्शन के पीछे था। निम्नलिखित में से किसे इस मामले में मृत्युदंड नहीं दिया गया था?",
+    "oEn": ["Chandrashekhar Azad", "Ram Prasad Bismil", "Ashfaqullah Khan", "Roshan Singh"],
+    "oHi": ["चन्द्रशेखर आज़ाद", "राम प्रसाद बिस्मिल", "अशफाक उल्ला खान", "रोशन सिंह"],
+    "c": 0,
+    "exp": "Bismil, Ashfaqullah, Roshan Singh, and Rajendra Lahiri were hanged by the British. Chandrashekhar Azad successfully evaded capture and later reorganized the group as HSRA in 1928.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Why did the Indian nationalist leaders completely boycott the Simon Commission when it arrived in British India in 1928?",
+    "hi": "1928 में जब साइमन कमीशन ब्रिटिश भारत आया, तब भारतीय राष्ट्रवादी नेताओं ने इसका पूर्ण बहिष्कार क्यों किया था?",
+    "oEn": ["It had no Indian members", "It recommended the division of Punjab", "It rejected the demand for a separate electorate", "It was led by Michael O'Dwyer"],
+    "oHi": ["इसमें कोई भी भारतीय सदस्य शामिल नहीं था", "इसने पंजाब के विभाजन की सिफारिश की थी", "इसने अलग निर्वाचन मंडल की मांग को खारिज कर दिया था", "इसका नेतृत्व माइकल ओ'डायर ने किया था"],
+    "c": 0,
+    "exp": "The Indian Statutory Commission (Simon Commission) was appointed to review constitutional reforms, but it was an 'All-White Commission' containing seven British MPs and zero Indian representatives.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "In which historic session of the Indian National Congress was the resolution for 'Purna Swaraj' (Complete Independence) officially adopted under the presidency of Jawaharlal Nehru?",
+    "hi": "जवाहरलाल नेहरू की अध्यक्षता में भारतीय राष्ट्रीय कांग्रेस के किस ऐतिहासिक अधिवेशन में 'पूर्ण स्वराज' (पूर्ण स्वतंत्रता) का प्रस्ताव आधिकारिक रूप से अपनाया गया था?",
+    "oEn": ["1929 Lahore Session", "1931 Karachi Session", "1924 Belgaum Session", "1938 Haripura Session"],
+    "oHi": ["1929 का लाहौर अधिवेशन", "1931 का कराची अधिवेशन", "1924 का बेलगाम अधिवेशन", "1938 का हरिपुरा अधिवेशन"],
+    "c": 0,
+    "exp": "The Lahore Session of December 1929 passed the Purna Swaraj declaration. The tricolor flag was hoisted on the banks of the Ravi River, and January 26, 1930, was declared the first Independence Day.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Mahatma Gandhi launched the Civil Disobedience Movement with his famous Dandi March. On which date did he break the salt law at Dandi?",
+    "hi": "महात्मा गांधी ने अपनी प्रसिद्ध दांडी यात्रा के साथ सविनय अवज्ञा आंदोलन की शुरुआत की थी। उन्होंने किस तारीख को दांडी में नमक कानून तोड़ा था?",
+    "oEn": ["April 6, 1930", "March 12, 1930", "April 13, 1930", "May 1, 1930"],
+    "oHi": ["6 अप्रैल 1930", "12 मार्च 1930", "13 अप्रैल 1930", "1 मई 1930"],
+    "c": 0,
+    "exp": "The Dandi March started from Sabarmati Ashram on March 12, 1930, and concluded 24 days later at the coastal village of Dandi on April 6, 1930, where Gandhi manufactured salt.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Who led the Civil Disobedience civil movement in the North-West Frontier Province (NWFP), organizing a non-violent volunteer corps known as the 'Khudai Khidmatgar' (Red Shirts)?",
+    "hi": "उत्तर-पश्चिम सीमांत प्रांत (NWFP) में सविनय अवज्ञा नागरिक आंदोलन का नेतृत्व किसने किया था और 'खुदाई खिदमतगार' (लाल कुर्ती) के रूप में जाने जाने वाले एक अहिंसक स्वयंसेवक दल का गठन किया था?",
+    "oEn": ["Khan Abdul Ghaffar Khan", "Khan Sahib", "Maulana Abul Kalam Azad", "Liaquat Ali Khan"],
+    "oHi": ["खान अब्दुल गफ्फार खान", "खान साहब", "मौलाना अबुल कलाम आज़ाद", "लियाकत अली खान"],
+    "c": 0,
+    "exp": "Khan Abdul Ghaffar Khan, widely known as 'Frontier Gandhi' (Seemant Gandhi), led the movement in the northwest region through strict Gandhian non-violence principles.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Poona Pact of September 1932 was signed between Mahatma Gandhi and Dr. B.R. Ambedkar. What was its main agreement?",
+    "hi": "सितंबर 1932 के पूना पैक्ट पर महात्मा गांधी और डॉ. बी.आर. अंबेडकर के बीच हस्ताक्षर किए गए थे। इसका मुख्य समझौता क्या था?",
+    "oEn": ["To abandon separate electorates for depressed classes in exchange for reserved seats", "To accept the British Communal Award completely", "To demand immediate dominion status for India", "To merge the Depressed Classes Association with Congress"],
+    "oHi": ["दलित वर्गों के लिए अलग निर्वाचन मंडल को त्याग कर आरक्षित सीटें देना", "ब्रिटिश सांप्रदायिक पंचाट (कम्यूनल अवार्ड) को पूरी तरह से स्वीकार करना", "भारत के लिए तत्काल डोमिनियन स्टेटस की मांग करना", "डिप्रेस्ड क्लासेस एसोसिएशन का कांग्रेस में विलय करना"],
+    "c": 0,
+    "exp": "Following Gandhi's fast-unto-death against the Communal Award's separate electorates, the Poona Pact retained joint electorates but significantly increased the reserved provincial assembly seats for the depressed classes.",
+    "Pyq": "SSC_CHSL_2022"
+  },
+  {
+    "en": "The 1931 Karachi session of the Indian National Congress is historic because it adopted resolutions on Fundamental Rights and Economic Policy. Who presided over this session?",
+    "hi": "भारतीय राष्ट्रीय कांग्रेस का 1931 का कराची अधिवेशन ऐतिहासिक है क्योंकि इसने मौलिक अधिकारों और आर्थिक नीति पर प्रस्तावों को अपनाया था। इस अधिवेशन की अध्यक्षता किसने की थी?",
+    "oEn": ["Sardar Vallabhbhai Patel", "Jawaharlal Nehru", "Subhas Chandra Bose", "Mahatma Gandhi"],
+    "oHi": ["सरदार वल्लभभाई पटेल", "जहाजलाल नेहरू", "सुभाष चंद्र बोस", "महात्मा गांधी"],
+    "c": 0,
+    "exp": "Sardar Vallabhbhai Patel presided over the Karachi session, which took place just days after the execution of Bhagat Singh, Sukhdev, and Rajguru.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which major constitutional act passed by the British introduced 'Provincial Autonomy' and abolished the system of Dyarchy in the provinces?",
+    "hi": "अंग्रेजों द्वारा पारित किस प्रमुख संवैधानिक अधिनियम ने 'प्रांतीय स्वायत्तता' की शुरुआत की और प्रांतों में द्वैध शासन (डायार्की) प्रणाली को समाप्त कर दिया था?",
+    "oEn": ["Government of India Act, 1935", "Indian Councils Act, 1909", "Government of India Act, 1919", "Indian Independence Act, 1947"],
+    "oHi": ["भारत सरकार अधिनियम, 1935", "भारतीय परिषद अधिनियम, 1909", "भारत सरकार अधिनियम, 1919", "भारतीय स्वतंत्रता अधिनियम, 1947"],
+    "c": 0,
+    "exp": "The Government of India Act 1935 abolished dyarchy at the provincial level, introduced provincial autonomy, and recommended dyarchy at the center along with a federal court structure.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Subhas Chandra Bose was elected President of the INC in 1938 and 1939. At which session did he resign due to ideological conflicts with Gandhi, later creating the 'Forward Bloc'?",
+    "hi": "सुभाष चंद्र बोस 1938 और 1939 में कांग्रेस के अध्यक्ष चुने गए थे। गांधीजी के साथ वैचारिक मतभेदों के कारण उन्होंने किस अधिवेशन में इस्तीफा दे दिया, और बाद में 'फॉरवर्ड ब्लॉक' का गठन किया था?",
+    "oEn": ["Tripuri Session, 1939", "Haripura Session, 1938", "Ramgarh Session, 1940", "Calcutta Session, 1937"],
+    "oHi": ["त्रिपुरी अधिवेशन, 1939", "हरिपुरा अधिवेशन, 1938", "रामगढ़ अधिवेशन, 1940", "कलकत्ता अधिवेशन, 1937"],
+    "c": 0,
+    "exp": "At the Tripuri Crisis of 1939, Bose defeated Gandhi's preferred candidate Pattabhi Sitaramayya but resigned soon after due to internal committee stalemates. Dr. Rajendra Prasad was then appointed president.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The historic 'Quit India Resolution' was officially adopted on August 8, 1942 at which playground in Bombay, where Gandhi gave the slogan 'Do or Die'?",
+    "hi": "ऐतिहासिक 'भारत छोड़ो प्रस्ताव' आधिकारिक तौर पर 8 अगस्त 1942 को बॉम्बे के किस मैदान में अपनाया गया था, जहां गांधीजी ने 'करो या मरो' का नारा दिया था?",
+    "oEn": ["Gowalia Tank Maidan", "Azad Maidan", "Shivaji Park", "Cross Maidan"],
+    "oHi": ["ग्वालिया टैंक मैदान (अब अगस्त क्रांति मैदान)", "आजाद मैदान", "शिवाजी पार्क", "क्रॉस मैदान"],
+    "c": 0,
+    "exp": "The All India Congress Committee met at Gowalia Tank Maidan, Bombay, to flag off the Quit India Movement. The British administration reacted immediately by launching 'Operation Zero Hour' to arrest all top leaders.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The Indian National Army (INA) or Azad Hind Fauj was initially formed in Malaya in 1942 under whose leadership before Subhas Chandra Bose took command?",
+    "hi": "सुभाष चंद्र बोस द्वारा कमान संभालने से पहले 1942 में मलाया में भारतीय राष्ट्रीय सेना (INA) या आज़ाद हिंद फ़ौज का गठन मूल रूप से किसके नेतृत्व में किया गया था?",
+    "oEn": ["Captain Mohan Singh", "Rash Behari Bose", "Shah Nawaz Khan", "Lakshmi Sahgal"],
+    "oHi": ["कैप्टन मोहन सिंह", "रासबिहारी बोस", "शाहनवाज खान", "लक्ष्मी सहगल"],
+    "c": 0,
+    "exp": "The INA was first conceived by Captain Mohan Singh with Japanese assistance using Indian prisoners-of-war. Subhas Chandra Bose later traveled to Singapore in 1943 to reorganize it completely.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The British government sent the Cabinet Mission to India in 1946 to negotiate the constitutional framework. Who were the three members of this mission?",
+    "hi": "ब्रिटिश सरकार ने संवैधानिक ढांचे पर बातचीत करने के लिए 1946 में कैबिनेट मिशन भारत भेजा था। इस मिशन के तीन सदस्य कौन थे?",
+    "oEn": ["Pethick-Lawrence, Stafford Cripps, and A.V. Alexander", "John Simon, Clement Attlee, and Stafford Cripps", "Lord Mountbatten, Cyril Radcliffe, and Lord Wavell", "Robert Clive, Warren Hastings, and Lord Cornwallis"],
+    "oHi": ["पेथिक-लॉरेंस, स्टैफोर्ड क्रिप्स और ए.वी. अलेक्जेंडर", "जॉन साइमन, क्लेमेंट एटली और स्टैफोर्ड क्रिप्स", "लॉर्ड माउंटबैटन, सिरिल रेडक्लिफ और लॉर्ड वेवेल", "रॉबर्ट क्लाइव, वारेन हेस्टिंग्स और लॉर्ड कॉर्नवालिस"],
+    "c": 0,
+    "exp": "The 1946 Cabinet Mission was sent by British PM Clement Attlee. It was headed by Secretary of State Lord Pethick-Lawrence, alongside Sir Stafford Cripps and A.V. Alexander.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who served as the Chairman of the Boundary Commissions appointed in 1947 to demarcate the international borders between India and Pakistan?",
+    "hi": "भारत और पाकिस्तान के बीच अंतर्राष्ट्रीय सीमाओं के निर्धारण के लिए 1947 में नियुक्त सीमा आयोगों (बाउंड्री कमीशन) के अध्यक्ष के रूप में किसने कार्य किया था?",
+    "oEn": ["Sir Cyril Radcliffe", "Sir Stafford Cripps", "Lord Mountbatten", "Sir John Simon"],
+    "oHi": ["सर सिरिल रेडक्लिफ", "सर स्टैफोर्ड क्रिप्स", "लॉर्ड माउंटबैटन", "सर जॉन साइमन"],
+    "c": 0,
+    "exp": "Sir Cyril Radcliffe, a British lawyer with no prior knowledge of India, was appointed to chair the partition boundary commissions for Punjab and Bengal, leading to the creation of the 'Radcliffe Line'.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Who was the only Indian national to serve as the Governor-General of independent India from 1948 to 1950?",
+    "hi": "1948 से 1950 तक स्वतंत्र भारत के गवर्नर-जनरल के रूप में कार्य करने वाले एकमात्र भारतीय नागरिक कौन थे?",
+    "oEn": ["C. Rajagopalachari", "Dr. Rajendra Prasad", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel"],
+    "oHi": ["सी. राजगोपालाचारी", "डॉ. राजेन्द्र प्रसाद", "जवाहरलाल नेहरू", "सरदार वल्लभभाई पटेल"],
+    "c": 0,
+    "exp": "Lord Mountbatten was the first Governor-General of independent India. He was succeeded by Chakravarti Rajagopalachari (Rajaji), who remained in office until India became a republic in January 1950.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "The famous Bardoli Satyagraha of 1928, a peasant tax strike against arbitrary land revenue hikes, was led by which leader, earning him the title 'Sardar'?",
+    "hi": "मनमाने ढंग से भूमि राजस्व में वृद्धि के खिलाफ एक किसान कर हड़ताल, 1928 के प्रसिद्ध बारडोली सत्याग्रह का नेतृत्व किस नेता ने किया था, जिससे उन्हें 'सरदार' की उपाधि मिली थी?",
+    "oEn": ["Vallabhbhai Patel", "Mahatma Gandhi", "Morarji Desai", "Jawaharlal Nehru"],
+    "oHi": ["वल्लभभाई पटेल", "महात्मा गांधी", "मोरारजी देसाई", "जवाहरलाल नेहरू"],
+    "c": 0,
+    "exp": "Vallabhbhai Patel successfully organized the peasants of Bardoli (Gujarat). Following the success of the non-violent protest, the women of Bardoli bestowed upon him the honorific title 'Sardar' (Leader).",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Who founded the 'Aligarh Movement' and established the Muhammadan Anglo-Oriental College in 1875, which later grew into the Aligarh Muslim University?",
+    "hi": "1875 में 'अलीगढ़ आंदोलन' की शुरुआत किसने की थी और मुहम्मडन एंग्लो-ओरिएंटल कॉलेज की स्थापना की थी, जो बाद में अलीगढ़ मुस्लिम विश्वविद्यालय बना?",
+    "oEn": ["Sir Syed Ahmed Khan", "Mirza Ghulam Ahmad", "Muhammad Ali Jinnah", "Badruddin Tyabji"],
+    "oHi": ["सर सैयद अहमद खान", "मिर्जा गुलाम अहमद", "मोहम्मद अली जिन्ना", "बदरुद्दीन तैयबजी"],
+    "c": 0,
+    "exp": "Sir Syed Ahmed Khan worked to modernize Muslim education and social outlooks by harmonizing Islamic teachings with Western scientific thought, centering his efforts at Aligarh.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The historic 'Lucknow Pact' of 1916 was highly significant in the history of the Indian national movement because it accomplished which of the following?",
+    "hi": "1916 का ऐतिहासिक 'लखनऊ समझौता' भारतीय राष्ट्रीय आंदोलन के इतिहास में अत्यधिक महत्वपूर्ण था क्योंकि इसने निम्नलिखित में से क्या हासिल किया था?",
+    "oEn": ["Brought about a joint alliance between the Congress and the Muslim League", "Led to the permanent exit of Extremists from the Congress", "Rejected separate electorates entirely", "Forced the British to announce the August Declaration"],
+    "oHi": ["कांग्रेस और मुस्लिम लीग के बीच एक संयुक्त गठबंधन स्थापित किया", "कांग्रेस से गरम दल के स्थायी निष्कासन का कारण बना", "अलग निर्वाचन मंडल को पूरी तरह से खारिज कर दिया", "अंग्रेजों को अगस्त घोषणा करने के लिए मजबूर किया"],
+    "c": 0,
+    "exp": "Presided over by Ambica Charan Mazumdar, the 1916 Lucknow session reunited the Moderates and Extremists, and also signed the Lucknow Pact with the Muslim League to present shared political demands to the British.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Who among the following was the first Indian woman to be elected as the President of the Indian National Congress at the 1925 Kanpur Session?",
+    "hi": "निम्नलिखित में से कौन 1925 के कानपुर अधिवेशन में भारतीय राष्ट्रीय कांग्रेस के अध्यक्ष के रूप में चुनी जाने वाली पहली भारतीय महिला थीं?",
+    "oEn": ["Sarojini Naidu", "Annie Besant", "Nellie Sengupta", "Aruna Asaf Ali"],
+    "oHi": ["सरोजिनी नायडू", "एनी बेसेंट", "नेली सेनगुप्ता", "अरुणा आसफ अली"],
+    "c": 0,
+    "exp": "Sarojini Naidu was the first *Indian* woman president (Kanpur, 1925). (Note: Annie Besant, a British national, was the first *overall* woman president of the INC at the Calcutta Session in 1917).",
+    "Pyq": "SSC_CGL_2024"
+  }
+]
