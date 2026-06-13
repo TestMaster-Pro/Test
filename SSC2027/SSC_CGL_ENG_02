@@ -1,0 +1,302 @@
+[
+  {
+    "en": "Identify the segment that contains a grammatical error:\nNeither the captain nor the crew members was present at the briefing yesterday.",
+    "oEn": [
+      "Neither the captain",
+      "nor the crew members",
+      "was present at",
+      "the briefing yesterday"
+    ],
+    "c": 2,
+    "exp": "When two subjects are joined by 'neither... nor', the verb agrees with the closer subject. 'Crew members' is plural, so 'was' should be replaced with 'were'.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nScarcely had he reached the station when the train started moving out of the platform.",
+    "oEn": [
+      "Scarcely had he reached",
+      "the station when",
+      "the train started moving",
+      "No error"
+    ],
+    "c": 3,
+    "exp": "The sentence is grammatically correct. 'Scarcely' is correctly followed by 'had + subject + V3' (inversion) and paired with the conjunction 'when'.",
+    "Pyq": "SSC_CGL_MAINS_2022"
+  },
+  {
+    "en": "Improve the underlined part of the sentence:\nIf I *was you*, I would not accept this project under any circumstances.",
+    "oEn": [
+      "If I am you",
+      "If I were you",
+      "If I had been you",
+      "No improvement"
+    ],
+    "c": 1,
+    "exp": "This is a second conditional sentence expressing an imaginary or hypothetical situation. The subjunctive mood verb 'were' is used for all subjects.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe furniture in his newly renovated apartment are surprisingly elegant and modern.",
+    "oEn": [
+      "The furniture in",
+      "his newly renovated apartment",
+      "are surprisingly elegant",
+      "and modern"
+    ],
+    "c": 2,
+    "exp": "'Furniture' is an uncountable noun and always takes a singular verb. Therefore, 'are' must be replaced with 'is'.",
+    "Pyq": "SSC_CGL_PRE_2022"
+  },
+  {
+    "en": "Improve the underlined part of the sentence:\nShe is looking forward *to meet* the managing director next week.",
+    "oEn": [
+      "to meeting",
+      "for meeting",
+      "to have met",
+      "No improvement"
+    ],
+    "c": 0,
+    "exp": "The phrase 'looking forward to' is a phrasal preposition where 'to' is a preposition, not part of an infinitive. It must be followed by a gerund (V1 + ing), so 'to meeting' is correct.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nNot only did the robbers take all the cash but they also damaged the structural properties of the bank.",
+    "oEn": [
+      "Not only did the robbers",
+      "take all the cash",
+      "but they also damaged",
+      "No error"
+    ],
+    "c": 3,
+    "exp": "The sentence is grammatically correct. 'Not only' triggers inversion ('did the robbers take') and is correctly paired with 'but... also'.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Improve the underlined part of the sentence:\nNo sooner *he had stepped* out of the house than it began to rain heavily.",
+    "oEn": [
+      "he stepped",
+      "had he stepped",
+      "did he stepped",
+      "No improvement"
+    ],
+    "c": 1,
+    "exp": "When a sentence begins with a negative adverbial like 'No sooner', law of inversion applies. The auxiliary verb 'had' must come before the subject 'he'.",
+    "Pyq": "SSC_CGL_MAINS_2022"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nMany a student have failed to clear the preliminary examination due to poor time management.",
+    "oEn": [
+      "Many a student",
+      "have failed to clear",
+      "the preliminary examination",
+      "due to poor time"
+    ],
+    "c": 1,
+    "exp": "The phrase 'Many a' is always followed by a singular noun and a singular verb. 'Have' should be replaced with 'has'.",
+    "Pyq": "SSC_CGL_PRE_2021"
+  },
+  {
+    "en": "Improve the underlined part of the sentence:\nHe behaves *as if he knows* everything about the financial crisis.",
+    "oEn": [
+      "as if he knew",
+      "as if he has known",
+      "as if he is knowing",
+      "No improvement"
+    ],
+    "c": 0,
+    "exp": "'As if' / 'As though' indicates an unreal or hypothetical situation. It requires the past subjunctive tense (V2) for present untruths. 'Knows' should change to 'knew'.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nTwo-thirds of the book were written in a chaotic and completely unreadable manner.",
+    "oEn": [
+      "Two-thirds of",
+      "the book were",
+      "written in a chaotic",
+      "and completely unreadable"
+    ],
+    "c": 1,
+    "exp": "When fractions or percentages are used, the verb agrees with the noun following the 'of'. Since 'the book' is singular, the verb must be singular ('was written').",
+    "Pyq": "SSC_CGL_PRE_2022"
+  },
+  {
+    "en": "Improve the underlined part of the sentence:\nUnless you *do not work hard*, you will not achieve your desired rank in the examination.",
+    "oEn": [
+      "work hard",
+      "will work hard",
+      "had worked hard",
+      "No improvement"
+    ],
+    "c": 0,
+    "exp": "'Unless' itself has a negative meaning ('if... not'). Using 'do not' with 'unless' creates a superfluous double negative. It should be 'Unless you work hard'.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nEach of the items listed in the inventory tracking system are checked manually every morning.",
+    "oEn": [
+      "Each of the items",
+      "listed in the inventory",
+      "are checked manually",
+      "every morning"
+    ],
+    "c": 2,
+    "exp": "The subject of the sentence is 'Each', which is distributive and singular. The verb must be singular; replace 'are' with 'is'.",
+    "Pyq": "SSC_CGL_MAINS_2022"
+  },
+  {
+    "en": "Improve the underlined part of the sentence:\nHe *hardly knows nothing* about the corporate politics of this multinational company.",
+    "oEn": [
+      "hardly knows anything",
+      "knows hardly nothing",
+      "hardly knew nothing",
+      "No improvement"
+    ],
+    "c": 0,
+    "exp": "'Hardly' is a negative qualifier. Pairing it with 'nothing' creates an incorrect double negative. It must be paired with 'anything'.",
+    "Pyq": "SSC_CGL_PRE_2021"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nSupposing if it rains tomorrow, we will have to postpone the outdoor sports event.",
+    "oEn": [
+      "Supposing if",
+      "it rains tomorrow",
+      "we will have to",
+      "postpone the outdoor"
+    ],
+    "c": 0,
+    "exp": 'Supposing' and 'if' mean the same thing in conditional contexts. Using them together is redundant. Use either 'Supposing it rains' or 'If it rains'.",
+    "Pyq": "SSC_CGL_PRE_2022"
+  },
+  {
+    "en": "Improve the underlined part of the sentence:\nIf she *had invited* me earlier, I would have attended her wedding ceremony definitely.",
+    "oEn": [
+      "invited me",
+      "has invited me",
+      "would invite me",
+      "No improvement"
+    ],
+    "c": 3,
+    "exp": "This is a third conditional sentence structure (If + past perfect, would + have + V3) representing an unfulfilled action in the past. The sentence is perfectly correct.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe standard of living in metropolitan cities is much higher than small towns.",
+    "oEn": [
+      "The standard of living",
+      "in metropolitan cities",
+      "is much higher",
+      "than small towns"
+    ],
+    "c": 3,
+    "exp": "The comparison must be balanced (parallel structure). We are comparing the 'standard of living' of cities, not the cities themselves to towns. It should be 'than that of small towns'.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Improve the underlined part of the sentence:\nHe is *superior and older than* all other colleagues in his current department.",
+    "oEn": [
+      "superior than and older than",
+      "superior to and older than",
+      "superior to and older to",
+      "No improvement"
+    ],
+    "c": 1,
+    "exp": "Different adjectives require different prepositions. 'Superior' always takes 'to', while 'older' takes 'than'. Both prepositions must be explicitly stated.",
+    "Pyq": "SSC_CGL_MAINS_2022"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nBeing a rainy day, we decided to cancel our planned weekend picnic and stay indoors.",
+    "oEn": [
+      "Being a rainy day",
+      "we decided to",
+      "cancel our planned",
+      "weekend picnic"
+    ],
+    "c": 0,
+    "exp": "This is a dangling participle error. As written, 'we' becomes the subject of 'Being a rainy day'. A separate pronoun 'It' is required to clear the subject: 'It being a rainy day'.",
+    "Pyq": "SSC_CGL_PRE_2022"
+  },
+  {
+    "en": "Improve the underlined part of the sentence:\nIt is high time you *start studying* seriously for the competitive exams.",
+    "oEn": [
+      "started studying",
+      "should start studying",
+      "have started studying",
+      "No improvement"
+    ],
+    "c": 0,
+    "exp": "Phrases like 'It is time', 'It is high time', or 'It is about time' are followed by a clause in the simple past tense (V2) to show that something is overdue.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe crew were not allowed to leave the ship until the customs officers cleared them.",
+    "oEn": [
+      "The crew were",
+      "not allowed to",
+      "leave the ship until",
+      "No error"
+    ],
+    "c": 3,
+    "exp": "The sentence is error-free. Collective nouns like 'crew' can take a plural verb ('were') when the members are thought of acting individually or as individual entities.",
+    "Pyq": "SSC_CGL_MAINS_2023"
+  },
+  {
+    "en": "Improve the underlined part of the sentence:\nHe was restricted *from entering* the premium lounge due to his invalid pass.",
+    "oEn": [
+      "to enter",
+      "to entering",
+      "against entering",
+      "No improvement"
+    ],
+    "c": 3,
+    "exp": "The verb 'restrict' is appropriately followed by the preposition 'from' + gerund (V1+ing). The phrase 'restricted from entering' is completely idiomatic and correct.",
+    "Pyq": "SSC_CGL_PRE_2021"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nNone of the two candidates who were interviewed yesterday displayed adequate technical knowledge.",
+    "oEn": [
+      "None of the two",
+      "candidates who were",
+      "interviewed yesterday",
+      "displayed adequate"
+    ],
+    "c": 0,
+    "exp": "'None' is used for choices among more than two people or things. When specifically referring to two items or people, 'Neither' should be used instead.",
+    "Pyq": "SSC_CGL_PRE_2022"
+  },
+  {
+    "en": "Improve the underlined part of the sentence:\nShe would rather *to read* a detective novel than watch a slow-paced romantic movie.",
+    "oEn": [
+      "read",
+      "reading",
+      "had read",
+      "No improvement"
+    ],
+    "c": 0,
+    "exp": "The expression 'would rather' is always followed by a bare infinitive (V1 without 'to'). Therefore, 'to read' must be shortened to 'read'.",
+    "Pyq": "SSC_CGL_MAINS_2022"
+  },
+  {
+    "en": "Identify the segment that contains a grammatical error:\nThe principal requested the faculty members to discuss about the new educational policy.",
+    "oEn": [
+      "The principal requested",
+      "the faculty members",
+      "to discuss about",
+      "the new educational policy"
+    ],
+    "c": 2,
+    "exp": "The verb 'discuss' is a transitive verb and takes a direct object without needing a preposition. The word 'about' after 'discuss' is redundant.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  },
+  {
+    "en": "Improve the underlined part of the sentence:\nHardly had the teacher entered the classroom *than* the students stood up to greet her.",
+    "oEn": [
+      "then",
+      "when",
+      "before than",
+      "No improvement"
+    ],
+    "c": 1,
+    "exp": "'Hardly' and 'Scarcely' are strictly paired with the subordinating conjunction 'when' (or 'before'), whereas 'No sooner' is paired with 'than'.",
+    "Pyq": "SSC_CGL_PRE_2023"
+  }
+]
