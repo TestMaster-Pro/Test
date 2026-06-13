@@ -1,0 +1,452 @@
+[
+  {
+    "en": "What is the standard length of a cricket pitch between the two sets of wickets?",
+    "hi": "क्रिकेट में दोनों विकेटों के बीच की मानक दूरी (पिच की लंबाई) कितनी होती है?",
+    "oEn": ["20 yards", "22 yards", "24 yards", "18 yards"],
+    "oHi": ["20 गज", "22 गज", "24 गज", "18 गज"],
+    "c": 1,
+    "exp": "According to the laws of cricket, the pitch is a rectangular area of the ground 22 yards (20.12 meters) long and 10 feet (3.05 meters) wide.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "With which of the following sports is the term 'Deuce' and 'Advantage' prominently associated?",
+    "hi": "ड्यूस (Deuce) और 'एडवांटेज' (Advantage) शब्द मुख्य रूप से निम्नलिखित में से किस खेल से संबंधित हैं?",
+    "oEn": ["Badminton", "Table Tennis", "Lawn Tennis", "Volleyball"],
+    "oHi": ["बैडमिंटन", "टेबल टेनिस", "लॉन टेनिस", "वॉलीबॉल"],
+    "c": 2,
+    "exp": "In Lawn Tennis, 'Deuce' occurs when a game score is tied at 40-40. The player who wins the next point gains the 'Advantage' and needs one more consecutive point to win the game.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Who was the first Indian woman to win an individual Olympic medal?",
+    "hi": "व्यक्तिगत ओलंपिक पदक जीतने वाली पहली भारतीय महिला कौन थीं?",
+    "oEn": ["P.T. Usha", "Karnam Malleswari", "Saina Nehwal", "M.C. Mary Kom"],
+    "oHi": ["पी.टी. उषा", "कर्णम मल्लेश्वरी", "साइना नेहवाल", "एम.सी. मैरी कॉम"],
+    "c": 1,
+    "exp": "Weightlifter Karnam Malleswari won a bronze medal in the women's 69 kg category at the 2000 Sydney Olympics, becoming the first Indian woman to win an Olympic medal.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The prestigious 'Thomas Cup' is an international championship associated with which sport?",
+    "hi": "प्रतिष्ठित 'थॉमस कप' किस खेल से संबंधित एक अंतर्राष्ट्रीय चैंपियनशिप है?",
+    "oEn": ["Table Tennis", "Football", "Badminton", "Golf"],
+    "oHi": ["टेबल टेनिस", "फुटबॉल", "बैडमिंटन", "गोल्फ"],
+    "c": 2,
+    "exp": "The Thomas Cup, sometimes called the World Men's Team Championships, is an international badminton competition among teams representing member nations of the Badminton World Federation (BWF).",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "What is the standard duration of a professional field hockey match as per the latest FIH rules?",
+    "hi": "नवीनतम FIH नियमों के अनुसार, एक पेशेवर फील्ड हॉकी मैच की मानक अवधि कितनी होती है?",
+    "oEn": ["60 minutes", "70 minutes", "80 minutes", "90 minutes"],
+    "oHi": ["60 मिनट", "70 मिनट", "80 मिनट", "90 मिनट"],
+    "c": 0,
+    "exp": "International hockey matches are played for a duration of 60 minutes, divided into four quarters of 15 minutes each. Previously, it used to be two halves of 35 minutes.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The terms 'Bullseye', 'Muzzle', and 'Plinking' are used in which of the following sporting disciplines?",
+    "hi": "'बुल्सआई' (Bullseye), 'मज़ल' (Muzzle) और 'प्लिंकिंग' (Plinking) शब्दों का प्रयोग किस खेल में किया जाता है?",
+    "oEn": ["Archery", "Shooting", "Fencing", "Equestrian"],
+    "oHi": ["तीरंदाजी", "शूटिंग (निशानेबाजी)", "फेंसिंग (तलवारबाजी)", "घुड़सवारी"],
+    "c": 1,
+    "exp": "These terms belong to shooting sports. 'Muzzle' is the front end of a firearm barrel, 'Bullseye' is the center of the target, and 'Plinking' refers to informal shooting at non-standard targets.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Who among the following is the first Indian fencer to qualify for the Olympic Games?",
+    "hi": "ओलंपिक खेलों के लिए क्वालीफाई करने वाली पहली भारतीय फेंसर (तलवारबाज) कौन हैं?",
+    "oEn": ["Kavita Devi", "C.A. Bhavani Devi", "Radhika Prakash", "Taniksha Khatri"],
+    "oHi": ["कविता देवी", "सी.ए. भवानी देवी", "राधिका प्रकाश", "तनिक्षा खत्री"],
+    "c": 1,
+    "exp": "Chadalavada Anandha Sundhararaman Bhavani Devi, commonly known as C.A. Bhavani Devi, became the first-ever Indian fencer to qualify for the Olympics when she secured a berth at the Tokyo 2020 Games.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The 'Durand Cup', the oldest football tournament in Asia, was first held in which Indian city?",
+    "hi": "एशिया का सबसे पुराना फुटबॉल टूर्नामेंट 'डूरंड कप' पहली बार किस भारतीय शहर में आयोजित किया गया था?",
+    "oEn": ["Calcutta", "Shimla", "Bombay", "Delhi"],
+    "oHi": ["कलकत्ता", "शिमला", "बॉम्बे", "दिल्ली"],
+    "c": 1,
+    "exp": "The Durand Cup was founded in 1888 by Sir Mortimer Durand at Shimla. It was initially held as an Army tournament but was later opened to civilian teams.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "What is the standard weight of a professional men's shot put ball in track and field events?",
+    "hi": "ट्रैक एंड फील्ड स्पर्धाओं में पुरुषों के शॉट पुट (गोला फेंक) के गोले का मानक वजन कितना होता है?",
+    "oEn": ["7.26 kg", "5.00 kg", "4.00 kg", "8.00 kg"],
+    "oHi": ["7.26 किग्रा", "5.00 किग्रा", "4.00 किग्रा", "8.00 किग्रा"],
+    "c": 0,
+    "exp": "In international track and field events, the men's shot put ball must weigh exactly 7.26 kg (16 lbs), while the standard women's shot put ball weighs 4 kg (8.8 lbs).",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "With which country did the modern game of Badminton originate under its early name 'Poona'?",
+    "hi": "आधुनिक बैडमिंटन खेल की उत्पत्ति अपने शुरुआती नाम 'पूना' के तहत किस देश में हुई थी?",
+    "oEn": ["England", "India", "Malaysia", "China"],
+    "oHi": ["इंग्लैंड", "भारत", "मलेशिया", "चीन"],
+    "c": 1,
+    "exp": "The roots of modern badminton can be traced back to mid-19th century British India, where British garrison officers created it in the city of Pune (then Poona) by adding a net to the traditional children's game battledore and shuttlecock.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The term 'Grand Slam' in professional golf consists of winning how many major championships in a calendar year?",
+    "hi": "पेशेवर गोल्फ में 'ग्रैंड स्लैम' का तात्पर्य एक कैलेंडर वर्ष में कितने प्रमुख चैंपियनशिप (मेजर्स) जीतने से है?",
+    "oEn": ["Three", "Four", "Five", "Two"],
+    "oHi": ["तीन", "चार", "पांच", "दो"],
+    "c": 1,
+    "exp": "In men's professional golf, a calendar-year Grand Slam means winning all four major championships: The Masters Tournament, the PGA Championship, the U.S. Open, and The Open Championship.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "Who was the first Indian track and field athlete to win a gold medal at the World Athletics Championships?",
+    "hi": "विश्व एथलेटिक्स चैंपियनशिप में स्वर्ण पदक जीतने वाले पहले भारतीय एथलीट कौन हैं?",
+    "oEn": ["Anju Bobby George", "Neeraj Chopra", "Milkha Singh", "Hima Das"],
+    "oHi": ["अंजू बॉबी जॉर्ज", "नीरज चोपड़ा", "मिल्खा सिंह", "हिमा दास"],
+    "c": 1,
+    "exp": "Javelin thrower Neeraj Chopra won India's first-ever gold medal at the World Athletics Championships in Budapest in 2023 with a throw of 88.17 meters. Anju Bobby George won India's first medal (Bronze) in 2003.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "What is the total length of a standard Olympic-size swimming pool?",
+    "hi": "एक मानक ओलंपिक आकार के स्विमिंग पूल की कुल लंबाई कितनी होती है?",
+    "oEn": ["25 meters", "50 meters", "75 meters", "100 meters"],
+    "oHi": ["25 मीटर", "50 मीटर", "75 मीटर", "100 मीटर"],
+    "c": 1,
+    "exp": "A standard Olympic-size swimming pool is exactly 50 meters long, 25 meters wide, and has a minimum depth of two meters, containing 10 designated lanes.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "The 'Sultan Azlan Shah Cup' is an annual international men's team competition held for which sport?",
+    "hi": "'सुल्तान अजलान शाह कप' किस खेल के लिए आयोजित होने वाली एक वार्षिक अंतर्राष्ट्रीय पुरुष टीम प्रतियोगिता है?",
+    "oEn": ["Cricket", "Football", "Field Hockey", "Polo"],
+    "oHi": ["क्रिकेट", "फुटबॉल", "फील्ड हॉकी", "पोलो"],
+    "c": 2,
+    "exp": "The Sultan Azlan Shah Cup is a prestigious annual international men's field hockey tournament held in Malaysia, named after the ninth Yang di-Pertuan Agong (King) of Malaysia, Sultan Azlan Shah.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "In basketball, how many points are awarded for a successful free throw?",
+    "hi": "बास्केटबॉल में, एक सफल फ्री थ्रो के लिए कितने अंक दिए जाते हैं?",
+    "oEn": ["1 point", "2 points", "3 points", "0 points"],
+    "oHi": ["1 अंक", "2 अंक", "3 अंक", "0 अंक"],
+    "c": 0,
+    "exp": "A free throw or foul shot is an unhindered shot taken from the free-throw line. Each successful free throw scores exactly 1 point.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The terms 'Chukker' and 'Mallet' are natively used in which of the following sports?",
+    "hi": "'चुक्कर' (Chukker) और 'मैलेट' (Mallet) शब्दों का मूल रूप से किस खेल में उपयोग किया जाता है?",
+    "oEn": ["Golf", "Polo", "Billiards", "Croquet"],
+    "oHi": ["गोल्फ", "पोलो", "बिलियर्ड्स", "क्रॉकेट"],
+    "c": 1,
+    "exp": "In Polo, a 'Chukker' (or chukka) is a 7.5-minute period of play. A 'Mallet' is the long-handled stick with a wooden head used by players to strike the polo ball.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Who is the first Indian to win the prestigious All England Open Badminton Championship?",
+    "hi": "प्रतिष्ठित ऑल इंग्लैंड ओपन बैडमिंटन चैंपियनशिप जीतने वाले पहले भारतीय कौन हैं?",
+    "oEn": ["Prakash Padukone", "Pullela Gopichand", "K. Srikanth", "Lakshya Sen"],
+    "oHi": ["प्रकाश पादुकोण", "पुलेला गोपीचंद", "के. श्रीकांत", "लक्ष्य सेन"],
+    "c": 0,
+    "exp": "Prakash Padukone became the first Indian to win the All England Open Badminton Championship in 1980 by defeating Liem Swie King of Indonesia. Pullela Gopichand was the second Indian to do so in 2001.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "What is the maximum number of players allowed on the court for each team in a standard Volleyball match?",
+    "hi": "एक मानक वॉलीबॉल मैच में प्रत्येक टीम के लिए कोर्ट पर अधिकतम कितने खिलाड़ियों को खेलने की अनुमति होती है?",
+    "oEn": ["5 players", "6 players", "7 players", "11 players"],
+    "oHi": ["5 खिलाड़ी", "6 खिलाड़ी", "7 खिलाड़ी", "11 खिलाड़ी"],
+    "c": 1,
+    "exp": "In standard indoor volleyball, each team has 6 players on the court at any given time, making a total of 12 active players on the court during play.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "The historic 'Ranji Trophy' in Indian domestic cricket was named after Kumar Shri Ranjitsinhji, who represented which country in international cricket?",
+    "hi": "भारतीय घरेलू क्रिकेट में ऐतिहासिक 'रणजी ट्रॉफी' का नाम कुमार श्री रणजीतसिंहजी के नाम पर रखा गया था, उन्होंने अंतर्राष्ट्रीय क्रिकेट में किस देश का प्रतिनिधित्व किया था?",
+    "oEn": ["India", "England", "Australia", "South Africa"],
+    "oHi": ["भारत", "इंग्लैंड", "ऑस्ट्रेलिया", "दक्षिण अफ्रीका"],
+    "c": 1,
+    "exp": "The Ranji Trophy was launched in 1934 and named after Kumar Shri Ranjitsinhji (Jam Saheb of Nawanagar). Although Indian, he played international test cricket exclusively for England.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The term 'Cox' or 'Coxswain' is associated with which of the following water sports?",
+    "hi": "'कॉक्स' (Cox) या 'कॉक्सवेन' शब्द निम्नलिखित में से किस जल क्रीड़ा (वॉटर स्पोर्ट) से जुड़ा है?",
+    "oEn": ["Swimming", "Rowing", "Water Polo", "Kayaking"],
+    "oHi": ["स्विमिंग", "रोइंग (नौकायन)", "वॉटर पोलो", "कायाकिंग"],
+    "c": 1,
+    "exp": "In Rowing, a 'Coxswain' (or simply cox) is the non-rowing member sitting in the stern who steers the boat, coaches the crew on strategy, and coordinates the rhythm of the rowers.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "In which city were the first-ever modern Olympic Games held in 1896?",
+    "hi": "1896 में पहले आधुनिक ओलंपिक खेल किस शहर में आयोजित किए गए थे?",
+    "oEn": ["Paris", "Athens", "London", "Rome"],
+    "oHi": ["पेरिस", "एथेंस", "लंदन", "रोम"],
+    "c": 1,
+    "exp": "The first modern Olympic Games were officially known as the Games of the I Olympiad and were held in Athens, Greece, in April 1896, revived under the efforts of Pierre de Coubertin.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which of the following awards is the highest sporting honor given to an athlete in India?",
+    "hi": "निम्नलिखित में से कौन सा पुरस्कार भारत में किसी एथलीट को दिया जाने वाला सर्वोच्च खेल सम्मान है?",
+    "oEn": ["Arjuna Award", "Dronacharya Award", "Major Dhyan Chand Khel Ratna Award", "Rashtriya Khel Protsahan Puraskar"],
+    "oHi": ["अर्जुन पुरस्कार", "द्रोणाचार्य पुरस्कार", "मेजर ध्यानचंद खेल रत्न पुरस्कार", "राष्ट्रीय खेल प्रोत्साहन पुरस्कार"],
+    "c": 2,
+    "exp": "The Major Dhyan Chand Khel Ratna Award (formerly Rajiv Gandhi Khel Ratna) is the highest sporting honor in India, awarded annually by the Ministry of Youth Affairs and Sports.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "What is the standard weight of a table tennis ball used in international competitions?",
+    "hi": "अंतर्राष्ट्रीय प्रतियोगिताओं में उपयोग की जाने वाली टेबल टेनिस गेंद का मानक वजन कितना होता है?",
+    "oEn": ["2.7 grams", "3.5 grams", "4.0 grams", "2.1 grams"],
+    "oHi": ["2.7 ग्राम", "3.5 ग्राम", "4.0 ग्राम", "2.1 ग्राम"],
+    "c": 0,
+    "exp": "According to ITTF rules, a standard table tennis ball is a celluloid or plastic sphere with a diameter of 40 mm and an exact weight of 2.7 grams.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "The iconic term 'Hat-trick' historically originated from which sport before being adopted globally?",
+    "hi": "प्रतिष्ठित शब्द 'हैट्रिक' (Hat-trick) ऐतिहासिक रूप से वैश्विक स्तर पर अपनाए जाने से पहले किस खेल से उत्पन्न हुआ था?",
+    "oEn": ["Football", "Cricket", "Hockey", "Rugby"],
+    "oHi": ["फुटबॉल", "क्रिकेट", "हॉकी", "रग्बी"],
+    "c": 1,
+    "exp": "The term originated in cricket in 1858 when H.H. Stephenson took three wickets in three consecutive balls. A collection was held to buy him a new hat with the proceeds, introducing the phrase 'hat-trick'.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "How many players are active on the field from each team in a standard game of Kho-Kho during play?",
+    "hi": "खो-खो के एक मानक मैच में खेल के दौरान प्रत्येक टीम से मैदान पर कितने खिलाड़ी सक्रिय (एक्टिव) होते हैं?",
+    "oEn": ["9 players", "12 players", "7 players", "11 players"],
+    "oHi": ["9 खिलाड़ी", "12 खिलाड़ी", "7 खिलाड़ी", "11 खिलाड़ी"],
+    "c": 0,
+    "exp": "A Kho-Kho team consists of 12 players, but during a match, only 9 players from each team take the field (1 defending group/chasers and 3 defenders at a time inside the arena).",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "The famous 'Walker Cup' is associated with which of the following sports?",
+    "hi": "प्रसिद्ध 'वाकर कप' (Walker Cup) निम्नलिखित में से किस खेल से संबंधित है?",
+    "oEn": ["Tennis", "Golf", "Polo", "Yachting"],
+    "oHi": ["टेनिस", "गोल्फ", "पोलो", "याचिंग"],
+    "c": 1,
+    "exp": "The Walker Cup is a golf trophy contested in odd-numbered years by teams of male amateur golfers representing the United States and Great Britain & Ireland.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Who was the first Indian to win an individual gold medal at the Olympic Games?",
+    "hi": "ओलंपिक खेलों में व्यक्तिगत स्वर्ण पदक जीतने वाले पहले भारतीय कौन थे?",
+    "oEn": ["Rajyavardhan Singh Rathore", "Abhinav Bindra", "Neeraj Chopra", "Sushil Kumar"],
+    "oHi": ["राज्यवर्धन सिंह राठौड़", "अभिनव बिंद्रा", "नीरज चोपड़ा", "सुशील कुमार"],
+    "c": 1,
+    "exp": "Shooter Abhinav Bindra won India's first-ever individual Olympic gold medal in the men's 10m Air Rifle event at the 2008 Beijing Olympics. Neeraj Chopra was the second Indian to win gold (Tokyo 2020).",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The 'Rover's Cup' was a prestigious tournament in India associated with which sport?",
+    "hi": "'रोवर्स कप' भारत में किस खेल से संबंधित एक प्रतिष्ठित टूर्नामेंट था?",
+    "oEn": ["Cricket", "Hockey", "Football", "Tennis"],
+    "oHi": ["क्रिकेट", "हॉकी", "फुटबॉल", "टेनिस"],
+    "c": 2,
+    "exp": "The Rovers Cup was an annual football tournament held in India, started by British football enthusiasts in Bombay in 1891. It was officially disbanded in 2001.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "What is the standard width of a football (soccer) goalpost from the inside of the left post to the inside of the right post?",
+    "hi": "एक मानक फुटबॉल गोलपोस्ट की चौड़ाई (बाएं खंभे के अंदर से दाहिने खंभे के अंदर तक) कितनी होती है?",
+    "oEn": ["7.32 meters (8 yards)", "6.50 meters", "8.00 meters", "7.00 meters"],
+    "oHi": ["7.32 मीटर (8 गज)", "6.50 मीटर", "8.00 मीटर", "7.00 मीटर"],
+    "c": 0,
+    "exp": "According to FIFA laws of the game, the distance between the inside of the two goalposts is 7.32 meters (8 yards), and the distance from the lower edge of the crossbar to the ground is 2.44 meters (8 feet).",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "With which sport is the term 'Checkmate' and 'Gambit' deeply connected?",
+    "hi": "'चेकमेट' (Checkmate) और 'गैम्बिट' (Gambit) शब्द किस खेल से गहराई से जुड़े हैं?",
+    "oEn": ["Bridge", "Chess", "Billiards", "Snooker"],
+    "oHi": ["ब्रिज", "शतरंज", "बिलियर्ड्स", "स्नूकर"],
+    "c": 1,
+    "exp": "These terms belong to Chess. 'Checkmate' is a game-winning condition where the opponent's king is under threat of capture and cannot escape. A 'Gambit' is an opening move where a player risks a piece to gain an advantage.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Who among the following was the first recipient of the Rajiv Gandhi Khel Ratna Award (now Major Dhyan Chand Khel Ratna)?",
+    "hi": "निम्नलिखित में से कौन राजीव गांधी खेल रत्न पुरस्कार (अब मेजर ध्यानचंद खेल रत्न) के पहले प्राप्तकर्ता थे?",
+    "oEn": ["Sachin Tendulkar", "Viswanathan Anand", "Geet Sethi", "Karnam Malleswari"],
+    "oHi": ["सचिन तेंदुलकर", "विश्वनाथन आनंद", "गीत सेठी", "कर्णम मल्लेश्वरी"],
+    "c": 1,
+    "exp": "Grandmaster Viswanathan Anand was awarded the inaugural Khel Ratna Award for the year 1991–1992 for his outstanding achievements in Chess.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "What is the radius of the inner center circle marked on a standard football field?",
+    "hi": "एक मानक फुटबॉल मैदान पर अंकित आंतरिक केंद्र वृत्त (सेंटर सर्कल) की त्रिज्या (रेडियस) कितनी होती है?",
+    "oEn": ["9.15 meters (10 yards)", "11.00 meters", "7.50 meters", "10.50 meters"],
+    "oHi": ["9.15 मीटर (10 गज)", "11.00 मीटर", "7.50 मीटर", "10.50 मीटर"],
+    "c": 0,
+    "exp": "According to FIFA specifications, the center circle has a radius of 9.15 meters (10 yards) measured from the exact center mark of the pitch.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The historic 'Uber Cup' is an international team championship specifically held for which sport and category?",
+    "hi": "ऐतिहासिक 'उबेर कप' विशेष रूप से किस खेल और श्रेणी के लिए आयोजित होने वाली एक अंतर्राष्ट्रीय टीम चैंपियनशिप है?",
+    "oEn": ["Men's Tennis", "Women's Badminton", "Women's Table Tennis", "Men's Field Hockey"],
+    "oHi": ["पुरुष टेनिस", "महिला बैडमिंटन", "महिला टेबल टेनिस", "पुरुष फील्ड हॉकी"],
+    "c": 1,
+    "exp": "The Uber Cup, officially known as the World Women's Team Championships, is a major international badminton competition contested by national women's badminton teams.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "How many red balls are present on the table at the start of a professional game of Snooker?",
+    "hi": "स्नूकर के एक पेशेवर खेल की शुरुआत में टेबल पर कितनी लाल गेंदें मौजूद होती हैं?",
+    "oEn": ["15", "10", "21", "6"],
+    "oHi": ["15", "10", "21", "6"],
+    "c": 0,
+    "exp": "A standard snooker game is played with 22 balls: 1 white cue ball, 15 red balls (worth 1 point each), and 6 color balls (yellow, green, brown, blue, pink, black).",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "With which sport is the Dronacharya Award directly linked in India?",
+    "hi": "भारत में द्रोणाचार्य पुरस्कार का संबंध सीधे तौर पर किससे है?",
+    "oEn": ["Outstanding Players", "Sports Coaches", "Sports Journalists", "Umpires and Referees"],
+    "oHi": ["उत्कृष्ट खिलाड़ियों से", "खेल प्रशिक्षकों (कोच) से", "खेल पत्रकारों से", "अंपायरों और रेफरी से"],
+    "c": 1,
+    "exp": "The Dronacharya Award, instituted in 1985, is presented annually by the Government of India to sports coaches who have demonstrated outstanding and meritorious work consistently over a period of years.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "What is the length of a standard Marathon race in kilometers?",
+    "hi": "एक मानक मैराथन दौड़ की लंबाई कितने किलोमीटर होती है?",
+    "oEn": ["42.195 km", "40.000 km", "45.500 km", "38.195 km"],
+    "oHi": ["42.195 किमी", "40.000 किमी", "45.500 किमी", "38.195 किमी"],
+    "c": 0,
+    "exp": "The official standard distance for a modern marathon race is exactly 42.195 kilometers, which is equivalent to 26 miles and 385 yards.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "The term 'Yolk', 'Slam', and 'Ippon' are majorly used in which martial arts discipline?",
+    "hi": "'योल्क', 'स्लैम' और 'इप्पोन' (Ippon) शब्द मुख्य रूप से किस मार्शल आर्ट खेल विधा में उपयोग किए जाते हैं?",
+    "oEn": ["Karate", "Taekwondo", "Judo", "Wrestling"],
+    "oHi": ["कराटे", "ताइक्वांडो", "जूडो", "कुश्ती"],
+    "c": 2,
+    "exp": "'Ippon' is the highest score a fighter can achieve in a Judo contest, resulting in an immediate victory. It is executed by a decisive throw or pin.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "Who is the first Indian gymnast to win a medal at the Commonwealth Games?",
+    "hi": "राष्ट्रमंडल खेलों (Commonwealth Games) में पदक जीतने वाले पहले भारतीय जिम्नास्ट कौन हैं?",
+    "oEn": ["Dipa Karmakar", "Ashish Kumar", "Pranati Nayak", "Aruna Reddy"],
+    "oHi": ["दीपा कर्माकर", "आशीष कुमार", "प्रणति नायक", "अरुणा रेड्डी"],
+    "c": 1,
+    "exp": "Ashish Kumar won a silver medal in the Vault and a bronze medal in the Floor Exercise at the 2010 Commonwealth Games held in Delhi, making him the first Indian gymnast to do so.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "What is the standard height of the badminton net at the center of the court?",
+    "hi": "बैडमिंटन कोर्ट के केंद्र में नेट की मानक ऊंचाई कितनी होती है?",
+    "oEn": ["1.524 meters (5 feet)", "1.55 meters", "1.60 meters", "1.45 meters"],
+    "oHi": ["1.524 मीटर (5 फीट)", "1.55 मीटर", "1.60 मीटर", "1.45 मीटर"],
+    "c": 0,
+    "exp": "According to the Badminton World Federation (BWF) rules, the net must be 1.55 meters (5 feet 1 inch) high at the edges over the doubles sidelines and 1.524 meters (5 feet) high at the center.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "The legendary 'Santosh Trophy' in Indian sports is played annually for which sport?",
+    "hi": "भारतीय खेलों में ऐतिहासिक 'संतोष ट्रॉफी' प्रतिवर्ष किस खेल के लिए खेली जाती है?",
+    "oEn": ["Cricket", "Football", "Hockey", "Kabaddi"],
+    "oHi": ["क्रिकेट", "फुटबॉल", "हॉकी", "कबड्डी"],
+    "c": 1,
+    "exp": "The Santosh Trophy is a premier Indian domestic football tournament contested by regional state associations and government institutions since 1941.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The term 'Double Fault' and 'Ace' are natively associated with which of the following sports?",
+    "hi": "'डबल फॉल्ट' (Double Fault) और 'ऐस' (Ace) शब्द मूल रूप से किस खेल से संबंधित हैं?",
+    "oEn": ["Table Tennis", "Tennis", "Badminton", "Squash"],
+    "oHi": ["टेबल टेनिस", "टेनिस", "बैडमिंटन", "स्कवैश"],
+    "c": 1,
+    "exp": "In Lawn Tennis, an 'Ace' is a legal serve that goes untouched by the receiver, winning the point. A 'Double Fault' occurs when a server misses both serving attempts, losing the point.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "How many minutes is each half of a standard professional Kabaddi match?",
+    "hi": "एक मानक पेशेवर कबड्डी मैच का प्रत्येक हाफ (अर्धांश) कितने मिनट का होता है?",
+    "oEn": ["15 minutes", "20 minutes", "25 minutes", "30 minutes"],
+    "oHi": ["15 मिनट", "20 मिनट", "25 मिनट", "30 मिनट"],
+    "c": 1,
+    "exp": "A professional men's Kabaddi match runs for a total of 40 minutes, divided into two halves of 20 minutes each, along with a 5-minute break in between.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Who among the following was the first Indian male shuttler to reach World No. 1 ranking in Badminton?",
+    "hi": "निम्नलिखित में से कौन बैडमिंटन में विश्व नंबर 1 रैंकिंग पर पहुंचने वाले पहले भारतीय पुरुष शटलर थे?",
+    "oEn": ["Prakash Padukone", "Pullela Gopichand", "Kidambi Srikanth", "Lakshya Sen"],
+    "oHi": ["प्रकाश पादुकोण", "पुलेला गोपीचंद", "किदांबी श्रीकांत", "लक्ष्य सेन"],
+    "c": 2,
+    "exp": "Kidambi Srikanth became the first Indian male player to officially achieve the BWF World No. 1 ranking in April 2018. Note: Prakash Padukone was regarded as world number 1 in 1980, but before the computer ranking system was initiated.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "What is the weight of a standard cricket ball used in men's professional cricket?",
+    "hi": "पुरुषों के पेशेवर क्रिकेट में प्रयुक्त होने वाली मानक क्रिकेट गेंद का वजन कितना होता है?",
+    "oEn": ["155.9g to 163g", "140g to 150g", "165g to 175g", "150g to 155g"],
+    "oHi": ["155.9 ग्राम से 163 ग्राम", "140 ग्राम से 150 ग्राम", "165 ग्राम से 175 ग्राम", "150 ग्राम से 155 ग्राम"],
+    "c": 0,
+    "exp": "According to MCC laws of cricket, a standard men's cricket ball must weigh between 5.5 ounces to 5.75 ounces, which translates to 155.9 grams to 163 grams.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "The 'Ryder Cup' is a historic biennial trophy contested in which sport?",
+    "hi": "ऐतिहासिक 'राइडर कप' (Ryder Cup) द्विवार्षिक रूप से किस खेल में खेला जाने वाला एक टूर्नामेंट है?",
+    "oEn": ["Polo", "Golf", "Yachting", "Tennis"],
+    "oHi": ["पोलो", "गोल्फ", "याचिंग", "टेनिस"],
+    "c": 1,
+    "exp": "The Ryder Cup is an elite biennial golf competition played between teams from Europe and the United States, hosted alternately by courses in the US and Europe.",
+    "Pyq": "SSC_CPO_2022"
+  },
+  {
+    "en": "The term 'Dribbling', 'Nutmeg', and 'Reggae' are colloquially or formally associated with which sport?",
+    "hi": "'ड्रिब्लिंग' (Dribbling), 'नटमेग' (Nutmeg) शब्द औपचारिक या अनौपचारिक रूप से किस खेल से जुड़े हैं?",
+    "oEn": ["Basketball", "Football", "Hockey", "Rugby"],
+    "oHi": ["बास्केटबॉल", "फुटबॉल", "हॉकी", "रग्बी"],
+    "c": 1,
+    "exp": "In Football, a 'Nutmeg' is a skill move where a player kicks or passes the ball directly through an opponent's legs. Dribbling is controlling and moving the ball along the ground with feet.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "In which Olympic Games did India win its first gold medal in field hockey?",
+    "hi": "भारत ने किस ओलंपिक खेल में फील्ड हॉकी में अपना पहला स्वर्ण पदक जीता था?",
+    "oEn": ["1920 Antwerp", "1928 Amsterdam", "1932 Los Angeles", "1936 Berlin"],
+    "oHi": ["1920 एंटवर्प", "1928 एम्स्टर्डम", "1932 लॉस एंजिल्स", "1936 बर्लिन"],
+    "c": 1,
+    "exp": "India made its official debut at the 1928 Amsterdam Olympics in field hockey and won its first Olympic gold medal without conceding a single goal, under the brilliance of Major Dhyan Chand.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "What is the minimum age criterion required for an athlete to compete in the Olympic Games as per IOC general rules?",
+    "hi": "IOC के सामान्य नियमों के अनुसार ओलंपिक खेलों में भाग लेने के लिए किसी एथलीट की न्यूनतम आयु मानदंड क्या है?",
+    "oEn": ["16 years", "No overall age limit", "18 years", "15 years"],
+    "oHi": ["16 वर्ष", "कोई समग्र आयु सीमा नहीं", "18 वर्ष", "15 वर्ष"],
+    "c": 1,
+    "exp": "The International Olympic Committee (IOC) does not specify an overall minimum age limit for the Olympic Games. Age requirements are decided independently by individual International Sports Federations (e.g., Gymnastics requires 16).",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The 'Beighton Cup' is one of the oldest domestic tournaments in India held for which sport?",
+    "hi": "'बेइटन कप' (Beighton Cup) भारत में आयोजित होने वाले सबसे पुराने घरेलू टूर्नामेंटों में से एक है, यह किस खेल के लिए खेला जाता है?",
+    "oEn": ["Football", "Cricket", "Field Hockey", "Polo"],
+    "oHi": ["फुटबॉल", "क्रिकेट", "फील्ड हॉकी", "पोलो"],
+    "c": 2,
+    "exp": "The Beighton Cup was instituted in 1895 in Calcutta and is one of the oldest field hockey tournaments in the world, managed by the Bengal Hockey Association.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "How many times has India hosted the prestigious Asian Games since its inception?",
+    "hi": "अपनी स्थापना के बाद से भारत ने कितनी बार प्रतिष्ठित एशियाई खेलों (Asian Games) की मेजबानी की है?",
+    "oEn": ["Once", "Twice", "Thrice", "Never"],
+    "oHi": ["एक बार", "दो बार", "तीन बार", "कभी नहीं"],
+    "c": 1,
+    "exp": "India has hosted the Asian Games twice, both times in New Delhi: first during the inaugural edition in 1951, and the second time in 1982.",
+    "Pyq": "SSC_CGL_2024"
+  }
+]
