@@ -1,0 +1,227 @@
+[
+  {
+    "en": "In a certain code language, 'GHOST' is written as 'JGRRW'. How will 'LIGHT' be written in that code language?",
+    "hi": "एक निश्चित कूट भाषा में, 'GHOST' को 'JGRRW' लिखा जाता है। उसी कूट भाषा में 'LIGHT' को कैसे लिखा जाएगा?",
+    "oEn": ["OHJGW", "OLJFW", "NHJGV", "OHJGX"],
+    "oHi": ["OHJGW", "OLJFW", "NHJGV", "OHJGX"],
+    "c": 0,
+    "exp": "Pattern: Alternating +3 and -1 shifts. G(+3)=J, H(-1)=G, O(+3)=R, S(-1)=R, T(+3)=W. Similarly, L(+3)=O, I(-1)=H, G(+3)=J, H(-1)=G, T(+3)=W → OHJGW.",
+    "Pyq": "SSC_CGL_Hard_Trend_2026"
+  },
+  {
+    "en": "In a certain code language, 'BOMBAY' is coded as 'MYMYMY'. How will 'TAMILNADU' be coded in that language?",
+    "hi": "एक निश्चित कूट भाषा में, 'BOMBAY' को 'MYMYMY' लिखा जाता है। उसी भाषा में 'TAMILNADU' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["TIATIATIA", "MNUMNUMNU", "ALNALNALN", "MUDMUDMUD"],
+    "oHi": ["TIATIATIA", "MNUMNUMNU", "ALNALNALN", "MUDMUDMUD"],
+    "c": 1,
+    "exp": "The word is divided into triplets and the 3rd, 6th, 9th letters are repeated. BOMBAY → 3rd=M, 6th=Y → MYMYMY. TAMILNADU → 3rd=M, 6th=N, 9th=U → MNUMNUMNU.",
+    "Pyq": "SSC_CGL_Trend_2025"
+  },
+  {
+    "en": "If 'CANDLE' is coded as '51166145' and 'FLAME' is coded as '8141155', then how will 'SPARK' be coded?",
+    "hi": "यदि 'CANDLE' को '51166145' और 'FLAME' को '8141155' के रूप में कूटबद्ध किया जाता है, तो 'SPARK' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["211812013", "21182013", "19161118", "2118132011"],
+    "oHi": ["211812013", "21182013", "19161118", "2118132011"],
+    "c": 0,
+    "exp": "Each consonant: alphabet position + 2. Each vowel: its alphabet position. C(3+2=5), A=1, N(14+2=16), D(4+2=6), L(12+2=14), E=5 → 51166145. SPARK: S(19+2=21), P(16+2=18), A=1, R(18+2=20), K(11+2=13) → 211812013.",
+    "Pyq": "SSC_CGL_Hard_Trend_2026"
+  },
+  {
+    "en": "In a code language, 'ROSE' is coded as '57' and 'CHAIR' is coded as '39'. How will 'DESK' be coded?",
+    "hi": "एक कूट भाषा में, 'ROSE' को '57' और 'CHAIR' को '39' लिखा जाता है। उसी भाषा में 'DESK' को कैसे लिखा जाएगा?",
+    "oEn": ["39", "41", "42", "44"],
+    "oHi": ["39", "41", "42", "44"],
+    "c": 0,
+    "exp": "Sum of alphabet positions. R(18)+O(15)+S(19)+E(5)=57. C(3)+H(8)+A(1)+I(9)+R(18)=39. D(4)+E(5)+S(19)+K(11)=39.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "If 'SNAKE' is coded as 'VQDNH', how will 'CRADLE' be coded?",
+    "hi": "यदि 'SNAKE' को 'VQDNH' के रूप में कूटबद्ध किया जाता है, तो 'CRADLE' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["FUDGOH", "FUDGPH", "FUDHOG", "FUEGOH"],
+    "oHi": ["FUDGOH", "FUDGPH", "FUDHOG", "FUEGOH"],
+    "c": 0,
+    "exp": "Each letter is shifted by +3. S+3=V, N+3=Q, A+3=D, K+3=N, E+3=H. Similarly, C+3=F, R+3=U, A+3=D, D+3=G, L+3=O, E+3=H → FUDGOH.",
+    "Pyq": "SSC_MTS_2024_CGL_Trend"
+  },
+  {
+    "en": "In a certain code language, 'POETRY' is written as '99' and 'MINT' is written as '56'. How will 'GINGER' be written?",
+    "hi": "एक निश्चित कूट भाषा में, 'POETRY' को '99' और 'MINT' को '56' लिखा जाता है। उसी भाषा में 'GINGER' को कैसे लिखा जाएगा?",
+    "oEn": ["60", "65", "72", "58"],
+    "oHi": ["60", "65", "72", "58"],
+    "c": 0,
+    "exp": "Sum of alphabet positions. P(16)+O(15)+E(5)+T(20)+R(18)+Y(25)=99. M(13)+I(9)+N(14)+T(20)=56. G(7)+I(9)+N(14)+G(7)+E(5)+R(18)=60.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "If 'MONKO' is coded as '57637' and 'KLJMN' is coded as '32154', then how is 'LKJMN' coded?",
+    "hi": "यदि 'MONKO' को '57637' और 'KLJMN' को '32154' के रूप में कूटबद्ध किया जाता है, तो 'LKJMN' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["23154", "21354", "12354", "32145"],
+    "oHi": ["23154", "21354", "12354", "32145"],
+    "c": 1,
+    "exp": "Direct substitution from the second word. K=3, L=2, J=1, M=5, N=4. Hence LKJMN → 21354.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "In a certain code language, 'MASTER' is written as 'O1UV2T'. How will 'DOCTOR' be written?",
+    "hi": "एक निश्चित कूट भाषा में, 'MASTER' को 'O1UV2T' लिखा जाता है। उसी भाषा में 'DOCTOR' को कैसे लिखा जाएगा?",
+    "oEn": ["F4EV4T", "E4DV4T", "F4DU4S", "F4EV4S"],
+    "oHi": ["F4EV4T", "E4DV4T", "F4DU4S", "F4EV4S"],
+    "c": 0,
+    "exp": "Consonants are shifted by +2. Vowels are replaced by their vowel order (A=1,E=2,I=3,O=4,U=5). MASTER: M+2=O, A=1, S+2=U, T+2=V, E=2, R+2=T → O1UV2T. DOCTOR: D+2=F, O=4, C+2=E, T+2=V, O=4, R+2=T → F4EV4T.",
+    "Pyq": "SSC_CGL_2026_Trend"
+  },
+  {
+    "en": "If 'WORK' is coded as '4-12-9-16', then how will 'WOMAN' be coded?",
+    "hi": "यदि 'WORK' को '4-12-9-16' के रूप में कूटबद्ध किया जाता है, तो 'WOMAN' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["4-12-14-26-13", "4-26-14-13-12", "23-15-13-1-14", "4-12-13-26-14"],
+    "oHi": ["4-12-14-26-13", "4-26-14-13-12", "23-15-13-1-14", "4-12-13-26-14"],
+    "c": 0,
+    "exp": "Opposite/reverse alphabet positions are used. W=4, O=12, R=9, K=16. Similarly, W=4, O=12, M=14, A=26, N=13 → 4-12-14-26-13.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "In a certain code language, 'BEAUTY' is written as 'DGCWVA'. How will 'CHARM' be written?",
+    "hi": "एक निश्चित कूट भाषा में, 'BEAUTY' को 'DGCWVA' लिखा जाता है। उसी भाषा में 'CHARM' को कैसे लिखा जाएगा?",
+    "oEn": ["EJCTO", "EKBTO", "DJBTO", "EJCSP"],
+    "oHi": ["EJCTO", "EKBTO", "DJBTO", "EJCSP"],
+    "c": 0,
+    "exp": "Each letter is shifted by +2. B+2=D, E+2=G, A+2=C, U+2=W, T+2=V, Y+2=A → DGCWVA. Similarly, C+2=E, H+2=J, A+2=C, R+2=T, M+2=O → EJCTO.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "If 'ORANGE' is coded as '60' and 'APPLE' is coded as '50', what is the code for 'BANANA'?",
+    "hi": "यदि 'ORANGE' को '60' और 'APPLE' को '50' के रूप में कूटबद्ध किया जाता है, तो 'BANANA' का कूट क्या होगा?",
+    "oEn": ["42", "33", "45", "52"],
+    "oHi": ["42", "33", "45", "52"],
+    "c": 1,
+    "exp": "Sum of alphabet positions. O(15)+R(18)+A(1)+N(14)+G(7)+E(5)=60. A(1)+P(16)+P(16)+L(12)+E(5)=50. B(2)+A(1)+N(14)+A(1)+N(14)+A(1)=33.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "In a certain code language, 'sweet floor clean' is coded as 'la ma ka', 'clean regular updates' is coded as 'ka zi pa', and 'floor updates premier' is coded as 'la zi sa'. What is the code for 'sweet'?",
+    "hi": "एक निश्चित कूट भाषा में, 'sweet floor clean' को 'la ma ka' लिखा जाता है, 'clean regular updates' को 'ka zi pa' लिखा जाता है, और 'floor updates premier' को 'la zi sa' लिखा जाता है। 'sweet' का कूट क्या है?",
+    "oEn": ["la", "ma", "ka", "zi"],
+    "oHi": ["la", "ma", "ka", "zi"],
+    "c": 1,
+    "exp": "Comparing 1 and 2: 'clean' = 'ka'. Comparing 1 and 3: 'floor' = 'la'. From first sentence, remaining word 'sweet' = 'ma'.",
+    "Pyq": "SSC_CGL_2025"
+  },
+  {
+    "en": "If 'GO' is coded as '32' and 'SHE' is coded as '49', then what will 'SOME' be coded as?",
+    "hi": "यदि 'GO' को '32' और 'SHE' को '49' के रूप में कूटबद्ध किया जाता है, तो 'SOME' का कूट क्या होगा?",
+    "oEn": ["56", "58", "62", "64"],
+    "oHi": ["56", "58", "62", "64"],
+    "c": 0,
+    "exp": "Sum of reverse alphabet positions. G=20, O=12 → 20+12=32. S=8, H=19, E=22 → 8+19+22=49. SOME: S=8, O=12, M=14, E=22 → 8+12+14+22=56.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "In a certain code language, 'PRALAY' is written as 'QSBMBZ'. How will 'KARTIK' be written in that language?",
+    "hi": "एक निश्चित कूट भाषा में, 'PRALAY' को 'QSBMBZ' लिखा जाता है। उसी भाषा में 'KARTIK' को कैसे लिखा जाएगा?",
+    "oEn": ["LBSUJL", "LBTUJM", "LASUJL", "MBSUJL"],
+    "oHi": ["LBSUJL", "LBTUJM", "LASUJL", "MBSUJL"],
+    "c": 0,
+    "exp": "Each letter is shifted by +1. P+1=Q, R+1=S, A+1=B, L+1=M, A+1=B, Y+1=Z → QSBMBZ. K+1=L, A+1=B, R+1=S, T+1=U, I+1=J, K+1=L → LBSUJL.",
+    "Pyq": "SSC_CHSL_2025"
+  },
+  {
+    "en": "If 'CLOCK' is coded as '31215311', how is 'TIME' coded in that language?",
+    "hi": "यदि 'CLOCK' को '31215311' के रूप में कूटबद्ध किया जाता है, तो 'TIME' को उस भाषा में कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["209135", "2945", "2591", "2145"],
+    "oHi": ["209135", "2945", "2591", "2145"],
+    "c": 0,
+    "exp": "Direct alphabet positions are concatenated. C=3, L=12, O=15, C=3, K=11 → 31215311. T=20, I=9, M=13, E=5 → 209135.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "In a certain code language, 'TURKEY' is written as '76916222'. How will 'RUSSIA' be written in that code?",
+    "hi": "एक निश्चित कूट भाषा में, 'TURKEY' को '76916222' लिखा जाता है। उसी कूट में 'RUSSIA' को कैसे लिखा जाएगा?",
+    "oEn": ["96881826", "93669181", "96681911", "85591926"],
+    "oHi": ["96881826", "93669181", "96681911", "85591926"],
+    "c": 0,
+    "exp": "Opposite letter positions are used. T(20)→G(7), U(21)→F(6), R(18)→I(9), K(11)→P(16), E(5)→V(22), Y(25)→B(2) → 76916222. RUSSIA: R→I(9), U→F(6), S→H(8), S→H(8), I→R(18), A→Z(26) → 96881826.",
+    "Pyq": "SSC_CGL_2026_Trend"
+  },
+  {
+    "en": "If 'DRONE' is written as 'ESPOF', how will 'HOUSE' be written?",
+    "hi": "यदि 'DRONE' को 'ESPOF' लिखा जाता है, तो 'HOUSE' को कैसे लिखा जाएगा?",
+    "oEn": ["IPVTF", "PIVTF", "GNTRE", "ITVPE"],
+    "oHi": ["IPVTF", "PIVTF", "GNTRE", "ITVPE"],
+    "c": 0,
+    "exp": "Each letter is shifted by +1. D+1=E, R+1=S, O+1=P, N+1=O, E+1=F → ESPOF. H+1=I, O+1=P, U+1=V, S+1=T, E+1=F → IPVTF.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "In a certain code language, 'CAMPHOR' is coded as '6'. How will 'TREATMENT' be coded?",
+    "hi": "एक निश्चित कूट भाषा में, 'CAMPHOR' को '6' के रूप में कूटबद्ध किया जाता है। 'TREATMENT' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["8", "9", "7", "10"],
+    "oHi": ["8", "9", "7", "10"],
+    "c": 0,
+    "exp": "Code = Number of letters − 1. CAMPHOR (7 letters) → 7−1=6. TREATMENT (9 letters) → 9−1=8.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "If 'BEAUTY' is coded as 'YVZFGB', then how will 'CHARM' be coded?",
+    "hi": "यदि 'BEAUTY' को 'YVZFGB' के रूप में कूटबद्ध किया जाता है, तो 'CHARM' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["XSZIN", "XSAIN", "XSSIN", "XSZIM"],
+    "oHi": ["XSZIN", "XSAIN", "XSSIN", "XSZIM"],
+    "c": 0,
+    "exp": "Pairs of opposite letters. B↔Y, E↔V, A↔Z, U↔F, T↔G, Y↔B. Similarly, C↔X, H↔S, A↔Z, R↔I, M↔N → XSZIN.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "In a certain code language, 'PEOPLE' is written as 'QFQPMF'. How will 'MONKEY' be written in that language?",
+    "hi": "एक निश्चित कूट भाषा में, 'PEOPLE' को 'QFQPMF' लिखा जाता है। उसी भाषा में 'MONKEY' को कैसे लिखा जाएगा?",
+    "oEn": ["NPLOFZ", "NPMOFZ", "OPLOFZ", "NPLOFY"],
+    "oHi": ["NPLOFZ", "NPMOFZ", "OPLOFZ", "NPLOFY"],
+    "c": 0,
+    "exp": "Each letter is shifted by +1. P+1=Q, E+1=F, O+1=P, P+1=Q, L+1=M, E+1=F → QFQPMF. M+1=N, O+1=P, N+1=O, K+1=L, E+1=F, Y+1=Z → NPLOFZ.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "If 'BUILD' is coded as '5#32@' and 'JUICE' is coded as '(©3$4', then how will 'BULK' be coded?",
+    "hi": "यदि 'BUILD' को '5#32@' और 'JUICE' को '(©3$4' के रूप में कूटबद्ध किया जाता है, तो 'BULK' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["5#2%", "5#3%", "5#32", "Cannot be determined"],
+    "oHi": ["5#2%", "5#3%", "5#32", "निर्धारित नहीं किया जा सकता"],
+    "c": 3,
+    "exp": "Codes: B=5, U=# (in BUILD) but U=© (in JUICE). The symbol for U is not consistent, and K is new. Hence the code cannot be uniquely determined.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "In a certain code language, 'FATHER' is coded as '58' and 'MOTHER' is coded as '79'. How will 'BROTHER' be coded?",
+    "hi": "एक निश्चित कूट भाषा में, 'FATHER' को '58' और 'MOTHER' को '79' के रूप में कूटबद्ध किया जाता है। 'BROTHER' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["86", "76", "82", "88"],
+    "oHi": ["86", "76", "82", "88"],
+    "c": 0,
+    "exp": "Sum of alphabet positions. F(6)+A(1)+T(20)+H(8)+E(5)+R(18)=58. M(13)+O(15)+T(20)+H(8)+E(5)+R(18)=79. B(2)+R(18)+O(15)+T(20)+H(8)+E(5)+R(18)=86.",
+    "Pyq": "SSC_CGL_2025"
+  },
+  {
+    "en": "If 'ZEBRA' is written as '2652181', how will 'COBRA' be written?",
+    "hi": "यदि 'ZEBRA' को '2652181' लिखा जाता है, तो 'COBRA' को कैसे लिखा जाएगा?",
+    "oEn": ["3152181", "3152182", "3152171", "3142181"],
+    "oHi": ["3152181", "3152182", "3152171", "3142181"],
+    "c": 0,
+    "exp": "Direct alphabet positions are concatenated. Z=26, E=5, B=2, R=18, A=1 → 2652181. C=3, O=15, B=2, R=18, A=1 → 3152181.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "In a certain code language, 'MAN' is coded as '28' and 'RAN' is coded as '33'. How will 'GAY' be coded?",
+    "hi": "एक निश्चित कूट भाषा में, 'MAN' को '28' और 'RAN' को '33' के रूप में कूटबद्ध किया जाता है। 'GAY' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["33", "35", "37", "40"],
+    "oHi": ["33", "35", "37", "40"],
+    "c": 0,
+    "exp": "Sum of alphabet positions. M(13)+A(1)+N(14)=28. R(18)+A(1)+N(14)=33. G(7)+A(1)+Y(25)=33.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "If 'LEMON' is coded as 'MFNPO', how will 'SHIRT' be coded?",
+    "hi": "यदि 'LEMON' को 'MFNPO' के रूप में कूटबद्ध किया जाता है, तो 'SHIRT' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["TIJSU", "TIKSU", "TIJST", "UHJSU"],
+    "oHi": ["TIJSU", "TIKSU", "TIJST", "UHJSU"],
+    "c": 0,
+    "exp": "Each letter is shifted by +1. L+1=M, E+1=F, M+1=N, O+1=P, N+1=O → MFNPO. S+1=T, H+1=I, I+1=J, R+1=S, T+1=U → TIJSU.",
+    "Pyq": "SSC_CGL_2026_Trend"
+  }
+]
