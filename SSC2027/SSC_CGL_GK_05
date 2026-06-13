@@ -1,0 +1,451 @@
+[
+  {
+    "en": "Which part of the Indian Constitution deals with the Citizenship?",
+    "hi": "भारतीय संविधान का कौन सा भाग नागरिकता से संबंधित है?",
+    "oEn": ["Part I", "Part II", "Part III", "Part IV"],
+    "oHi": ["भाग I", "भाग II", "भाग III", "भाग IV"],
+    "c": 1,
+    "exp": "Part II of the Indian Constitution (Articles 5-11) deals with Citizenship.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which Article of the Indian Constitution guarantees the 'Right to Equality before Law'?",
+    "hi": "भारतीय संविधान का कौन सा अनुच्छेद 'कानून के समक्ष समानता' की गारंटी देता है?",
+    "oEn": ["Article 14", "Article 15", "Article 16", "Article 17"],
+    "oHi": ["अनुच्छेद 14", "अनुच्छेद 15", "अनुच्छेद 16", "अनुच्छेद 17"],
+    "c": 0,
+    "exp": "Article 14 states that the State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Abolition of Untouchability is mentioned under which Article of the Indian Constitution?",
+    "hi": "भारतीय संविधान के किस अनुच्छेद के तहत अस्पृश्यता के उन्मूलन का उल्लेख किया गया है?",
+    "oEn": ["Article 15", "Article 16", "Article 17", "Article 18"],
+    "oHi": ["अनुच्छेद 15", "अनुच्छेद 16", "अनुच्छेद 17", "अनुच्छेद 18"],
+    "c": 2,
+    "exp": "Article 17 of the Indian Constitution abolishes 'Untouchability' and forbids its practice in any form.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which Article of the Indian Constitution is called the 'Heart and Soul of the Constitution' by Dr. B.R. Ambedkar?",
+    "hi": "डॉ. बी.आर. अंबेडकर ने किस अनुच्छेद को 'संविधान का हृदय और आत्मा' कहा था?",
+    "oEn": ["Article 19", "Article 21", "Article 32", "Article 226"],
+    "oHi": ["अनुच्छेद 19", "अनुच्छेद 21", "अनुच्छेद 32", "अनुच्छेद 226"],
+    "c": 2,
+    "exp": "Dr. B.R. Ambedkar termed Article 32 (Right to Constitutional Remedies) as the Heart and Soul of the Constitution.",
+    "Pyq": "SSC_CGL_2021"
+  },
+  {
+    "en": "Protection of life and personal liberty is guaranteed under which Article?",
+    "hi": "प्राण और दैहिक स्वतंत्रता का संरक्षण किस अनुच्छेद के तहत गारंटीकृत है?",
+    "oEn": ["Article 20", "Article 21", "Article 21A", "Article 22"],
+    "oHi": ["अनुच्छेद 20", "अनुच्छेद 21", "अनुच्छेद 21ए", "अनुच्छेद 22"],
+    "c": 1,
+    "exp": "Article 21 secures the right to life and personal liberty, stating that no person shall be deprived of his life or personal liberty except according to procedure established by law.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "By which Constitutional Amendment Act was the 'Right to Education' inserted as Article 21A?",
+    "hi": "किस संविधान संशोधन अधिनियम द्वारा 'शिक्षा के अधिकार' को अनुच्छेद 21ए के रूप में शामिल किया गया था?",
+    "oEn": ["42nd Amendment", "44th Amendment", "86th Amendment", "91st Amendment"],
+    "oHi": ["42वां संशोधन", "44वां संशोधन", "86वां संशोधन", "91वां संशोधन"],
+    "c": 2,
+    "exp": "The 86th Constitutional Amendment Act, 2002, inserted Article 21A, making free and compulsory education for children between 6 to 14 years a Fundamental Right.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which part of the Indian Constitution contains the Directive Principles of State Policy (DPSP)?",
+    "hi": "भारतीय संविधान के किस भाग में राज्य के नीति निर्देशक तत्व (DPSP) शामिल हैं?",
+    "oEn": ["Part III", "Part IV", "Part IV-A", "Part V"],
+    "oHi": ["भाग III", "भाग IV", "भाग IV-A", "भाग V"],
+    "c": 1,
+    "exp": "Part IV of the Indian Constitution contains the Directive Principles of State Policy from Articles 36 to 51.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Provision for a 'Uniform Civil Code' is mentioned under which Article?",
+    "hi": "'समान नागरिक संहिता' (Uniform Civil Code) का प्रावधान किस अनुच्छेद के तहत उल्लिखित है?",
+    "oEn": ["Article 40", "Article 44", "Article 48", "Article 50"],
+    "oHi": ["अनुच्छेद 40", "अनुच्छेद 44", "अनुच्छेद 48", "अनुच्छेद 50"],
+    "c": 1,
+    "exp": "Article 44 of the Directive Principles of State Policy (DPSP) advises the State to secure a Uniform Civil Code for the citizens throughout India.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Separation of judiciary from the executive is mentioned in which Article?",
+    "hi": "कार्यपालिका से न्यायपालिका का पृथक्करण किस अनुच्छेद में वर्णित है?",
+    "oEn": ["Article 45", "Article 48", "Article 50", "Article 51"],
+    "oHi": ["अनुच्छेद 45", "अनुच्छेद 48", "अनुच्छेद 50", "अनुच्छेद 51"],
+    "c": 2,
+    "exp": "Article 50 of the Indian Constitution directs the State to take steps to separate the judiciary from the executive in the public services of the State.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Fundamental Duties were added to the Constitution on the recommendation of which Committee?",
+    "hi": "किस समिति की सिफारिश पर संविधान में मौलिक कर्तव्यों को जोड़ा गया था?",
+    "oEn": ["Sarkaria Commission", "Swaran Singh Committee", "Balwant Rai Mehta Committee", "Verma Committee"],
+    "oHi": ["सरकारी आयोग", "स्वर्ण सिंह समिति", "बलवंत राय मेहता समिति", "वर्मा समिति"],
+    "c": 1,
+    "exp": "Fundamental Duties were added to Part IV-A (Article 51A) by the 42nd Amendment Act, 1976, on the recommendation of the Swaran Singh Committee.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "How many Fundamental Duties are currently prescribed in Article 51A of the Constitution?",
+    "hi": "वर्तमान में संविधान के अनुच्छेद 51ए में कितने मौलिक कर्तव्य निर्धारित हैं?",
+    "oEn": ["10", "11", "12", "9"],
+    "oHi": ["10", "11", "12", "9"],
+    "c": 1,
+    "exp": "Originally 10 duties were added by the 42nd Amendment. The 11th Fundamental Duty was added by the 86th Amendment Act in 2002.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Which Article states that there shall be a President of India?",
+    "hi": "कौन सा अनुच्छेद यह कहता है कि भारत का एक राष्ट्रपति होगा?",
+    "oEn": ["Article 52", "Article 53", "Article 54", "Article 61"],
+    "oHi": ["अनुच्छेद 52", "अनुच्छेद 53", "अनुच्छेद 54", "अनुच्छेद 61"],
+    "c": 0,
+    "exp": "Article 52 of the Indian Constitution states that 'There shall be a President of India'.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "The procedure for the Impeachment of the President is given in which Article?",
+    "hi": "राष्ट्रपति पर महाभियोग (Impeachment) चलाने की प्रक्रिया किस अनुच्छेद में दी गई है?",
+    "oEn": ["Article 56", "Article 60", "Article 61", "Article 65"],
+    "oHi": ["अनुच्छेद 56", "अनुच्छेद 60", "अनुच्छेद 61", "अनुच्छेद 65"],
+    "c": 2,
+    "exp": "Article 61 outlines the procedure for impeaching the President for the violation of the Constitution.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Under which Article does the President have the power to grant pardons?",
+    "hi": "किस अनुच्छेद के तहत राष्ट्रपति को क्षमादान देने की शक्ति प्राप्त है?",
+    "oEn": ["Article 71", "Article 72", "Article 74", "Article 76"],
+    "oHi": ["अनुच्छेद 71", "अनुच्छेद 72", "अनुच्छेद 74", "अनुच्छेद 76"],
+    "c": 1,
+    "exp": "Article 72 empowers the President to grant pardons, reprieves, respites or remissions of punishment or to suspend, remit or commute sentences.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which Article provides for the office of Attorney General for India?",
+    "hi": "कौन सा अनुच्छेद भारत के महान्यायवादी (Attorney General) के पद का प्रावधान करता है?",
+    "oEn": ["Article 74", "Article 76", "Article 78", "Article 88"],
+    "oHi": ["अनुच्छेद 74", "अनुच्छेद 76", "अनुच्छेद 78", "अनुच्छेद 88"],
+    "c": 1,
+    "exp": "Article 76 of the Constitution states that the President shall appoint a person who is qualified to be appointed a Judge of the Supreme Court to be Attorney General for India.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "The Joint Sitting of both Houses of Parliament is summoned under which Article?",
+    "hi": "संसद के दोनों सदनों की संयुक्त बैठक (Joint Sitting) किस अनुच्छेद के तहत बुलाई जाती है?",
+    "oEn": ["Article 105", "Article 108", "Article 110", "Article 112"],
+    "oHi": ["अनुच्छेद 105", "अनुच्छेद 108", "अनुच्छेद 110", "अनुच्छेद 112"],
+    "c": 1,
+    "exp": "Article 108 provides for the joint sitting of both Houses in certain cases to resolve deadlocks over bills.",
+    "Pyq": "SSC_CHSL_2022"
+  },
+  {
+    "en": "The definition of 'Money Bill' is given under which Article of the Constitution?",
+    "hi": "संविधान के किस अनुच्छेद के तहत 'धन विधेयक' (Money Bill) की परिभाषा दी गई है?",
+    "oEn": ["Article 109", "Article 110", "Article 111", "Article 112"],
+    "oHi": ["अनुच्छेद 109", "अनुच्छेद 110", "अनुच्छेद 111", "अनुच्छेद 112"],
+    "c": 1,
+    "exp": "Article 110 of the Indian Constitution deals with the definition of Money Bills.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The Annual Financial Statement (Budget) is mentioned under which Article?",
+    "hi": "वार्षिक वित्तीय विवरण (बजट) का उल्लेख किस अनुच्छेद के तहत किया गया है?",
+    "oEn": ["Article 110", "Article 112", "Article 114", "Article 117"],
+    "oHi": ["अनुच्छेद 110", "अनुच्छेद 112", "अनुच्छेद 114", "अनुच्छेद 117"],
+    "c": 1,
+    "exp": "Article 112 deals with the Annual Financial Statement, popularly known as the Union Budget.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which Article empowers the President to promulgate Ordinances during the recess of Parliament?",
+    "hi": "कौन सा अनुच्छेद राष्ट्रपति को संसद के विश्रांतिकाल में अध्यादेश (Ordinance) जारी करने की शक्ति देता है?",
+    "oEn": ["Article 123", "Article 213", "Article 143", "Article 356"],
+    "oHi": ["अनुच्छेद 123", "अनुच्छेद 213", "अनुच्छेद 143", "अनुच्छेद 356"],
+    "c": 0,
+    "exp": "Article 123 empowers the President to promulgate ordinances when either of the two Houses of Parliament is not in session.",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "The power of the President to consult the Supreme Court is mentioned under which Article?",
+    "hi": "सर्वोच्च न्यायालय से परामर्श करने की राष्ट्रपति की शक्ति का उल्लेख किस अनुच्छेद के तहत किया गया है?",
+    "oEn": ["Article 124", "Article 131", "Article 143", "Article 145"],
+    "oHi": ["अनुच्छेद 124", "अनुच्छेद 131", "अनुच्छेद 143", "अनुच्छेद 145"],
+    "c": 2,
+    "exp": "Article 143 deals with the Power of the President to consult the Supreme Court (Advisory Jurisdiction).",
+    "Pyq": "SSC_CGL_2021"
+  },
+  {
+    "en": "Which Article provides for the Comptroller and Auditor General of India (CAG)?",
+    "hi": "कौन सा अनुच्छेद भारत के नियंत्रक और महालेखा परीक्षक (CAG) का प्रावधान करता है?",
+    "oEn": ["Article 148", "Article 149", "Article 151", "Article 280"],
+    "oHi": ["अनुच्छेद 148", "अनुच्छेद 149", "अनुच्छेद 151", "अनुच्छेद 280"],
+    "c": 0,
+    "exp": "Article 148 provides for an independent office of the Comptroller and Auditor General of India.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which Article deals with the appointment of the Governor of a State?",
+    "hi": "कौन सा अनुच्छेद किसी राज्य के राज्यपाल की नियुक्ति से संबंधित है?",
+    "oEn": ["Article 153", "Article 155", "Article 161", "Article 163"],
+    "oHi": ["अनुच्छेद 153", "अनुच्छेद 155", "अनुच्छेद 161", "अनुच्छेद 163"],
+    "c": 1,
+    "exp": "Article 155 states that the Governor of a State shall be appointed by the President by warrant under his hand and seal.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Which Article empowers the High Courts to issue Writs?",
+    "hi": "कौन सा अनुच्छेद उच्च न्यायालयों को रिट (Writs) जारी करने की शक्ति प्रदान करता है?",
+    "oEn": ["Article 32", "Article 131", "Article 226", "Article 235"],
+    "oHi": ["अनुच्छेद 32", "अनुच्छेद 131", "अनुच्छेद 226", "अनुच्छेद 235"],
+    "c": 2,
+    "exp": "Article 226 empowers High Courts to issue writs for the enforcement of fundamental rights and for any other purpose, while Article 32 empowers the Supreme Court.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which Part of the Indian Constitution deals with the Panchayats?",
+    "hi": "भारतीय संविधान का कौन सा भाग पंचायतों से संबंधित है?",
+    "oEn": ["Part IX", "Part IX-A", "Part X", "Part XI"],
+    "oHi": ["भाग IX", "भाग IX-A", "भाग X", "भाग XI"],
+    "c": 0,
+    "exp": "Part IX of the Constitution deals with Panchayats. It was inserted by the 73rd Constitutional Amendment Act, 1992.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "The provision for the Finance Commission is mentioned under which Article?",
+    "hi": "वित्त आयोग (Finance Commission) का प्रावधान किस अनुच्छेद के तहत उल्लिखित है?",
+    "oEn": ["Article 275", "Article 280", "Article 285", "Article 300"],
+    "oHi": ["अनुच्छेद 275", "अनुच्छेद 280", "अनुच्छेद 285", "अनुच्छेद 300"],
+    "c": 1,
+    "exp": "Article 280 of the Constitution provides for a Finance Commission constituted by the President every five years.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which Article protects the Right to Property at present?",
+    "hi": "वर्तमान में कौन सा अनुच्छेद संपत्ति के अधिकार (Right to Property) का संरक्षण करता है?",
+    "oEn": ["Article 19(1)(f)", "Article 31", "Article 300A", "Article 301"],
+    "oHi": ["अनुच्छेद 19(1)(f)", "अनुच्छेद 31", "अनुच्छेद 300A", "अनुच्छेद 301"],
+    "c": 2,
+    "exp": "The 44th Amendment Act, 1978 deleted the Right to Property from Fundamental Rights and made it a legal right under Article 300A in Part XII.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which Article provides for the establishment of the Election Commission of India?",
+    "hi": "कौन सा अनुच्छेद भारत के निर्वाचन आयोग (Election Commission) की स्थापना का प्रावधान करता है?",
+    "oEn": ["Article 315", "Article 320", "Article 324", "Article 330"],
+    "oHi": ["अनुच्छेद 315", "अनुच्छेद 320", "अनुच्छेद 324", "अनुच्छेद 330"],
+    "c": 2,
+    "exp": "Article 324 provides for the superintendence, direction, and control of elections to be vested in an Election Commission.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which Article deals with the provision of Official Language of the Union?",
+    "hi": "कौन सा अनुच्छेद संघ की राजभाषा के प्रावधान से संबंधित है?",
+    "oEn": ["Article 343", "Article 345", "Article 348", "Article 351"],
+    "oHi": ["अनुच्छेद 343", "अनुच्छेद 345", "अनुच्छेद 348", "अनुच्छेद 351"],
+    "c": 0,
+    "exp": "Article 343(1) states that the official language of the Union shall be Hindi in Devanagari script.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Proclamation of National Emergency is issued under which Article?",
+    "hi": "राष्ट्रीय आपातकाल (National Emergency) की घोषणा किस अनुच्छेद के तहत की जाती है?",
+    "oEn": ["Article 352", "Article 356", "Article 360", "Article 368"],
+    "oHi": ["अनुच्छेद 352", "अनुच्छेद 356", "अनुच्छेद 360", "अनुच्छेद 368"],
+    "c": 0,
+    "exp": "Article 352 deals with the Proclamation of Emergency on the grounds of war, external aggression, or armed rebellion.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Which Article is related to the Financial Emergency?",
+    "hi": "वित्तीय आपातकाल (Financial Emergency) का संबंध किस अनुच्छेद से है?",
+    "oEn": ["Article 352", "Article 356", "Article 360", "Article 365"],
+    "oHi": ["अनुच्छेद 352", "अनुच्छेद 356", "अनुच्छेद 360", "अनुच्छेद 365"],
+    "c": 2,
+    "exp": "Article 360 empowers the President to proclaim a Financial Emergency if the financial stability or credit of India is threatened.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "The power of Parliament to amend the Constitution is given under which Article and Part?",
+    "hi": "संविधान में संशोधन करने की संसद की शक्ति किस अनुच्छेद और भाग के तहत दी गई है?",
+    "oEn": ["Article 368, Part XX", "Article 368, Part XXI", "Article 356, Part XX", "Article 360, Part XVIII"],
+    "oHi": ["अनुच्छेद 368, भाग XX", "अनुच्छेद 368, भाग XXI", "अनुच्छेद 356, भाग XX", "अनुच्छेद 360, भाग XVIII"],
+    "c": 0,
+    "exp": "Part XX of the Constitution contains only one article, Article 368, which deals with the power of Parliament to amend the Constitution and its procedure.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which Article provides for the Public Service Commissions for the Union and for the States?",
+    "hi": "कौन सा अनुच्छेद संघ और राज्यों के लिए लोक सेवा आयोग (UPSC & State PSC) का प्रावधान करता है?",
+    "oEn": ["Article 312", "Article 315", "Article 320", "Article 323"],
+    "oHi": ["अनुच्छेद 312", "अनुच्छेद 315", "अनुच्छेद 320", "अनुच्छेद 323"],
+    "c": 1,
+    "exp": "Article 315 deals with the Public Service Commissions for the Union and for the States.",
+    "Pyq": "SSC_CHSL_2022"
+  },
+  {
+    "en": "Which Part of the Indian Constitution is called the 'Magna Carta' of India?",
+    "hi": "भारतीय संविधान के किस भाग को भारत का 'मैग्नाकार्टा' कहा जाता है?",
+    "oEn": ["Part II", "Part III", "Part IV", "Part V"],
+    "oHi": ["भाग II", "भाग III", "भाग IV", "भाग V"],
+    "c": 1,
+    "exp": "Part III of the Constitution (Fundamental Rights) is described as the Magna Carta of India.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Article 21A was added to make education a Fundamental Right for children of what age group?",
+    "hi": "किस आयु वर्ग के बच्चों के लिए शिक्षा को मौलिक अधिकार बनाने के लिए अनुच्छेद 21ए जोड़ा गया था?",
+    "oEn": ["5-12 years", "6-14 years", "6-18 years", "0-14 years"],
+    "oHi": ["5-12 वर्ष", "6-14 वर्ष", "6-18 वर्ष", "0-14 वर्ष"],
+    "c": 1,
+    "exp": "Article 21A declares that the State shall provide free and compulsory education to all children of the age of 6 to 14 years.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which Article of the Constitution deals with the 'Abolition of Titles'?",
+    "hi": "संविधान का कौन सा अनुच्छेद 'उपाधियों के अंत' (Abolition of Titles) से संबंधित है?",
+    "oEn": ["Article 17", "Article 18", "Article 19", "Article 20"],
+    "oHi": ["अनुच्छेद 17", "अनुच्छेद 18", "अनुच्छेद 19", "अनुच्छेद 20"],
+    "c": 1,
+    "exp": "Article 18 prohibits the state from conferring any titles except military or academic distinctions.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Under Article 19, how many freedoms are currently guaranteed to Indian citizens?",
+    "hi": "अनुच्छेद 19 के तहत, वर्तमान में भारतीय नागरिकों को कितनी स्वतंत्रताएँ दी गई हैं?",
+    "oEn": ["5", "6", "7", "8"],
+    "oHi": ["5", "6", "7", "8"],
+    "c": 1,
+    "exp": "Article 19 guarantees 6 democratic freedoms (originally 7, but Right to Property was removed).",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "Which Article prohibits trafficking in human beings and forced labor?",
+    "hi": "कौन सा अनुच्छेद मानव तस्करी और जबरन श्रम (Forced Labor) को प्रतिबंधित करता है?",
+    "oEn": ["Article 23", "Article 24", "Article 25", "Article 26"],
+    "oHi": ["अनुच्छेद 23", "अनुच्छेद 24", "अनुच्छेद 25", "अनुच्छेद 26"],
+    "c": 0,
+    "exp": "Article 23 deals with Prohibition of traffic in human beings and forced labor.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which Article prohibits the employment of children in factories below the age of 14?",
+    "hi": "कौन सा अनुच्छेद 14 वर्ष से कम उम्र के बच्चों के कारखानों में रोजगार को प्रतिबंधित करता है?",
+    "oEn": ["Article 23", "Article 24", "Article 25", "Article 28"],
+    "oHi": ["अनुच्छेद 23", "अनुच्छेद 24", "अनुच्छेद 25", "अनुच्छेद 28"],
+    "c": 1,
+    "exp": "Article 24 prohibits the employment of children below the age of 14 years in any factory, mine, or other hazardous employment.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Freedom of conscience and free profession, practice and propagation of religion is under which Article?",
+    "hi": "अंतःकरण की और धर्म के अबाध रूप से मानने, आचरण और प्रचार करने की स्वतंत्रता किस अनुच्छेद के तहत है?",
+    "oEn": ["Article 25", "Article 26", "Article 27", "Article 28"],
+    "oHi": ["अनुच्छेद 25", "अनुच्छेद 26", "अनुच्छेद 27", "अनुच्छेद 28"],
+    "c": 0,
+    "exp": "Article 25 covers freedom of conscience and free profession, practice, and propagation of religion.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which Article of the DPSP directs the State to organize Village Panchayats?",
+    "hi": "DPSP का कौन सा अनुच्छेद राज्य को ग्राम पंचायतों के गठन का निर्देश देता है?",
+    "oEn": ["Article 39", "Article 40", "Article 41", "Article 43"],
+    "oHi": ["अनुच्छेद 39", "अनुच्छेद 40", "अनुच्छेद 41", "अनुच्छेद 43"],
+    "c": 1,
+    "exp": "Article 40 mandates the State to take steps to organize village panchayats as units of self-government.",
+    "Pyq": "SSC_CGL_2021"
+  },
+  {
+    "en": "Which Article deals with the Oath or Affirmation by the President?",
+    "hi": "राष्ट्रपति द्वारा शपथ या प्रतिज्ञान (Oath) से संबंधित कौन सा अनुच्छेद है?",
+    "oEn": ["Article 56", "Article 58", "Article 60", "Article 62"],
+    "oHi": ["अनुच्छेद 56", "अनुच्छेद 58", "अनुच्छेद 60", "अनुच्छेद 62"],
+    "c": 2,
+    "exp": "Article 60 deals with the Oath or affirmation by the President, administered by the Chief Justice of India.",
+    "Pyq": "SSC_CHSL_2023"
+  },
+  {
+    "en": "Which Article states that the Vice-President shall be the ex-officio Chairman of the Council of States?",
+    "hi": "कौन सा अनुच्छेद यह कहता है कि उपराष्ट्रपति राज्य सभा का पदेन अध्यक्ष (Ex-officio Chairman) होगा?",
+    "oEn": ["Article 63", "Article 64", "Article 65", "Article 66"],
+    "oHi": ["अनुच्छेद 63", "अनुच्छेद 64", "अनुच्छेद 65", "अनुच्छेद 66"],
+    "c": 1,
+    "exp": "Article 64 states that the Vice-President shall be ex-officio Chairman of the Council of States (Rajya Sabha).",
+    "Pyq": "SSC_CPO_2024"
+  },
+  {
+    "en": "Which Article provides for a Council of Ministers with the Prime Minister at the head to aid and advise the President?",
+    "hi": "कौन सा अनुच्छेद राष्ट्रपति को सहायता और सलाह देने के लिए प्रधानमंत्री की अध्यक्षता में एक मंत्रिपरिषद का प्रावधान करता है?",
+    "oEn": ["Article 73", "Article 74", "Article 75", "Article 78"],
+    "oHi": ["अनुच्छेद 73", "अनुच्छेद 74", "अनुच्छेद 75", "अनुच्छेद 78"],
+    "c": 1,
+    "exp": "Article 74(1) provides for a Council of Ministers with the Prime Minister at the head to aid and advise the President.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "The constitution of Parliament is mentioned under which Article?",
+    "hi": "संसद के गठन का उल्लेख किस अनुच्छेद के तहत किया गया है?",
+    "oEn": ["Article 79", "Article 80", "Article 81", "Article 82"],
+    "oHi": ["अनुच्छेद 79", "अनुच्छेद 80", "अनुच्छेद 81", "अनुच्छेद 82"],
+    "c": 0,
+    "exp": "Article 79 deals with the constitution of Parliament, which consists of the President and two Houses (Rajya Sabha and Lok Sabha).",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "Which Article defines the composition of the Council of States (Rajya Sabha)?",
+    "hi": "कौन सा अनुच्छेद राज्य सभा (Council of States) की संरचना को परिभाषित करता है?",
+    "oEn": ["Article 79", "Article 80", "Article 81", "Article 83"],
+    "oHi": ["अनुच्छेद 79", "अनुच्छेद 80", "अनुच्छेद 81", "अनुच्छेद 83"],
+    "c": 1,
+    "exp": "Article 80 specifies the composition of the Rajya Sabha, including nominated members and representatives of States/UTs.",
+    "Pyq": "SSC_CGL_2023"
+  },
+  {
+    "en": "Which Article defines the composition of the House of the People (Lok Sabha)?",
+    "hi": "कौन सा अनुच्छेद लोक सभा (House of the People) की संरचना को परिभाषित करता है?",
+    "oEn": ["Article 80", "Article 81", "Article 82", "Article 84"],
+    "oHi": ["अनुच्छेद 80", "अनुच्छेद 81", "अनुच्छेद 82", "अनुच्छेद 84"],
+    "c": 1,
+    "exp": "Article 81 outlines the composition of the Lok Sabha, setting limitations on representation based on population.",
+    "Pyq": "SSC_CGL_2022"
+  },
+  {
+    "en": "Which Article provides for the appointment of the Speaker and Deputy Speaker of the Lok Sabha?",
+    "hi": "कौन सा अनुच्छेद लोक सभा के अध्यक्ष (Speaker) और उपाध्यक्ष (Deputy Speaker) की नियुक्ति का प्रावधान करता है?",
+    "oEn": ["Article 89", "Article 93", "Article 95", "Article 98"],
+    "oHi": ["अनुच्छेद 89", "अनुच्छेद 93", "अनुच्छेद 95", "अनुच्छेद 98"],
+    "c": 1,
+    "exp": "Article 93 provides that the House of the People shall choose two members to be Speaker and Deputy Speaker.",
+    "Pyq": "SSC_CHSL_2024"
+  },
+  {
+    "en": "The establishment and constitution of the Supreme Court is mentioned under which Article?",
+    "hi": "सर्वोच्च न्यायालय की स्थापना और गठन का उल्लेख किस अनुच्छेद के तहत किया गया है?",
+    "oEn": ["Article 124", "Article 125", "Article 126", "Article 127"],
+    "oHi": ["अनुच्छेद 124", "अनुच्छेद 125", "अनुच्छेद 126", "अनुच्छेद 127"],
+    "c": 0,
+    "exp": "Article 124 states that there shall be a Supreme Court of India consisting of a Chief Justice of India and other judges.",
+    "Pyq": "SSC_CGL_2024"
+  },
+  {
+    "en": "Which Article of the Indian Constitution declares the Supreme Court to be a 'Court of Record'?",
+    "hi": "भारतीय संविधान का कौन सा अनुच्छेद सर्वोच्च न्यायालय को 'अभिलेख न्यायालय' (Court of Record) घोषित करता है?",
+    "oEn": ["Article 129", "Article 130", "Article 131", "Article 132"],
+    "oHi": ["अनुच्छेद 129", "अनुच्छेद 130", "अनुच्छेद 131", "अनुच्छेद 132"],
+    "c": 0,
+    "exp": "Article 129 establishes that the Supreme Court shall be a court of record and have all powers of such a court, including power to punish for contempt.",
+    "Pyq": "SSC_CPO_2023"
+  },
+  {
+    "en": "Under which Article can the Governor of a State issue Ordinances?",
+    "hi": "किस अनुच्छेद के तहत किसी राज्य का राज्यपाल अध्यादेश (Ordinance) जारी कर सकता है?",
+    "oEn": ["Article 123", "Article 163", "Article 213", "Article 214"],
+    "oHi": ["अनुच्छेद 123", "अनुच्छेद 163", "अनुच्छेद 213", "अनुच्छेद 214"],
+    "c": 2,
+    "exp": "Article 213 empowers the Governor to promulgate ordinances during the recess of the state legislature.",
+    "Pyq": "SSC_CGL_2023"
+  }]
