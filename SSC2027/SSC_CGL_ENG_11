@@ -1,0 +1,86 @@
+[
+  {
+    "en": "Rearrange the given sentences to form a coherent and meaningful paragraph.\n\nP) This structural shifting is why an earthquake's epicenter often exhibits vastly different structural damage than regions situated just a few miles away.\nQ) The Earth's crust is not a singular solid shell, but rather a complex puzzle of massive tectonic plates floating atop the semi-fluid mantle.\nR) As these tectonic plates grind past one another along fault lines, tremendous frictional resistance prevents them from sliding smoothly.\nS) When the built-up stress finally overcomes this friction, a sudden release of energy occurs, sending seismic waves rippling through the ground.",
+    "oEn": [
+      "QRSP",
+      "QSRP",
+      "RQSP",
+      "SRPQ"
+    ],
+    "c": 0,
+    "exp": "'Q' is the independent opening sentence that introduces the main topic (tectonic plates). 'R' introduces the interaction between these plates ('As these tectonic plates grind...'). 'S' follows logically by showing the consequence of that grinding stress breaking free ('When the built-up stress finally overcomes...'). 'P' concludes the paragraph by linking the seismic waves to the actual structural damage observed at the epicenter ('This structural shifting...'). The correct order is QRSP.",
+    "Pyq": "High-Weightage TCS Trend"
+  },
+  {
+    "en": "Rearrange the given sentences to form a coherent and meaningful paragraph.\n\nP) For instance, a sovereign nation cannot independently print infinite quantities of currency without completely destroying its intrinsic value.\nQ) Because global financial systems are deeply interconnected, a single economic misstep by a superpower can trigger a severe worldwide recession.\nR) Therefore, international regulatory bodies work constantly to ensure that individual central banks maintain strict monetary discipline.\nS) This financial codependency means that domestic policies are rarely formulated in total isolation from global market trends.",
+    "oEn": [
+      "QSPR",
+      "QSRP",
+      "SQRP",
+      "PRQS"
+    ],
+    "c": 0,
+    "exp": "'Q' opens the statement by defining the global interconnected nature of finance. 'S' is a mandatory pair to 'Q' because it uses 'This financial codependency' to directly reference the interconnectedness mentioned in 'Q'. 'P' serves as a specific country-level example ('For instance, a sovereign nation...') of a domestic policy choice. 'R' concludes with 'Therefore' as a logical resolution, stating why global bodies must regulate this ecosystem. The sequence is QSPR.",
+    "Pyq": ""
+  },
+  {
+    "en": "Rearrange the given sentences to form a coherent and meaningful paragraph.\n\nP) Such historical gaps exist because early human groups utilized highly perishable materials like wood, bone, and animal skins.\ Q) Consequently, modern historians must actively cross-reference skeletal remains with geological data to piece together prehistoric migrations.\nR) Reconstructing the everyday social hierarchies of prehistoric human populations remains an incredibly challenging task for archeologists.\nS) These biological and organic materials rot away completely within a few centuries, leaving absolutely no trace in the fossil record.",
+    "oEn": [
+      "RPSQ",
+      "RSPQ",
+      "PRSQ",
+      "QPSR"
+    ],
+    "c": 0,
+    "exp": "'R' introduces the core problem (the challenge of reconstructing prehistoric social hierarchies). 'P' links directly to 'R' by explaining *why* it's tough, referencing 'Such historical gaps'. 'S' forms a tight mandatory pair with 'P' because 'These biological and organic materials' directly names the 'perishable materials like wood, bone' introduced in 'P'. 'Q' closes the loop with 'Consequently', stating the modern methodology used to overcome this lack of physical artifacts. The order is RPSQ.",
+    "Pyq": "High-Weightage TCS Trend"
+  },
+  {
+    "en": "Rearrange the given sentences to form a coherent and meaningful paragraph.\n\nP) This micro-level sculpting explains why two individuals exposed to the exact same environment can develop entirely unique cognitive perspectives.\nQ) Every single thought we process, memory we store, and skill we master causes physical changes in our underlying neural pathways.\nR) It is a dynamic, continuously evolving organ that actively adapts its cellular architecture based on daily life experiences.\nS) Modern cognitive science has completely shattered the old belief that the mature adult brain is static and unchangeable.",
+    "oEn": [
+      "SRQP",
+      "SRBQ",
+      "QSRP",
+      "RSQP"
+    ],
+    "c": 0,
+    "exp": "'S' is the ideal starting sentence as it states a broad scientific shift (shattering the belief that the brain is static). 'R' opens with the pronoun 'It', which directly references 'the mature adult brain' from sentence 'S'. 'Q' deepens this by explaining the exact mechanism of change at an individual level ('Every single thought we process...'). 'P' wraps up the idea using 'This micro-level sculpting' to reference the physical changes mentioned in 'Q'. The correct sequence is SRQP.",
+    "Pyq": ""
+  },
+  {
+    "en": "Rearrange the given sentences to form a coherent and meaningful paragraph.\n\nP) Over time, this psychological exhaustion causes employees to feel entirely disconnected from their professional obligations.\nQ) High-pressure corporate environments frequently push workforce limits by prioritizing raw productivity over employee well-being.\nR) Eventually, this persistent workplace stress culminates in severe burnout, a state characterized by chronic fatigue.\nS) When left unaddressed, this alienation leads to a sharp drop in performance and a rise in voluntary turnovers.",
+    "oEn": [
+      "QRPS",
+      "QPRS",
+      "RQPS",
+      "SRPQ"
+    ],
+    "c": 0,
+    "exp": "'Q' introduces the broad issue of high-pressure corporate environments. 'R' identifies the immediate direct consequence of that environment ('Eventually, this persistent workplace stress culminates in severe burnout'). 'P' tracks the next stage of burnout, using 'this psychological exhaustion' to reference the chronic fatigue introduced at the end of 'R'. 'S' lists the ultimate catastrophic business result ('this alienation leads to a drop in performance...'). The logical flow is QRPS.",
+    "Pyq": "High-Weightage TCS Trend"
+  },
+  {
+    "en": "Rearrange the given sentences to form a coherent and meaningful paragraph.\n\nP) However, implementing this transition smoothly requires massive initial capital investments in energy storage infrastructure.\nQ) Fossil fuels have long served as the primary energy foundation driving industrial revolutions across the globe.\nR) To mitigate these severe environmental impacts, nations are aggressively adopting renewable alternatives like solar and wind power.\nS) Unfortunately, relying entirely on these conventional resources has released unprecedented quantities of greenhouse gases.",
+    "oEn": [
+      "QSRP",
+      "QSPR",
+      "RQSP",
+      "SQRP"
+    ],
+    "c": 0,
+    "exp": "'Q' sets up the baseline historical context (Fossil fuels as the foundation of industrial growth). 'S' introduces a negative complication ('Unfortunately, relying entirely on these conventional resources...'). 'R' introduces the modern policy solution designed to solve the problem in 'S' ('To mitigate these severe environmental impacts...'). 'P' presents the pragmatic infrastructure bottleneck to that solution ('However, implementing this transition smoothly...'). This matches QSRP.",
+    "Pyq": "High-Weightage TCS Trend"
+  },
+  {
+    "en": "Rearrange the given sentences to form a coherent and meaningful paragraph.\n\nP) This digital democratization has allowed independent content developers to reach global markets without major studio backing.\nQ) The dramatic rise of independent streaming services has fundamentally disrupted traditional mass media distribution models.\nR) As a direct result, media conglomerates are losing their long-standing monopoly over consumer viewing preferences.\nS) Instead of relying on traditional networks, audiences can now access diverse, niche programming directly on their devices.",
+    "oEn": [
+      "QSPR",
+      "QSRP",
+      "RSQP",
+      "SPQR"
+    ],
+    "c": 0,
+    "exp": "'Q' acts as the independent introductory sentence announcing the disruption of traditional media models by streaming services. 'S' acts as a direct substitute action ('Instead of relying on traditional networks, audiences can now...'). 'P' labels this shift perfectly using 'This digital democratization'. 'R' concludes the paragraph with the final corporate fallout ('As a direct result, media conglomerates are losing their monopoly'). The correct order is QSPR.",
+    "Pyq": ""
+  }
+]
