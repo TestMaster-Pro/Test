@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Find the unit digit of $234^{100} + 234^{101}$.",
+    "hi": "$234^{100} + 234^{101}$ का इकाई अंक ज्ञात कीजिए।",
+    "oEn": ["0", "2", "4", "6"],
+    "oHi": ["0", "2", "4", "6"],
+    "c": 0,
+    "exp": "The unit digit of 234 is 4. The pattern for 4 is: $4^{even}$ ends in 6, and $4^{odd}$ ends in 4. Therefore, $234^{100}$ ends in 6 and $234^{101}$ ends in 4. Sum = 6 + 4 = 10. The unit digit is 0.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "If the number 738A6A is divisible by 11, then the value of A is:",
+    "hi": "यदि संख्या 738A6A, 11 से विभाज्य है, तो A का मान क्या है?",
+    "oEn": ["3", "6", "9", "1"],
+    "oHi": ["3", "6", "9", "1"],
+    "c": 2,
+    "exp": "Sum of digits at odd places = 7 + 8 + 6 = 21. Sum of digits at even places = 3 + A + A = 3 + 2A. Difference = 21 - (3 + 2A) = 18 - 2A. For divisibility by 11, the difference must be 0 or a multiple of 11. If A = 9, 18 - 18 = 0.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "What will be the remainder when $17^{200}$ is divided by 18?",
+    "hi": "जब $17^{200}$ को 18 से विभाजित किया जाता है, तो शेषफल क्या होगा?",
+    "oEn": ["17", "1", "16", "2"],
+    "oHi": ["17", "1", "16", "2"],
+    "c": 1,
+    "exp": "Using remainder theorem: $17 \\equiv -1 \\pmod{18}$. Therefore, $(-1)^{200} = 1$. The remainder is 1.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the total number of prime factors in the expression $(4)^{11} \\times (7)^{5} \\times (11)^{2}$.",
+    "hi": "व्यंजक $(4)^{11} \\times (7)^{5} \\times (11)^{2}$ में अभाज्य गुणनखंडों की कुल संख्या ज्ञात कीजिए।",
+    "oEn": ["18", "25", "29", "33"],
+    "oHi": ["18", "25", "29", "33"],
+    "c": 2,
+    "exp": "Express bases as prime numbers: $4^{11} = (2^2)^{11} = 2^{22}$. The expression becomes $2^{22} \\times 7^5 \\times 11^2$. Total prime factors = 22 + 5 + 2 = 29.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the sum of the first 50 natural numbers.",
+    "hi": "प्रथम 50 प्राकृतिक संख्याओं का योग ज्ञात कीजिए।",
+    "oEn": ["1275", "1250", "1225", "1300"],
+    "oHi": ["1275", "1250", "1225", "1300"],
+    "c": 0,
+    "exp": "The sum of the first n natural numbers is given by $n(n+1)/2$. For n = 50, Sum = $50 \\times 51 / 2 = 25 \\times 51 = 1275$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the difference between the place value and face value of 7 in the number 3572404.",
+    "hi": "संख्या 3572404 में 7 के स्थानीय मान और अंकित मान के बीच का अंतर ज्ञात कीजिए।",
+    "oEn": ["6993", "69993", "69999", "70007"],
+    "oHi": ["6993", "69993", "69999", "70007"],
+    "c": 1,
+    "exp": "The place value of 7 is 70000. The face value of 7 is 7. Difference = 70000 - 7 = 69993.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "What is the smallest digit that should replace * in the number 432*72 to make it exactly divisible by 8?",
+    "hi": "संख्या 432*72 में * के स्थान पर वह कौन सा सबसे छोटा अंक आना चाहिए जिससे यह 8 से पूर्णतः विभाज्य हो जाए?",
+    "oEn": ["0", "1", "2", "3"],
+    "oHi": ["0", "1", "2", "3"],
+    "c": 0,
+    "exp": "A number is divisible by 8 if its last 3 digits are divisible by 8. We check *72. If * = 0, 072 is divisible by 8.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the number of trailing zeros in 100! (100 factorial).",
+    "hi": "100! (100 फैक्टोरियल) में अनुगामी शून्यों की संख्या ज्ञात कीजिए।",
+    "oEn": ["24", "25", "21", "20"],
+    "oHi": ["24", "25", "21", "20"],
+    "c": 0,
+    "exp": "The number of trailing zeros in n! is found by repeatedly dividing n by 5. $[100/5] + [100/25] = 20 + 4 = 24$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "If 5432*7 is divisible by 9, then the digit in place of * is:",
+    "hi": "यदि 5432*7, 9 से विभाज्य है, तो * के स्थान पर कौन सा अंक होगा?",
+    "oEn": ["0", "1", "6", "9"],
+    "oHi": ["0", "1", "6", "9"],
+    "c": 2,
+    "exp": "Sum of digits = 5 + 4 + 3 + 2 + * + 7 = 21 + *. For it to be divisible by 9, 21 + * must equal the next multiple of 9, which is 27. So, * = 6.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The value of $0.\\overline{36}$ in lowest terms is:",
+    "hi": "न्यूनतम पदों में $0.\\overline{36}$ का मान क्या है?",
+    "oEn": ["4/11", "36/100", "9/25", "4/9"],
+    "oHi": ["4/11", "36/100", "9/25", "4/9"],
+    "c": 0,
+    "exp": "A recurring decimal $0.\\overline{xy}$ is equal to $xy/99$. Thus, $0.\\overline{36} = 36/99$. Simplifying it by dividing by 9 gives 4/11.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the unit digit of the product $81 \\times 82 \\times 83 \\times \\dots \\times 89$.",
+    "hi": "गुणनफल $81 \\times 82 \\times 83 \\times \\dots \\times 89$ का इकाई अंक ज्ञात कीजिए।",
+    "oEn": ["0", "2", "6", "9"],
+    "oHi": ["0", "2", "6", "9"],
+    "c": 0,
+    "exp": "The product contains numbers ending in 2 (82) and 5 (85). Any even number multiplied by 5 results in a unit digit of 0.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "A number when divided by 899 gives a remainder of 63. If the same number is divided by 29, the remainder will be:",
+    "hi": "एक संख्या को जब 899 से विभाजित किया जाता है तो 63 शेष बचता है। यदि उसी संख्या को 29 से विभाजित किया जाए, तो शेषफल क्या होगा?",
+    "oEn": ["10", "5", "4", "2"],
+    "oHi": ["10", "5", "4", "2"],
+    "c": 1,
+    "exp": "Since the first divisor 899 is perfectly divisible by the second divisor 29, the required remainder is obtained by simply dividing the first remainder 63 by 29. $63 = 29 \\times 2 + 5$. The remainder is 5.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "If a 9-digit number 985x3678y is divisible by 72, find the value of (4x - 3y).",
+    "hi": "यदि 9-अंकीय संख्या 985x3678y, 72 से विभाज्य है, तो (4x - 3y) का मान ज्ञात कीजिए।",
+    "oEn": ["5", "4", "3", "6"],
+    "oHi": ["5", "4", "3", "6"],
+    "c": 1,
+    "exp": "For divisibility by 72, the number must be divisible by both 8 and 9. By 8: the last 3 digits 78y must be divisible by 8; 784 is divisible by 8, so y=4. By 9: sum of digits = 9+8+5+x+3+6+7+8+4 = 50+x. Nearest multiple is 54, so x=4. Value of $4(4) - 3(4) = 16 - 12 = 4$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Which of the following fractions is the largest? 7/8, 13/16, 31/40, 63/80",
+    "hi": "निम्नलिखित में से कौन सी भिन्न सबसे बड़ी है? 7/8, 13/16, 31/40, 63/80",
+    "oEn": ["7/8", "13/16", "31/40", "63/80"],
+    "oHi": ["7/8", "13/16", "31/40", "63/80"],
+    "c": 0,
+    "exp": "Find the LCM of the denominators (8, 16, 40, 80), which is 80. Convert fractions: 70/80, 65/80, 62/80, 63/80. The largest numerator is 70, which corresponds to 7/8.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "What is the least number which when divided by 12, 15, 20 and 54 leaves a remainder of 4 in each case?",
+    "hi": "वह छोटी से छोटी संख्या कौन सी है जिसे 12, 15, 20 और 54 से विभाजित करने पर प्रत्येक स्थिति में 4 शेष बचता है?",
+    "oEn": ["544", "540", "454", "450"],
+    "oHi": ["544", "540", "454", "450"],
+    "c": 0,
+    "exp": "The required number = LCM of (12, 15, 20, 54) + 4. The LCM is 540. Required number = 540 + 4 = 544.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The sum of three consecutive odd numbers is 87. What is the smallest of these numbers?",
+    "hi": "लगातार तीन विषम संख्याओं का योग 87 है। इनमें से सबसे छोटी संख्या कौन सी है?",
+    "oEn": ["27", "29", "31", "25"],
+    "oHi": ["27", "29", "31", "25"],
+    "c": 0,
+    "exp": "Let the numbers be x, x+2, and x+4. Their sum is $3x + 6 = 87$. This gives $3x = 81$, so $x = 27$. The smallest number is 27.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "A number when divided by 5 leaves a remainder of 3. What is the remainder when the square of the same number is divided by 5?",
+    "hi": "एक संख्या को 5 से विभाजित करने पर 3 शेष बचता है। उसी संख्या के वर्ग को 5 से विभाजित करने पर क्या शेष बचेगा?",
+    "oEn": ["1", "2", "3", "4"],
+    "oHi": ["1", "2", "3", "4"],
+    "c": 3,
+    "exp": "Let the number be 3 (since 3 divided by 5 gives a remainder of 3). The square of the number is $3^2 = 9$. When 9 is divided by 5, the remainder is 4.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Which of the following is an irrational number?",
+    "hi": "निम्नलिखित में से कौन सी एक अपरिमेय संख्या है?",
+    "oEn": ["$\\sqrt{16}$", "3.14", "22/7", "$\\sqrt{3}$"],
+    "oHi": ["$\\sqrt{16}$", "3.14", "22/7", "$\\sqrt{3}$"],
+    "c": 3,
+    "exp": "$\\sqrt{3}$ cannot be expressed as a simple fraction (p/q form) and its decimal expansion is non-terminating and non-repeating, making it an irrational number. The others are rational.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The sum of a two-digit number and the number obtained by reversing its digits is always divisible by:",
+    "hi": "दो अंकों की एक संख्या और उसके अंकों को उलटने पर प्राप्त संख्या का योग हमेशा किससे विभाज्य होता है?",
+    "oEn": ["10", "11", "9", "8"],
+    "oHi": ["10", "11", "9", "8"],
+    "c": 1,
+    "exp": "Let the two-digit number be $10x + y$. The reversed number is $10y + x$. Their sum is $11x + 11y = 11(x + y)$, which is always a multiple of 11.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "What is the sum of all positive factors of 24?",
+    "hi": "24 के सभी धनात्मक गुणनखंडों का योग क्या है?",
+    "oEn": ["60", "72", "48", "36"],
+    "oHi": ["60", "72", "48", "36"],
+    "c": 0,
+    "exp": "The positive factors of 24 are 1, 2, 3, 4, 6, 8, 12, and 24. Their sum is $1 + 2 + 3 + 4 + 6 + 8 + 12 + 24 = 60$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the value of $1^2 + 2^2 + 3^2 + \\dots + 10^2$.",
+    "hi": "$1^2 + 2^2 + 3^2 + \\dots + 10^2$ का मान ज्ञात कीजिए।",
+    "oEn": ["385", "3025", "285", "350"],
+    "oHi": ["385", "3025", "285", "350"],
+    "c": 0,
+    "exp": "The sum of squares of the first n natural numbers is given by $n(n+1)(2n+1)/6$. For n=10, the sum is $10 \\times 11 \\times 21 / 6 = 385$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "In a division operation, the divisor is 5 times the quotient and twice the remainder. If the remainder is 15, then what is the dividend?",
+    "hi": "एक भाग संक्रिया में, भाजक भागफल का 5 गुना और शेषफल का दोगुना है। यदि शेषफल 15 है, तो भाज्य क्या है?",
+    "oEn": ["185", "195", "205", "215"],
+    "oHi": ["185", "195", "205", "215"],
+    "c": 1,
+    "exp": "Remainder (R) = 15. Divisor (D) = $2 \\times 15 = 30$. Also, Divisor = $5 \\times$ Quotient (Q), so $30 = 5 \\times Q$, which means Q = 6. Dividend = $D \\times Q + R = 30 \\times 6 + 15 = 180 + 15 = 195$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "How many natural numbers between 100 and 300 are exactly divisible by 7?",
+    "hi": "100 और 300 के बीच कितनी प्राकृतिक संख्याएँ 7 से पूर्णतः विभाज्य हैं?",
+    "oEn": ["27", "28", "29", "30"],
+    "oHi": ["27", "28", "29", "30"],
+    "c": 1,
+    "exp": "The first multiple of 7 greater than 100 is 105. The last multiple of 7 less than 300 is 294. The sequence is an AP: 105, 112, ..., 294. Number of terms = $((294 - 105) / 7) + 1 = (189 / 7) + 1 = 27 + 1 = 28$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "If $x + y = 12$ and $xy = 35$, find the value of $1/x + 1/y$.",
+    "hi": "यदि $x + y = 12$ और $xy = 35$ है, तो $1/x + 1/y$ का मान ज्ञात कीजिए।",
+    "oEn": ["1/5", "12/35", "35/12", "7/5"],
+    "oHi": ["1/5", "12/35", "35/12", "7/5"],
+    "c": 1,
+    "exp": "The expression $1/x + 1/y$ can be simplified by taking the common denominator, which gives $(y + x) / xy$. Substituting the given values, we get 12/35.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "What is the remainder when $2^{31}$ is divided by 5?",
+    "hi": "जब $2^{31}$ को 5 से विभाजित किया जाता है, तो शेषफल क्या होता है?",
+    "oEn": ["1", "2", "3", "4"],
+    "oHi": ["1", "2", "3", "4"],
+    "c": 2,
+    "exp": "The powers of 2 mod 5 follow a pattern: $2^1 \\equiv 2$, $2^2 \\equiv 4$, $2^3 \\equiv 3$, $2^4 \\equiv 1$. The cycle repeats every 4 powers. Since 31 divided by 4 leaves a remainder of 3, $2^{31} \\equiv 2^3 \\equiv 8 \\equiv 3 \\pmod{5}$.",
+    "Pyq": "ssc_mts_trend_2026"
+  }
+]
