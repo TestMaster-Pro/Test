@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Who presented the first Union Budget of independent India?",
+    "hi": "स्वतंत्र भारत का पहला केंद्रीय बजट किसने पेश किया था?",
+    "oEn": ["Jawaharlal Nehru", "R.K. Shanmukham Chetty", "John Matthai", "C.D. Deshmukh"],
+    "oHi": ["जवाहरलाल नेहरू", "आर.के. षणमुखम चेट्टी", "जॉन मथाई", "सी.डी. देशमुख"],
+    "c": 1,
+    "exp": "R.K. Shanmukham Chetty presented the first budget on November 26, 1947.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which Five-Year Plan was based on the Mahalanobis Model?",
+    "hi": "कौन सी पंचवर्षीय योजना महालनोबिस मॉडल पर आधारित थी?",
+    "oEn": ["First Plan", "Second Plan", "Third Plan", "Fourth Plan"],
+    "oHi": ["पहली योजना", "दूसरी योजना", "तीसरी योजना", "चौथी योजना"],
+    "c": 1,
+    "exp": "The Second Five-Year Plan (1956-61) focused on industrialization and was based on the P.C. Mahalanobis model.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The 'Garibi Hatao' (Remove Poverty) slogan was given during which Five-Year Plan?",
+    "hi": "'गरीबी हटाओ' का नारा किस पंचवर्षीय योजना के दौरान दिया गया था?",
+    "oEn": ["Third Plan", "Fourth Plan", "Fifth Plan", "Sixth Plan"],
+    "oHi": ["तीसरी योजना", "चौथी योजना", "पांचवीं योजना", "छठी योजना"],
+    "c": 2,
+    "exp": "The 'Garibi Hatao' slogan was a major highlight of the Fifth Five-Year Plan (1974-78).",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "In the Indian Constitution, the Budget is referred to as:",
+    "hi": "भारतीय संविधान में बजट को कहा जाता है:",
+    "oEn": ["Annual Financial Statement", "Annual Budget Statement", "Budget Report", "Financial Bill"],
+    "oHi": ["वार्षिक वित्तीय विवरण", "वार्षिक बजट विवरण", "बजट रिपोर्ट", "वित्तीय विधेयक"],
+    "c": 0,
+    "exp": "Article 112 of the Constitution refers to the budget as the 'Annual Financial Statement'.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The Planning Commission of India was replaced by which body?",
+    "hi": "भारत के योजना आयोग को किस संस्था द्वारा प्रतिस्थापित किया गया था?",
+    "oEn": ["Finance Commission", "NITI Aayog", "National Development Council", "Economic Advisory Council"],
+    "oHi": ["वित्त आयोग", "नीति आयोग", "राष्ट्रीय विकास परिषद", "आर्थिक सलाहकार परिषद"],
+    "c": 1,
+    "exp": "NITI Aayog was formed on January 1, 2015, replacing the Planning Commission.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Which Five-Year Plan gave the highest priority to agriculture?",
+    "hi": "किस पंचवर्षीय योजना ने कृषि को सर्वोच्च प्राथमिकता दी?",
+    "oEn": ["First Plan", "Second Plan", "Third Plan", "Fourth Plan"],
+    "oHi": ["पहली योजना", "दूसरी योजना", "तीसरी योजना", "चौथी योजना"],
+    "c": 0,
+    "exp": "The First Five-Year Plan (1951-56) focused primarily on agricultural development.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What is 'Fiscal Deficit'?",
+    "hi": "'राजकोषीय घाटा' (Fiscal Deficit) क्या है?",
+    "oEn": ["Total Revenue - Total Expenditure", "Total Expenditure - Non-debt receipts", "Revenue Expenditure - Revenue Receipts", "Borrowings of Government"],
+    "oHi": ["कुल राजस्व - कुल व्यय", "कुल व्यय - गैर-ऋण प्राप्तियां", "राजस्व व्यय - राजस्व प्राप्तियां", "सरकार की उधारियां"],
+    "c": 1,
+    "exp": "Fiscal deficit is the gap between the government's total expenditure and its non-debt creating receipts.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "When was the first Five-Year Plan launched?",
+    "hi": "पहली पंचवर्षीय योजना कब शुरू की गई थी?",
+    "oEn": ["1947", "1950", "1951", "1952"],
+    "oHi": ["1947", "1950", "1951", "1952"],
+    "c": 2,
+    "exp": "The first Five-Year Plan was launched in 1951, covering the period 1951-56.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Who is the Chairman of NITI Aayog?",
+    "hi": "नीति आयोग के अध्यक्ष कौन होते हैं?",
+    "oEn": ["President", "Prime Minister", "Finance Minister", "Planning Minister"],
+    "oHi": ["राष्ट्रपति", "प्रधानमंत्री", "वित्त मंत्री", "योजना मंत्री"],
+    "c": 1,
+    "exp": "The Prime Minister of India serves as the ex-officio Chairman of NITI Aayog.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Which plan period is known as 'Plan Holiday'?",
+    "hi": "किस योजना अवधि को 'योजना अवकाश' (Plan Holiday) कहा जाता है?",
+    "oEn": ["1961-66", "1966-69", "1969-74", "1978-80"],
+    "oHi": ["1961-66", "1966-69", "1969-74", "1978-80"],
+    "c": 1,
+    "exp": "After the 3rd plan (failed due to wars/drought), the period 1966-69 saw three annual plans called Plan Holiday.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which institution prepares the Economic Survey of India?",
+    "hi": "भारत का आर्थिक सर्वेक्षण कौन तैयार करता है?",
+    "oEn": ["RBI", "NITI Aayog", "Ministry of Finance", "Central Statistical Office"],
+    "oHi": ["आरबीआई", "नीति आयोग", "वित्त मंत्रालय", "केंद्रीय सांख्यिकी कार्यालय"],
+    "c": 2,
+    "exp": "The Economic Survey is prepared by the Economic Division of the Department of Economic Affairs, Ministry of Finance.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which Five-Year Plan focused on 'Inclusive Growth'?",
+    "hi": "किस पंचवर्षीय योजना ने 'समावेशी विकास' (Inclusive Growth) पर ध्यान केंद्रित किया?",
+    "oEn": ["Tenth Plan", "Eleventh Plan", "Twelfth Plan", "Ninth Plan"],
+    "oHi": ["दसवीं योजना", "ग्यारहवीं योजना", "बारहवीं योजना", "नौवीं योजना"],
+    "c": 1,
+    "exp": "The 11th Five-Year Plan (2007-12) had the theme of 'Towards Faster and More Inclusive Growth'.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "The concept of Five-Year Plans in India was adopted from:",
+    "hi": "भारत में पंचवर्षीय योजनाओं की अवधारणा किससे ली गई थी?",
+    "oEn": ["USA", "USSR (Russia)", "UK", "Germany"],
+    "oHi": ["यूएसए", "यूएसएसआर (रूस)", "यूके", "जर्मनी"],
+    "c": 1,
+    "exp": "The model was adopted from the Soviet Union (USSR).",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What is a 'Zero-Based Budget'?",
+    "hi": "'शून्य-आधारित बजट' (Zero-Based Budget) क्या है?",
+    "oEn": ["Budget with zero deficit", "Budgeting from scratch each year", "Budget without planning", "Budget for zero expenditure"],
+    "oHi": ["शून्य घाटे वाला बजट", "हर साल शून्य से बजट बनाना", "बिना योजना के बजट", "शून्य व्यय के लिए बजट"],
+    "c": 1,
+    "exp": "In Zero-Based Budgeting, every function of the government is analyzed for its needs and costs each year from scratch.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which plan was terminated one year before its completion?",
+    "hi": "कौन सी योजना अपने पूरा होने से एक साल पहले समाप्त कर दी गई थी?",
+    "oEn": ["Fourth Plan", "Fifth Plan", "Sixth Plan", "Seventh Plan"],
+    "oHi": ["चौथी योजना", "पांचवीं योजना", "छठी योजना", "सातवीं योजना"],
+    "c": 1,
+    "exp": "The Fifth Plan was terminated in 1978 by the Janata Party government, one year ahead of schedule.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "What is 'Capital Expenditure' in a budget?",
+    "hi": "बजट में 'पूंजीगत व्यय' (Capital Expenditure) क्या है?",
+    "oEn": ["Spending on daily operations", "Spending on assets (e.g., roads, buildings)", "Spending on salaries", "Tax collection"],
+    "oHi": ["दैनिक कार्यों पर खर्च", "संपत्तियों पर खर्च (जैसे सड़क, इमारतें)", "वेतन पर खर्च", "कर संग्रह"],
+    "c": 1,
+    "exp": "Capital expenditure is spending that creates assets or reduces liabilities.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "When was the last Five-Year Plan (12th) ended?",
+    "hi": "अंतिम पंचवर्षीय योजना (12वीं) कब समाप्त हुई?",
+    "oEn": ["2015", "2016", "2017", "2020"],
+    "oHi": ["2015", "2016", "2017", "2020"],
+    "c": 2,
+    "exp": "The 12th Five-Year Plan covered the period 2012-2017.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which department in the Ministry of Finance presents the Union Budget?",
+    "hi": "वित्त मंत्रालय का कौन सा विभाग केंद्रीय बजट पेश करता है?",
+    "oEn": ["Department of Expenditure", "Department of Revenue", "Department of Economic Affairs", "Department of Financial Services"],
+    "oHi": ["व्यय विभाग", "राजस्व विभाग", "आर्थिक मामलों का विभाग", "वित्तीय सेवा विभाग"],
+    "c": 2,
+    "exp": "The Budget Division of the Department of Economic Affairs is responsible for preparing the budget.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Rolling Plan' was introduced during which period?",
+    "hi": "'रोलिंग प्लान' किस अवधि के दौरान शुरू किया गया था?",
+    "oEn": ["1966-69", "1978-80", "1990-92", "2000-02"],
+    "oHi": ["1966-69", "1978-80", "1990-92", "2000-02"],
+    "c": 1,
+    "exp": "The Rolling Plan (1978-80) was introduced by the Janata Party government.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "What is 'Revenue Deficit'?",
+    "hi": "'राजस्व घाटा' (Revenue Deficit) क्या है?",
+    "oEn": ["Total Exp - Total Receipts", "Revenue Exp - Revenue Receipts", "Capital Exp - Capital Receipts", "Borrowings"],
+    "oHi": ["कुल व्यय - कुल प्राप्तियां", "राजस्व व्यय - राजस्व प्राप्तियां", "पूंजीगत व्यय - पूंजीगत प्राप्तियां", "उधारियां"],
+    "c": 1,
+    "exp": "Revenue deficit occurs when the government's revenue expenditure exceeds its revenue receipts.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which plan focused on 'Rapid Industrialization' with emphasis on heavy industries?",
+    "hi": "किस योजना ने भारी उद्योगों पर जोर देते हुए 'तेजी से औद्योगीकरण' पर ध्यान केंद्रित किया?",
+    "oEn": ["First Plan", "Second Plan", "Third Plan", "Fourth Plan"],
+    "oHi": ["पहली योजना", "दूसरी योजना", "तीसरी योजना", "चौथी योजना"],
+    "c": 1,
+    "exp": "The Second Plan (1956-61) is famous for the focus on heavy industries.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Which article of the Constitution prohibits the expenditure of money without parliamentary approval?",
+    "hi": "संविधान का कौन सा अनुच्छेद संसदीय अनुमोदन के बिना धन खर्च करने पर रोक लगाता है?",
+    "oEn": ["Article 110", "Article 114", "Article 266", "Article 267"],
+    "oHi": ["अनुच्छेद 110", "अनुच्छेद 114", "अनुच्छेद 266", "अनुच्छेद 267"],
+    "c": 1,
+    "exp": "Article 114 (Appropriation Act) ensures that no money is withdrawn from the Consolidated Fund without parliamentary approval.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What is the primary objective of NITI Aayog?",
+    "hi": "नीति आयोग का मुख्य उद्देश्य क्या है?",
+    "oEn": ["To allocate funds", "To foster cooperative federalism", "To control prices", "To manage exports"],
+    "oHi": ["फंड आवंटित करना", "सहकारी संघवाद को बढ़ावा देना", "कीमतों को नियंत्रित करना", "निर्यात का प्रबंधन करना"],
+    "c": 1,
+    "exp": "NITI Aayog aims to involve states in national development to foster cooperative federalism.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which plan was aimed at 'Self-reliance' and 'Self-generating economy'?",
+    "hi": "कौन सी योजना 'आत्मनिर्भरता' और 'स्वयं-उत्पादक अर्थव्यवस्था' के उद्देश्य से थी?",
+    "oEn": ["Second Plan", "Third Plan", "Fourth Plan", "Fifth Plan"],
+    "oHi": ["दूसरी योजना", "तीसरी योजना", "चौथी योजना", "पांचवीं योजना"],
+    "c": 1,
+    "exp": "The Third Five-Year Plan (1961-66) focused on achieving self-reliance and self-generating growth.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "What is a 'Consolidated Fund of India'?",
+    "hi": "'भारत की संचित निधि' (Consolidated Fund of India) क्या है?",
+    "oEn": ["Fund for the President", "Fund containing all government revenues and borrowings", "Fund for private companies", "Fund for emergency only"],
+    "oHi": ["राष्ट्रपति के लिए निधि", "सभी सरकारी राजस्व और उधारियां रखने वाली निधि", "निजी कंपनियों के लिए निधि", "केवल आपातकाल के लिए निधि"],
+    "c": 1,
+    "exp": "All revenues received by the GOI and all loans raised form the Consolidated Fund of India.",
+    "Pyq": "Non-PYQ"
+  }
+]
