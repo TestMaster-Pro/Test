@@ -1,0 +1,227 @@
+[
+  {
+    "en": "When was the Reserve Bank of India (RBI) established?",
+    "hi": "भारतीय रिजर्व बैंक (RBI) की स्थापना कब हुई थी?",
+    "oEn": ["1930", "1935", "1947", "1950"],
+    "oHi": ["1930", "1935", "1947", "1950"],
+    "c": 1,
+    "exp": "The RBI was established on April 1, 1935, under the Reserve Bank of India Act, 1934.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which of the following is known as the 'Lender of Last Resort' in India?",
+    "hi": "भारत में निम्नलिखित में से किसे 'अंतिम उपाय का ऋणदाता' (Lender of Last Resort) कहा जाता है?",
+    "oEn": ["State Bank of India", "Reserve Bank of India", "Ministry of Finance", "NABARD"],
+    "oHi": ["भारतीय स्टेट बैंक", "भारतीय रिजर्व बैंक", "वित्त मंत्रालय", "नाबार्ड"],
+    "c": 1,
+    "exp": "The RBI acts as the lender of last resort to commercial banks that are unable to meet their liquidity needs.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "What is the full form of 'IFSC' used in banking?",
+    "hi": "बैंकिंग में उपयोग किए जाने वाले 'IFSC' का पूर्ण रूप क्या है?",
+    "oEn": ["Indian Financial System Code", "International Financial Security Code", "Indian Fund Settlement Code", "Internal Financial System Core"],
+    "oHi": ["इंडियन फाइनेंशियल सिस्टम कोड", "इंटरनेशनल फाइनेंशियल सिक्योरिटी कोड", "इंडियन फंड सेटलमेंट कोड", "इंटरनल फाइनेंशियल सिस्टम कोर"],
+    "c": 0,
+    "exp": "IFSC stands for Indian Financial System Code, an alphanumeric code used for electronic fund transfers.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Nationalization of 14 major Indian banks took place in which year?",
+    "hi": "भारत के 14 प्रमुख बैंकों का राष्ट्रीयकरण किस वर्ष हुआ था?",
+    "oEn": ["1965", "1969", "1975", "1980"],
+    "oHi": ["1965", "1969", "1975", "1980"],
+    "c": 1,
+    "exp": "The first major nationalization of 14 banks happened on July 19, 1969.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which committee recommended the establishment of NABARD?",
+    "hi": "किस समिति ने नाबार्ड (NABARD) की स्थापना की सिफारिश की थी?",
+    "oEn": ["Narasimham Committee", "Shivraman Committee", "Kelkar Committee", "Rangarajan Committee"],
+    "oHi": ["नरसिम्हन समिति", "शिवरमन समिति", "केलकर समिति", "रंगराजन समिति"],
+    "c": 1,
+    "exp": "NABARD was established in 1982 based on the recommendations of the B. Sivaraman Committee.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "What is 'SLR' in the context of banking?",
+    "hi": "बैंकिंग के संदर्भ में 'SLR' क्या है?",
+    "oEn": ["Statutory Liquidity Ratio", "Systemic Lending Rate", "Standard Liquidity Reserve", "State Loan Rate"],
+    "oHi": ["वैधानिक तरलता अनुपात (Statutory Liquidity Ratio)", "सिस्टमिक लेंडिंग रेट", "स्टैंडर्ड लिक्विडिटी रिजर्व", "स्टेट लोन रेट"],
+    "c": 0,
+    "exp": "SLR is the minimum percentage of deposits that a commercial bank must maintain in the form of liquid cash, gold, or other securities.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "The 'Bank Rate' is the rate at which:",
+    "hi": "'बैंक दर' वह दर है जिस पर:",
+    "oEn": ["Public borrows from banks", "Banks borrow from the public", "RBI lends to commercial banks", "Banks lend to each other"],
+    "oHi": ["जनता बैंकों से उधार लेती है", "बैंक जनता से उधार लेते हैं", "आरबीआई वाणिज्यिक बैंकों को ऋण देता है", "बैंक एक-दूसरे को ऋण देते हैं"],
+    "c": 2,
+    "exp": "Bank rate is the long-term rate at which the central bank lends money to commercial banks.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which of these is the main objective of Monetary Policy?",
+    "hi": "मौद्रिक नीति का मुख्य उद्देश्य इनमें से कौन सा है?",
+    "oEn": ["Price stability", "Infrastructure development", "Tax collection", "Export promotion"],
+    "oHi": ["मूल्य स्थिरता", "बुनियादी ढांचा विकास", "कर संग्रह", "निर्यात प्रोत्साहन"],
+    "c": 0,
+    "exp": "The primary objective of monetary policy is to maintain price stability while keeping in mind the objective of growth.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Money Market' deals with:",
+    "hi": "'मुद्रा बाजार' (Money Market) किसके साथ व्यवहार करता है?",
+    "oEn": ["Short-term funds", "Long-term funds", "Gold reserves", "Real estate"],
+    "oHi": ["अल्पकालिक फंड", "दीर्घकालिक फंड", "स्वर्ण भंडार", "रियल एस्टेट"],
+    "c": 0,
+    "exp": "The money market is a market for short-term financial assets with a maturity of one year or less.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What is 'NEFT'?",
+    "hi": "'एनईएफटी' (NEFT) क्या है?",
+    "oEn": ["National Electronic Funds Transfer", "Net Entry Fund Transfer", "New Electronic Finance Tool", "National Exchange Fund Trade"],
+    "oHi": ["नेशनल इलेक्ट्रॉनिक फंड ट्रांसफर", "नेट एंट्री फंड ट्रांसफर", "न्यू इलेक्ट्रॉनिक फाइनेंस टूल", "नेशनल एक्सचेंज फंड ट्रेड"],
+    "c": 0,
+    "exp": "NEFT (National Electronic Funds Transfer) is an online system for transferring funds from one bank account to another.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Who acts as the 'Issuer of Currency' in India?",
+    "hi": "भारत में 'मुद्रा जारीकर्ता' के रूप में कौन कार्य करता है?",
+    "oEn": ["Government of India", "Reserve Bank of India", "State Bank of India", "Ministry of Finance"],
+    "oHi": ["भारत सरकार", "भारतीय रिजर्व बैंक", "भारतीय स्टेट बैंक", "वित्त मंत्रालय"],
+    "c": 1,
+    "exp": "The RBI has the sole authority to issue banknotes in India (except for one-rupee notes and coins).",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Which of the following is a 'Non-Banking Financial Company' (NBFC)?",
+    "hi": "निम्नलिखित में से कौन सी एक 'गैर-बैंकिंग वित्तीय कंपनी' (NBFC) है?",
+    "oEn": ["SBI", "LIC (Housing Finance)", "PNB", "RBI"],
+    "oHi": ["एसबीआई", "एलआईसी (हाउसिंग फाइनेंस)", "पीएनबी", "आरबीआई"],
+    "c": 1,
+    "exp": "LIC Housing Finance is a well-known NBFC that provides loans but does not hold a full banking license.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Repo Rate' is a tool of which policy?",
+    "hi": "'रेपो रेट' किस नीति का एक उपकरण है?",
+    "oEn": ["Fiscal Policy", "Monetary Policy", "Industrial Policy", "Foreign Trade Policy"],
+    "oHi": ["राजकोषीय नीति", "मौद्रिक नीति", "औद्योगिक नीति", "विदेश व्यापार नीति"],
+    "c": 1,
+    "exp": "Repo rate is a key instrument of the RBI's monetary policy.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "What does 'CRR' stand for?",
+    "hi": "'सीआरआर' (CRR) का पूर्ण रूप क्या है?",
+    "oEn": ["Cash Reserve Ratio", "Central Revenue Rate", "Credit Rating Ratio", "Capital Reserve Ratio"],
+    "oHi": ["कैश रिजर्व रेशियो (नकद आरक्षित अनुपात)", "केंद्रीय राजस्व दर", "क्रेडिट रेटिंग अनुपात", "पूंजी आरक्षित अनुपात"],
+    "c": 0,
+    "exp": "CRR is the portion of deposits that banks must keep with the RBI in cash.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Where is the headquarters of the Reserve Bank of India located?",
+    "hi": "भारतीय रिजर्व बैंक का मुख्यालय कहाँ स्थित है?",
+    "oEn": ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "oHi": ["नई दिल्ली", "मुंबई", "कोलकाता", "चेन्नई"],
+    "c": 1,
+    "exp": "The headquarters of the RBI was shifted from Kolkata to Mumbai in 1937.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The 'Primary Deficit' is equal to:",
+    "hi": "'प्राथमिक घाटा' (Primary Deficit) किसके बराबर है?",
+    "oEn": ["Fiscal Deficit - Interest Payments", "Revenue Deficit - Grants", "Fiscal Deficit + Interest Payments", "Total Expenditure - Revenue"],
+    "oHi": ["राजकोषीय घाटा - ब्याज भुगतान", "राजस्व घाटा - अनुदान", "राजकोषीय घाटा + ब्याज भुगतान", "कुल व्यय - राजस्व"],
+    "c": 0,
+    "exp": "Primary deficit is the fiscal deficit minus interest payments.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What is 'Devaluation' of currency?",
+    "hi": "मुद्रा का 'अवमूल्यन' (Devaluation) क्या है?",
+    "oEn": ["Increasing the value of currency", "Reducing the value of currency against foreign currency", "Stopping currency printing", "None of these"],
+    "oHi": ["मुद्रा का मूल्य बढ़ाना", "विदेशी मुद्रा के मुकाबले मुद्रा का मूल्य घटाना", "मुद्रा छपाई रोकना", "इनमें से कोई नहीं"],
+    "c": 1,
+    "exp": "Devaluation is the deliberate downward adjustment of a country's currency value against foreign currencies.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which note/coin is issued by the Ministry of Finance?",
+    "hi": "वित्त मंत्रालय द्वारा कौन सा नोट/सिक्का जारी किया जाता है?",
+    "oEn": ["100 rupee note", "500 rupee note", "1 rupee note and all coins", "2000 rupee note"],
+    "oHi": ["100 रुपये का नोट", "500 रुपये का नोट", "1 रुपये का नोट और सभी सिक्के", "2000 रुपये का नोट"],
+    "c": 2,
+    "exp": "The Ministry of Finance issues the one-rupee note and all denominations of coins.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "What is 'Plastic Money'?",
+    "hi": "'प्लास्टिक मनी' क्या है?",
+    "oEn": ["Paper currency", "Credit/Debit cards", "Gold coins", "E-wallets"],
+    "oHi": ["कागजी मुद्रा", "क्रेडिट/डेबिट कार्ड", "स्वर्ण सिक्के", "ई-वॉलेट"],
+    "c": 1,
+    "exp": "Credit and debit cards are commonly referred to as plastic money.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which bank was the first to be nationalized in India?",
+    "hi": "भारत में राष्ट्रीयकृत होने वाला पहला बैंक कौन सा था?",
+    "oEn": ["Bank of India", "Reserve Bank of India", "State Bank of India", "Canara Bank"],
+    "oHi": ["बैंक ऑफ इंडिया", "भारतीय रिजर्व बैंक", "भारतीय स्टेट बैंक", "केनरा बैंक"],
+    "c": 1,
+    "exp": "The RBI was the first bank to be nationalized in 1949 after independence.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Open Market Operations' (OMO) are conducted by:",
+    "hi": "'ओपन मार्केट ऑपरेशंस' (OMO) किसके द्वारा संचालित किए जाते हैं?",
+    "oEn": ["SEBI", "Ministry of Finance", "Reserve Bank of India", "Commercial Banks"],
+    "oHi": ["सेबी", "वित्त मंत्रालय", "भारतीय रिजर्व बैंक", "वाणिज्यिक बैंक"],
+    "c": 2,
+    "exp": "OMO involves the buying and selling of government securities by the RBI in the open market.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "What is 'Inflation' targeting?",
+    "hi": "'मुद्रास्फीति लक्ष्यीकरण' (Inflation targeting) क्या है?",
+    "oEn": ["Setting a limit on price rise", "Increasing taxes", "Reducing bank branches", "None of these"],
+    "oHi": ["मूल्य वृद्धि पर सीमा निर्धारित करना", "कर बढ़ाना", "बैंक शाखाएं घटाना", "इनमें से कोई नहीं"],
+    "c": 0,
+    "exp": "Inflation targeting is a monetary policy framework aimed at maintaining a specific rate of inflation.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Who regulates the insurance sector in India?",
+    "hi": "भारत में बीमा क्षेत्र (Insurance sector) को कौन नियंत्रित करता है?",
+    "oEn": ["RBI", "SEBI", "IRDAI", "PFRDA"],
+    "oHi": ["आरबीआई", "सेबी", "इरडा (IRDAI)", "पीएफआरडीए"],
+    "c": 2,
+    "exp": "The Insurance Regulatory and Development Authority of India (IRDAI) regulates the insurance sector.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "What is the 'Base Rate' in banking?",
+    "hi": "बैंकिंग में 'बेस रेट' (आधार दर) क्या है?",
+    "oEn": ["Maximum lending rate", "Minimum lending rate", "Deposit rate", "Tax rate"],
+    "oHi": ["अधिकतम ऋण दर", "न्यूनतम ऋण दर", "जमा दर", "कर दर"],
+    "c": 1,
+    "exp": "The base rate is the minimum interest rate below which banks cannot lend.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which system of note issue is followed by the RBI?",
+    "hi": "आरबीआई द्वारा नोट जारी करने की किस प्रणाली का पालन किया जाता है?",
+    "oEn": ["Proportional Reserve System", "Minimum Reserve System", "Fixed Fiduciary System", "None of these"],
+    "oHi": ["आनुपातिक आरक्षित प्रणाली", "न्यूनतम आरक्षित प्रणाली", "फिक्स्ड फिडुशियरी सिस्टम", "इनमें से कोई नहीं"],
+    "c": 1,
+    "exp": "Since 1957, the RBI follows the Minimum Reserve System for issuing currency.",
+    "Pyq": "Non-PYQ"
+  }
+]
