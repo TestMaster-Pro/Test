@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Find the simple interest on ₹5000 at 10% per annum for 3 years.",
+    "hi": "₹5000 पर 10% वार्षिक दर से 3 वर्षों का साधारण ब्याज ज्ञात कीजिए।",
+    "oEn": ["₹1800", "₹1200", "₹1500", "₹1000"],
+    "oHi": ["₹1800", "₹1200", "₹1500", "₹1000"],
+    "c": 2,
+    "exp": "SI = (P*R*T)/100 = (5000*10*3)/100 = ₹1500.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "A sum of money doubles itself in 8 years at simple interest. In how many years will it triple itself?",
+    "hi": "साधारण ब्याज की दर से कोई धनराशि 8 वर्षों में दोगुनी हो जाती है। वह कितने वर्षों में तीन गुनी हो जाएगी?",
+    "oEn": ["12 years", "20 years", "16 years", "24 years"],
+    "oHi": ["12 वर्ष", "20 वर्ष", "16 वर्ष", "24 वर्ष"],
+    "c": 2,
+    "exp": "For SI, time to double = 8 years means (2-1)*100/R = 8 => 100/R=8 => R=12.5%. Time to triple T2 = (3-1)*100/R = 200/12.5 = 16 years.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Calculate compound interest on ₹10,000 for 2 years at 10% per annum compounded annually.",
+    "hi": "₹10,000 पर 10% वार्षिक दर से 2 वर्षों के लिए चक्रवृद्धि ब्याज ज्ञात कीजिए।",
+    "oEn": ["₹2000", "₹2300", "₹2100", "₹2200"],
+    "oHi": ["₹2000", "₹2300", "₹2100", "₹2200"],
+    "c": 2,
+    "exp": "CI = P[(1+R/100)^n - 1] = 10000[(1.1)^2 - 1] = 10000[1.21 - 1] = ₹2100.",
+    "Pyq": "ssc_mts_2024"
+  },
+  {
+    "en": "The difference between SI and CI on a sum for 2 years at 5% per annum is ₹25. Find the sum.",
+    "hi": "5% वार्षिक दर से 2 वर्षों के लिए किसी धनराशि पर SI और CI के बीच का अंतर ₹25 है। धनराशि ज्ञात कीजिए।",
+    "oEn": ["₹8000", "₹12000", "₹10000", "₹15000"],
+    "oHi": ["₹8000", "₹12000", "₹10000", "₹15000"],
+    "c": 2,
+    "exp": "Diff = P(R/100)^2 => 25 = P(5/100)^2 => 25 = P(1/400) => P = ₹10,000.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "At what rate percent per annum will a sum of money double in 10 years at simple interest?",
+    "hi": "साधारण ब्याज की किस वार्षिक दर से कोई धनराशि 10 वर्षों में दोगुनी हो जाएगी?",
+    "oEn": ["8%", "10%", "5%", "12%"],
+    "oHi": ["8%", "10%", "5%", "12%"],
+    "c": 1,
+    "exp": "SI = P (since amount = 2P). P = (P*R*10)/100 => R = 10%.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "If a sum of money becomes 8 times in 3 years at compound interest, in how many years will it become 64 times?",
+    "hi": "यदि चक्रवृद्धि ब्याज पर कोई धनराशि 3 वर्षों में 8 गुनी हो जाती है, तो वह कितने वर्षों में 64 गुनी हो जाएगी?",
+    "oEn": ["9 years", "6 years", "12 years", "15 years"],
+    "oHi": ["9 वर्ष", "6 वर्ष", "12 वर्ष", "15 वर्ष"],
+    "c": 1,
+    "exp": "(1+R)^3 = 8 => 1+R = 2. 64 = 2^6 => time = 3*2 = 6 years.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "What is the compound interest on ₹8000 at 20% per annum for 9 months compounded quarterly?",
+    "hi": "₹8000 पर 20% वार्षिक दर से 9 महीने के लिए चक्रवृद्धि ब्याज क्या होगा, यदि ब्याज तिमाही संयोजित होता है?",
+    "oEn": ["₹1300", "₹1261", "₹1250", "₹1280"],
+    "oHi": ["₹1300", "₹1261", "₹1250", "₹1280"],
+    "c": 1,
+    "exp": "Rate = 20/4 = 5%. Time = 9/3 = 3 quarters. Amount = 8000(1.05)^3 = 8000*1.157625 = 9261. CI = 1261.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A sum of ₹16000 at 20% per annum compounded half-yearly for 1 year. Find the amount.",
+    "hi": "₹16000 का 20% वार्षिक दर से 1 वर्ष के लिए चक्रवृद्धि ब्याज अर्ध-वार्षिक संयोजित होता है। मिश्रधन ज्ञात कीजिए।",
+    "oEn": ["₹19500", "₹19360", "₹19400", "₹19200"],
+    "oHi": ["₹19500", "₹19360", "₹19400", "₹19200"],
+    "c": 1,
+    "exp": "Rate = 10% half-yearly. Time = 2 half-years. A = 16000(1.1)^2 = 16000*1.21 = 19360.",
+    "Pyq": "ssc_mts_2024"
+  },
+  {
+    "en": "A man borrows ₹5000 at 10% compound interest. If he repays ₹2000 at the end of each year, what amount is outstanding after 2 years?",
+    "hi": "एक आदमी ₹5000, 10% चक्रवृद्धि ब्याज पर उधार लेता है। यदि वह हर साल के अंत में ₹2000 चुकाता है, तो 2 वर्षों के बाद कितनी राशि बकाया है?",
+    "oEn": ["₹2050", "₹1850", "₹1900", "₹2150"],
+    "oHi": ["₹2050", "₹1850", "₹1900", "₹2150"],
+    "c": 1,
+    "exp": "After 1st yr: 5000*1.1 = 5500. Pay 2000, rem = 3500. After 2nd yr: 3500*1.1 = 3850. Pay 2000, rem = 1850.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "The compound interest on a certain sum for 2 years at 10% is ₹420. Find simple interest for the same sum and time.",
+    "hi": "10% की दर से 2 वर्षों के लिए किसी धनराशि पर चक्रवृद्धि ब्याज ₹420 है। उसी राशि और समय के लिए साधारण ब्याज ज्ञात कीजिए।",
+    "oEn": ["₹410", "₹380", "₹420", "₹400"],
+    "oHi": ["₹410", "₹380", "₹420", "₹400"],
+    "c": 3,
+    "exp": "CI for 2 yrs = 21%. SI for 2 yrs = 20%. 21% = 420 => 1% = 20. 20% = 400.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "If the simple interest on a sum of money for 2 years at 5% is ₹50, what is the compound interest on the same sum at the same rate for the same time?",
+    "hi": "यदि 5% की दर से 2 वर्षों के लिए किसी धनराशि पर साधारण ब्याज ₹50 है, तो उसी दर और समय पर उसी राशि पर चक्रवृद्धि ब्याज क्या है?",
+    "oEn": ["₹51.25", "₹50.50", "₹53.50", "₹52.00"],
+    "oHi": ["₹51.25", "₹50.50", "₹53.50", "₹52.00"],
+    "c": 0,
+    "exp": "SI=50 => P=500. CI = 500(1.05^2 - 1) = 500*0.1025 = 51.25.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Divide ₹1301 between A and B so that A's share at the end of 7 years may equal B's share at the end of 9 years at 4% compound interest.",
+    "hi": "₹1301 को A और B के बीच इस प्रकार विभाजित करें कि 4% चक्रवृद्धि ब्याज पर 7 वर्षों के अंत में A का हिस्सा 9 वर्षों के अंत में B के हिस्से के बराबर हो।",
+    "oEn": ["A=625, B=676", "A=676, B=625", "A=600, B=701", "A=701, B=600"],
+    "oHi": ["A=625, B=676", "A=676, B=625", "A=600, B=701", "A=701, B=600"],
+    "c": 1,
+    "exp": "A(1.04)^7 = B(1.04)^9 => A/B = (1.04)^2 = 1.0816 = 676/625. A=676, B=625.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "Find the sum which amounts to ₹2662 at 10% compound interest for 3 years.",
+    "hi": "वह धनराशि ज्ञात कीजिए जो 10% चक्रवृद्धि ब्याज पर 3 वर्षों में ₹2662 हो जाती है।",
+    "oEn": ["₹2200", "₹2000", "₹1800", "₹2400"],
+    "oHi": ["₹2200", "₹2000", "₹1800", "₹2400"],
+    "c": 1,
+    "exp": "A = P(1.1)^3 => 2662 = P(1.331) => P = 2662/1.331 = 2000.",
+    "Pyq": "ssc_mts_2024"
+  },
+  {
+    "en": "A sum of ₹10,000 is lent at 10% per annum compound interest. In what time will it amount to ₹13,310?",
+    "hi": "₹10,000 की राशि 10% वार्षिक चक्रवृद्धि ब्याज पर उधार दी जाती है। कितने समय में यह ₹13,310 हो जाएगी?",
+    "oEn": ["4 years", "2 years", "3 years", "5 years"],
+    "oHi": ["4 वर्ष", "2 वर्ष", "3 वर्ष", "5 वर्ष"],
+    "c": 2,
+    "exp": "(1.1)^n = 13310/10000 = 1.331 = (1.1)^3. So, n=3.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Simple interest on a sum for 3 years at 5% is ₹1200. Find the compound interest on the same sum for 2 years at the same rate.",
+    "hi": "5% की दर से 3 वर्षों के लिए किसी राशि पर साधारण ब्याज ₹1200 है। उसी राशि पर 2 वर्षों के लिए उसी दर से चक्रवृद्धि ब्याज ज्ञात कीजिए।",
+    "oEn": ["₹840", "₹800", "₹850", "₹820"],
+    "oHi": ["₹840", "₹800", "₹850", "₹820"],
+    "c": 3,
+    "exp": "1 yr SI = 400. P = 400/0.05 = 8000. 2 yr CI = 8000*(1.05^2 - 1) = 8000*0.1025 = 820.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A certain sum at compound interest becomes 1.44 times in 2 years. Find the rate per annum.",
+    "hi": "चक्रवृद्धि ब्याज पर एक निश्चित राशि 2 वर्षों में 1.44 गुना हो जाती है। वार्षिक दर ज्ञात कीजिए।",
+    "oEn": ["25%", "15%", "20%", "10%"],
+    "oHi": ["25%", "15%", "20%", "10%"],
+    "c": 2,
+    "exp": "(1+R/100)^2 = 1.44 = (1.2)^2. 1+R/100 = 1.2 => R=20%.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "A loan of ₹10,200 is to be paid back in two equal half-yearly installments at 8% per annum compounded half-yearly. Find the installment amount.",
+    "hi": "₹10,200 का ऋण 8% वार्षिक दर से अर्ध-वार्षिक संयोजित करके दो समान अर्ध-वार्षिक किस्तों में चुकाया जाना है। किस्त की राशि ज्ञात कीजिए।",
+    "oEn": ["₹5300", "₹5600", "₹5408", "₹5500"],
+    "oHi": ["₹5300", "₹5600", "₹5408", "₹5500"],
+    "c": 2,
+    "exp": "Rate = 4% half-yearly. 10200 = X/1.04 + X/(1.04)^2. X = 10200 × 0.04 / (1 - 1.04^-2) = 5408.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "The CI on ₹16000 for 9 months at 20% p.a. compounded quarterly is:",
+    "hi": "₹16000 पर 20% वार्षिक दर से 9 महीने का चक्रवृद्धि ब्याज क्या होगा, यदि ब्याज तिमाही संयोजित होता है?",
+    "oEn": ["₹2500", "₹2700", "₹2522", "₹2600"],
+    "oHi": ["₹2500", "₹2700", "₹2522", "₹2600"],
+    "c": 2,
+    "exp": "Rate = 5%. Time = 3 quarters. A = 16000*(1.05)^3 = 18522. CI = 2522.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "At what rate per annum will ₹2000 become ₹2420 in 2 years at compound interest?",
+    "hi": "चक्रवृद्धि ब्याज पर किस वार्षिक दर से ₹2000, 2 वर्षों में ₹2420 हो जाएंगे?",
+    "oEn": ["8%", "5%", "10%", "12%"],
+    "oHi": ["8%", "5%", "10%", "12%"],
+    "c": 2,
+    "exp": "(1+R/100)^2 = 2420/2000 = 1.21 = (1.1)^2. R = 10%.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Find the simple interest on ₹1200 from April 4, 2025 to June 16, 2025 at 5% p.a.",
+    "hi": "₹1200 पर 4 अप्रैल 2025 से 16 जून 2025 तक 5% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।",
+    "oEn": ["₹15", "₹10", "₹12", "₹20"],
+    "oHi": ["₹15", "₹10", "₹12", "₹20"],
+    "c": 2,
+    "exp": "Days: April(26) + May(31) + June(16) = 73 days = 73/365 = 1/5 year. SI = 1200*0.05*0.2 = ₹12.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A sum of money amounts to ₹880 in 2 years and ₹920 in 3 years at simple interest. Find the rate of interest.",
+    "hi": "साधारण ब्याज पर एक धनराशि 2 वर्षों में ₹880 और 3 वर्षों में ₹920 हो जाती है। ब्याज की दर ज्ञात कीजिए।",
+    "oEn": ["8%", "10%", "5%", "4%"],
+    "oHi": ["8%", "10%", "5%", "4%"],
+    "c": 2,
+    "exp": "Interest for 1 yr = 920-880 = 40. P = 880 - 80 = 800. Rate = (40/800)*100 = 5%.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "What is the difference between CI and SI on ₹5000 for 3 years at 10% per annum?",
+    "hi": "₹5000 पर 3 वर्षों के लिए 10% वार्षिक दर से CI और SI के बीच का अंतर क्या है?",
+    "oEn": ["₹145", "₹160", "₹155", "₹150"],
+    "oHi": ["₹145", "₹160", "₹155", "₹150"],
+    "c": 2,
+    "exp": "Diff = P*R^2*(300+R)/100^3 = 5000*100*310/1000000 = 5*31 = 155.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "A sum of ₹10,000 at 20% compound interest, compounded half-yearly, for 1 year. Find CI.",
+    "hi": "₹10,000 पर 20% चक्रवृद्धि ब्याज, अर्ध-वार्षिक संयोजित, 1 वर्ष के लिए। CI ज्ञात कीजिए।",
+    "oEn": ["₹2105", "₹2100", "₹2200", "₹2000"],
+    "oHi": ["₹2105", "₹2100", "₹2200", "₹2000"],
+    "c": 1,
+    "exp": "Rate = 10%, Time = 2 half-years. CI = 10000*(1.1^2 - 1) = 10000*0.21 = 2100.",
+    "Pyq": "ssc_mts_2024"
+  },
+  {
+    "en": "If the compound interest on a sum for 2 years at 12.5% is ₹680, find the simple interest.",
+    "hi": "यदि 12.5% की दर से 2 वर्षों के लिए किसी राशि पर चक्रवृद्धि ब्याज ₹680 है, तो साधारण ब्याज ज्ञात कीजिए।",
+    "oEn": ["₹650", "₹640", "₹670", "₹660"],
+    "oHi": ["₹650", "₹640", "₹670", "₹660"],
+    "c": 1,
+    "exp": "12.5% = 1/8. 2 yrs CI% = 17/64. 17/64 P = 680 => P=2560. SI = 2560*1/8*2 = 640.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A sum becomes ₹6000 in 2 years and ₹9000 in 4 years at compound interest. Find the sum.",
+    "hi": "एक राशि चक्रवृद्धि ब्याज पर 2 वर्षों में ₹6000 और 4 वर्षों में ₹9000 हो जाती है। राशि ज्ञात कीजिए।",
+    "oEn": ["₹3000", "₹4500", "₹4000", "₹5000"],
+    "oHi": ["₹3000", "₹4500", "₹4000", "₹5000"],
+    "c": 2,
+    "exp": "P*(1+R)^2 = 6000, P*(1+R)^4 = 9000 => (1+R)^2 = 9000/6000 = 1.5. P = 6000/1.5 = 4000.",
+    "Pyq": "ssc_mts_Trend_2026"
+  }
+]
