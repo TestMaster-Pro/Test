@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Which river is known as the 'Dakshin Ganga'?",
+    "hi": "किस नदी को 'दक्षिण गंगा' के नाम से जाना जाता है?",
+    "oEn": ["Krishna", "Godavari", "Cauvery", "Narmada"],
+    "oHi": ["कृष्णा", "गोदावरी", "कावेरी", "नर्मदा"],
+    "c": 1,
+    "exp": "The Godavari is the longest river in peninsular India and is often called Dakshin Ganga.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The 'Indira Point' is the southernmost point of India, located in:",
+    "hi": "'इंदिरा पॉइंट' भारत का सबसे दक्षिणी बिंदु है, जो स्थित है:",
+    "oEn": ["Lakshadweep", "Andaman and Nicobar Islands", "Tamil Nadu", "Kerala"],
+    "oHi": ["लक्षद्वीप", "अंडमान और निकोबार द्वीप समूह", "तमिलनाडु", "केरल"],
+    "c": 1,
+    "exp": "Indira Point is located on Great Nicobar Island.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Which state has the longest coastline in India?",
+    "hi": "भारत में किस राज्य की तटरेखा सबसे लंबी है?",
+    "oEn": ["Tamil Nadu", "Maharashtra", "Gujarat", "Andhra Pradesh"],
+    "oHi": ["तमिलनाडु", "महाराष्ट्र", "गुजरात", "आंध्र प्रदेश"],
+    "c": 2,
+    "exp": "Gujarat has the longest coastline in India due to its highly indented shore.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "The Karakoram Range is part of which Himalayan division?",
+    "hi": "कराकोरम श्रेणी हिमालय के किस भाग का हिस्सा है?",
+    "oEn": ["Greater Himalayas", "Trans-Himalayas", "Lesser Himalayas", "Outer Himalayas"],
+    "oHi": ["वृहद हिमालय", "ट्रांस-हिमालय", "लघु हिमालय", "बाह्य हिमालय"],
+    "c": 1,
+    "exp": "The Karakoram range is located in the Trans-Himalayan region.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which soil is best suited for cotton cultivation in India?",
+    "hi": "भारत में कपास की खेती के लिए कौन सी मिट्टी सबसे उपयुक्त है?",
+    "oEn": ["Red soil", "Black soil", "Alluvial soil", "Laterite soil"],
+    "oHi": ["लाल मिट्टी", "काली मिट्टी", "जलोढ़ मिट्टी", "लेटराइट मिट्टी"],
+    "c": 1,
+    "exp": "Black soil (Regur soil) is highly retentive of moisture and ideal for cotton.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The Jog Falls is located on which river?",
+    "hi": "जोग जलप्रपात किस नदी पर स्थित है?",
+    "oEn": ["Cauvery", "Sharavathi", "Krishna", "Tungabhadra"],
+    "oHi": ["कावेरी", "शरावती", "कृष्णा", "तुंगभद्रा"],
+    "c": 1,
+    "exp": "Jog Falls is created by the Sharavathi River in Karnataka.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which pass connects Srinagar to Leh?",
+    "hi": "कौन सा दर्रा श्रीनगर को लेह से जोड़ता है?",
+    "oEn": ["Nathula Pass", "Zoji La Pass", "Shipki La", "Rohtang Pass"],
+    "oHi": ["नाथुला दर्रा", "ज़ोजी ला दर्रा", "शिपकी ला", "रोहतांग दर्रा"],
+    "c": 1,
+    "exp": "Zoji La Pass acts as a vital link between Srinagar and Leh.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The 'Bhakra Nangal Dam' is built on which river?",
+    "hi": "'भाखड़ा नांगल बांध' किस नदी पर बना है?",
+    "oEn": ["Beas", "Chenab", "Satluj", "Ravi"],
+    "oHi": ["ब्यास", "चिनाब", "सतलुज", "रावी"],
+    "c": 2,
+    "exp": "The Bhakra Dam is situated on the Satluj River in Himachal Pradesh.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Which mountain range separates North India from South India?",
+    "hi": "कौन सी पर्वत श्रृंखला उत्तर भारत को दक्षिण भारत से अलग करती है?",
+    "oEn": ["Aravalli", "Western Ghats", "Vindhya Range", "Satpura Range"],
+    "oHi": ["अरावली", "पश्चिमी घाट", "विंध्य श्रेणी", "सतपुड़ा श्रेणी"],
+    "c": 2,
+    "exp": "The Vindhya range traditionally serves as the geographic divide between North and South India.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "India shares its longest land border with which country?",
+    "hi": "भारत अपनी सबसे लंबी थल सीमा किस देश के साथ साझा करता है?",
+    "oEn": ["China", "Pakistan", "Nepal", "Bangladesh"],
+    "oHi": ["चीन", "पाकिस्तान", "नेपाल", "बांग्लादेश"],
+    "c": 3,
+    "exp": "India shares a 4,096 km border with Bangladesh.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The 'Silent Valley National Park' is located in:",
+    "hi": "'साइलेंट वैली नेशनल पार्क' कहाँ स्थित है?",
+    "oEn": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh"],
+    "oHi": ["कर्नाटक", "तमिलनाडु", "केरल", "आंध्र प्रदेश"],
+    "c": 2,
+    "exp": "Silent Valley is located in the Nilgiri hills of Kerala.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which wind is responsible for rainfall in the Coromandel Coast in winter?",
+    "hi": "सर्दियों में कोरोमंडल तट पर वर्षा के लिए कौन सी हवा जिम्मेदार है?",
+    "oEn": ["South-West Monsoon", "North-East Monsoon", "Western Disturbances", "Land Breeze"],
+    "oHi": ["दक्षिण-पश्चिम मानसून", "उत्तर-पूर्वी मानसून", "पश्चिमी विक्षोभ", "थल समीर"],
+    "c": 1,
+    "exp": "The retreating monsoon (North-East) brings rain to Tamil Nadu/Coromandel coast.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Which of the following is a 'Tributary' of the Ganga?",
+    "hi": "निम्नलिखित में से कौन सी गंगा की 'सहायक नदी' है?",
+    "oEn": ["Jhelum", "Son", "Beas", "Chenab"],
+    "oHi": ["झेलम", "सोन", "ब्यास", "चिनाब"],
+    "c": 1,
+    "exp": "The Son river joins the Ganga near Patna.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Kaziranga National Park' is famous for:",
+    "hi": "'काजीरंगा नेशनल पार्क' किसके लिए प्रसिद्ध है?",
+    "oEn": ["Tiger", "Lion", "One-horned Rhinoceros", "Elephant"],
+    "oHi": ["बाघ", "शेर", "एक सींग वाला गैंडा", "हाथी"],
+    "c": 2,
+    "exp": "Kaziranga is famous for the highest population of one-horned rhinoceros.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "What is the standard time difference between IST and GMT?",
+    "hi": "IST और GMT के बीच मानक समय का अंतर क्या है?",
+    "oEn": ["4 hours", "5 hours 30 minutes", "6 hours", "4 hours 30 minutes"],
+    "oHi": ["4 घंटे", "5 घंटे 30 मिनट", "6 घंटे", "4 घंटे 30 मिनट"],
+    "c": 1,
+    "exp": "Indian Standard Time is ahead of Greenwich Mean Time by 5 hours and 30 minutes.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which plateau is known as the 'Storehouse of Minerals' in India?",
+    "hi": "भारत में किस पठार को 'खनिजों का भंडार' कहा जाता है?",
+    "oEn": ["Deccan Plateau", "Malwa Plateau", "Chota Nagpur Plateau", "Bundelkhand Plateau"],
+    "oHi": ["दक्कन का पठार", "मालवा का पठार", "छोटा नागपुर का पठार", "बुंदेलखंड का पठार"],
+    "c": 2,
+    "exp": "Chota Nagpur Plateau is rich in coal, iron, and other minerals.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Siachen Glacier' is situated near which valley?",
+    "hi": "'सियाचिन ग्लेशियर' किस घाटी के पास स्थित है?",
+    "oEn": ["Nubra Valley", "Kashmir Valley", "Chumbi Valley", "Silent Valley"],
+    "oHi": ["नुब्रा घाटी", "कश्मीर घाटी", "चुंबी घाटी", "साइलेंट वैली"],
+    "c": 0,
+    "exp": "Siachen Glacier is located at the northern end of the Nubra Valley.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which major port is located on the eastern coast of India?",
+    "hi": "भारत के पूर्वी तट पर कौन सा प्रमुख बंदरगाह स्थित है?",
+    "oEn": ["Kandla", "Paradip", "Jawaharlal Nehru Port", "Mormugao"],
+    "oHi": ["कांडला", "पारादीप", "जवाहरलाल नेहरू पोर्ट", "मर्मगाओ"],
+    "c": 1,
+    "exp": "Paradip is a major deep-water port located in Odisha on the east coast.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The 'Narmada' river originates from:",
+    "hi": "'नर्मदा' नदी का उद्गम स्थल है:",
+    "oEn": ["Mahabaleshwar", "Amarkantak", "Nasik", "Brahmagiri"],
+    "oHi": ["महाबलेश्वर", "अमरकंटक", "नासिक", "ब्रह्मगिरी"],
+    "c": 1,
+    "exp": "Narmada originates from Amarkantak peak in Madhya Pradesh.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Which state receives the first monsoon showers?",
+    "hi": "किस राज्य में सबसे पहले मानसून की बारिश होती है?",
+    "oEn": ["Tamil Nadu", "West Bengal", "Kerala", "Maharashtra"],
+    "oHi": ["तमिलनाडु", "पश्चिम बंगाल", "केरल", "महाराष्ट्र"],
+    "c": 2,
+    "exp": "The monsoon typically arrives in Kerala in early June.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "The 'Palk Strait' separates India from which country?",
+    "hi": "'पाक जलडमरूमध्य' भारत को किस देश से अलग करता है?",
+    "oEn": ["Maldives", "Indonesia", "Sri Lanka", "Myanmar"],
+    "oHi": ["मालदीव", "इंडोनेशिया", "श्रीलंका", "म्यांमार"],
+    "c": 2,
+    "exp": "Palk Strait lies between India (Tamil Nadu) and Sri Lanka.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which is the largest 'Freshwater lake' in India?",
+    "hi": "भारत में सबसे बड़ी 'मीठे पानी की झील' कौन सी है?",
+    "oEn": ["Wular Lake", "Sambhar Lake", "Chilika Lake", "Dal Lake"],
+    "oHi": ["वुलर झील", "सांभर झील", "चिल्का झील", "डल झील"],
+    "c": 0,
+    "exp": "Wular Lake in Jammu & Kashmir is the largest freshwater lake.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The 'Western Ghats' are also known as:",
+    "hi": "'पश्चिमी घाट' को और किस नाम से जाना जाता है?",
+    "oEn": ["Himadri", "Sahyadri", "Nilgiri", "Aravali"],
+    "oHi": ["हिमाद्रि", "सह्याद्रि", "नीलगिरी", "अरावली"],
+    "c": 1,
+    "exp": "The Western Ghats are locally known as Sahyadri in Maharashtra and Karnataka.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Which tribe is primarily found in the Andaman Islands?",
+    "hi": "अंडमान द्वीप समूह में मुख्य रूप से कौन सी जनजाति पाई जाती है?",
+    "oEn": ["Jarawas", "Bhil", "Gond", "Tharu"],
+    "oHi": ["जारवा", "भील", "गोंड", "थारू"],
+    "c": 0,
+    "exp": "Jarawa is one of the major indigenous tribes of the Andaman Islands.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Loktak Lake', famous for floating islands, is in:",
+    "hi": "'लोकटक झील', जो तैरते द्वीपों के लिए प्रसिद्ध है, कहाँ है?",
+    "oEn": ["Manipur", "Meghalaya", "Assam", "Sikkim"],
+    "oHi": ["मणिपुर", "मेघालय", "असम", "सिक्किम"],
+    "c": 0,
+    "exp": "Loktak Lake in Manipur is famous for its phumdis (floating islands).",
+    "Pyq": "ssc_mts_2022"
+  }
+]
