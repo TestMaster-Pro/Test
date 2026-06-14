@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Which layer of the atmosphere contains the ozone layer?",
+    "hi": "वायुमंडल की किस परत में ओजोन परत पाई जाती है?",
+    "oEn": ["Troposphere", "Mesosphere", "Stratosphere", "Thermosphere"],
+    "oHi": ["क्षोभमंडल", "मध्यमंडल", "समताप मंडल", "तापमंडल"],
+    "c": 2,
+    "exp": "The Stratosphere contains the ozone layer, which absorbs harmful ultraviolet radiation.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The imaginary line that divides the Earth into the Northern and Southern Hemispheres is:",
+    "hi": "वह काल्पनिक रेखा जो पृथ्वी को उत्तरी और दक्षिणी गोलार्ध में विभाजित करती है, कहलाती है:",
+    "oEn": ["Tropic of Cancer", "Equator", "Arctic Circle", "Prime Meridian"],
+    "oHi": ["कर्क रेखा", "भूमध्य रेखा", "आर्कटिक वृत्त", "प्रधान मध्याह्न रेखा"],
+    "c": 1,
+    "exp": "The Equator is the 0-degree latitude line dividing the Earth into two hemispheres.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Which of the following is the largest ocean in the world?",
+    "hi": "निम्नलिखित में से कौन सा विश्व का सबसे बड़ा महासागर है?",
+    "oEn": ["Indian Ocean", "Atlantic Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "oHi": ["हिंद महासागर", "अटलांटिक महासागर", "आर्कटिक महासागर", "प्रशांत महासागर"],
+    "c": 3,
+    "exp": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "What is the study of landforms called?",
+    "hi": "स्थलाकृतियों के अध्ययन को क्या कहा जाता है?",
+    "oEn": ["Climatology", "Geomorphology", "Oceanography", "Pedology"],
+    "oHi": ["जलवायु विज्ञान", "भू-आकृति विज्ञान", "समुद्र विज्ञान", "मृदा विज्ञान"],
+    "c": 1,
+    "exp": "Geomorphology is the study of the physical features of the surface of the earth.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which layer is known as the 'Sial' layer?",
+    "hi": "किस परत को 'सियाल' (Sial) परत के रूप में जाना जाता है?",
+    "oEn": ["Core", "Mantle", "Crust", "Atmosphere"],
+    "oHi": ["कोर", "मेंटल", "भूपर्पटी", "वायुमंडल"],
+    "c": 2,
+    "exp": "The Earth's crust is rich in Silica and Aluminium, hence called Sial.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Ring of Fire' is associated with:",
+    "hi": "'रिंग ऑफ फायर' किससे संबंधित है?",
+    "oEn": ["Cyclones", "Volcanoes and Earthquakes", "Forest Fires", "Tidal Waves"],
+    "oHi": ["चक्रवात", "ज्वालामुखी और भूकंप", "दावानल", "ज्वारीय लहरें"],
+    "c": 1,
+    "exp": "The Ring of Fire is a path along the Pacific Ocean characterized by active volcanoes and frequent earthquakes.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which is the highest peak in the world?",
+    "hi": "विश्व की सबसे ऊंची चोटी कौन सी है?",
+    "oEn": ["K2", "Mount Everest", "Kanchenjunga", "Makalu"],
+    "oHi": ["के-2", "माउंट एवरेस्ट", "कंचनजंगा", "मकालू"],
+    "c": 1,
+    "exp": "Mount Everest, located in the Himalayas, is the world's highest peak.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "The process of wearing away of the Earth's surface by wind, water, or ice is called:",
+    "hi": "हवा, पानी या बर्फ द्वारा पृथ्वी की सतह के घिसने की प्रक्रिया क्या कहलाती है?",
+    "oEn": ["Weathering", "Erosion", "Deposition", "Volcanism"],
+    "oHi": ["अपक्षय", "अपरदन", "निक्षेपण", "ज्वालामुखी"],
+    "c": 1,
+    "exp": "Erosion is the geological process in which earthen materials are worn away and transported.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which type of rocks are formed by the cooling of magma?",
+    "hi": "मैग्मा के ठंडा होने से किस प्रकार की चट्टानें बनती हैं?",
+    "oEn": ["Sedimentary", "Metamorphic", "Igneous", "Fossiliferous"],
+    "oHi": ["अवसादी", "कायांतरित", "आग्नेय", "जीवाश्म"],
+    "c": 2,
+    "exp": "Igneous rocks are formed through the cooling and solidification of magma or lava.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The primary cause of tides on Earth is:",
+    "hi": "पृथ्वी पर ज्वार का मुख्य कारण क्या है?",
+    "oEn": ["Atmospheric pressure", "Rotation of Earth", "Gravitational pull of Sun and Moon", "Ocean currents"],
+    "oHi": ["वायुमंडलीय दबाव", "पृथ्वी का घूर्णन", "सूर्य और चंद्रमा का गुरुत्वाकर्षण खिंचाव", "महासागरीय धाराएं"],
+    "c": 2,
+    "exp": "Tides are caused by the gravitational forces exerted by the Moon and the Sun.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which of the following is a 'hot desert'?",
+    "hi": "निम्नलिखित में से कौन सा एक 'गर्म मरुस्थल' है?",
+    "oEn": ["Gobi", "Thar", "Patagonian", "Ladakh"],
+    "oHi": ["गोबी", "थार", "पेटागोनियन", "लद्दाख"],
+    "c": 1,
+    "exp": "The Thar Desert is a classic example of a hot desert.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The standard meridian of India passes through:",
+    "hi": "भारत की मानक मध्याह्न रेखा कहाँ से गुजरती है?",
+    "oEn": ["Mumbai", "Mirzapur", "Delhi", "Chennai"],
+    "oHi": ["मुंबई", "मिर्जापुर", "दिल्ली", "चेन्नई"],
+    "c": 1,
+    "exp": "The Indian Standard Time (IST) is based on 82.5° E longitude, passing through Mirzapur.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Which scale is used to measure the intensity of earthquakes?",
+    "hi": "भूकंप की तीव्रता मापने के लिए किस पैमाने का उपयोग किया जाता है?",
+    "oEn": ["Beaufort scale", "Richter scale", "Saffir-Simpson scale", "Kelvin scale"],
+    "oHi": ["ब्यूफोर्ट स्केल", "रिक्टर स्केल", "सफिर-सिम्पसन स्केल", "केल्विन स्केल"],
+    "c": 1,
+    "exp": "The Richter scale measures the magnitude or intensity of earthquakes.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Where are the 'Fold Mountains' typically found?",
+    "hi": "'वलित पर्वत' (Fold Mountains) आमतौर पर कहाँ पाए जाते हैं?",
+    "oEn": ["Mid-ocean ridges", "Plate boundaries", "Deep ocean trenches", "Continental interiors"],
+    "oHi": ["मध्य-महासागरीय कटक", "प्लेट सीमाएं", "गहरी समुद्री खाइयां", "महाद्वीपीय आंतरिक भाग"],
+    "c": 1,
+    "exp": "Fold mountains form at convergent plate boundaries where tectonic plates collide.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What is the percentage of nitrogen in the Earth's atmosphere?",
+    "hi": "पृथ्वी के वायुमंडल में नाइट्रोजन का प्रतिशत कितना है?",
+    "oEn": ["21%", "78%", "0.03%", "1%"],
+    "oHi": ["21%", "78%", "0.03%", "1%"],
+    "c": 1,
+    "exp": "Nitrogen makes up approximately 78% of the Earth's atmosphere.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which of these is a major cause of global warming?",
+    "hi": "इनमें से कौन ग्लोबल वार्मिंग का एक प्रमुख कारण है?",
+    "oEn": ["Oxygen", "Carbon Dioxide", "Argon", "Helium"],
+    "oHi": ["ऑक्सीजन", "कार्बन डाइऑक्साइड", "आर्गन", "हीलियम"],
+    "c": 1,
+    "exp": "Increased Carbon Dioxide acts as a greenhouse gas, trapping heat and causing global warming.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Doldrums' are located near the:",
+    "hi": "'डोलड्रम' (शांत क्षेत्र) किसके पास स्थित हैं?",
+    "oEn": ["Poles", "Equator", "Tropics", "Arctic Circle"],
+    "oHi": ["ध्रुव", "भूमध्य रेखा", "उष्णकटिबंधीय क्षेत्र", "आर्कटिक वृत्त"],
+    "c": 1,
+    "exp": "Doldrums (Intertropical Convergence Zone) are found near the equator.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which ocean current is warm?",
+    "hi": "कौन सी महासागरीय धारा गर्म है?",
+    "oEn": ["Labrador current", "Gulf Stream", "Canary current", "Benguela current"],
+    "oHi": ["लैब्राडोर धारा", "गल्फ स्ट्रीम", "कैनरी धारा", "बेंगुएला धारा"],
+    "c": 1,
+    "exp": "The Gulf Stream is a powerful, warm Atlantic ocean current.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which of these is the largest continent?",
+    "hi": "इनमें से कौन सा सबसे बड़ा महाद्वीप है?",
+    "oEn": ["Africa", "Asia", "North America", "Australia"],
+    "oHi": ["अफ्रीका", "एशिया", "उत्तरी अमेरिका", "ऑस्ट्रेलिया"],
+    "c": 1,
+    "exp": "Asia is the largest and most populous continent.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The crust and the uppermost mantle together form the:",
+    "hi": "भूपर्पटी और ऊपरी मेंटल मिलकर क्या बनाते हैं?",
+    "oEn": ["Asthenosphere", "Lithosphere", "Mesosphere", "Barysphere"],
+    "oHi": ["एस्थेनोस्फीयर", "स्थलमंडल", "मध्यमंडल", "बैरिस्फीयर"],
+    "c": 1,
+    "exp": "The rigid outer layer of the Earth, including the crust and upper mantle, is the Lithosphere.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which wind is also known as 'Trade Winds'?",
+    "hi": "किस हवा को 'व्यापारिक हवाएं' (Trade Winds) के रूप में भी जाना जाता है?",
+    "oEn": ["Westerlies", "Easterlies", "Monsoon winds", "Cyclones"],
+    "oHi": ["पछुआ पवनें", "पूर्वी पवनें", "मानसूनी हवाएं", "चक्रवात"],
+    "c": 1,
+    "exp": "Trade winds are the permanent east-to-west prevailing winds in the equatorial region.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The boundary between two different air masses is called:",
+    "hi": "दो अलग-अलग वायु राशियों के बीच की सीमा को क्या कहते हैं?",
+    "oEn": ["Cyclone", "Front", "Anticyclone", "Ridge"],
+    "oHi": ["चक्रवात", "वाताग्र", "प्रतिचक्रवात", "कटक"],
+    "c": 1,
+    "exp": "A front is the transition zone between two air masses of different densities.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which planet is known as the 'Red Planet'?",
+    "hi": "किस ग्रह को 'लाल ग्रह' के रूप में जाना जाता है?",
+    "oEn": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "oHi": ["शुक्र", "मंगल", "बृहस्पति", "शनि"],
+    "c": 1,
+    "exp": "Mars is called the Red Planet due to iron oxide on its surface.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Which layer is liquid in the Earth's interior?",
+    "hi": "पृथ्वी के आंतरिक भाग में कौन सी परत तरल है?",
+    "oEn": ["Inner Core", "Outer Core", "Mantle", "Crust"],
+    "oHi": ["आंतरिक कोर", "बाह्य कोर", "मेंटल", "भूपर्पटी"],
+    "c": 1,
+    "exp": "The Outer Core of the Earth is in a liquid state.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What does the 'Hydrosphere' consist of?",
+    "hi": "'जलमंडल' में क्या शामिल है?",
+    "oEn": ["Only oceans", "Land and water", "All water on Earth", "Only glaciers"],
+    "oHi": ["केवल महासागर", "भूमि और जल", "पृथ्वी पर सारा जल", "केवल ग्लेशियर"],
+    "c": 2,
+    "exp": "The hydrosphere includes all water bodies: oceans, rivers, lakes, and glaciers.",
+    "Pyq": "Non-PYQ"
+  }
+]
