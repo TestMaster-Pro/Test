@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Who served as the first President of the Indian National Congress?",
+    "hi": "भारतीय राष्ट्रीय कांग्रेस के पहले अध्यक्ष के रूप में किसने कार्य किया?",
+    "oEn": ["Allan Octavian Hume", "Dadabhai Naoroji", "Womesh Chandra Bonnerjee", "Badruddin Tyabji"],
+    "oHi": ["एलन ऑक्टेवियन ह्यूम", "दादाभाई नौरोजी", "व्योमेश चंद्र बनर्जी", "बदरुद्दीन तैयबजी"],
+    "c": 2,
+    "exp": "W.C. Bonnerjee presided over the first session of the INC held in Bombay in 1885.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The 'Communal Award' of 1932 was announced by:",
+    "hi": "1932 का 'सांप्रदायिक पंचाट' (Communal Award) किसके द्वारा घोषित किया गया था?",
+    "oEn": ["Lord Irwin", "Ramsay MacDonald", "Winston Churchill", "Lord Willingdon"],
+    "oHi": ["लॉर्ड इरविन", "रामसे मैकडोनाल्ड", "विंस्टन चर्चिल", "लॉर्ड वेलिंगटन"],
+    "c": 1,
+    "exp": "British Prime Minister Ramsay MacDonald announced the Communal Award in August 1932.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The Regulating Act was passed in the year:",
+    "hi": "रेगुलेटिंग एक्ट किस वर्ष पारित किया गया था?",
+    "oEn": ["1774", "1757", "1793", "1773"],
+    "oHi": ["1774", "1757", "1793", "1773"],
+    "c": 3,
+    "exp": "The Regulating Act of 1773 was the first step taken by the British Government to regulate the EIC.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Who established the 'Atmiya Sabha' in 1815?",
+    "hi": "1815 में 'आत्मीय सभा' की स्थापना किसने की थी?",
+    "oEn": ["Debendranath Tagore", "Raja Ram Mohan Roy", "Keshab Chandra Sen", "Ishwar Chandra Vidyasagar"],
+    "oHi": ["देवेन्द्रनाथ टैगोर", "राजा राम मोहन राय", "केशव चंद्र सेन", "ईश्वर चंद्र विद्यासागर"],
+    "c": 1,
+    "exp": "Raja Ram Mohan Roy founded the Atmiya Sabha in Calcutta to promote monotheism.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The Battle of Buxar was fought in:",
+    "hi": "बक्सर का युद्ध कब लड़ा गया था?",
+    "oEn": ["1761", "1764", "1757", "1765"],
+    "oHi": ["1761", "1764", "1757", "1765"],
+    "c": 1,
+    "exp": "The Battle of Buxar took place on October 22, 1764.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Which Governor-General introduced the 'Doctrine of Lapse'?",
+    "hi": "किस गवर्नर-जनरल ने 'व्यपगत का सिद्धांत' (Doctrine of Lapse) पेश किया था?",
+    "oEn": ["Lord Wellesley", "Lord William Bentinck", "Lord Dalhousie", "Lord Curzon"],
+    "oHi": ["लॉर्ड वेलेस्ली", "लॉर्ड विलियम बेंटिक", "लॉर्ड डलहौजी", "लॉर्ड कर्जन"],
+    "c": 2,
+    "exp": "Lord Dalhousie applied this policy to annex states like Satara, Jhansi, and Nagpur.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Who was the editor of the newspaper 'Kesari'?",
+    "hi": "'केसरी' समाचार पत्र के संपादक कौन थे?",
+    "oEn": ["Mahatma Gandhi", "Bal Gangadhar Tilak", "Gopal Krishna Gokhale", "Lala Lajpat Rai"],
+    "oHi": ["महात्मा गांधी", "बाल गंगाधर तिलक", "गोपाल कृष्ण गोखले", "लाला लाजपत राय"],
+    "c": 1,
+    "exp": "Bal Gangadhar Tilak started Kesari in Marathi and Maratha in English.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The August Offer of 1940 was made by:",
+    "hi": "1940 का अगस्त प्रस्ताव किसके द्वारा दिया गया था?",
+    "oEn": ["Lord Wavell", "Lord Linlithgow", "Clement Attlee", "Stafford Cripps"],
+    "oHi": ["लॉर्ड वेवेल", "लॉर्ड लिनलिथगो", "क्लेमेंट एटली", "स्टैफोर्ड क्रिप्स"],
+    "c": 1,
+    "exp": "Viceroy Lord Linlithgow made the August Offer to gain Indian support for WWII.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Swadeshi Movement' was officially proclaimed on:",
+    "hi": "'स्वदेशी आंदोलन' की आधिकारिक घोषणा कब की गई थी?",
+    "oEn": ["7 August 1905", "16 October 1905", "26 January 1906", "15 August 1906"],
+    "oHi": ["7 अगस्त 1905", "16 अक्टूबर 1905", "26 जनवरी 1906", "15 अगस्त 1906"],
+    "c": 0,
+    "exp": "The movement was proclaimed at the Town Hall in Calcutta on August 7, 1905.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Who started the 'Khilafat Movement'?",
+    "hi": "'खिलाफत आंदोलन' किसने शुरू किया था?",
+    "oEn": ["Muhammad Ali and Shaukat Ali", "Jinnah and Iqbal", "Azad and Nehru", "Gandhi and Patel"],
+    "oHi": ["मुहम्मद अली और शौकत अली", "जिन्ना और इकबाल", "आजाद और नेहरू", "गांधी और पटेल"],
+    "c": 0,
+    "exp": "The Ali Brothers, Muhammad and Shaukat Ali, launched the Khilafat Movement in 1919.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "In which year did the Gandhi-Irwin Pact take place?",
+    "hi": "गांधी-इरविन समझौता किस वर्ष हुआ था?",
+    "oEn": ["1930", "1932", "1931", "1933"],
+    "oHi": ["1930", "1932", "1931", "1933"],
+    "c": 2,
+    "exp": "The Gandhi-Irwin Pact was signed on March 5, 1931.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Who was the Viceroy during the Jallianwala Bagh massacre?",
+    "hi": "जलियांवाला बाग हत्याकांड के समय वायसराय कौन था?",
+    "oEn": ["Lord Minto", "Lord Chelmsford", "Lord Reading", "Lord Hardinge"],
+    "oHi": ["लॉर्ड मिंटो", "लॉर्ड चेम्सफोर्ड", "लॉर्ड रीडिंग", "लॉर्ड हार्डिंग"],
+    "c": 1,
+    "exp": "Lord Chelmsford served as the Viceroy of India from 1916 to 1921.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Indian Independence Act' was passed in:",
+    "hi": "'भारतीय स्वतंत्रता अधिनियम' कब पारित किया गया था?",
+    "oEn": ["June 1947", "July 1947", "August 1947", "September 1947"],
+    "oHi": ["जून 1947", "जुलाई 1947", "अगस्त 1947", "सितंबर 1947"],
+    "c": 1,
+    "exp": "The British Parliament passed the Indian Independence Act in July 1947.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Who founded the 'Servants of India Society'?",
+    "hi": "'सर्वेंट्स ऑफ इंडिया सोसाइटी' की स्थापना किसने की थी?",
+    "oEn": ["Jyotiba Phule", "Gopal Krishna Gokhale", "B.R. Ambedkar", "Dadabhai Naoroji"],
+    "oHi": ["ज्योतिबा फुले", "गोपाल कृष्ण गोखले", "बी.आर. अंबेडकर", "दादाभाई नौरोजी"],
+    "c": 1,
+    "exp": "Gopal Krishna Gokhale founded it in 1905 to promote social and human development.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The Cabinet Mission arrived in India in:",
+    "hi": "कैबिनेट मिशन भारत कब आया था?",
+    "oEn": ["1942", "1945", "1946", "1947"],
+    "oHi": ["1942", "1945", "1946", "1947"],
+    "c": 2,
+    "exp": "The Cabinet Mission arrived in 1946 to discuss the transfer of power.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Who authored the book 'Hind Swaraj'?",
+    "hi": "'हिंद स्वराज' पुस्तक के लेखक कौन हैं?",
+    "oEn": ["B.G. Tilak", "Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel"],
+    "oHi": ["बी.जी. तिलक", "महात्मा गांधी", "जवाहरलाल नेहरू", "सरदार पटेल"],
+    "c": 1,
+    "exp": "Mahatma Gandhi wrote Hind Swaraj in 1909.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which session of Congress split into Moderates and Extremists?",
+    "hi": "कांग्रेस का कौन सा अधिवेशन नरमपंथियों और चरमपंथियों में विभाजित हो गया था?",
+    "oEn": ["Surat Session (1907)", "Lucknow Session (1916)", "Calcutta Session (1906)", "Lahore Session (1909)"],
+    "oHi": ["सूरत अधिवेशन (1907)", "लखनऊ अधिवेशन (1916)", "कलकत्ता अधिवेशन (1906)", "लाहौर अधिवेशन (1909)"],
+    "c": 0,
+    "exp": "The 1907 Surat session saw the split, famously called the Surat Split.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The 'Non-Cooperation Movement' was suspended after:",
+    "hi": "'असहयोग आंदोलन' को किसके बाद स्थगित कर दिया गया था?",
+    "oEn": ["Jallianwala Bagh", "Kakori Conspiracy", "Chauri Chaura Incident", "Rowlatt Act"],
+    "oHi": ["जलियांवाला बाग", "काकोरी षड्यंत्र", "चौरी-चौरा घटना", "रौलट एक्ट"],
+    "c": 2,
+    "exp": "Gandhi withdrew the movement following the violent Chauri Chaura incident in 1922.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Who gave the title of 'Mahatma' to Gandhi?",
+    "hi": "गांधी को 'महात्मा' की उपाधि किसने दी थी?",
+    "oEn": ["Rabindranath Tagore", "Subhas Chandra Bose", "Gopal Krishna Gokhale", "Bal Gangadhar Tilak"],
+    "oHi": ["रवींद्रनाथ टैगोर", "सुभाष चंद्र बोस", "गोपाल कृष्ण गोखले", "बाल गंगाधर तिलक"],
+    "c": 0,
+    "exp": "Rabindranath Tagore is credited with bestowing the title of Mahatma on Gandhi.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The 'Permanent Settlement' was made with:",
+    "hi": "'स्थायी बंदोबस्त' किसके साथ किया गया था?",
+    "oEn": ["Peasants", "Zamindars", "Village Headmen", "Company Officials"],
+    "oHi": ["किसानों", "जमींदारों", "ग्राम प्रधानों", "कंपनी अधिकारियों"],
+    "c": 1,
+    "exp": "Permanent Settlement (1793) established a fixed land revenue agreement with Zamindars.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Who was the first Indian to pass the Indian Civil Services examination?",
+    "hi": "भारतीय सिविल सेवा परीक्षा उत्तीर्ण करने वाले पहले भारतीय कौन थे?",
+    "oEn": ["Surendranath Banerjee", "Satyendranath Tagore", "Subhash Chandra Bose", "Ramesh Chandra Dutt"],
+    "oHi": ["सुरेंद्रनाथ बनर्जी", "सत्येंद्रनाथ टैगोर", "सुभाष चंद्र बोस", "रमेश चंद्र दत्त"],
+    "c": 1,
+    "exp": "Satyendranath Tagore (brother of Rabindranath Tagore) qualified in 1863.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Rowlatt Act' was passed in the year:",
+    "hi": "'रौलट एक्ट' किस वर्ष पारित किया गया था?",
+    "oEn": ["1917", "1919", "1921", "1915"],
+    "oHi": ["1917", "1919", "1921", "1915"],
+    "c": 1,
+    "exp": "The Anarchical and Revolutionary Crimes Act, 1919, is known as the Rowlatt Act.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Who presided over the 1929 Lahore Session of Congress?",
+    "hi": "1929 के कांग्रेस के लाहौर अधिवेशन की अध्यक्षता किसने की थी?",
+    "oEn": ["Mahatma Gandhi", "Jawaharlal Nehru", "Motilal Nehru", "Sardar Patel"],
+    "oHi": ["महात्मा गांधी", "जवाहरलाल नेहरू", "मोतीलाल नेहरू", "सरदार पटेल"],
+    "c": 1,
+    "exp": "Jawaharlal Nehru presided over this session, where the Purna Swaraj goal was adopted.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'All India Muslim League' was formed in:",
+    "hi": "'अखिल भारतीय मुस्लिम लीग' का गठन कब हुआ था?",
+    "oEn": ["1905", "1906", "1907", "1908"],
+    "oHi": ["1905", "1906", "1907", "1908"],
+    "c": 1,
+    "exp": "The Muslim League was founded in Dacca in 1906.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Who was the last Governor-General of India?",
+    "hi": "भारत का अंतिम गवर्नर-जनरल कौन था?",
+    "oEn": ["Lord Mountbatten", "C. Rajagopalachari", "Lord Canning", "Warren Hastings"],
+    "oHi": ["लॉर्ड माउंटबेटन", "सी. राजगोपालाचारी", "लॉर्ड कैनिंग", "वारेन हेस्टिंग्स"],
+    "c": 1,
+    "exp": "C. Rajagopalachari was the first and last Indian Governor-General.",
+    "Pyq": "Non-PYQ"
+  }
+]
