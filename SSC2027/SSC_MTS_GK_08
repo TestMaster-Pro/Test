@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Who is the ex-officio Chairman of the Rajya Sabha?",
+    "hi": "राज्यसभा का पदेन सभापति कौन होता है?",
+    "oEn": ["President", "Vice President", "Speaker of Lok Sabha", "Prime Minister"],
+    "oHi": ["राष्ट्रपति", "उपराष्ट्रपति", "लोकसभा अध्यक्ष", "प्रधानमंत्री"],
+    "c": 1,
+    "exp": "The Vice President of India serves as the ex-officio Chairman of the Rajya Sabha.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "What is the minimum age required to become a member of the Lok Sabha?",
+    "hi": "लोकसभा का सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+    "oEn": ["21 years", "30 years", "25 years", "35 years"],
+    "oHi": ["21 वर्ष", "30 वर्ष", "25 वर्ष", "35 वर्ष"],
+    "c": 2,
+    "exp": "To be a member of the Lok Sabha, one must be at least 25 years of age.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Which article of the Indian Constitution deals with the impeachment of the President?",
+    "hi": "भारतीय संविधान का कौन सा अनुच्छेद राष्ट्रपति पर महाभियोग से संबंधित है?",
+    "oEn": ["Article 52", "Article 61", "Article 72", "Article 60"],
+    "oHi": ["अनुच्छेद 52", "अनुच्छेद 61", "अनुच्छेद 72", "अनुच्छेद 60"],
+    "c": 1,
+    "exp": "Article 61 specifies the procedure for the impeachment of the President.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "The joint sitting of the Parliament is summoned by:",
+    "hi": "संसद की संयुक्त बैठक किसके द्वारा बुलाई जाती है?",
+    "oEn": ["Prime Minister", "Speaker of Lok Sabha", "President", "Chairman of Rajya Sabha"],
+    "oHi": ["प्रधानमंत्री", "लोकसभा अध्यक्ष", "राष्ट्रपति", "राज्यसभा सभापति"],
+    "c": 2,
+    "exp": "The President summons a joint sitting of Parliament to resolve a deadlock between the two houses.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Who appoints the Prime Minister of India?",
+    "hi": "भारत के प्रधानमंत्री की नियुक्ति कौन करता है?",
+    "oEn": ["Council of Ministers", "President", "Chief Justice of India", "Attorney General"],
+    "oHi": ["मंत्री परिषद", "राष्ट्रपति", "भारत के मुख्य न्यायाधीश", "महान्यायवादी"],
+    "c": 1,
+    "exp": "The President of India appoints the Prime Minister.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The term of a member of the Rajya Sabha is:",
+    "hi": "राज्यसभा के सदस्य का कार्यकाल होता है:",
+    "oEn": ["4 years", "6 years", "5 years", "3 years"],
+    "oHi": ["4 वर्ष", "6 वर्ष", "5 वर्ष", "3 वर्ष"],
+    "c": 1,
+    "exp": "The Rajya Sabha is a permanent house, and members are elected for a term of 6 years.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Who presides over the joint sitting of the Parliament?",
+    "hi": "संसद की संयुक्त बैठक की अध्यक्षता कौन करता है?",
+    "oEn": ["President", "Speaker of Lok Sabha", "Vice President", "Prime Minister"],
+    "oHi": ["राष्ट्रपति", "लोकसभा अध्यक्ष", "उपराष्ट्रपति", "प्रधानमंत्री"],
+    "c": 1,
+    "exp": "The Speaker of the Lok Sabha presides over the joint sitting.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "A Money Bill can be introduced only in:",
+    "hi": "धन विधेयक केवल किसमें पेश किया जा सकता है?",
+    "oEn": ["Rajya Sabha", "Lok Sabha", "Both Houses", "State Legislature"],
+    "oHi": ["राज्यसभा", "लोकसभा", "दोनों सदन", "राज्य विधानमंडल"],
+    "c": 1,
+    "exp": "Money Bills can only be introduced in the Lok Sabha with the prior recommendation of the President.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Who is the supreme commander of the Armed Forces of India?",
+    "hi": "भारत के सशस्त्र बलों का सर्वोच्च कमांडर कौन होता है?",
+    "oEn": ["Chief of Defence Staff", "President", "Prime Minister", "Defence Minister"],
+    "oHi": ["चीफ ऑफ डिफेंस स्टाफ", "राष्ट्रपति", "प्रधानमंत्री", "रक्षा मंत्री"],
+    "c": 1,
+    "exp": "The President of India is the Supreme Commander of the Indian Armed Forces.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Which house of the Parliament is also known as the 'House of People'?",
+    "hi": "संसद के किस सदन को 'हाउस ऑफ पीपल' (जनता का सदन) भी कहा जाता है?",
+    "oEn": ["Rajya Sabha", "Vidhan Parishad", "Lok Sabha", "Legislative Assembly"],
+    "oHi": ["राज्यसभा", "विधान परिषद", "लोकसभा", "विधान सभा"],
+    "c": 2,
+    "exp": "The Lok Sabha is known as the House of the People.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The Council of Ministers is collectively responsible to:",
+    "hi": "मंत्री परिषद सामूहिक रूप से किसके प्रति उत्तरदायी है?",
+    "oEn": ["President", "Rajya Sabha", "Lok Sabha", "Prime Minister"],
+    "oHi": ["राष्ट्रपति", "राज्यसभा", "लोकसभा", "प्रधानमंत्री"],
+    "c": 2,
+    "exp": "Under Article 75, the Council of Ministers is collectively responsible to the Lok Sabha.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which Article defines the 'Pardon' power of the President?",
+    "hi": "कौन सा अनुच्छेद राष्ट्रपति की 'क्षमादान' शक्ति को परिभाषित करता है?",
+    "oEn": ["Article 61", "Article 72", "Article 76", "Article 123"],
+    "oHi": ["अनुच्छेद 61", "अनुच्छेद 72", "अनुच्छेद 76", "अनुच्छेद 123"],
+    "c": 1,
+    "exp": "Article 72 empowers the President to grant pardons.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Who decides whether a bill is a Money Bill or not?",
+    "hi": "यह कौन तय करता है कि कोई विधेयक धन विधेयक है या नहीं?",
+    "oEn": ["President", "Speaker of Lok Sabha", "Finance Minister", "Chairman of Rajya Sabha"],
+    "oHi": ["राष्ट्रपति", "लोकसभा अध्यक्ष", "वित्त मंत्री", "राज्यसभा सभापति"],
+    "c": 1,
+    "exp": "The Speaker of the Lok Sabha has the final authority to decide if a bill is a Money Bill.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The maximum number of members in the Lok Sabha is:",
+    "hi": "लोकसभा में सदस्यों की अधिकतम संख्या कितनी है?",
+    "oEn": ["545", "550", "552", "543"],
+    "oHi": ["545", "550", "552", "543"],
+    "c": 1,
+    "exp": "After the 104th Amendment, the maximum strength of the Lok Sabha is 550.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Who administers the oath of office to the President of India?",
+    "hi": "भारत के राष्ट्रपति को पद की शपथ कौन दिलाता है?",
+    "oEn": ["Prime Minister", "Chief Justice of India", "Vice President", "Attorney General"],
+    "oHi": ["प्रधानमंत्री", "भारत के मुख्य न्यायाधीश", "उपराष्ट्रपति", "महान्यायवादी"],
+    "c": 1,
+    "exp": "The Chief Justice of India administers the oath to the President.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The Union Executive consists of:",
+    "hi": "केंद्रीय कार्यकारी (Union Executive) में कौन शामिल है?",
+    "oEn": ["President, VP, PM, Council of Ministers, Attorney General", "President, PM, Parliament", "PM, Council of Ministers, CAG", "President, PM, Speaker"],
+    "oHi": ["राष्ट्रपति, उपराष्ट्रपति, प्रधानमंत्री, मंत्री परिषद, महान्यायवादी", "राष्ट्रपति, प्रधानमंत्री, संसद", "प्रधानमंत्री, मंत्री परिषद, कैग", "राष्ट्रपति, प्रधानमंत्री, अध्यक्ष"],
+    "c": 0,
+    "exp": "The Union Executive includes the President, VP, PM, Council of Ministers, and the Attorney General.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which of the following is the 'Upper House' of the Indian Parliament?",
+    "hi": "निम्नलिखित में से कौन सा भारतीय संसद का 'उच्च सदन' है?",
+    "oEn": ["Lok Sabha", "Rajya Sabha", "Legislative Council", "Gram Sabha"],
+    "oHi": ["लोकसभा", "राज्यसभा", "विधान परिषद", "ग्राम सभा"],
+    "c": 1,
+    "exp": "Rajya Sabha is the Upper House, while Lok Sabha is the Lower House.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "The President can nominate how many members to the Rajya Sabha?",
+    "hi": "राष्ट्रपति राज्यसभा के लिए कितने सदस्यों को मनोनीत कर सकते हैं?",
+    "oEn": ["2", "10", "12", "14"],
+    "oHi": ["2", "10", "12", "14"],
+    "c": 2,
+    "exp": "The President nominates 12 members to the Rajya Sabha for their contributions to arts, science, etc.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Who was the first Prime Minister of India?",
+    "hi": "भारत के पहले प्रधानमंत्री कौन थे?",
+    "oEn": ["Sardar Patel", "Jawaharlal Nehru", "Gulzarilal Nanda", "Lal Bahadur Shastri"],
+    "oHi": ["सरदार पटेल", "जवाहरलाल नेहरू", "गुलजारीलाल नंदा", "लाल बहादुर शास्त्री"],
+    "c": 1,
+    "exp": "Jawaharlal Nehru was the first Prime Minister of independent India.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "How often is the Lok Sabha usually dissolved?",
+    "hi": "लोकसभा आमतौर पर कितने वर्षों में भंग हो जाती है?",
+    "oEn": ["6 years", "5 years", "4 years", "It is never dissolved"],
+    "oHi": ["6 वर्ष", "5 वर्ष", "4 वर्ष", "यह कभी भंग नहीं होती"],
+    "c": 1,
+    "exp": "The normal tenure of the Lok Sabha is five years unless dissolved earlier.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Which Article gives the President the power to promulgate Ordinances?",
+    "hi": "कौन सा अनुच्छेद राष्ट्रपति को अध्यादेश जारी करने की शक्ति देता है?",
+    "oEn": ["Article 123", "Article 124", "Article 213", "Article 72"],
+    "oHi": ["अनुच्छेद 123", "अनुच्छेद 124", "अनुच्छेद 213", "अनुच्छेद 72"],
+    "c": 0,
+    "exp": "Article 123 empowers the President to promulgate ordinances during the recess of Parliament.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Who holds the power to create a new All-India Service?",
+    "hi": "नई अखिल भारतीय सेवा बनाने की शक्ति किसके पास है?",
+    "oEn": ["Lok Sabha", "Rajya Sabha", "President", "Supreme Court"],
+    "oHi": ["लोकसभा", "राज्यसभा", "राष्ट्रपति", "सर्वोच्च न्यायालय"],
+    "c": 1,
+    "exp": "Under Article 312, the Rajya Sabha has the special power to create new All-India Services.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The Attorney General of India is appointed by:",
+    "hi": "भारत के महान्यायवादी (Attorney General) की नियुक्ति किसके द्वारा की जाती है?",
+    "oEn": ["Chief Justice of India", "Prime Minister", "President", "Parliament"],
+    "oHi": ["भारत के मुख्य न्यायाधीश", "प्रधानमंत्री", "राष्ट्रपति", "संसद"],
+    "c": 2,
+    "exp": "The Attorney General is appointed by the President of India.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which motion is moved to express lack of confidence in the government?",
+    "hi": "सरकार के प्रति अविश्वास व्यक्त करने के लिए कौन सा प्रस्ताव लाया जाता है?",
+    "oEn": ["Censure Motion", "Adjournment Motion", "No-Confidence Motion", "Privilege Motion"],
+    "oHi": ["निंदा प्रस्ताव", "स्थगन प्रस्ताव", "अविश्वास प्रस्ताव", "विशेषाधिकार प्रस्ताव"],
+    "c": 2,
+    "exp": "A No-Confidence Motion is moved in the Lok Sabha to test the majority of the government.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The quorum required to hold a meeting of either House of Parliament is:",
+    "hi": "संसद के किसी भी सदन की बैठक आयोजित करने के लिए आवश्यक कोरम (गणपूर्ति) क्या है?",
+    "oEn": ["1/5th", "1/10th", "1/3rd", "1/2"],
+    "oHi": ["1/5वां", "1/10वां", "1/3rd", "1/2"],
+    "c": 1,
+    "exp": "The quorum is one-tenth of the total number of members of the House.",
+    "Pyq": "ssc_mts_2023"
+  }
+]
