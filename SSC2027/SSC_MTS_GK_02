@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Who is known as the 'Father of Indian Unrest'?",
+    "hi": "किसे 'भारतीय अशांति का जनक' कहा जाता है?",
+    "oEn": ["Bal Gangadhar Tilak", "Lala Lajpat Rai", "Subhas Chandra Bose", "Mahatma Gandhi"],
+    "oHi": ["बाल गंगाधर तिलक", "लाला लाजपत राय", "सुभाष चंद्र बोस", "महात्मा गांधी"],
+    "c": 0,
+    "exp": "Valentine Chirol described Bal Gangadhar Tilak as the 'Father of Indian Unrest'.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "The Battle of Plassey was fought in the year:",
+    "hi": "प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+    "oEn": ["1757", "1764", "1857", "1782"],
+    "oHi": ["1757", "1764", "1857", "1782"],
+    "c": 0,
+    "exp": "The Battle of Plassey took place on June 23, 1757, between the British East India Company and the Nawab of Bengal.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Who founded the Arya Samaj in 1875?",
+    "hi": "1875 में आर्य समाज की स्थापना किसने की थी?",
+    "oEn": ["Raja Ram Mohan Roy", "Swami Vivekananda", "Swami Dayananda Saraswati", "Jyotiba Phule"],
+    "oHi": ["राजा राम मोहन राय", "स्वामी विवेकानंद", "स्वामी दयानंद सरस्वती", "ज्योतिबा फुले"],
+    "c": 2,
+    "exp": "Swami Dayananda Saraswati founded the Arya Samaj in Bombay in 1875.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The Quit India Movement was launched by Mahatma Gandhi in:",
+    "hi": "महात्मा गांधी द्वारा 'भारत छोड़ो आंदोलन' किस वर्ष शुरू किया गया था?",
+    "oEn": ["1940", "1942", "1945", "1930"],
+    "oHi": ["1940", "1942", "1945", "1930"],
+    "c": 1,
+    "exp": "The Quit India Movement was launched in August 1942.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Who was the first Governor-General of independent India?",
+    "hi": "स्वतंत्र भारत के पहले गवर्नर-जनरल कौन थे?",
+    "oEn": ["C. Rajagopalachari", "Lord Mountbatten", "Jawaharlal Nehru", "Sardar Patel"],
+    "oHi": ["सी. राजगोपालाचारी", "लॉर्ड माउंटबेटन", "जवाहरलाल नेहरू", "सरदार पटेल"],
+    "c": 1,
+    "exp": "Lord Mountbatten was the first Governor-General of independent India, and C. Rajagopalachari was the first Indian Governor-General.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Which Act ended the East India Company's monopoly over trade in India (except tea and trade with China)?",
+    "hi": "किस अधिनियम ने भारत में ईस्ट इंडिया कंपनी के व्यापारिक एकाधिकार (चाय और चीन के साथ व्यापार को छोड़कर) को समाप्त कर दिया?",
+    "oEn": ["Regulating Act 1773", "Charter Act 1813", "Charter Act 1833", "Government of India Act 1858"],
+    "oHi": ["रेगुलेटिंग एक्ट 1773", "चार्टर एक्ट 1813", "चार्टर एक्ट 1833", "भारत सरकार अधिनियम 1858"],
+    "c": 1,
+    "exp": "The Charter Act of 1813 ended the company's monopoly, except for tea and trade with China.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Who gave the slogan 'Do or Die'?",
+    "hi": "'करो या मरो' का नारा किसने दिया था?",
+    "oEn": ["Subhas Chandra Bose", "Mahatma Gandhi", "Bhagat Singh", "Jawaharlal Nehru"],
+    "oHi": ["सुभाष चंद्र बोस", "महात्मा गांधी", "भगत सिंह", "जवाहरलाल नेहरू"],
+    "c": 1,
+    "exp": "Mahatma Gandhi gave the 'Do or Die' slogan during the Quit India Movement.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The Poona Pact (1932) was an agreement between Mahatma Gandhi and:",
+    "hi": "पूना पैक्ट (1932) महात्मा गांधी और किसके बीच एक समझौता था?",
+    "oEn": ["B.R. Ambedkar", "Muhammad Ali Jinnah", "Lord Irwin", "Subhas Chandra Bose"],
+    "oHi": ["बी.आर. अंबेडकर", "मुहम्मद अली जिन्ना", "लॉर्ड इरविन", "सुभाष चंद्र बोस"],
+    "c": 0,
+    "exp": "The Poona Pact was signed between Mahatma Gandhi and B.R. Ambedkar.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Who among the following was the founder of the Ghadar Party?",
+    "hi": "निम्नलिखित में से कौन गदर पार्टी का संस्थापक था?",
+    "oEn": ["Lala Hardayal", "V.D. Savarkar", "Bhagat Singh", "Rash Behari Bose"],
+    "oHi": ["लाला हरदयाल", "वी.डी. सावरकर", "भगत सिंह", "रास बिहारी बोस"],
+    "c": 0,
+    "exp": "Lala Hardayal, along with Sohan Singh Bhakna, founded the Ghadar Party in 1913.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "In which session did the Indian National Congress pass the 'Purna Swaraj' resolution?",
+    "hi": "भारतीय राष्ट्रीय कांग्रेस ने किस अधिवेशन में 'पूर्ण स्वराज' का प्रस्ताव पारित किया था?",
+    "oEn": ["Lahore Session (1929)", "Calcutta Session (1928)", "Lucknow Session (1916)", "Surat Session (1907)"],
+    "oHi": ["लाहौर अधिवेशन (1929)", "कलकत्ता अधिवेशन (1928)", "लखनऊ अधिवेशन (1916)", "सूरत अधिवेशन (1907)"],
+    "c": 0,
+    "exp": "The Purna Swaraj resolution was passed in the 1929 Lahore session presided over by Jawaharlal Nehru.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "The Subsidiary Alliance system was introduced by:",
+    "hi": "सहायक संधि प्रणाली की शुरुआत किसने की थी?",
+    "oEn": ["Lord Dalhousie", "Lord Wellesley", "Lord Cornwallis", "Lord Curzon"],
+    "oHi": ["लॉर्ड डलहौजी", "लॉर्ड वेलेस्ली", "लॉर्ड कार्नवालिस", "लॉर्ड कर्जन"],
+    "c": 1,
+    "exp": "Lord Wellesley introduced the Subsidiary Alliance system in India.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Who wrote 'Vande Mataram'?",
+    "hi": "'वंदे मातरम' किसने लिखा था?",
+    "oEn": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Sarojini Naidu", "Subramania Bharati"],
+    "oHi": ["रवींद्रनाथ टैगोर", "बंकिम चंद्र चट्टोपाध्याय", "सरोजिनी नायडू", "सुब्रमण्यम भारती"],
+    "c": 1,
+    "exp": "Vande Mataram was written by Bankim Chandra Chattopadhyay in his novel Anandamath.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The Doctrine of Lapse was introduced by:",
+    "hi": "व्यपगत का सिद्धांत (Doctrine of Lapse) किसने लागू किया था?",
+    "oEn": ["Lord Dalhousie", "Lord Bentinck", "Lord Canning", "Lord Curzon"],
+    "oHi": ["लॉर्ड डलहौजी", "लॉर्ड बेंटिक", "लॉर्ड कैनिंग", "लॉर्ड कर्जन"],
+    "c": 0,
+    "exp": "Lord Dalhousie implemented the Doctrine of Lapse to annex princely states.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Who is the author of 'Satyartha Prakash'?",
+    "hi": "'सत्यार्थ प्रकाश' के लेखक कौन हैं?",
+    "oEn": ["Swami Dayananda Saraswati", "Jyotiba Phule", "Ram Mohan Roy", "Ishwar Chandra Vidyasagar"],
+    "oHi": ["स्वामी दयानंद सरस्वती", "ज्योतिबा फुले", "राम मोहन राय", "ईश्वर चंद्र विद्यासागर"],
+    "c": 0,
+    "exp": "Satyartha Prakash was written by Swami Dayananda Saraswati.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "When did the Jallianwala Bagh massacre take place?",
+    "hi": "जलियांवाला बाग हत्याकांड कब हुआ था?",
+    "oEn": ["13 April 1918", "13 April 1919", "15 April 1919", "13 May 1920"],
+    "oHi": ["13 अप्रैल 1918", "13 अप्रैल 1919", "15 अप्रैल 1919", "13 मई 1920"],
+    "c": 1,
+    "exp": "The massacre occurred on April 13, 1919, in Amritsar.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Who was the Viceroy of India during the partition of Bengal in 1905?",
+    "hi": "1905 में बंगाल विभाजन के समय भारत का वायसराय कौन था?",
+    "oEn": ["Lord Curzon", "Lord Minto", "Lord Hardinge", "Lord Chelmsford"],
+    "oHi": ["लॉर्ड कर्जन", "लॉर्ड मिंटो", "लॉर्ड हार्डिंग", "लॉर्ड चेम्सफोर्ड"],
+    "c": 0,
+    "exp": "Lord Curzon was the Viceroy during the partition of Bengal.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The Simon Commission visited India in:",
+    "hi": "साइमन कमीशन भारत किस वर्ष आया था?",
+    "oEn": ["1927", "1928", "1930", "1932"],
+    "oHi": ["1927", "1928", "1930", "1932"],
+    "c": 1,
+    "exp": "The Simon Commission arrived in India in 1928 to report on the political situation.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Who among the following was the founder of the 'Forward Bloc'?",
+    "hi": "निम्नलिखित में से कौन 'फॉरवर्ड ब्लॉक' का संस्थापक था?",
+    "oEn": ["Subhas Chandra Bose", "Jawaharlal Nehru", "Rash Behari Bose", "Bhagat Singh"],
+    "oHi": ["सुभाष चंद्र बोस", "जवाहरलाल नेहरू", "रास बिहारी बोस", "भगत सिंह"],
+    "c": 0,
+    "exp": "Subhas Chandra Bose founded the All India Forward Bloc in 1939.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Hunter Commission' was appointed by the British government to report on:",
+    "hi": "ब्रिटिश सरकार द्वारा 'हंटर कमीशन' की नियुक्ति किस घटना की जांच के लिए की गई थी?",
+    "oEn": ["1857 Revolt", "Jallianwala Bagh Massacre", "Partition of Bengal", "Non-Cooperation Movement"],
+    "oHi": ["1857 का विद्रोह", "जलियांवाला बाग हत्याकांड", "बंगाल का विभाजन", "असहयोग आंदोलन"],
+    "c": 1,
+    "exp": "The Hunter Commission was formed to investigate the Jallianwala Bagh tragedy.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Who was the first woman President of the Indian National Congress?",
+    "hi": "भारतीय राष्ट्रीय कांग्रेस की पहली महिला अध्यक्ष कौन थीं?",
+    "oEn": ["Sarojini Naidu", "Annie Besant", "Nellie Sengupta", "Aruna Asaf Ali"],
+    "oHi": ["सरोजिनी नायडू", "ऐनी बेसेंट", "नेली सेनगुप्ता", "अरुणा आसफ अली"],
+    "c": 1,
+    "exp": "Annie Besant was the first woman President (1917 session). Sarojini Naidu was the first Indian woman President (1925).",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Who led the Revolt of 1857 in Lucknow?",
+    "hi": "लखनऊ में 1857 के विद्रोह का नेतृत्व किसने किया था?",
+    "oEn": ["Begum Hazrat Mahal", "Nana Saheb", "Tatya Tope", "Kunwar Singh"],
+    "oHi": ["बेगम हजरत महल", "नाना साहब", "तात्या टोपे", "कुंवर सिंह"],
+    "c": 0,
+    "exp": "Begum Hazrat Mahal led the revolt in Lucknow.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Permanent Settlement' was introduced by:",
+    "hi": "'स्थायी बंदोबस्त' (Permanent Settlement) किसके द्वारा लागू किया गया था?",
+    "oEn": ["Lord Cornwallis", "Lord Wellesley", "Lord Hastings", "Lord Bentinck"],
+    "oHi": ["लॉर्ड कार्नवालिस", "लॉर्ड वेलेस्ली", "लॉर्ड हेस्टिंग्स", "लॉर्ड बेंटिक"],
+    "c": 0,
+    "exp": "Lord Cornwallis introduced the Permanent Settlement in 1793.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which of the following movements was the first mass movement led by Gandhi in India?",
+    "hi": "गांधीजी द्वारा भारत में शुरू किया गया पहला जन आंदोलन कौन सा था?",
+    "oEn": ["Non-Cooperation Movement", "Civil Disobedience Movement", "Champaran Satyagraha", "Quit India Movement"],
+    "oHi": ["असहयोग आंदोलन", "सविनय अवज्ञा आंदोलन", "चंपारण सत्याग्रह", "भारत छोड़ो आंदोलन"],
+    "c": 0,
+    "exp": "The Non-Cooperation Movement (1920) is considered the first truly national-level mass movement.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Who was the 'Frontier Gandhi'?",
+    "hi": "'सीमांत गांधी' किसे कहा जाता था?",
+    "oEn": ["Khan Abdul Ghaffar Khan", "Maulana Abul Kalam Azad", "Mohammad Ali Jinnah", "Mahatma Gandhi"],
+    "oHi": ["खान अब्दुल गफ्फार खान", "मौलाना अबुल कलाम आजाद", "मोहम्मद अली जिन्ना", "महात्मा गांधी"],
+    "c": 0,
+    "exp": "Khan Abdul Ghaffar Khan, who led the Khudai Khidmatgar movement, was called Frontier Gandhi.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The Morley-Minto Reforms were introduced in:",
+    "hi": "मार्ले-मिंटो सुधार किस वर्ष पेश किए गए थे?",
+    "oEn": ["1905", "1909", "1919", "1921"],
+    "oHi": ["1905", "1909", "1919", "1921"],
+    "c": 1,
+    "exp": "The Indian Councils Act of 1909 is known as the Morley-Minto Reforms.",
+    "Pyq": "ssc_mts_2022"
+  }
+]
