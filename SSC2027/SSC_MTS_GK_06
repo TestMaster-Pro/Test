@@ -1,0 +1,227 @@
+[
+  {
+    "en": "The 'Great Barrier Reef' is located off the coast of which country?",
+    "hi": "'ग्रेट बैरियर रीफ' किस देश के तट पर स्थित है?",
+    "oEn": ["South Africa", "Brazil", "Australia", "Indonesia"],
+    "oHi": ["दक्षिण अफ्रीका", "ब्राजील", "ऑस्ट्रेलिया", "इंडोनेशिया"],
+    "c": 2,
+    "exp": "The Great Barrier Reef is the world's largest coral reef system, located off the coast of Queensland, Australia.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which imaginary line passes through the center of the Earth?",
+    "hi": "कौन सी काल्पनिक रेखा पृथ्वी के केंद्र से होकर गुजरती है?",
+    "oEn": ["Arctic Circle", "Tropic of Capricorn", "Equator", "Tropic of Cancer"],
+    "oHi": ["आर्कटिक वृत्त", "मकर रेखा", "भूमध्य रेखा", "कर्क रेखा"],
+    "c": 2,
+    "exp": "The Equator is the great circle that divides the Earth into the Northern and Southern Hemispheres.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Which strait connects the Mediterranean Sea to the Atlantic Ocean?",
+    "hi": "कौन सा जलडमरूमध्य भूमध्य सागर को अटलांटिक महासागर से जोड़ता है?",
+    "oEn": ["Strait of Malacca", "Strait of Hormuz", "Strait of Dover", "Strait of Gibraltar"],
+    "oHi": ["मलक्का जलडमरूमध्य", "होरमुज जलडमरूमध्य", "डोवर जलडमरूमध्य", "जिब्राल्टर जलडमरूमध्य"],
+    "c": 3,
+    "exp": "The Strait of Gibraltar separates the Iberian Peninsula in Europe from Morocco in Africa.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The longest river in the world is:",
+    "hi": "विश्व की सबसे लंबी नदी कौन सी है?",
+    "oEn": ["Amazon", "Yangtze", "Nile", "Mississippi"],
+    "oHi": ["अमेज़न", "यांग्त्ज़ी", "नील", "मिसीसिपी"],
+    "c": 2,
+    "exp": "The Nile River in Africa is traditionally considered the longest river in the world.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Which of the following is a landlocked sea?",
+    "hi": "निम्नलिखित में से कौन सा एक स्थल-रुद्ध (landlocked) सागर है?",
+    "oEn": ["Caribbean Sea", "Aral Sea", "Red Sea", "South China Sea"],
+    "oHi": ["कैरेबियन सागर", "अरल सागर", "लाल सागर", "दक्षिण चीन सागर"],
+    "c": 1,
+    "exp": "The Aral Sea is a landlocked endorheic lake between Kazakhstan and Uzbekistan.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Pampas' grasslands are located in:",
+    "hi": "'पम्पास' घास के मैदान कहाँ स्थित हैं?",
+    "oEn": ["North America", "Australia", "South America", "Eurasia"],
+    "oHi": ["उत्तरी अमेरिका", "ऑस्ट्रेलिया", "दक्षिण अमेरिका", "यूरेशिया"],
+    "c": 2,
+    "exp": "Pampas are fertile South American lowlands, mostly in Argentina.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which layer of the atmosphere is closest to the Earth's surface?",
+    "hi": "वायुमंडल की कौन सी परत पृथ्वी की सतह के सबसे निकट है?",
+    "oEn": ["Stratosphere", "Mesosphere", "Troposphere", "Thermosphere"],
+    "oHi": ["समताप मंडल", "मध्यमंडल", "क्षोभमंडल", "तापमंडल"],
+    "c": 2,
+    "exp": "The Troposphere is the lowest layer of Earth's atmosphere and where weather occurs.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The 'Ring of Fire' is famous for frequent:",
+    "hi": "'रिंग ऑफ फायर' बार-बार होने वाली किस घटना के लिए प्रसिद्ध है?",
+    "oEn": ["Tornadoes", "Earthquakes and Volcanoes", "Droughts", "Blizzards"],
+    "oHi": ["बवंडर", "भूकंप और ज्वालामुखी", "सूखा", "बर्फानी तूफान"],
+    "c": 1,
+    "exp": "The Pacific Ring of Fire is a region around the Pacific Ocean with high seismic and volcanic activity.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which continent is known as the 'Dark Continent'?",
+    "hi": "किस महाद्वीप को 'अंध महाद्वीप' (Dark Continent) कहा जाता है?",
+    "oEn": ["Asia", "Australia", "Africa", "South America"],
+    "oHi": ["एशिया", "ऑस्ट्रेलिया", "अफ्रीका", "दक्षिण अमेरिका"],
+    "c": 2,
+    "exp": "Africa was historically referred to as the Dark Continent due to limited European knowledge of its interior.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The deepest trench in the world is:",
+    "hi": "विश्व की सबसे गहरी गर्त (खाई) कौन सी है?",
+    "oEn": ["Tonga Trench", "Mariana Trench", "Java Trench", "Puerto Rico Trench"],
+    "oHi": ["टोंगा ट्रेंच", "मारियाना ट्रेंच", "जावा ट्रेंच", "प्यूर्टो रिको ट्रेंच"],
+    "c": 1,
+    "exp": "The Mariana Trench is the deepest point in the world's oceans.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Which country is known as the 'Land of the Midnight Sun'?",
+    "hi": "किस देश को 'मध्यरात्रि के सूर्य की भूमि' कहा जाता है?",
+    "oEn": ["Japan", "Norway", "Canada", "Iceland"],
+    "oHi": ["जापान", "नॉर्वे", "कनाडा", "आइसलैंड"],
+    "c": 1,
+    "exp": "Norway is called the Land of the Midnight Sun as the sun does not set for several weeks in summer.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which of these is the largest hot desert in the world?",
+    "hi": "विश्व का सबसे बड़ा गर्म मरुस्थल कौन सा है?",
+    "oEn": ["Gobi", "Thar", "Sahara", "Kalahari"],
+    "oHi": ["गोबी", "थार", "सहारा", "कालाहारी"],
+    "c": 2,
+    "exp": "The Sahara Desert is the largest hot desert on Earth.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The 'Atacama Desert' is located in:",
+    "hi": "'अटाकामा मरुस्थल' कहाँ स्थित है?",
+    "oEn": ["Chile", "Mexico", "Egypt", "India"],
+    "oHi": ["चिली", "मेक्सिको", "मिस्र", "भारत"],
+    "c": 0,
+    "exp": "The Atacama Desert is located in northern Chile, South America.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which sea is located between the Arabian Peninsula and Africa?",
+    "hi": "कौन सा सागर अरब प्रायद्वीप और अफ्रीका के बीच स्थित है?",
+    "oEn": ["Caspian Sea", "Red Sea", "Black Sea", "Mediterranean Sea"],
+    "oHi": ["कैस्पियन सागर", "लाल सागर", "काला सागर", "भूमध्य सागर"],
+    "c": 1,
+    "exp": "The Red Sea is a seawater inlet of the Indian Ocean lying between Africa and Asia.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The 'Prime Meridian' passes through which place?",
+    "hi": "'प्रधान मध्याह्न रेखा' (Prime Meridian) किस स्थान से होकर गुजरती है?",
+    "oEn": ["Paris", "Greenwich", "New York", "Berlin"],
+    "oHi": ["पेरिस", "ग्रीनविच", "न्यूयॉर्क", "बर्लिन"],
+    "c": 1,
+    "exp": "The Prime Meridian is the line of 0° longitude that passes through Greenwich, London.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which type of rocks are formed from the remains of plants and animals?",
+    "hi": "पेड़-पौधों और जानवरों के अवशेषों से किस प्रकार की चट्टानें बनती हैं?",
+    "oEn": ["Igneous", "Sedimentary", "Metamorphic", "Volcanic"],
+    "oHi": ["आग्नेय", "अवसादी", "कायांतरित", "ज्वालामुखी"],
+    "c": 1,
+    "exp": "Sedimentary rocks often contain fossils and are formed by the accumulation of organic or mineral particles.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "The 'Savanna' biome is mainly characterized by:",
+    "hi": "'सवाना' बायोम की मुख्य विशेषता क्या है?",
+    "oEn": ["Dense tropical forests", "Grassy plains with scattered trees", "Tundra vegetation", "Polar ice"],
+    "oHi": ["घने उष्णकटिबंधीय जंगल", "बिखरे हुए पेड़ों के साथ घास के मैदान", "टुंड्रा वनस्पति", "ध्रुवीय बर्फ"],
+    "c": 1,
+    "exp": "Savannas are tropical grasslands with widely spaced trees.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which of the following is the largest freshwater lake by surface area?",
+    "hi": "सतह के क्षेत्रफल के हिसाब से सबसे बड़ी मीठे पानी की झील कौन सी है?",
+    "oEn": ["Lake Victoria", "Lake Superior", "Lake Baikal", "Lake Michigan"],
+    "oHi": ["विक्टोरिया झील", "सुपीरियर झील", "बैकाल झील", "मिशिगन झील"],
+    "c": 1,
+    "exp": "Lake Superior, located in North America, is the world's largest freshwater lake by surface area.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which country is known as the 'Land of Thousand Lakes'?",
+    "hi": "किस देश को 'हजार झीलों की भूमि' कहा जाता है?",
+    "oEn": ["Finland", "Sweden", "Canada", "Thailand"],
+    "oHi": ["फिनलैंड", "स्वीडन", "कनाडा", "थाईलैंड"],
+    "c": 0,
+    "exp": "Finland is famous for its vast number of lakes.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The 'Iguazu Falls' is located on the border of:",
+    "hi": "'इगुआज़ू जलप्रपात' किस देश की सीमा पर स्थित है?",
+    "oEn": ["USA and Canada", "Argentina and Brazil", "France and Spain", "India and Nepal"],
+    "oHi": ["यूएसए और कनाडा", "अर्जेंटीना और ब्राजील", "फ्रांस और स्पेन", "भारत और नेपाल"],
+    "c": 1,
+    "exp": "Iguazu Falls is situated on the border between Argentina and Brazil.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which ocean is 'S-shaped'?",
+    "hi": "कौन सा महासागर 'S' आकार का है?",
+    "oEn": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Arctic Ocean"],
+    "oHi": ["हिंद महासागर", "प्रशांत महासागर", "अटलांटिक महासागर", "आर्कटिक महासागर"],
+    "c": 2,
+    "exp": "The Atlantic Ocean basin is roughly S-shaped.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The 'Steppes' are temperate grasslands found in:",
+    "hi": "'स्टेप्स' शीतोष्ण घास के मैदान कहाँ पाए जाते हैं?",
+    "oEn": ["North America", "Eurasia", "South Africa", "Australia"],
+    "oHi": ["उत्तरी अमेरिका", "यूरेशिया", "दक्षिण अफ्रीका", "ऑस्ट्रेलिया"],
+    "c": 1,
+    "exp": "Steppes are large, semi-arid grass-covered plains found in Eurasia.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Dead Sea' is known for its high:",
+    "hi": "'मृत सागर' (Dead Sea) अपनी किस विशेषता के लिए जाना जाता है?",
+    "oEn": ["Temperature", "Salinity", "Depth", "Tidal activity"],
+    "oHi": ["तापमान", "लवणता (खारापन)", "गहराई", "ज्वारीय गतिविधि"],
+    "c": 1,
+    "exp": "The Dead Sea is one of the world's saltiest bodies of water.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which is the highest peak in Africa?",
+    "hi": "अफ्रीका की सबसे ऊंची चोटी कौन सी है?",
+    "oEn": ["Mount Kilimanjaro", "Mount Atlas", "Mount Kenya", "Mount Elbrus"],
+    "oHi": ["माउंट किलिमंजारो", "माउंट एटलस", "माउंट केन्या", "माउंट एल्ब्रस"],
+    "c": 0,
+    "exp": "Mount Kilimanjaro in Tanzania is the highest mountain in Africa.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What is the study of the Earth's atmosphere called?",
+    "hi": "पृथ्वी के वायुमंडल के अध्ययन को क्या कहते हैं?",
+    "oEn": ["Geology", "Meteorology", "Astronomy", "Hydrology"],
+    "oHi": ["भूविज्ञान", "मौसम विज्ञान", "खगोल विज्ञान", "जल विज्ञान"],
+    "c": 1,
+    "exp": "Meteorology is the scientific study of the atmosphere and weather phenomena.",
+    "Pyq": "Non-PYQ"
+  }
+]
