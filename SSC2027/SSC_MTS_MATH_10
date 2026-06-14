@@ -1,0 +1,227 @@
+[
+  {
+    "en": "A car travels at 54 km/h. What is its speed in m/s?",
+    "hi": "एक कार 54 किमी/घंटा की गति से यात्रा करती है। मीटर/सेकंड में इसकी गति क्या है?",
+    "oEn": ["10 m/s", "20 m/s", "15 m/s", "25 m/s"],
+    "oHi": ["10 मी/से", "20 मी/से", "15 मी/से", "25 मी/से"],
+    "c": 2,
+    "exp": "Speed (m/s) = 54 × 5/18 = 15 m/s.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "A train covers a distance of 180 km in 3 hours. What is its speed?",
+    "hi": "एक ट्रेन 3 घंटे में 180 किमी की दूरी तय करती है। इसकी गति क्या है?",
+    "oEn": ["60 km/h", "50 km/h", "70 km/h", "80 km/h"],
+    "oHi": ["60 किमी/घंटा", "50 किमी/घंटा", "70 किमी/घंटा", "80 किमी/घंटा"],
+    "c": 0,
+    "exp": "Speed = Distance / Time = 180 / 3 = 60 km/h.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "A man covers equal distances at 10 km/h and 15 km/h. Find his average speed.",
+    "hi": "एक व्यक्ति समान दूरियाँ 10 किमी/घंटा और 15 किमी/घंटा की गति से तय करता है। उसकी औसत गति ज्ञात कीजिए।",
+    "oEn": ["12.5 km/h", "12 km/h", "14 km/h", "13 km/h"],
+    "oHi": ["12.5 किमी/घंटा", "12 किमी/घंटा", "14 किमी/घंटा", "13 किमी/घंटा"],
+    "c": 1,
+    "exp": "Average Speed = 2×10×15/(10+15) = 300/25 = 12 km/h.",
+    "Pyq": "ssc_mts_2024"
+  },
+  {
+    "en": "If a man walks at 5 km/h, he misses his train by 7 minutes. If he walks at 6 km/h, he reaches 5 minutes early. Find the distance.",
+    "hi": "यदि कोई व्यक्ति 5 किमी/घंटा की गति से चलता है, तो वह अपनी ट्रेन 7 मिनट से चूक जाता है। यदि वह 6 किमी/घंटा की गति से चलता है, तो वह 5 मिनट पहले पहुंच जाता है। दूरी ज्ञात कीजिए।",
+    "oEn": ["6 km", "5 km", "7 km", "8 km"],
+    "oHi": ["6 किमी", "5 किमी", "7 किमी", "8 किमी"],
+    "c": 0,
+    "exp": "Distance = (5×6/|5-6|)×(12/60) = 30×0.2 = 6 km.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A 200m long train crosses a pole in 10 seconds. What is the speed of the train?",
+    "hi": "एक 200 मीटर लंबी ट्रेन एक पोल को 10 सेकंड में पार करती है। ट्रेन की गति क्या है?",
+    "oEn": ["60 km/h", "80 km/h", "90 km/h", "72 km/h"],
+    "oHi": ["60 किमी/घंटा", "80 किमी/घंटा", "90 किमी/घंटा", "72 किमी/घंटा"],
+    "c": 3,
+    "exp": "Speed = 200/10 = 20 m/s = 20 × 18/5 = 72 km/h.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Two trains 100m and 150m long are moving in opposite directions at 40 km/h and 50 km/h. Time taken to cross each other?",
+    "hi": "100 मीटर और 150 मीटर लंबी दो ट्रेनें विपरीत दिशाओं में 40 किमी/घंटा और 50 किमी/घंटा की गति से चल रही हैं। एक-दूसरे को पार करने में लिया गया समय?",
+    "oEn": ["10 sec", "5 sec", "15 sec", "20 sec"],
+    "oHi": ["10 सेकंड", "5 सेकंड", "15 सेकंड", "20 सेकंड"],
+    "c": 0,
+    "exp": "Relative speed = 90 km/h = 25 m/s. Total length = 250 m. Time = 250/25 = 10 sec.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "A man rows downstream at 12 km/h and upstream at 8 km/h. Find the speed of the stream.",
+    "hi": "एक आदमी धारा के अनुकूल 12 किमी/घंटा और प्रतिकूल 8 किमी/घंटा की गति से नाव चलाता है। धारा की गति ज्ञात कीजिए।",
+    "oEn": ["3 km/h", "2 km/h", "4 km/h", "5 km/h"],
+    "oHi": ["3 किमी/घंटा", "2 किमी/घंटा", "4 किमी/घंटा", "5 किमी/घंटा"],
+    "c": 1,
+    "exp": "Stream speed = (12 - 8) / 2 = 2 km/h.",
+    "Pyq": "ssc_mts_2024"
+  },
+  {
+    "en": "A car covers a distance in 40 minutes at 45 km/h. At what speed should it travel to cover the same distance in 30 minutes?",
+    "hi": "एक कार 45 किमी/घंटा की गति से 40 मिनट में दूरी तय करती है। 30 मिनट में वही दूरी तय करने के लिए उसे किस गति से चलना चाहिए?",
+    "oEn": ["55 km/h", "65 km/h", "50 km/h", "60 km/h"],
+    "oHi": ["55 किमी/घंटा", "65 किमी/घंटा", "50 किमी/घंटा", "60 किमी/घंटा"],
+    "c": 3,
+    "exp": "Distance = 45 × 40/60 = 30 km. New speed = 30 / (30/60) = 60 km/h.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A train passes a platform 150m long in 15 seconds and a pole in 5 seconds. Find the length of the train.",
+    "hi": "एक ट्रेन 150 मीटर लंबे प्लेटफॉर्म को 15 सेकंड में और एक पोल को 5 सेकंड में पार करती है। ट्रेन की लंबाई ज्ञात कीजिए।",
+    "oEn": ["75m", "100m", "125m", "50m"],
+    "oHi": ["75मी", "100मी", "125मी", "50मी"],
+    "c": 0,
+    "exp": "Speed = L/5 = (L+150)/15 → 3L = L+150 → L = 75 m.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "A thief is noticed by a policeman from a distance of 200m. Thief runs at 10 km/h, Police at 12 km/h. Distance covered by thief when caught?",
+    "hi": "एक पुलिसकर्मी द्वारा चोर को 200 मीटर की दूरी से देखा जाता है। चोर 10 किमी/घंटा और पुलिस 12 किमी/घंटा की गति से दौड़ते हैं। पकड़े जाने पर चोर द्वारा तय की गई दूरी क्या है?",
+    "oEn": ["800m", "1200m", "1500m", "1000m"],
+    "oHi": ["800मी", "1200मी", "1500मी", "1000मी"],
+    "c": 3,
+    "exp": "Relative speed = 2 km/h. Time = 0.2/2 = 0.1 h. Distance = 10 × 0.1 = 1 km = 1000 m.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Two cyclists start from the same point at 15 km/h and 20 km/h in same direction. After 2 hours, how far apart are they?",
+    "hi": "दो साइकिल चालक एक ही बिंदु से 15 किमी/घंटा और 20 किमी/घंटा की गति से एक ही दिशा में शुरू करते हैं। 2 घंटे बाद, वे कितनी दूर होंगे?",
+    "oEn": ["15 km", "10 km", "5 km", "20 km"],
+    "oHi": ["15 किमी", "10 किमी", "5 किमी", "20 किमी"],
+    "c": 1,
+    "exp": "Relative speed = 5 km/h. Gap = 5 × 2 = 10 km.",
+    "Pyq": "ssc_mts_2024"
+  },
+  {
+    "en": "A boat goes 12 km upstream and 24 km downstream in 6 hours. What is the speed of the boat in still water if stream speed is 2 km/h?",
+    "hi": "एक नाव 6 घंटे में 12 किमी धारा के प्रतिकूल और 24 किमी धारा के अनुकूल जाती है। स्थिर पानी में नाव की गति क्या है यदि धारा की गति 2 किमी/घंटा है?",
+    "oEn": ["8 km/h", "6 km/h", "10 km/h", "12 km/h"],
+    "oHi": ["8 किमी/घंटा", "6 किमी/घंटा", "10 किमी/घंटा", "12 किमी/घंटा"],
+    "c": 1,
+    "exp": "12/(x-2) + 24/(x+2) = 6 → 6x(x-6)=0 → x = 6 km/h.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A bus starts with 40 km/h and increases speed by 5 km/h every hour. How many hours will it take to cover 385 km?",
+    "hi": "एक बस 40 किमी/घंटा की गति से शुरू होती है और हर घंटे गति 5 किमी/घंटा बढ़ाती है। 385 किमी की दूरी तय करने में कितने घंटे लगेंगे?",
+    "oEn": ["8 hours", "9 hours", "7 hours", "10 hours"],
+    "oHi": ["8 घंटे", "9 घंटे", "7 घंटे", "10 घंटे"],
+    "c": 2,
+    "exp": "AP: 40+45+… sum = n/2(80+5(n-1))=385 → n=7.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A person goes from A to B at 20 km/h and returns at 30 km/h. Average speed?",
+    "hi": "एक व्यक्ति A से B तक 20 किमी/घंटा की गति से जाता है और 30 किमी/घंटा की गति से वापस आता है। औसत गति क्या है?",
+    "oEn": ["25 km/h", "24 km/h", "26 km/h", "28 km/h"],
+    "oHi": ["25 किमी/घंटा", "24 किमी/घंटा", "26 किमी/घंटा", "28 किमी/घंटा"],
+    "c": 1,
+    "exp": "Avg = 2×20×30/(20+30) = 1200/50 = 24 km/h.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "If a train 150m long takes 30s to cross a bridge 450m long, its speed is:",
+    "hi": "यदि 150 मीटर लंबी एक ट्रेन 450 मीटर लंबे पुल को पार करने में 30 सेकंड लेती है, तो इसकी गति है:",
+    "oEn": ["60 km/h", "90 km/h", "72 km/h", "80 km/h"],
+    "oHi": ["60 किमी/घंटा", "90 किमी/घंटा", "72 किमी/घंटा", "80 किमी/घंटा"],
+    "c": 2,
+    "exp": "Total distance = 600 m. Speed = 20 m/s = 72 km/h.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "A man cycles at 10 km/h and reaches office 10 min late. If he cycles at 12 km/h, he reaches 5 min early. Distance?",
+    "hi": "एक आदमी 10 किमी/घंटा की गति से साइकिल चलाता है और कार्यालय 10 मिनट देरी से पहुंचता है। यदि वह 12 किमी/घंटा की गति से साइकिल चलाता है, तो वह 5 मिनट पहले पहुंचता है। दूरी क्या है?",
+    "oEn": ["12 km", "18 km", "15 km", "20 km"],
+    "oHi": ["12 किमी", "18 किमी", "15 किमी", "20 किमी"],
+    "c": 2,
+    "exp": "Time diff = 15 min = 0.25 h. Distance = (10×12/2)×0.25 = 15 km.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A train covers a distance in 50 min at 48 km/h. To cover it in 40 min, speed must be:",
+    "hi": "एक ट्रेन 48 किमी/घंटा की गति से 50 मिनट में दूरी तय करती है। इसे 40 मिनट में तय करने के लिए गति क्या होनी चाहिए?",
+    "oEn": ["65 km/h", "50 km/h", "60 km/h", "70 km/h"],
+    "oHi": ["65 किमी/घंटा", "50 किमी/घंटा", "60 किमी/घंटा", "70 किमी/घंटा"],
+    "c": 2,
+    "exp": "Distance = 40 km. Speed = 40/(40/60) = 60 km/h.",
+    "Pyq": "ssc_mts_2024"
+  },
+  {
+    "en": "The ratio of speeds of A and B is 3:4. A takes 20 min more than B to reach destination. Time taken by A?",
+    "hi": "A और B की गति का अनुपात 3:4 है। A गंतव्य तक पहुंचने में B से 20 मिनट अधिक लेता है। A द्वारा लिया गया समय क्या है?",
+    "oEn": ["100 min", "80 min", "120 min", "60 min"],
+    "oHi": ["100 मिनट", "80 मिनट", "120 मिनट", "60 मिनट"],
+    "c": 1,
+    "exp": "Time ratio 4:3. Diff = 1 unit = 20 min. A = 4 units = 80 min.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A train crosses a platform in 30s and a man standing on platform in 15s. Platform length 200m. Train length?",
+    "hi": "एक ट्रेन प्लेटफॉर्म को 30 सेकंड में और प्लेटफॉर्म पर खड़े एक व्यक्ति को 15 सेकंड में पार करती है। प्लेटफॉर्म की लंबाई 200 मीटर है। ट्रेन की लंबाई क्या है?",
+    "oEn": ["200m", "150m", "250m", "100m"],
+    "oHi": ["200मी", "150मी", "250मी", "100मी"],
+    "c": 0,
+    "exp": "L/15 = (L+200)/30 → 2L = L+200 → L=200 m.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A boat can travel at 10 km/h in still water. Speed of stream is 2 km/h. Time to travel 24 km downstream?",
+    "hi": "एक नाव स्थिर पानी में 10 किमी/घंटा की गति से चल सकती है। धारा की गति 2 किमी/घंटा है। 24 किमी धारा के अनुकूल यात्रा करने में कितना समय लगेगा?",
+    "oEn": ["2.5 hours", "2 hours", "3 hours", "4 hours"],
+    "oHi": ["2.5 घंटे", "2 घंटे", "3 घंटे", "4 घंटे"],
+    "c": 1,
+    "exp": "Downstream speed = 12 km/h. Time = 24/12 = 2 hours.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "A man runs at 10 km/h. How many meters does he run in 1 minute?",
+    "hi": "एक आदमी 10 किमी/घंटा की गति से दौड़ता है। वह 1 मिनट में कितने मीटर दौड़ता है?",
+    "oEn": ["150m", "166.66m", "180m", "200m"],
+    "oHi": ["150मी", "166.66मी", "180मी", "200मी"],
+    "c": 1,
+    "exp": "Speed = 10×1000/60 = 166.66 m/min.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "A train 120m long travels at 60 km/h. How long will it take to pass a telegraph post?",
+    "hi": "120 मीटर लंबी ट्रेन 60 किमी/घंटा की गति से यात्रा करती है। इसे टेलीग्राफ पोस्ट को पार करने में कितना समय लगेगा?",
+    "oEn": ["7.2 sec", "6.2 sec", "8.2 sec", "9.2 sec"],
+    "oHi": ["7.2 सेकंड", "6.2 सेकंड", "8.2 सेकंड", "9.2 सेकंड"],
+    "c": 0,
+    "exp": "Speed = 50/3 m/s. Time = 120 / (50/3) = 7.2 sec.",
+    "Pyq": "ssc_mts_2024"
+  },
+  {
+    "en": "Two cars start from P and Q towards each other at 40 km/h and 50 km/h. Meet in 3 hours. Distance PQ?",
+    "hi": "दो कारें P और Q से एक-दूसरे की ओर 40 किमी/घंटा और 50 किमी/घंटा की गति से शुरू होती हैं। 3 घंटे में मिलती हैं। दूरी PQ क्या है?",
+    "oEn": ["250 km", "300 km", "270 km", "200 km"],
+    "oHi": ["250 किमी", "300 किमी", "270 किमी", "200 किमी"],
+    "c": 2,
+    "exp": "Relative speed = 90 km/h. Distance = 90 × 3 = 270 km.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "A person walks 1 km at 5 km/h and returns at 4 km/h. Average speed?",
+    "hi": "एक व्यक्ति 5 किमी/घंटा की गति से 1 किमी चलता है और 4 किमी/घंटा की गति से वापस आता है। औसत गति क्या है?",
+    "oEn": ["4.5 km/h", "4.44 km/h", "4.6 km/h", "4.7 km/h"],
+    "oHi": ["4.5 किमी/घंटा", "4.44 किमी/घंटा", "4.6 किमी/घंटा", "4.7 किमी/घंटा"],
+    "c": 1,
+    "exp": "Avg = 2×5×4/9 = 40/9 = 4.44 km/h.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "Excluding stoppages, the speed of a bus is 54 km/h and including stoppages, it is 45 km/h. For how many minutes does the bus stop per hour?",
+    "hi": "स्टॉपेज को छोड़कर, बस की गति 54 किमी/घंटा है और स्टॉपेज सहित, यह 45 किमी/घंटा है। बस प्रति घंटे कितने मिनट रुकती है?",
+    "oEn": ["10 min", "9 min", "12 min", "15 min"],
+    "oHi": ["10 मिनट", "9 मिनट", "12 मिनट", "15 मिनट"],
+    "c": 0,
+    "exp": "Stoppage = (54-45)/54 × 60 = 1/6 × 60 = 10 min.",
+    "Pyq": "ssc_mts_Trend_2026"
+  }
+]
