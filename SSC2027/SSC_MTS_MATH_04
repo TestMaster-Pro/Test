@@ -1,0 +1,227 @@
+[
+  {
+    "en": "If 40% of a number is equal to 20% of another number, then find the ratio of the first number to the second number.",
+    "hi": "यदि एक संख्या का 40%, दूसरी संख्या के 20% के बराबर है, तो पहली संख्या का दूसरी संख्या से अनुपात ज्ञात कीजिए।",
+    "oEn": ["2 : 1", "1 : 2", "4 : 1", "1 : 4"],
+    "oHi": ["2 : 1", "1 : 2", "4 : 1", "1 : 4"],
+    "c": 1,
+    "exp": "Let the numbers be x and y. Given: $40\\% \\text{ of } x = 20\\% \\text{ of } y \\implies 40x = 20y \\implies x/y = 20/40 = 1/2$. Thus, the ratio is 1 : 2.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The price of petrol increased by 25%. By how much percentage should a consumer reduce their consumption so that the expenditure remains unchanged?",
+    "hi": "पेट्रोल की कीमत में 25% की वृद्धि हुई। एक उपभोक्ता को अपनी खपत में कितने प्रतिशत की कमी करनी चाहिए ताकि खर्च अपरिवर्तित रहे?",
+    "oEn": ["16.67%", "20%", "25%", "33.33%"],
+    "oHi": ["16.67%", "20%", "25%", "33.33%"],
+    "c": 1,
+    "exp": "Percentage reduction required = $[r / (100 + r)] \\times 100$. Here $r = 25$. So, $[25 / (100 + 25)] \\times 100 = (25 / 125) \\times 100 = 20\\%$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Anish scored 30% marks and failed by 15 marks. If the passing percentage is 40%, find the maximum marks of the exam.",
+    "hi": "अनीश ने 30% अंक प्राप्त किए और 15 अंकों से अनुत्तीर्ण हो गया। यदि उत्तीर्ण प्रतिशत 40% है, तो परीक्षा के अधिकतम अंक ज्ञात कीजिए।",
+    "oEn": ["200", "150", "120", "250"],
+    "oHi": ["200", "150", "120", "250"],
+    "c": 1,
+    "exp": "Difference in percentage = $40\\% - 30\\% = 10\\%$. This 10% corresponds to the 15 marks needed to pass. If $10\\% = 15$, then Maximum Marks ($100\\%$) = $15 \\times 10 = 150$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The population of a town increases by 10% annually. If its current population is 20,000, what will be its population after 2 years?",
+    "hi": "एक शहर की जनसंख्या में वार्षिक रूप से 10% की वृद्धि होती है। यदि इसकी वर्तमान जनसंख्या 20,000 है, तो 2 वर्ष बाद इसकी जनसंख्या कितनी होगी?",
+    "oEn": ["23,100", "24,200", "22,000", "24,000"],
+    "oHi": ["23,100", "24,200", "22,000", "24,000"],
+    "c": 1,
+    "exp": "Population after 2 years = $\\text{Current Population} \\times (1 + R/100)^2 = 20000 \\times (1.1)^2 = 20000 \\times 1.21 = 24200$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "If A's income is 20% more than B's income, then by how much percent is B's income less than A's income?",
+    "hi": "यदि A की आय, B की आय से 20% अधिक है, तो B की आय, A की आय से कितने प्रतिशत कम है?",
+    "oEn": ["20%", "14.28%", "16.67%", "25%"],
+    "oHi": ["20%", "14.28%", "16.67%", "25%"],
+    "c": 2,
+    "exp": "Required percentage = $[r / (100 + r)] \\times 100$. Given $r = 20$, we get $[20 / (100 + 20)] \\times 100 = (20 / 120) \\times 100 = 100/6 = 16.67\\%$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "In an election between two candidates, the winning candidate got 60% of the total valid votes and won by a majority of 2400 votes. Find the total number of valid votes polled.",
+    "hi": "दो उम्मीदवारों के बीच एक चुनाव में, जीतने वाले उम्मीदवार को कुल वैध मतों का 60% प्राप्त हुआ और वह 2400 मतों के बहुमत से जीता। डाले गए कुल वैध मतों की संख्या ज्ञात कीजिए।",
+    "oEn": ["8,000", "10,000", "12,000", "15,000"],
+    "oHi": ["8,000", "10,000", "12,000", "15,000"],
+    "c": 2,
+    "exp": "Winning candidate gets 60%, so the losing candidate gets $100\\% - 60\\% = 40\\%$. Majority difference = $60\\% - 40\\% = 20\\%$. Given $20\\% = 2400$, then Total valid votes ($100\\%$) = $2400 \\times 5 = 12000$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "A student has to secure 35% marks to pass. He gets 145 marks and fails by 30 marks. Find the maximum marks.",
+    "hi": "एक छात्र को उत्तीर्ण होने के लिए 35% अंक प्राप्त करने होते हैं। उसे 145 अंक मिलते हैं और वह 30 अंकों से अनुत्तीर्ण हो जाता है। अधिकतम अंक ज्ञात कीजिए।",
+    "oEn": ["450", "500", "600", "400"],
+    "oHi": ["450", "500", "600", "400"],
+    "c": 1,
+    "exp": "Passing marks required = Marks obtained + Marks failed by = $145 + 30 = 175$. Given $35\\% = 175$. Therefore, Maximum marks ($100\\%$) = $(175 / 35) \\times 100 = 5 \\times 100 = 500$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "If the price of a commodity is first increased by 20% and then decreased by 10%, what is the net percentage change in its price?",
+    "hi": "यदि किसी वस्तु की कीमत में पहले 20% की वृद्धि की जाती है और फिर 10% की कमी की जाती है, तो उसकी कीमत में शुद्ध प्रतिशत परिवर्तन क्या है?",
+    "oEn": ["10% increase", "8% increase", "8% decrease", "12% increase"],
+    "oHi": ["10% वृद्धि", "8% वृद्धि", "8% कमी", "12% वृद्धि"],
+    "c": 1,
+    "exp": "Using successive percentage formula: $x + y + (xy / 100)$. Here $x = +20$ and $y = -10$. Net change = $20 - 10 + \\frac{20 \\times (-10)}{100} = 10 - 2 = 8\\%$. Since it's positive, it is an 8% increase.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "A man spends 75% of his income. If his income increases by 20% and his expenditure increases by 10%, by what percentage do his savings increase?",
+    "hi": "एक व्यक्ति अपनी आय का 75% खर्च करता है। यदि उसकी आय में 20% की वृद्धि होती है और उसके खर्च में 10% की वृद्धि होती है, तो उसकी बचत में कितने प्रतिशत की वृद्धि होगी?",
+    "oEn": ["25%", "30%", "50%", "40%"],
+    "oHi": ["25%", "30%", "50%", "40%"],
+    "c": 2,
+    "exp": "Let Income = 100, Exp = 75, Savings = 25. New Income = 120 (20% up). New Exp = $75 + 10\\% = 82.5$. New Savings = $120 - 82.5 = 37.5$. Increase in savings = $37.5 - 25 = 12.5$. Percentage increase = $(12.5 / 25) \\times 100 = 50\\%$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "What is 12.5% of 800 + 33.33% of 900?",
+    "hi": "800 का 12.5% + 900 का 33.33% कितना होगा?",
+    "oEn": ["450", "300", "400", "350"],
+    "oHi": ["450", "300", "400", "350"],
+    "c": 2,
+    "exp": "Convert percentages to fractions: $12.5\\% = 1/8$ and $33.33\\% = 1/3$. Now calculate: $(1/8 \\times 800) + (1/3 \\times 900) = 100 + 300 = 400$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The salary of a worker is first reduced by 20% and later it is increased by 20%. What is the net change in his salary?",
+    "hi": "एक कर्मचारी के वेतन में पहले 20% की कमी की जाती है और बाद में इसमें 20% की वृद्धि की जाती है। उसके वेतन में शुद्ध परिवर्तन क्या है?",
+    "oEn": ["4% increase", "No change", "2% decrease", "4% decrease"],
+    "oHi": ["4% वृद्धि", "कोई परिवर्तन नहीं", "2% कमी", "4% कमी"],
+    "c": 3,
+    "exp": "When a value is increased and decreased by the same percentage '$x$', there is always a net decrease of $x^2 / 100 \\%$. Here $x = 20$, so decrease = $20^2 / 100 = 400 / 100 = 4\\%$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "In an examination, 65% of the students passed in History and 55% passed in Geography, while 25% passed in both subjects. Find the percentage of students who failed in both subjects.",
+    "hi": "एक परीक्षा में, 65% छात्र इतिहास में उत्तीर्ण हुए और 55% भूगोल में उत्तीर्ण हुए, जबकि 25% दोनों विषयों में उत्तीर्ण हुए। दोनों विषयों में अनुत्तीर्ण होने वाले छात्रों का प्रतिशत ज्ञात कीजिए।",
+    "oEn": ["10%", "5%", "20%", "15%"],
+    "oHi": ["10%", "5%", "20%", "15%"],
+    "c": 1,
+    "exp": "Percentage of students who passed in at least one subject = $P(H) + P(G) - P(H \\cap G) = 65\\% + 55\\% - 25\\% = 95\\%$. Percentage who failed in both subjects = $100\\% - 95\\% = 5\\%$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "If the radius of a circle is increased by 10%, then by what percentage will its area increase?",
+    "hi": "यदि किसी वृत्त की त्रिज्या में 10% की वृद्धि की जाती है, तो उसके क्षेत्रफल में कितने प्रतिशत की वृद्धि होगी?",
+    "oEn": ["20%", "11%", "21%", "10%"],
+    "oHi": ["20%", "11%", "21%", "10%"],
+    "c": 2,
+    "exp": "Area depends on the square of the radius ($r \\times r$). Applying successive change formula: $10 + 10 + (10 \\times 10 / 100) = 20 + 1 = 21\\%$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Out of his total monthly salary, Rahul spends 20% on rent and 50% of the remaining on food. If he saves ₹8,000 per month, find his total monthly salary.",
+    "hi": "राहुल अपने कुल मासिक वेतन में से 20% किराए पर और शेष का 50% भोजन पर खर्च करता है। यदि वह प्रति माह ₹8,000 बचाता है, तो उसका कुल मासिक वेतन ज्ञात कीजिए।",
+    "oEn": ["₹25,000", "₹18,000", "₹20,000", "₹16,000"],
+    "oHi": ["₹25,000", "₹18,000", "₹20,000", "₹16,000"],
+    "c": 2,
+    "exp": "Let total salary be 100%. Spend on rent = 20%, Remaining = 80%. Spend on food = 50% of 80% = 40%. Total spend = $20\\% + 40\\% = 60\\%$. Final Savings = $100\\% - 60\\% = 40\\%$. Given $40\\% = 8000 \\implies 100\\% = (8000 / 40) \\times 100 = ₹20,000$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "An number is multiplied by 4/5 instead of 5/4. Find the percentage error in the calculation.",
+    "hi": "एक संख्या को 5/4 के बजाय 4/5 से गुणा कर दिया जाता है। गणना में प्रतिशत त्रुटि ज्ञात कीजिए।",
+    "oEn": ["25%", "36%", "45%", "20%"],
+    "oHi": ["25%", "36%", "45%", "20%"],
+    "c": 1,
+    "exp": "Let the number be the LCM of denominators (4 and 5) = 20. Correct value = $20 \\times 5/4 = 25$. Incorrect value = $20 \\times 4/5 = 16$. Error amount = $25 - 16 = 9$. Percentage error = $(9 / 25) \\times 100 = 36\\%$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "If 20% of (A + B) = 50% of (A - B), then find the percentage value of B with respect to A.",
+    "hi": "यदि (A + B) का 20% = (A - B) का 50% है, तो A के संबंध में B का प्रतिशत मान ज्ञात कीजिए।",
+    "oEn": ["33.33%", "42.85%", "25%", "50%"],
+    "oHi": ["33.33%", "42.85%", "25%", "50%"],
+    "c": 1,
+    "exp": "$20(A + B) = 50(A - B) \\implies 2A + 2B = 5A - 5B \\implies 7B = 3A \\implies B/A = 3/7$. Required percentage = $(3/7) \\times 100 = 42.85\\%$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Due to a reduction of 20% in the price of sugar, a man can buy 5 kg more sugar for ₹600. Find the reduced price of sugar per kg.",
+    "hi": "चीनी की कीमत में 20% की कमी के कारण, एक व्यक्ति ₹600 में 5 किग्रा अधिक चीनी खरीद सकता है। चीनी की कम हुई कीमत प्रति किग्रा ज्ञात कीजिए।",
+    "oEn": ["₹30", "₹24", "₹20", "₹25"],
+    "oHi": ["₹30", "₹24", "₹20", "₹25"],
+    "c": 1,
+    "exp": "Money saved due to reduction = 20% of ₹600 = ₹120. With this ₹120, he can buy 5 kg sugar. Therefore, reduced price per kg = $120 / 5 = ₹24$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "In a school, 60% of the students are boys and the number of girls is 480. Find the total number of boys in the school.",
+    "hi": "एक स्कूल में, 60% छात्र लड़के हैं और लड़कियों की संख्या 480 है। स्कूल में लड़कों की कुल संख्या ज्ञात कीजिए।",
+    "oEn": ["800", "720", "640", "1200"],
+    "oHi": ["800", "720", "640", "1200"],
+    "c": 1,
+    "exp": "If boys are 60%, then girls are $100\\% - 60\\% = 40\\%$. Given $40\\% = 480 \\implies 1\\% = 12$. Total boys ($60\\%$) = $60 \\times 12 = 720$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Income of Pramod is 25% less than the income of Rohan. By how much percent is Rohan's income more than Pramod's income?",
+    "hi": "प्रमोद की आय, रोहन की आय से 25% कम है। रोहन की आय, प्रमोद की आय से कितने प्रतिशत अधिक है?",
+    "oEn": ["25%", "20%", "33.33%", "50%"],
+    "oHi": ["25%", "20%", "33.33%", "50%"],
+    "c": 2,
+    "exp": "Required percentage = $[r / (100 - r)] \\times 100$. Given $r = 25$, we evaluate $[25 / (100 - 25)] \\times 100 = (25 / 75) \\times 100 = 100/3 = 33.33\\%$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "If 80% of A is equal to 50% of B, and B is x% of A, then find the value of x.",
+    "hi": "यदि A का 80%, B के 50% के बराबर है, और B, A का x% है, तो x का मान ज्ञात कीजिए।",
+    "oEn": ["125", "150", "80", "160"],
+    "oHi": ["125", "150", "80", "160"],
+    "c": 3,
+    "exp": "$80\\% \\text{ of } A = 50\\% \\text{ of } B \\implies 80A = 50B \\implies B = (80/50)A = 1.6A$. To express B as a percentage of A: $1.6 \\times 100 = 160\\%$. So, $x = 160$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "A fruit seller had some apples. He sells 40% apples and still has 420 apples left. How many total apples did he have originally?",
+    "hi": "एक फल विक्रेता के पास कुछ सेब थे। वह 40% सेब बेचता है और फिर भी उसके पास 420 सेब बचते हैं। मूल रूप से उसके पास कुल कितने सेब थे?",
+    "oEn": ["600", "800", "700", "500"],
+    "oHi": ["600", "800", "700", "500"],
+    "c": 2,
+    "exp": "Remaining apples percentage = $100\\% - 40\\% = 60\\%$. Given $60\\% = 420$. Total original apples ($100\\%$) = $(420 / 60) \\times 100 = 7 \\times 100 = 700$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "If the side of a square is increased by 20%, what is the percentage increase in its perimeter?",
+    "hi": "यदि किसी वर्ग की भुजा में 20% की वृद्धि की जाती है, तो उसके परिमाप में कितने प्रतिशत की वृद्धि होगी?",
+    "oEn": ["40%", "10%", "44%", "20%"],
+    "oHi": ["40%", "10%", "44%", "20%"],
+    "c": 3,
+    "exp": "Perimeter of a square is $4 \\times \\text{side}$. Since perimeter is directly proportional to the linear dimension (side) and does not involve multiplication of variables, the percentage increase remains exactly the same as the side increase, which is 20%.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "What is 20% of 50% of 75% of 8000?",
+    "hi": "8000 के 75% के 50% का 20% कितना होगा?",
+    "oEn": ["1200", "60", "600", "120"],
+    "oHi": ["1200", "60", "600", "120"],
+    "c": 2,
+    "exp": "Convert terms to fraction multiplication: $8000 \\times \\frac{75}{100} \\times \\frac{50}{100} \\times \\frac{20}{100} = 8000 \\times \\frac{3}{4} \\times \\frac{1}{2} \\times \\frac{1}{5} = 8000 \\times \\frac{3}{40} = 200 \\times 3 = 600$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The value of a machine depreciates at the rate of 10% every year. If its present value is ₹1,00,000, what will be its value after 2 years?",
+    "hi": "एक मशीन का मूल्य हर वर्ष 10% की दर से कम होता है। यदि इसका वर्तमान मूल्य ₹1,00,000 है, तो 2 वर्ष बाद इसका मूल्य कितना होगा?",
+    "oEn": ["₹85,000", "₹90,000", "₹81,000", "₹80,000"],
+    "oHi": ["₹85,000", "₹90,000", "₹81,000", "₹80,000"],
+    "c": 2,
+    "exp": "Value after 2 years = $\\text{Present Value} \\times (1 - R/100)^2 = 100000 \\times (1 - 10/100)^2 = 100000 \\times (0.9)^2 = 100000 \\times 0.81 = ₹81,000$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "If a number is increased by 37.5%, it becomes 33. Find the original number.",
+    "hi": "यदि किसी संख्या में 37.5% की वृद्धि की जाती है, तो वह 33 हो जाती है। मूल संख्या ज्ञात कीजिए।",
+    "oEn": ["20", "22", "24", "26"],
+    "oHi": ["20", "22", "24", "26"],
+    "c": 2,
+    "exp": "Fractional equivalent of $37.5\\% = 3/8$. Since it is an increase, the initial number 8 units becomes $8 + 3 = 11$ units. Given $11 \\text{ units} = 33 \\implies 1 \\text{ unit} = 3$. The original number is $8 \\times 3 = 24$.",
+    "Pyq": "ssc_mts_trend_2026"
+  }
+]
