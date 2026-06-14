@@ -1,0 +1,226 @@
+[
+  {
+    "en": "Who is the custodian of the Indian Constitution?",
+    "hi": "भारतीय संविधान का संरक्षक कौन है?",
+    "oEn": ["Parliament", "Supreme Court", "President", "Prime Minister"],
+    "oHi": ["संसद", "सर्वोच्च न्यायालय", "राष्ट्रपति", "प्रधानमंत्री"],
+    "c": 1,
+    "exp": "The Supreme Court of India is the final interpreter and guardian of the Constitution.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which amendment gave constitutional status to Panchayati Raj Institutions?",
+    "hi": "किस संशोधन ने पंचायती राज संस्थाओं को संवैधानिक दर्जा दिया?",
+    "oEn": ["74th Amendment", "73rd Amendment", "61st Amendment", "42nd Amendment"],
+    "oHi": ["74वां संशोधन", "73वां संशोधन", "61वां संशोधन", "42वां संशोधन"],
+    "c": 1,
+    "exp": "The 73rd Constitutional Amendment Act, 1992, gave constitutional status to Panchayati Raj.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The Supreme Court of India was established by:",
+    "hi": "भारत के सर्वोच्च न्यायालय की स्थापना किसके द्वारा की गई थी?",
+    "oEn": ["Government of India Act 1935", "Regulating Act 1773", "Constitution of India", "Indian Independence Act 1947"],
+    "oHi": ["भारत सरकार अधिनियम 1935", "रेगुलेटिंग एक्ट 1773", "भारत का संविधान", "भारतीय स्वतंत्रता अधिनियम 1947"],
+    "c": 2,
+    "exp": "The Supreme Court of India came into being on January 28, 1950, under the Constitution.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Which article of the Indian Constitution deals with the establishment of the Supreme Court?",
+    "hi": "भारतीय संविधान का कौन सा अनुच्छेद सर्वोच्च न्यायालय की स्थापना से संबंधित है?",
+    "oEn": ["Article 124", "Article 120", "Article 143", "Article 148"],
+    "oHi": ["अनुच्छेद 124", "अनुच्छेद 120", "अनुच्छेद 143", "अनुच्छेद 148"],
+    "c": 0,
+    "exp": "Article 124 provides for the establishment and constitution of the Supreme Court of India.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Panchayati Raj system is based on the principle of:",
+    "hi": "पंचायती राज व्यवस्था किस सिद्धांत पर आधारित है?",
+    "oEn": ["Centralization", "Decentralization", "Direct Democracy", "Federalism"],
+    "oHi": ["केंद्रीकरण", "विकेंद्रीकरण", "प्रत्यक्ष लोकतंत्र", "संघवाद"],
+    "c": 1,
+    "exp": "Panchayati Raj is based on the principle of 'Democratic Decentralization'.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Who appoints the Judges of the Supreme Court?",
+    "hi": "सर्वोच्च न्यायालय के न्यायाधीशों की नियुक्ति कौन करता है?",
+    "oEn": ["Chief Justice of India", "Prime Minister", "President", "Law Minister"],
+    "oHi": ["भारत के मुख्य न्यायाधीश", "प्रधानमंत्री", "राष्ट्रपति", "विधि मंत्री"],
+    "c": 2,
+    "exp": "The Judges of the Supreme Court are appointed by the President of India.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The 74th Amendment Act relates to:",
+    "hi": "74वां संशोधन अधिनियम किससे संबंधित है?",
+    "oEn": ["Panchayati Raj", "Urban Local Bodies", "Fundamental Rights", "Citizenship"],
+    "oHi": ["पंचायती राज", "शहरी स्थानीय निकाय", "मौलिक अधिकार", "नागरिकता"],
+    "c": 1,
+    "exp": "The 74th Amendment gave constitutional status to Urban Local Bodies (Municipalities).",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Which court in India has the power of 'Judicial Review'?",
+    "hi": "भारत में किस न्यायालय के पास 'न्यायिक समीक्षा' की शक्ति है?",
+    "oEn": ["High Courts only", "Supreme Court only", "Supreme Court and High Courts", "District Courts"],
+    "oHi": ["केवल उच्च न्यायालय", "केवल सर्वोच्च न्यायालय", "सर्वोच्च न्यायालय और उच्च न्यायालय", "जिला न्यायालय"],
+    "c": 2,
+    "exp": "Both the Supreme Court and High Courts possess the power of judicial review under Articles 13, 32, and 226.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What is the retirement age of a Supreme Court Judge?",
+    "hi": "सर्वोच्च न्यायालय के न्यायाधीश की सेवानिवृत्ति आयु क्या है?",
+    "oEn": ["60 years", "62 years", "65 years", "70 years"],
+    "oHi": ["60 वर्ष", "62 वर्ष", "65 वर्ष", "70 वर्ष"],
+    "c": 2,
+    "exp": "A Supreme Court judge retires at the age of 65 years.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The State Election Commission is responsible for conducting elections for:",
+    "hi": "राज्य चुनाव आयोग किसके चुनाव कराने के लिए जिम्मेदार है?",
+    "oEn": ["Legislative Assembly", "Panchayats and Municipalities", "Parliament", "President"],
+    "oHi": ["विधानसभा", "पंचायतों और नगर पालिकाओं", "संसद", "राष्ट्रपति"],
+    "c": 1,
+    "exp": "The State Election Commission conducts elections for local bodies (Panchayats/Municipalities).",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Who is known as the 'Father of Local Self-Government' in India?",
+    "hi": "भारत में 'स्थानीय स्वशासन का जनक' किसे कहा जाता है?",
+    "oEn": ["Lord Dalhousie", "Lord Curzon", "Lord Ripon", "Lord Mountbatten"],
+    "oHi": ["लॉर्ड डलहौजी", "लॉर्ड कर्जन", "लॉर्ड रिपन", "लॉर्ड माउंटबेटन"],
+    "c": 2,
+    "exp": "Lord Ripon is known as the father of local self-government in India for his 1882 resolution.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "A Judge of the Supreme Court can be removed from office by:",
+    "hi": "सर्वोच्च न्यायालय के न्यायाधीश को पद से किसके द्वारा हटाया जा सकता है?",
+    "oEn": ["President alone", "Chief Justice", "Parliament", "Prime Minister"],
+    "oHi": ["केवल राष्ट्रपति", "मुख्य न्यायाधीश", "संसद", "प्रधानमंत्री"],
+    "c": 2,
+    "exp": "A judge can be removed by an order of the President based on a resolution passed by Parliament.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The three-tier structure of Panchayati Raj was recommended by:",
+    "hi": "पंचायती राज की त्रि-स्तरीय संरचना की सिफारिश किसके द्वारा की गई थी?",
+    "oEn": ["Ashok Mehta Committee", "Balwant Rai Mehta Committee", "L.M. Singhvi Committee", "Gadgil Committee"],
+    "oHi": ["अशोक मेहता समिति", "बलवंत राय मेहता समिति", "एल.एम. सिंघवी समिति", "गाडगिल समिति"],
+    "c": 1,
+    "exp": "The Balwant Rai Mehta Committee (1957) recommended the three-tier Panchayati Raj system.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which article deals with the 'Writ Jurisdiction' of the High Courts?",
+    "hi": "कौन सा अनुच्छेद उच्च न्यायालयों के 'रिट क्षेत्राधिकार' से संबंधित है?",
+    "oEn": ["Article 32", "Article 226", "Article 124", "Article 214"],
+    "oHi": ["अनुच्छेद 32", "अनुच्छेद 226", "अनुच्छेद 124", "अनुच्छेद 214"],
+    "c": 1,
+    "exp": "Article 226 gives High Courts the power to issue writs for the enforcement of fundamental rights.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "How many subjects are listed in the 11th Schedule of the Constitution?",
+    "hi": "संविधान की 11वीं अनुसूची में कितने विषयों को सूचीबद्ध किया गया है?",
+    "oEn": ["18", "25", "29", "12"],
+    "oHi": ["18", "25", "29", "12"],
+    "c": 2,
+    "exp": "The 11th Schedule contains 29 functional items for Panchayats.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The first state in India to implement the Panchayati Raj system was:",
+    "hi": "भारत में पंचायती राज व्यवस्था लागू करने वाला पहला राज्य था:",
+    "oEn": ["Rajasthan", "Andhra Pradesh", "Karnataka", "Tamil Nadu"],
+    "oHi": ["राजस्थान", "आंध्र प्रदेश", "कर्नाटक", "तमिलनाडु"],
+    "c": 0,
+    "exp": "Rajasthan (Nagaur district) was the first state to establish Panchayati Raj in 1959.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The High Courts in India come under which jurisdiction?",
+    "hi": "भारत में उच्च न्यायालय किस क्षेत्राधिकार के अंतर्गत आते हैं?",
+    "oEn": ["Directly under President", "State Government", "Supreme Court", "Parliament"],
+    "oHi": ["सीधे राष्ट्रपति के अंतर्गत", "राज्य सरकार", "सर्वोच्च न्यायालय", "संसद"],
+    "c": 2,
+    "exp": "While High Courts are separate, they are supervised by the Supreme Court of India.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What is the minimum age to be eligible for election to a Panchayat?",
+    "hi": "पंचायत चुनाव लड़ने के लिए पात्र होने के लिए न्यूनतम आयु क्या है?",
+    "oEn": ["18 years", "21 years", "25 years", "30 years"],
+    "oHi": ["18 वर्ष", "21 वर्ष", "25 वर्ष", "30 वर्ष"],
+    "c": 1,
+    "exp": "The minimum age for contesting Panchayat elections is 21 years.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "The concept of 'Public Interest Litigation' (PIL) in India was introduced by:",
+    "hi": "भारत में 'जनहित याचिका' (PIL) की अवधारणा किसके द्वारा शुरू की गई थी?",
+    "oEn": ["Parliament", "Judiciary", "Executive", "Political Parties"],
+    "oHi": ["संसद", "न्यायपालिका", "कार्यकारी", "राजनीतिक दल"],
+    "c": 1,
+    "exp": "PIL is a judicial innovation introduced by the Indian Judiciary in the early 1980s.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which part of the Constitution deals with Municipalities?",
+    "hi": "संविधान का कौन सा भाग नगर पालिकाओं से संबंधित है?",
+    "oEn": ["Part IX", "Part IX-A", "Part X", "Part VIII"],
+    "oHi": ["भाग IX", "भाग IX-A", "भाग X", "भाग VIII"],
+    "c": 1,
+    "exp": "Part IX-A (Articles 243P to 243ZG) deals with Municipalities.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The 'Gram Sabha' consists of:",
+    "hi": "'ग्राम सभा' में शामिल होते हैं:",
+    "oEn": ["All members of the Panchayat", "All elected members of the village", "All registered voters of the village", "Only the Sarpanch"],
+    "oHi": ["पंचायत के सभी सदस्य", "गाँव के सभी निर्वाचित सदस्य", "गाँव के सभी पंजीकृत मतदाता", "केवल सरपंच"],
+    "c": 2,
+    "exp": "A Gram Sabha consists of all persons registered in the electoral rolls relating to a village.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which article empowers the Supreme Court to review its own judgments?",
+    "hi": "कौन सा अनुच्छेद सर्वोच्च न्यायालय को अपने स्वयं के निर्णयों की समीक्षा करने का अधिकार देता है?",
+    "oEn": ["Article 131", "Article 137", "Article 142", "Article 145"],
+    "oHi": ["अनुच्छेद 131", "अनुच्छेद 137", "अनुच्छेद 142", "अनुच्छेद 145"],
+    "c": 1,
+    "exp": "Article 137 provides for the power of review of judgments or orders by the Supreme Court.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which is the lowest unit of the three-tier Panchayati Raj system?",
+    "hi": "त्रि-स्तरीय पंचायती राज व्यवस्था की सबसे निचली इकाई कौन सी है?",
+    "oEn": ["Zila Parishad", "Panchayat Samiti", "Gram Panchayat", "Gram Sabha"],
+    "c": 2,
+    "exp": "The Gram Panchayat is the lowest unit at the village level.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Who can transfer a judge from one High Court to another?",
+    "hi": "एक उच्च न्यायालय से दूसरे उच्च न्यायालय में न्यायाधीश का स्थानांतरण कौन कर सकता है?",
+    "oEn": ["Chief Justice of India", "President", "Governor", "Law Minister"],
+    "oHi": ["भारत के मुख्य न्यायाधीश", "राष्ट्रपति", "राज्यपाल", "विधि मंत्री"],
+    "c": 1,
+    "exp": "The President of India has the power to transfer judges between High Courts after consulting the CJI.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "How many subjects are listed in the 12th Schedule (for Municipalities)?",
+    "hi": "12वीं अनुसूची (नगर पालिकाओं के लिए) में कितने विषयों को सूचीबद्ध किया गया है?",
+    "oEn": ["18", "29", "12", "15"],
+    "oHi": ["18", "29", "12", "15"],
+    "c": 0,
+    "exp": "The 12th Schedule contains 18 functional items for Municipalities.",
+    "Pyq": "ssc_mts_2022"
+  }
+]
