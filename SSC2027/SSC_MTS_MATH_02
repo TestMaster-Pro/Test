@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Evaluate the expression: $48 \\div 12 \\times (9 - 2) + 7$.",
+    "hi": "व्यंजक का मान ज्ञात कीजिए: $48 \\div 12 \\times (9 - 2) + 7$",
+    "oEn": ["28", "35", "11", "42"],
+    "oHi": ["28", "35", "11", "42"],
+    "c": 1,
+    "exp": "According to VBODMAS rule, first solve the bracket: $(9 - 2) = 7$. Then perform division: $48 \\div 12 = 4$. Now multiply: $4 \\times 7 = 28$. Finally, add: $28 + 7 = 35$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Simplify: $\\frac{3}{4} \\text{ of } \\frac{8}{9} \\div \\frac{2}{3}$.",
+    "hi": "सरल कीजिए: $\\frac{3}{4} \\text{ का } \\frac{8}{9} \\div \\frac{2}{3}$",
+    "oEn": ["4/3", "1", "1/2", "9/8"],
+    "oHi": ["4/3", "1", "1/2", "9/8"],
+    "c": 1,
+    "exp": "According to VBODMAS, 'of' is solved before division. Therefore, $\\frac{3}{4} \\times \\frac{8}{9} = \\frac{2}{3}$. Now perform division: $\\frac{2}{3} \\div \\frac{2}{3} = 1$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the value of $0.5 \\times 0.5 + 0.5 \\div 5$.",
+    "hi": "$0.5 \\times 0.5 + 0.5 \\div 5$ का मान ज्ञात कीजिए।",
+    "oEn": ["0.35", "0.30", "0.26", "0.55"],
+    "oHi": ["0.35", "0.30", "0.26", "0.55"],
+    "c": 0,
+    "exp": "First solve division: $0.5 \\div 5 = 0.1$. Then solve multiplication: $0.5 \\times 0.5 = 0.25$. Finally, add the results: $0.25 + 0.1 = 0.35$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Simplify the expression: $5 - [4 - \\{3 - (2 - \\overline{1 - 0})\\}]$.",
+    "hi": "व्यंजक को सरल कीजिए: $5 - [4 - \\{3 - (2 - \\overline{1 - 0})\\}]$",
+    "oEn": ["2", "1", "5", "3"],
+    "oHi": ["2", "1", "5", "3"],
+    "c": 3,
+    "exp": "First solve the vinculum (bar bracket): $\\overline{1 - 0} = 1$. Then the inner small bracket: $(2 - 1) = 1$. Next, the curly bracket: $\\{3 - 1\\} = 2$. Then the square bracket: $[4 - 2] = 2$. Finally, $5 - 2 = 3$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the value of $\\frac{0.73 \\times 0.73 \\times 0.73 + 0.27 \\times 0.27 \\times 0.27}{0.73 \\times 0.73 - 0.73 \\times 0.27 + 0.27 \\times 0.27}$.",
+    "hi": "$\\frac{0.73 \\times 0.73 \\times 0.73 + 0.27 \\times 0.27 \\times 0.27}{0.73 \\times 0.73 - 0.73 \\times 0.27 + 0.27 \\times 0.27}$ का मान ज्ञात कीजिए।",
+    "oEn": ["1", "0.73", "0.46", "0.54"],
+    "oHi": ["1", "0.73", "0.46", "0.54"],
+    "c": 0,
+    "exp": "This expression is in the form of $\\frac{a^3 + b^3}{a^2 - ab + b^2}$, which simplifies to $(a + b)$. Here $a = 0.73$ and $b = 0.27$. Thus, $0.73 + 0.27 = 1$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Simplify: $\\frac{3.15 \\times 3.15 - 2.15 \\times 2.15}{3.15 + 2.15}$.",
+    "hi": "सरल कीजिए: $\\frac{3.15 \\times 3.15 - 2.15 \\times 2.15}{3.15 + 2.15}$",
+    "oEn": ["1.15", "5.3", "1", "2"],
+    "oHi": ["1.15", "5.3", "1", "2"],
+    "c": 2,
+    "exp": "The numerator is in the form of $a^2 - b^2 = (a - b)(a + b)$. The expression becomes $\\frac{(3.15 - 2.15)(3.15 + 2.15)}{3.15 + 2.15} = 3.15 - 2.15 = 1$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Evaluate the ladder fraction: $1 + \\frac{1}{1 + \\frac{1}{1 + \\frac{1}{2}}}$.",
+    "hi": "सतत भिन्न का मान ज्ञात कीजिए: $1 + \\frac{1}{1 + \\frac{1}{1 + \\frac{1}{2}}}$",
+    "oEn": ["13/8", "8/13", "5/8", "8/5"],
+    "oHi": ["13/8", "8/13", "5/8", "8/5"],
+    "c": 3,
+    "exp": "Step 1: $1 + 1/2 = 3/2$. Step 2: $1 + \\frac{1}{3/2} = 1 + 2/3 = 5/3$. Step 3: $1 + \\frac{1}{5/3} = 1 + 3/5 = 8/5$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the value of $\\sqrt{5 + \\sqrt{11 + \\sqrt{19 + \\sqrt{29 + \\sqrt{49}}}}}$.",
+    "hi": "$\\sqrt{5 + \\sqrt{11 + \\sqrt{19 + \\sqrt{29 + \\sqrt{49}}}}}$ का मान ज्ञात कीजिए।",
+    "oEn": ["7", "5", "9", "3"],
+    "oHi": ["7", "5", "9", "3"],
+    "c": 3,
+    "exp": "Solve from right to left: $\\sqrt{49} = 7 \\rightarrow 29 + 7 = 36 \\rightarrow \\sqrt{36} = 6 \\rightarrow 19 + 6 = 25 \\rightarrow \\sqrt{25} = 5 \\rightarrow 11 + 5 = 16 \\rightarrow \\sqrt{16} = 4 \\rightarrow 5 + 4 = 9 \\rightarrow \\sqrt{9} = 3$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Simplify the surd: $\\sqrt{8 + 2\\sqrt{15}}$.",
+    "hi": "करणी को सरल कीजिए: $\\sqrt{8 + 2\\sqrt{15}}$",
+    "oEn": ["$\\sqrt{5} + \\sqrt{3}$", "$\\sqrt{6} + \\sqrt{2}$", "$\\sqrt{5} - \\sqrt{3}$", "$5 + \\sqrt{3}$"],
+    "oHi": ["$\\sqrt{5} + \\sqrt{3}$", "$\\sqrt{6} + \\sqrt{2}$", "$\\sqrt{5} - \\sqrt{3}$", "$5 + \\sqrt{3}$"],
+    "c": 0,
+    "exp": "Express 8 as $5 + 3$. The expression becomes $\\sqrt{(\\sqrt{5})^2 + (\\sqrt{3})^2 + 2\\sqrt{5}\\sqrt{3}} = \\sqrt{(\\sqrt{5} + \\sqrt{3})^2} = \\sqrt{5} + \\sqrt{3}$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Evaluate: $40\\% \\text{ of } 120 + 60\\% \\text{ of } 180$.",
+    "hi": "मान ज्ञात कीजिए: $120 \\text{ का } 40\\% + 180 \\text{ का } 60\\%$",
+    "oEn": ["164", "148", "156", "172"],
+    "oHi": ["164", "148", "156", "172"],
+    "c": 2,
+    "exp": "$40\\% \\text{ of } 120 = 0.4 \\times 120 = 48$. $60\\% \\text{ of } 180 = 0.6 \\times 180 = 108$. Total sum = $48 + 108 = 156$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Simplify: $72 \\div 9 \\text{ of } 2 + 8 \\times 2$.",
+    "hi": "सरल कीजिए: $72 \\div 9 \\text{ का } 2 + 8 \\times 2$",
+    "oEn": ["24", "32", "20", "18"],
+    "oHi": ["24", "32", "20", "18"],
+    "c": 2,
+    "exp": "First solve 'of': $9 \\text{ of } 2 = 18$. The expression becomes $72 \\div 18 + 8 \\times 2$. Then perform division: $72 \\div 18 = 4$. Next, multiplication: $8 \\times 2 = 16$. Finally, add: $4 + 16 = 20$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Evaluate: $108 \\div 12 \\times 3 - 4 \\times 2$.",
+    "hi": "मान ज्ञात कीजिए: $108 \\div 12 \\times 3 - 4 \\times 2$",
+    "oEn": ["11", "31", "1", "19"],
+    "oHi": ["11", "31", "1", "19"],
+    "c": 3,
+    "exp": "First execute division: $108 \\div 12 = 9$. Then multiplications from left to right: $9 \\times 3 = 27$ and $4 \\times 2 = 8$. Finally, perform subtraction: $27 - 8 = 19$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the value of $0.\\overline{3} + 0.\\overline{4} + 0.\\overline{5}$.",
+    "hi": "$0.\\overline{3} + 0.\\overline{4} + 0.\\overline{5}$ का मान ज्ञात कीजिए।",
+    "oEn": ["1.3", "1.333...", "1.4", "1.2"],
+    "oHi": ["1.3", "1.333...", "1.4", "1.2"],
+    "c": 1,
+    "exp": "Convert recurring decimals to fractions: $3/9 + 4/9 + 5/9 = 12/9 = 4/3 = 1.333...$ or $1.\\overline{3}$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Simplify the indices expression: $\\frac{2^{n+4} - 2 \\times 2^n}{2 \\times 2^{n+3}}$.",
+    "hi": "घातांक व्यंजक को सरल कीजिए: $\\frac{2^{n+4} - 2 \\times 2^n}{2 \\times 2^{n+3}}$",
+    "oEn": ["9/8", "3/4", "7/8", "1"],
+    "oHi": ["9/8", "3/4", "7/8", "1"],
+    "c": 2,
+    "exp": "Factor out $2^n$ from numerator and denominator: $\\frac{2^n(2^4 - 2)}{2^n(2 \\times 2^3)} = \\frac{16 - 2}{2 \\times 8} = \\frac{14}{16} = \\frac{7}{8}$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the value of $\\frac{(943 + 864)^2 - (943 - 864)^2}{943 \\times 864}$.",
+    "hi": "$\\frac{(943 + 864)^2 - (943 - 864)^2}{943 \\times 864}$ का मान ज्ञात कीजिए।",
+    "oEn": ["2", "1707", "4", "1"],
+    "oHi": ["2", "1707", "4", "1"],
+    "c": 2,
+    "exp": "The identity used here is $(a + b)^2 - (a - b)^2 = 4ab$. Thus, the given expression simplifies directly to $\\frac{4 \\times 943 \\times 864}{943 \\times 864} = 4$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Simplify: $3 \\frac{1}{3} + 4 \\frac{1}{2} - 2 \\frac{1}{6}$.",
+    "hi": "सरल कीजिए: $3 \\frac{1}{3} + 4 \\frac{1}{2} - 2 \\frac{1}{6}$",
+    "oEn": ["6", "17/3", "16/3", "5"],
+    "oHi": ["6", "17/3", "16/3", "5"],
+    "c": 1,
+    "exp": "Separate whole numbers and fractions: $(3 + 4 - 2) + (1/3 + 1/2 - 1/6) = 5 + (2/6 + 3/6 - 1/6) = 5 + 4/6 = 5 + 2/3 = 17/3$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "If $\\sqrt{1 + \\frac{x}{144}} = \\frac{13}{12}$, then find the value of x.",
+    "hi": "यदि $\\sqrt{1 + \\frac{x}{144}} = \\frac{13}{12}$ है, तो x का मान ज्ञात कीजिए।",
+    "oEn": ["13", "27", "1", "25"],
+    "oHi": ["13", "27", "1", "25"],
+    "c": 3,
+    "exp": "Squaring both sides gives $1 + \\frac{x}{144} = \\frac{169}{144}$. Therefore, $\\frac{x}{144} = \\frac{169}{144} - 1 = \\frac{25}{144}$, which implies $x = 25$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Evaluate: $-5 - (-48) \\div (-16) \\times (-2)$.",
+    "hi": "मान ज्ञात कीजिए: $-5 - (-48) \\div (-16) \\times (-2)$",
+    "oEn": ["-1", "1", "-11", "11"],
+    "oHi": ["-1", "1", "-11", "11"],
+    "c": 1,
+    "exp": "First solve division: $(-48) \\div (-16) = 3$. The expression becomes $-5 - (3) \\times (-2)$. Now multiply: $3 \\times (-2) = -6$. The expression becomes $-5 - (-6) = -5 + 6 = 1$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the value of $\\sqrt{121} + \\sqrt[3]{125} - \\sqrt{64}$.",
+    "hi": "$\\sqrt{121} + \\sqrt[3]{125} - \\sqrt{64}$ का मान ज्ञात कीजिए।",
+    "oEn": ["6", "14", "8", "10"],
+    "oHi": ["6", "14", "8", "10"],
+    "c": 2,
+    "exp": "Calculate individual terms: $\\sqrt{121} = 11$, $\\sqrt[3]{125} = 5$, and $\\sqrt{64} = 8$. Substituting these values gives $11 + 5 - 8 = 8$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Simplify: $(2^3)^2 \\div 2^4 \\times 2^2$.",
+    "hi": "सरल कीजिए: $(2^3)^2 \\div 2^4 \\times 2^2$",
+    "oEn": ["32", "4", "16", "8"],
+    "oHi": ["32", "4", "16", "8"],
+    "c": 2,
+    "exp": "Using rules of exponents: $(2^3)^2 = 2^6$. Now, $2^6 \\div 2^4 = 2^{6-4} = 2^2$. Finally, $2^2 \\times 2^2 = 2^{2+2} = 2^4 = 16$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Evaluate: $\\frac{5.7 \\times 5.7 \\times 5.7 - 2.3 \\times 2.3 \\times 2.3}{5.7 \\times 5.7 + 5.7 \\times 2.3 + 2.3 \\times 2.3}$.",
+    "hi": "मान ज्ञात कीजिए: $\\frac{5.7 \\times 5.7 \\times 5.7 - 2.3 \\times 2.3 \\times 2.3}{5.7 \\times 5.7 + 5.7 \\times 2.3 + 2.3 \\times 2.3}$",
+    "oEn": ["5.7", "3.4", "8", "2.3"],
+    "oHi": ["5.7", "3.4", "8", "2.3"],
+    "c": 1,
+    "exp": "This fits the format $\\frac{a^3 - b^3}{a^2 + ab + b^2} = a - b$. Here, $a = 5.7$ and $b = 2.3$. Thus, $5.7 - 2.3 = 3.4$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Simplify: $\\frac{2}{5} + \\frac{3}{10} \\times \\frac{4}{9} \\div \\frac{2}{3}$.",
+    "hi": "सरल कीजिए: $\\frac{2}{5} + \\frac{3}{10} \\times \\frac{4}{9} \\div \\frac{2}{3}$",
+    "oEn": ["1/2", "7/10", "4/5", "3/5"],
+    "oHi": ["1/2", "7/10", "4/5", "3/5"],
+    "c": 3,
+    "exp": "According to VBODMAS, solve division first: $\\frac{4}{9} \\div \\frac{2}{3} = \\frac{4}{9} \\times \\frac{3}{2} = \\frac{2}{3}$. Next, multiply: $\\frac{3}{10} \\times \\frac{2}{3} = \\frac{1}{5}$. Finally, add: $\\frac{2}{5} + \\frac{1}{5} = \\frac{3}{5}$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the value of $360 \\div 12 \\text{ of } 3 \\times 2$.",
+    "hi": "$360 \\div 12 \\text{ का } 3 \\times 2$ का मान ज्ञात कीजिए।",
+    "oEn": ["180", "20", "5", "60"],
+    "oHi": ["180", "20", "5", "60"],
+    "c": 1,
+    "exp": "First solve 'of': $12 \\text{ of } 3 = 36$. Next perform division: $360 \\div 36 = 10$. Finally, perform multiplication: $10 \\times 2 = 20$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the value of $\\sqrt{12 + \\sqrt{12 + \\sqrt{12 + \\dots \\infty}}}$.",
+    "hi": "$\\sqrt{12 + \\sqrt{12 + \\sqrt{12 + \\dots \\infty}}}$ का मान ज्ञात कीजिए।",
+    "oEn": ["6", "4", "12", "3"],
+    "oHi": ["6", "4", "12", "3"],
+    "c": 1,
+    "exp": "Let $x = \\sqrt{12 + x}$. Squaring both sides gives $x^2 = 12 + x \\rightarrow x^2 - x - 12 = 0$. Solving the quadratic equation $(x - 4)(x + 3) = 0$ gives $x = 4$ (as the value must be positive). Alternatively, factorize 12 into consecutive integers: $3 \\times 4$. For a positive sign, the larger factor (4) is the answer.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Simplify: $\\frac{1}{2 \\times 3} + \\frac{1}{3 \\times 4} + \\frac{1}{4 \\times 5} + \\dots + \\frac{1}{9 \\times 10}$.",
+    "hi": "सरल कीजिए: $\\frac{1}{2 \\times 3} + \\frac{1}{3 \\times 4} + \\frac{1}{4 \\times 5} + \\dots + \\frac{1}{9 \\times 10}$",
+    "oEn": ["7/10", "2/5", "1/2", "9/10"],
+    "oHi": ["7/10", "2/5", "1/2", "9/10"],
+    "c": 1,
+    "exp": "Each term can be split as: $\\frac{1}{n(n+1)} = \\frac{1}{n} - \\frac{1}{n+1}$. The series telescopes to: $(1/2 - 1/3) + (1/3 - 1/4) + \\dots + (1/9 - 1/10) = 1/2 - 1/10 = 4/10 = 2/5$.",
+    "Pyq": "ssc_mts_trend_2026"
+  }
+]
