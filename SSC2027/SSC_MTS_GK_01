@@ -1,0 +1,227 @@
+[
+  {
+    "en": "The largest Indus Valley site in India is:",
+    "hi": "भारत में सिंधु घाटी सभ्यता का सबसे बड़ा स्थल कौन सा है?",
+    "oEn": ["Lothal", "Harappa", "Dholavira", "Rakhigarhi"],
+    "oHi": ["लोथल", "हड़प्पा", "धौलावीरा", "राखीगढ़ी"],
+    "c": 3,
+    "exp": "Rakhigarhi in Haryana is the largest excavated site of the Indus Valley Civilization in India.",
+    "type": "PYQ"
+  },
+  {
+    "en": "Which Veda is considered the source of Indian music?",
+    "hi": "किस वेद को भारतीय संगीत का स्रोत माना जाता है?",
+    "oEn": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda"],
+    "oHi": ["ऋग्वेद", "सामवेद", "यजुर्वेद", "अथर्ववेद"],
+    "c": 1,
+    "exp": "The Samaveda is entirely devoted to music and melodies, forming the basis of Indian classical music.",
+    "type": "PYQ"
+  },
+  {
+    "en": "Who is the author of the Arthashastra?",
+    "hi": "अर्थशास्त्र के लेखक कौन हैं?",
+    "oEn": ["Megasthenes", "Chanakya", "Banabhatta", "Vishakhadatta"],
+    "oHi": ["मेगास्थनीज", "चाणक्य", "बाणभट्ट", "विशाखदत्त"],
+    "c": 1,
+    "exp": "Chanakya (Kautilya) wrote the Arthashastra, an ancient Indian treatise on statecraft.",
+    "type": "PYQ"
+  },
+  {
+    "en": "The 'Dancing Girl' bronze statue was found at which site?",
+    "hi": "'नृत्य करती हुई लड़की' की कांस्य मूर्ति किस स्थल से प्राप्त हुई थी?",
+    "oEn": ["Kalibangan", "Harappa", "Mohenjo-Daro", "Dholavira"],
+    "oHi": ["कालीबंगन", "हड़प्पा", "मोहनजोदड़ो", "धौलावीरा"],
+    "c": 2,
+    "exp": "The famous bronze Dancing Girl was discovered in Mohenjo-Daro.",
+    "type": "PYQ"
+  },
+  {
+    "en": "Who built the famous Nalanda University?",
+    "hi": "प्रसिद्ध नालंदा विश्वविद्यालय का निर्माण किसने करवाया था?",
+    "oEn": ["Harshavardhana", "Ashoka", "Kumaragupta I", "Samudragupta"],
+    "oHi": ["हर्षवर्धन", "अशोक", "कुमारगुप्त प्रथम", "समुद्रगुप्त"],
+    "c": 2,
+    "exp": "Nalanda University was established by Kumaragupta I of the Gupta dynasty.",
+    "type": "PYQ"
+  },
+  {
+    "en": "Which inscription mentions Ashoka's name as 'Devanampiya Piyadassi'?",
+    "hi": "किस शिलालेख में अशोक का नाम 'देवानांपिय पियदसी' मिलता है?",
+    "oEn": ["Maski Edict", "Prayaga Prashasti", "Hathigumpha Inscription", "Nasik Inscription"],
+    "oHi": ["मास्की शिलालेख", "प्रयाग प्रशस्ति", "हाथीगुम्पा शिलालेख", "नासिक शिलालेख"],
+    "c": 0,
+    "exp": "The Maski edict is significant as it mentions Ashoka by name.",
+    "type": "Conceptual"
+  },
+  {
+    "en": "Who was known as the 'Napoleon of India'?",
+    "hi": "किसे 'भारत का नेपोलियन' कहा जाता है?",
+    "oEn": ["Chandragupta II", "Samudragupta", "Skandagupta", "Bindusara"],
+    "oHi": ["चंद्रगुप्त द्वितीय", "समुद्रगुप्त", "स्कंदगुप्त", "बिंदुसार"],
+    "c": 1,
+    "exp": "Historian Vincent A. Smith termed Samudragupta as the Napoleon of India due to his extensive military campaigns.",
+    "type": "PYQ"
+  },
+  {
+    "en": "The first Buddhist Council was held at:",
+    "hi": "प्रथम बौद्ध संगीति कहाँ आयोजित की गई थी?",
+    "oEn": ["Vaishali", "Pataliputra", "Rajgir", "Kashmir"],
+    "oHi": ["वैशाली", "पाटलिपुत्र", "राजगीर", "कश्मीर"],
+    "c": 2,
+    "exp": "The first Buddhist Council was held at Rajgir shortly after the Buddha's death.",
+    "type": "Conceptual"
+  },
+  {
+    "en": "Which ruler issued gold coins for the first time in India?",
+    "hi": "भारत में पहली बार सोने के सिक्के किस शासक ने जारी किए थे?",
+    "oEn": ["Indo-Greeks", "Mauryas", "Guptas", "Kushanas"],
+    "oHi": ["हिंद-यूनानी", "मौर्य", "गुप्त", "कुषाण"],
+    "c": 0,
+    "exp": "Indo-Greek rulers were the first to issue gold coins in India.",
+    "type": "PYQ"
+  },
+  {
+    "en": "Who was the founder of the Haryanka Dynasty?",
+    "hi": "हर्यक वंश का संस्थापक कौन था?",
+    "oEn": ["Bimbisara", "Ajatashatru", "Udayin", "Shishunaga"],
+    "oHi": ["बिंबिसार", "अजातशत्रु", "उदयन", "शिशुनाग"],
+    "c": 0,
+    "exp": "Bimbisara founded the Haryanka dynasty and strengthened Magadha.",
+    "type": "PYQ"
+  },
+  {
+    "en": "The Ajanta Caves are primarily associated with:",
+    "hi": "अजंता की गुफाएं मुख्य रूप से किससे संबंधित हैं?",
+    "oEn": ["Hinduism", "Jainism", "Buddhism", "Sikhism"],
+    "oHi": ["हिंदू धर्म", "जैन धर्म", "बौद्ध धर्म", "सिख धर्म"],
+    "c": 2,
+    "exp": "Ajanta Caves feature paintings and sculptures related to Buddhism.",
+    "type": "PYQ"
+  },
+  {
+    "en": "Which Chinese traveler visited India during Harshavardhana's reign?",
+    "hi": "हर्षवर्धन के शासनकाल के दौरान कौन सा चीनी यात्री भारत आया था?",
+    "oEn": ["Fa-Hien", "Hiuen Tsang", "I-Tsing", "Xuanzang"],
+    "oHi": ["फाह्यान", "ह्वेनसांग", "इत्सिंग", "ज़ुआनज़ांग"],
+    "c": 1,
+    "exp": "Hiuen Tsang visited India during the reign of Harshavardhana.",
+    "type": "PYQ"
+  },
+  {
+    "en": "The Gayatri Mantra is found in which Veda?",
+    "hi": "गायत्री मंत्र किस वेद में मिलता है?",
+    "oEn": ["Rigveda", "Samaveda", "Yajurveda", "Atharvaveda"],
+    "oHi": ["ऋग्वेद", "सामवेद", "यजुर्वेद", "अथर्ववेद"],
+    "c": 0,
+    "exp": "The Gayatri Mantra is contained in the third Mandala of the Rigveda.",
+    "type": "PYQ"
+  },
+  {
+    "en": "Who performed the Ashvamedha sacrifice for the first time?",
+    "hi": "अश्वमेध यज्ञ पहली बार किसने किया था?",
+    "oEn": ["Janaka", "Samudragupta", "Pushyamitra Shunga", "Ajatashatru"],
+    "oHi": ["जनक", "समुद्रगुप्त", "पुष्यमित्र शुंग", "अजातशत्रु"],
+    "c": 2,
+    "exp": "Pushyamitra Shunga revived and performed the Ashvamedha sacrifice.",
+    "type": "Conceptual"
+  },
+  {
+    "en": "The Hathigumpha inscription relates to which king?",
+    "hi": "हाथीगुम्पा शिलालेख किस राजा से संबंधित है?",
+    "oEn": ["Kharavela", "Ashoka", "Samudragupta", "Pulakeshin II"],
+    "oHi": ["खारवेल", "अशोक", "समुद्रगुप्त", "पुलकेशिन द्वितीय"],
+    "c": 0,
+    "exp": "The Hathigumpha inscription provides details about the reign of King Kharavela of Kalinga.",
+    "type": "PYQ"
+  },
+  {
+    "en": "Which dynasty is known as the 'Golden Age' of India?",
+    "hi": "किस वंश को भारत का 'स्वर्ण युग' कहा जाता है?",
+    "oEn": ["Mauryan", "Gupta", "Kushana", "Satavahana"],
+    "oHi": ["मौर्य", "गुप्त", "कुषाण", "सातवाहन"],
+    "c": 1,
+    "exp": "The Gupta period is referred to as the Golden Age due to progress in science, arts, and literature.",
+    "type": "PYQ"
+  },
+  {
+    "en": "The Purusha Sukta, mentioning the origin of Varnas, is in:",
+    "hi": "वर्णों की उत्पत्ति का उल्लेख करने वाला पुरुष सूक्त किसमें है?",
+    "oEn": ["Rigveda", "Yajurveda", "Atharvaveda", "Samaveda"],
+    "oHi": ["ऋग्वेद", "यजुर्वेद", "अथर्ववेद", "सामवेद"],
+    "c": 0,
+    "exp": "The Purusha Sukta is a famous hymn in the 10th Mandala of the Rigveda.",
+    "type": "PYQ"
+  },
+  {
+    "en": "Who is considered the 'second Buddha' in Buddhism?",
+    "hi": "बौद्ध धर्म में किसे 'द्वितीय बुद्ध' माना जाता है?",
+    "oEn": ["Ananda", "Nagarjuna", "Ashvaghosha", "Kanishka"],
+    "oHi": ["आनंद", "नागार्जुन", "अश्वघोष", "कनिष्क"],
+    "c": 1,
+    "exp": "Nagarjuna is often referred to as the 'Second Buddha' due to his contribution to Mahayana Buddhism.",
+    "type": "PYQ"
+  },
+  {
+    "en": "Which script was used in the Indus Valley Civilization?",
+    "hi": "सिंधु घाटी सभ्यता में किस लिपि का उपयोग किया जाता था?",
+    "oEn": ["Brahmi", "Kharosthi", "Pictographic", "Devanagari"],
+    "oHi": ["ब्राह्मी", "खरोष्ठी", "चित्रलिपि", "देवनागरी"],
+    "c": 2,
+    "exp": "The Indus Valley script is undeciphered and is primarily pictographic.",
+    "type": "PYQ"
+  },
+  {
+    "en": "Who was the last great Gupta ruler?",
+    "hi": "अंतिम महान गुप्त शासक कौन था?",
+    "oEn": ["Skandagupta", "Vishnugupta", "Chandragupta II", "Kumaragupta"],
+    "oHi": ["स्कंदगुप्त", "विष्णुगुप्त", "चंद्रगुप्त द्वितीय", "कुमारगुप्त"],
+    "c": 0,
+    "exp": "Skandagupta is generally regarded as the last of the great Gupta emperors.",
+    "type": "PYQ"
+  },
+  {
+    "en": "Which Buddhist text contains the 'Jataka tales'?",
+    "hi": "किस बौद्ध ग्रंथ में 'जातक कथाएं' हैं?",
+    "oEn": ["Vinaya Pitaka", "Sutta Pitaka", "Abhidhamma Pitaka", "Milinda Panho"],
+    "oHi": ["विनय पिटक", "सुत्त पिटक", "अभिधम्म पिटक", "मिलिंद पन्हो"],
+    "c": 1,
+    "exp": "The Jataka tales, which narrate the previous lives of the Buddha, are part of the Sutta Pitaka.",
+    "type": "PYQ"
+  },
+  {
+    "en": "Who was the founder of the Maurya Empire?",
+    "hi": "मौर्य साम्राज्य का संस्थापक कौन था?",
+    "oEn": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Bimbisara"],
+    "oHi": ["अशोक", "चंद्रगुप्त मौर्य", "बिंदुसार", "बिंबिसार"],
+    "c": 1,
+    "exp": "Chandragupta Maurya founded the Mauryan Empire with the help of Chanakya.",
+    "type": "PYQ"
+  },
+  {
+    "en": "The Anguttara Nikaya mentions how many Mahajanapadas?",
+    "hi": "अंगुत्तर निकाय में कितने महाजनपदों का उल्लेख है?",
+    "oEn": ["8", "12", "16", "18"],
+    "oHi": ["8", "12", "16", "18"],
+    "c": 2,
+    "exp": "The Buddhist text Anguttara Nikaya lists 16 Mahajanapadas.",
+    "type": "PYQ"
+  },
+  {
+    "en": "Who wrote 'Indica'?",
+    "hi": "'इंडिका' किसने लिखी थी?",
+    "oEn": ["Megasthenes", "Kautilya", "Banabhatta", "Hiuen Tsang"],
+    "oHi": ["मेगास्थनीज", "कौटिल्य", "बाणभट्ट", "ह्वेनसांग"],
+    "c": 0,
+    "exp": "Megasthenes was a Greek ambassador who wrote about the Mauryan empire in his book 'Indica'.",
+    "type": "PYQ"
+  },
+  {
+    "en": "The symbol of the first Jain Tirthankara, Rishabhadeva, is:",
+    "hi": "प्रथम जैन तीर्थंकर ऋषभदेव का प्रतीक है:",
+    "oEn": ["Bull", "Lion", "Monkey", "Ox"],
+    "oHi": ["बैल", "सिंह", "बंदर", "बैल"],
+    "c": 3,
+    "exp": "The symbol of Rishabhadeva is the bull (often referred to as ox).",
+    "type": "PYQ"
+  }
+]
