@@ -1,0 +1,227 @@
+[
+  {
+    "en": "A shopkeeper buys an article for ₹500 and sells it for ₹600. What is his profit percentage?",
+    "hi": "एक दुकानदार एक वस्तु ₹500 में खरीदता है और उसे ₹600 में बेचता है। उसका लाभ प्रतिशत क्या है?",
+    "oEn": ["20%", "15%", "25%", "10%"],
+    "oHi": ["20%", "15%", "25%", "10%"],
+    "c": 0,
+    "exp": "Profit = SP - CP = 600 - 500 = 100. Profit% = (100/500)*100 = 20%.",
+    "Pyq": "SSC_MTS_2022"
+  },
+  {
+    "en": "Successive discounts of 10% and 20% are equivalent to a single discount of:",
+    "hi": "10% और 20% की क्रमिक छूट किस एकल छूट के बराबर है?",
+    "oEn": ["30%", "28%", "32%", "25%"],
+    "oHi": ["30%", "28%", "32%", "25%"],
+    "c": 1,
+    "exp": "Equivalent discount = a + b - (ab/100) = 10 + 20 - (200/100) = 30 - 2 = 28%.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "A dishonest dealer professes to sell his goods at cost price but uses a weight of 900g for 1kg. Find his profit percentage.",
+    "hi": "एक बेईमान व्यापारी अपनी वस्तुओं को क्रय मूल्य पर बेचने का दावा करता है लेकिन 1 किग्रा के लिए 900 ग्राम वजन का उपयोग करता है। उसका लाभ प्रतिशत ज्ञात कीजिए।",
+    "oEn": ["10%", "9%", "11.11%", "12.5%"],
+    "oHi": ["10%", "9%", "11.11%", "12.5%"],
+    "c": 2,
+    "exp": "Profit% = (Error / True Value - Error) * 100 = (100 / 900) * 100 = 11.11%.",
+    "Pyq": "SSC_MTS_Trend_2026"
+  },
+  {
+    "en": "If the cost price of 15 articles is equal to the selling price of 12 articles, find the profit percent.",
+    "hi": "यदि 15 वस्तुओं का क्रय मूल्य 12 वस्तुओं के विक्रय मूल्य के बराबर है, तो लाभ प्रतिशत ज्ञात कीजिए।",
+    "oEn": ["20%", "30%", "15%", "25%"],
+    "oHi": ["20%", "30%", "15%", "25%"],
+    "c": 3,
+    "exp": "15*CP = 12*SP => SP/CP = 15/12 = 5/4. Profit = 1/4 = 25%.",
+    "Pyq": "SSC_MTS_2022"
+  },
+  {
+    "en": "A person buys an item for ₹800 and sells it at a loss of 15%. What is the selling price?",
+    "hi": "एक व्यक्ति एक वस्तु ₹800 में खरीदता है और उसे 15% की हानि पर बेचता है। विक्रय मूल्य क्या है?",
+    "oEn": ["680", "700", "720", "650"],
+    "oHi": ["680", "700", "720", "650"],
+    "c": 0,
+    "exp": "Loss = 15% of 800 = 120. SP = 800 - 120 = 680.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "An item is marked at ₹1200 and sold at ₹1080. What is the discount percentage?",
+    "hi": "एक वस्तु का अंकित मूल्य ₹1200 है और उसे ₹1080 में बेचा जाता है। छूट प्रतिशत क्या है?",
+    "oEn": ["5%", "10%", "8%", "12%"],
+    "oHi": ["5%", "10%", "8%", "12%"],
+    "c": 1,
+    "exp": "Discount = 1200 - 1080 = 120. Discount% = (120/1200)*100 = 10%.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "By selling 33 meters of cloth, a man gains the selling price of 11 meters. Find the gain percent.",
+    "hi": "33 मीटर कपड़ा बेचकर, एक व्यक्ति को 11 मीटर के विक्रय मूल्य के बराबर लाभ होता है। लाभ प्रतिशत ज्ञात कीजिए।",
+    "oEn": ["33.33%", "40%", "50%", "25%"],
+    "oHi": ["33.33%", "40%", "50%", "25%"],
+    "c": 2,
+    "exp": "Gain = SP(33) - CP(33) = SP(11). So, SP(22) = CP(33). Profit% = (11/22)*100 = 50%.",
+    "Pyq": "SSC_MTS_Trend_2026"
+  },
+  {
+    "en": "A seller marks his goods 20% above cost price and allows a 10% discount. What is his net profit percent?",
+    "hi": "एक विक्रेता अपनी वस्तुओं को क्रय मूल्य से 20% अधिक अंकित करता है और 10% की छूट देता है। उसका शुद्ध लाभ प्रतिशत क्या है?",
+    "oEn": ["10%", "12%", "6%", "8%"],
+    "oHi": ["10%", "12%", "6%", "8%"],
+    "c": 3,
+    "exp": "Net % = x + y + (xy/100) = 20 - 10 - (200/100) = 8%.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "If a shirt is sold for ₹720 after giving a discount of 20%, what was its marked price?",
+    "hi": "यदि 20% की छूट देने के बाद एक शर्ट ₹720 में बेची जाती है, तो उसका अंकित मूल्य क्या था?",
+    "oEn": ["900", "800", "850", "950"],
+    "oHi": ["900", "800", "850", "950"],
+    "c": 0,
+    "exp": "MP * 0.8 = 720. MP = 720/0.8 = 900.",
+    "Pyq": "SSC_MTS_2022"
+  },
+  {
+    "en": "A man sells two horses for ₹1920 each. On one he gains 20% and on the other he loses 20%. Find his overall profit/loss percent.",
+    "hi": "एक आदमी दो घोड़ों को ₹1920 प्रति घोड़े के हिसाब से बेचता है। एक पर उसे 20% का लाभ होता है और दूसरे पर 20% की हानि होती है। उसका कुल लाभ/हानि प्रतिशत ज्ञात कीजिए।",
+    "oEn": ["No profit, no loss", "4% loss", "4% profit", "2% loss"],
+    "oHi": ["न लाभ, न हानि", "4% हानि", "4% लाभ", "2% हानि"],
+    "c": 1,
+    "exp": "Loss% = (Common%^2)/100 = 20^2 / 100 = 4% loss.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "A trader gives two successive discounts of 20% and 10% on an item priced at ₹500. Find the final selling price.",
+    "hi": "एक व्यापारी ₹500 की वस्तु पर 20% और 10% की दो क्रमिक छूट देता है। अंतिम विक्रय मूल्य ज्ञात कीजिए।",
+    "oEn": ["350", "375", "360", "400"],
+    "oHi": ["350", "375", "360", "400"],
+    "c": 2,
+    "exp": "500 * 0.8 * 0.9 = 500 * 0.72 = 360.",
+    "Pyq": "SSC_MTS_Trend_2026"
+  },
+  {
+    "en": "Cost price of 10 pens is ₹100. If 2 pens are sold at a profit of 20% and 8 pens at a profit of 10%, what is total profit percent?",
+    "hi": "10 पेन का क्रय मूल्य ₹100 है। यदि 2 पेन 20% लाभ पर और 8 पेन 10% लाभ पर बेचे जाते हैं, तो कुल लाभ प्रतिशत क्या है?",
+    "oEn": ["10%", "15%", "11%", "12%"],
+    "oHi": ["10%", "15%", "11%", "12%"],
+    "c": 3,
+    "exp": "Profit = 2*20 + 8*10 = 40 + 80 = 120. Total CP = 100. Profit = 12% on 1000? Wait, calc CP: 2 pens = 20, 8 pens = 80. Profit = 4+8=12. 12/100 = 12%.",
+    "Pyq": "SSC_MTS_Trend_2026"
+  },
+  {
+    "en": "A fruit seller buys 10 oranges for ₹50 and sells them at 8 oranges for ₹50. Find profit percent.",
+    "hi": "एक फल विक्रेता 10 संतरे ₹50 में खरीदता है और उन्हें 8 संतरे ₹50 के भाव से बेचता है। लाभ प्रतिशत ज्ञात कीजिए।",
+    "oEn": ["25%", "20%", "30%", "35%"],
+    "oHi": ["25%", "20%", "30%", "35%"],
+    "c": 0,
+    "exp": "CP of 1 orange = 5. SP of 1 orange = 6.25. Profit = 1.25. Profit% = (1.25/5)*100 = 25%.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "If a dealer marks his goods 25% above cost and offers 10% discount, what is his profit percentage?",
+    "hi": "यदि एक डीलर अपनी वस्तुओं को लागत से 25% अधिक अंकित करता है और 10% की छूट देता है, तो उसका लाभ प्रतिशत क्या है?",
+    "oEn": ["15%", "12.5%", "10%", "13.5%"],
+    "oHi": ["15%", "12.5%", "10%", "13.5%"],
+    "c": 1,
+    "exp": "Net % = 25 - 10 - (250/100) = 15 - 2.5 = 12.5%.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "A reduction of 20% in the price of sugar enables a purchaser to get 5kg more for ₹100. Find the original price per kg.",
+    "hi": "चीनी की कीमत में 20% की कमी एक खरीदार को ₹100 में 5 किलो अधिक चीनी खरीदने में सक्षम बनाती है। प्रति किलो मूल कीमत ज्ञात कीजिए।",
+    "oEn": ["4", "6", "5", "8"],
+    "oHi": ["4", "6", "5", "8"],
+    "c": 2,
+    "exp": "Reduced price = 20/5 = 4/kg. Original price = 4 / 0.8 = 5/kg.",
+    "Pyq": "SSC_MTS_Trend_2026"
+  },
+  {
+    "en": "A person sold an item at 10% loss. If he had sold it for ₹60 more, he would have gained 10%. Find CP.",
+    "hi": "एक व्यक्ति ने एक वस्तु को 10% हानि पर बेचा। यदि उसने इसे ₹60 अधिक में बेचा होता, तो उसे 10% का लाभ होता। क्रय मूल्य ज्ञात कीजिए।",
+    "oEn": ["250", "350", "400", "300"],
+    "oHi": ["250", "350", "400", "300"],
+    "c": 3,
+    "exp": "Diff = 10% - (-10%) = 20% = 60. 1% = 3. 100% = 300.",
+    "Pyq": "SSC_MTS_2022"
+  },
+  {
+    "en": "A shopkeeper sells two tables for ₹1200 each. One at 20% gain and another at 20% loss. What is the total loss/gain?",
+    "hi": "एक दुकानदार दो मेज ₹1200 प्रति मेज के हिसाब से बेचता है। एक पर 20% लाभ और दूसरे पर 20% हानि होती है। कुल हानि/लाभ क्या है?",
+    "oEn": ["100 loss", "100 gain", "0", "120 loss"],
+    "oHi": ["100 हानि", "100 लाभ", "0", "120 हानि"],
+    "c": 0,
+    "exp": "Loss = (Common%^2 * 2 * SP_of_one) / (100^2 - Common%^2) = (400*2400)/9600 = 100.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "If a man buys 11 toffees for ₹10 and sells 10 toffees for ₹11, find the gain percent.",
+    "hi": "यदि कोई आदमी 11 टॉफी ₹10 में खरीदता है और 10 टॉफी ₹11 में बेचता है, तो लाभ प्रतिशत ज्ञात कीजिए।",
+    "oEn": ["20%", "21%", "25%", "10%"],
+    "oHi": ["20%", "21%", "25%", "10%"],
+    "c": 1,
+    "exp": "CP = 10/11, SP = 11/10. Gain = 121-100 / 110 = 21/110. % = (21/110)/(10/11) = 21%.",
+    "Pyq": "SSC_MTS_2022"
+  },
+  {
+    "en": "A discount of 20% on one article is the same as a discount of 25% on another. What is the ratio of their marked prices?",
+    "hi": "एक वस्तु पर 20% की छूट दूसरी वस्तु पर 25% की छूट के समान है। उनके अंकित मूल्य का अनुपात क्या है?",
+    "oEn": ["4:5", "3:4", "5:4", "4:3"],
+    "oHi": ["4:5", "3:4", "5:4", "4:3"],
+    "c": 2,
+    "exp": "0.2A = 0.25B => A/B = 0.25/0.2 = 5/4.",
+    "Pyq": "SSC_MTS_Trend_2026"
+  },
+  {
+    "en": "A profit of 10% is made by selling an article at a certain price. If sold at double price, the profit % will be:",
+    "hi": "एक वस्तु को एक निश्चित मूल्य पर बेचने पर 10% का लाभ होता है। यदि इसे दोगुनी कीमत पर बेचा जाए, तो लाभ % होगा:",
+    "oEn": ["100%", "110%", "140%", "120%"],
+    "oHi": ["100%", "110%", "140%", "120%"],
+    "c": 3,
+    "exp": "CP=100, SP=110. New SP=220. Profit=120%.",
+    "Pyq": "SSC_MTS_Trend_2026"
+  },
+  {
+    "en": "If 5% more is gained by selling an article for ₹350 than by selling it for ₹340, the cost of the article is:",
+    "hi": "यदि किसी वस्तु को ₹350 में बेचने पर ₹340 में बेचने की तुलना में 5% अधिक लाभ होता है, तो वस्तु की लागत है:",
+    "oEn": ["200", "50", "100", "150"],
+    "oHi": ["200", "50", "100", "150"],
+    "c": 0,
+    "exp": "5% of CP = 350 - 340 = 10. CP = 10/0.05 = 200.",
+    "Pyq": "SSC_MTS_2022"
+  },
+  {
+    "en": "A shopkeeper allows 20% discount on his marked price. How much percent above the cost price must he mark his goods to get a profit of 20%?",
+    "hi": "एक दुकानदार अपने अंकित मूल्य पर 20% की छूट देता है। 20% का लाभ प्राप्त करने के लिए उसे अपनी वस्तुओं को क्रय मूल्य से कितना प्रतिशत अधिक अंकित करना चाहिए?",
+    "oEn": ["40%", "50%", "60%", "30%"],
+    "oHi": ["40%", "50%", "60%", "30%"],
+    "c": 1,
+    "exp": "MP/CP = (100+P)/(100-D) = 120/80 = 1.5. Increase = 50%.",
+    "Pyq": "SSC_MTS_2024"
+  },
+  {
+    "en": "An article is sold at a loss of 10%. If it had been sold at a profit of 10%, the SP would be ₹40 more. Find CP.",
+    "hi": "एक वस्तु 10% की हानि पर बेची जाती है। यदि इसे 10% के लाभ पर बेचा जाता, तो विक्रय मूल्य ₹40 अधिक होता। क्रय मूल्य ज्ञात कीजिए।",
+    "oEn": ["100", "300", "200", "400"],
+    "oHi": ["100", "300", "200", "400"],
+    "c": 2,
+    "exp": "Diff = 20% = 40. CP = 200.",
+    "Pyq": "SSC_MTS_2023"
+  },
+  {
+    "en": "A man buys 4 items for ₹1 and sells 5 items for ₹1. What is his loss percentage?",
+    "hi": "एक आदमी ₹1 में 4 वस्तुएं खरीदता है और ₹1 में 5 वस्तुएं बेचता है। उसका हानि प्रतिशत क्या है?",
+    "oEn": ["25%", "15%", "10%", "20%"],
+    "oHi": ["25%", "15%", "10%", "20%"],
+    "c": 3,
+    "exp": "CP of 20 items = 5. SP of 20 items = 4. Loss = 1. % = 1/5 = 20%.",
+    "Pyq": "SSC_MTS_2022"
+  },
+  {
+    "en": "A shopkeeper offers 'Buy 4 Get 1 Free'. What is the effective discount percentage?",
+    "hi": "एक दुकानदार '4 खरीदें 1 मुफ्त पाएं' की पेशकश करता है। प्रभावी छूट प्रतिशत क्या है?",
+    "oEn": ["20%", "16.66%", "25%", "10%"],
+    "oHi": ["20%", "16.66%", "25%", "10%"],
+    "c": 0,
+    "exp": "Discount = Free / (Total) = 1 / (4+1) = 1/5 = 20%.",
+    "Pyq": "SSC_MTS_Trend_2026"
+  }
+]
