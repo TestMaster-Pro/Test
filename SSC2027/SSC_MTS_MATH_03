@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Find the HCF of $2^3 \\times 3^2 \\times 5 \\times 7^4$, $2^2 \\times 3^5 \\times 5^2 \\times 7^3$, and $2^4 \\times 3^3 \\times 5^3 \\times 7^2$.",
+    "hi": "$2^3 \\times 3^2 \\times 5 \\times 7^4$, $2^2 \\times 3^5 \\times 5^2 \\times 7^3$, और $2^4 \\times 3^3 \\times 5^3 \\times 7^2$ का म.स.प. (HCF) ज्ञात कीजिए।",
+    "oEn": ["$2^2 \\times 3^2 \\times 5^2 \\times 7^2$", "$2^3 \\times 3^3 \\times 5 \\times 7^3$", "$2^4 \\times 3^5 \\times 5^3 \\times 7^4$", "$2^2 \\times 3^2 \\times 5 \\times 7^2$"],
+    "oHi": ["$2^2 \\times 3^2 \\times 5^2 \\times 7^2$", "$2^3 \\times 3^3 \\times 5 \\times 7^3$", "$2^4 \\times 3^5 \\times 5^3 \\times 7^4$", "$2^2 \\times 3^2 \\times 5 \\times 7^2$"],
+    "c": 3,
+    "exp": "The HCF of numbers expressed as prime factors is the product of the lowest power of each common prime factor. Common prime bases are 2, 3, 5, and 7. Their lowest powers are $2^2$, $3^2$, $5^1$, and $7^2$. Thus, HCF = $2^2 \\times 3^2 \\times 5 \\times 7^2$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The HCF of two numbers is 12 and their LCM is 72. If one of the numbers is 24, find the other number.",
+    "hi": "दो संख्याओं का म.स.प. (HCF) 12 है और उनका ल.स.प. (LCM) 72 है। यदि उनमें से एक संख्या 24 है, तो दूसरी संख्या ज्ञात कीजिए।",
+    "oEn": ["48", "18", "36", "60"],
+    "oHi": ["48", "18", "36", "60"],
+    "c": 2,
+    "exp": "We know that $\\text{Product of two numbers} = \\text{HCF} \\times \\text{LCM}$. Therefore, $24 \\times x = 12 \\times 72 \\implies x = (12 \\times 72) / 24 = 36$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the LCM of fractions $\\frac{2}{3}, \\frac{4}{9}, \\frac{5}{6}$, and $\\frac{7}{12}$.",
+    "hi": "भिन्नों $\\frac{2}{3}, \\frac{4}{9}, \\frac{5}{6}$, और $\\frac{7}{12}$ का ल.स.प. (LCM) ज्ञात कीजिए।",
+    "oEn": ["70/3", "35/3", "140/3", "140/9"],
+    "oHi": ["70/3", "35/3", "140/3", "140/9"],
+    "c": 2,
+    "exp": "$\\text{LCM of fractions} = \\frac{\\text{LCM of Numerators}}{\\text{HCF of Denominators}}$. Numerators are 2, 4, 5, 7 $\\rightarrow \\text{LCM} = 140$. Denominators are 3, 9, 6, 12 $\\rightarrow \\text{HCF} = 3$. Hence, LCM = 140/3.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the HCF of fractions $\\frac{3}{4}, \\frac{6}{25}, \\frac{9}{10}$, and $\\frac{12}{35}$.",
+    "hi": "भिन्नों $\\frac{3}{4}, \\frac{6}{25}, \\frac{9}{10}$, और $\\frac{12}{35}$ का म.स.प. (HCF) ज्ञात कीजिए।",
+    "oEn": ["12/175", "3/700", "6/700", "3/350"],
+    "oHi": ["12/175", "3/700", "6/700", "3/350"],
+    "c": 1,
+    "exp": "$\\text{HCF of fractions} = \\frac{\\text{HCF of Numerators}}{\\text{LCM of Denominators}}$. Numerators are 3, 6, 9, 12 $\\rightarrow \\text{HCF} = 3$. Denominators are 4, 25, 10, 35 $\\rightarrow \\text{LCM} = 700$. Hence, HCF = 3/700.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The ratio of two numbers is 3 : 4 and their HCF is 5. Find their LCM.",
+    "hi": "दो संख्याओं का अनुपात 3 : 4 है और उनका म.स.प. (HCF) 5 है। उनका ल.स.प. (LCM) ज्ञात कीजिए।",
+    "oEn": ["45", "15", "60", "20"],
+    "oHi": ["45", "15", "60", "20"],
+    "c": 2,
+    "exp": "Let the numbers be $3x$ and $4x$, where $x$ is the HCF. So, $x = 5$. The numbers are 15 and 20. $\\text{LCM of 15 and 20} = 60$. Alternatively, $\\text{LCM} = \\text{Ratio Product} \\times \\text{HCF} = 3 \\times 4 \\times 5 = 60$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "What is the smallest number which when divided by 20, 25, 35, and 40 leaves a remainder of 6 in each case?",
+    "hi": "वह छोटी से छोटी संख्या कौन सी है जिसे 20, 25, 35, और 40 से विभाजित करने पर प्रत्येक स्थिति में 6 शेष बचता है?",
+    "oEn": ["1394", "1412", "1406", "1400"],
+    "oHi": ["1394", "1412", "1406", "1400"],
+    "c": 2,
+    "exp": "The required number is $\\text{LCM}(20, 25, 35, 40) + \\text{Remainder}$. LCM of 20, 25, 35, 40 is 1400. Required number = $1400 + 6 = 1406$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the greatest number that will divide 148, 246, and 623 leaving remainders 4, 6, and 11 respectively.",
+    "hi": "वह बड़ी से बड़ी संख्या ज्ञात कीजिए जिससे 148, 246, और 623 को विभाजित करने पर क्रमशः 4, 6, और 11 शेषफल प्राप्त हो।",
+    "oEn": ["18", "12", "24", "16"],
+    "oHi": ["18", "12", "24", "16"],
+    "c": 1,
+    "exp": "Subtract remainders from the numbers: $148 - 4 = 144$, $246 - 6 = 240$, $623 - 11 = 612$. The required number is $\\text{HCF}(144, 240, 612) = 12$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Four bells toll together at intervals of 6, 7, 8, and 9 seconds respectively. In how many seconds will they toll together again?",
+    "hi": "चार घंटियाँ क्रमशः 6, 7, 8, और 9 सेकंड के अंतराल पर एक साथ बजती हैं। वे कितने सेकंड बाद फिर से एक साथ बजेंगी?",
+    "oEn": ["252", "1008", "168", "504"],
+    "oHi": ["252", "1008", "168", "504"],
+    "c": 3,
+    "exp": "The time interval to toll together again is the LCM of the individual intervals. $\\text{LCM}(6, 7, 8, 9) = 504$ seconds.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The product of two co-prime numbers is 117. Their LCM should be:",
+    "hi": "दो सह-अभाज्य (co-prime) संख्याओं का गुणनफल 117 है। उनका ल.स.प. (LCM) होना चाहिए:",
+    "oEn": ["9", "13", "1", "117"],
+    "oHi": ["9", "13", "1", "117"],
+    "c": 3,
+    "exp": "The HCF of two co-prime numbers is always 1. Since $\\text{Product} = \\text{HCF} \\times \\text{LCM}$, then $117 = 1 \\times \\text{LCM} \\implies \\text{LCM} = 117$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the greatest 4-digit number which is exactly divisible by 15, 20, and 25.",
+    "hi": "4 अंकों की वह बड़ी से बड़ी संख्या ज्ञात कीजिए जो 15, 20, और 25 से पूर्णतः विभाज्य हो।",
+    "oEn": ["9450", "9800", "9900", "9600"],
+    "oHi": ["9450", "9800", "9900", "9600"],
+    "c": 2,
+    "exp": "LCM of 15, 20, 25 is 300. The greatest 4-digit number is 9999. Dividing 9999 by 300 gives a remainder of 99. Subtracting the remainder: $9999 - 99 = 9900$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The LCM of two numbers is 495 and their HCF is 5. If the sum of the numbers is 100, then their difference is:",
+    "hi": "दो संख्याओं का ल.स.प. (LCM) 495 है और उनका म.स.प. (HCF) 5 है। यदि संख्याओं का योग 100 है, तो उनका अंतर क्या है?",
+    "oEn": ["70", "10", "90", "46"],
+    "oHi": ["70", "10", "90", "46"],
+    "c": 1,
+    "exp": "Let the numbers be $5a$ and $5b$. Then $5a + 5b = 100 \\implies a + b = 20$. Also, $\\text{LCM} = 5ab = 495 \\implies ab = 99$. The factors of 99 that sum up to 20 are 11 and 9. The numbers are $5 \\times 11 = 55$ and $5 \\times 9 = 45$. Difference = $55 - 45 = 10$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the least perfect square number which is completely divisible by 5, 6, and 8.",
+    "hi": "वह छोटी से छोटी पूर्ण वर्ग संख्या ज्ञात कीजिए जो 5, 6, और 8 से पूर्णतः विभाज्य हो।",
+    "oEn": ["1600", "2500", "900", "3600"],
+    "oHi": ["1600", "2500", "900", "3600"],
+    "c": 3,
+    "exp": "LCM of 5, 6, 8 is 120. Prime factorization of $120 = 2 \\times 2 \\times 2 \\times 3 \\times 5 = 2^2 \\times 2 \\times 3 \\times 5$. To make it a perfect square, multiply it by missing pairs ($2 \\times 3 \\times 5 = 30$). Perfect square = $120 \\times 30 = 3600$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the HCF of 0.54, 1.8, and 7.2.",
+    "hi": "0.54, 1.8, और 7.2 का म.स.प. (HCF) ज्ञात कीजिए।",
+    "oEn": ["1.8", "0.06", "0.18", "0.54"],
+    "oHi": ["1.8", "0.06", "0.18", "0.54"],
+    "c": 2,
+    "exp": "Convert decimals to identical decimal places: 0.54, 1.80, 7.20. Now consider them as integers: 54, 180, 720. HCF of (54, 180, 720) is 18. Putting the decimal point back 2 places gives 0.18.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Three numbers are in the ratio 1 : 2 : 3 and their HCF is 12. The numbers are:",
+    "hi": "तीन संख्याएँ 1 : 2 : 3 के अनुपात में हैं और उनका म.स.प. (HCF) 12 है। वे संख्याएँ कौन सी हैं?",
+    "oEn": ["6, 12, 18", "12, 24, 36", "24, 48, 72", "10, 20, 30"],
+    "oHi": ["6, 12, 18", "12, 24, 36", "24, 48, 72", "10, 20, 30"],
+    "c": 1,
+    "exp": "When numbers are in a simplified ratio, their actual values are found by multiplying the ratio terms by their HCF. Values = $1 \\times 12, 2 \\times 12, 3 \\times 12 = 12, 24, 36$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "What is the least number which when divided by 8, 12, 16, and 20 leaves remainders 5, 9, 13, and 17 respectively?",
+    "hi": "वह छोटी से छोटी संख्या कौन सी है जिसे 8, 12, 16, और 20 से विभाजित करने पर क्रमशः 5, 9, 13, और 17 शेषफल प्राप्त हो?",
+    "oEn": ["237", "240", "243", "235"],
+    "oHi": ["237", "240", "243", "235"],
+    "c": 0,
+    "exp": "The common difference $K = \\text{Divisor} - \\text{Remainder}$. $8-5=3$, $12-9=3$, $16-13=3$, $20-17=3$. The required number = $\\text{LCM}(8, 12, 16, 20) - K$. $\\text{LCM} = 240$. Number = $240 - 3 = 237$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The sum of two numbers is 216 and their HCF is 27. How many such pairs of numbers can be formed?",
+    "hi": "दो संख्याओं का योग 216 है और उनका म.स.प. (HCF) 27 है। ऐसी संख्याओं के कितने युग्म बनाए जा सकते हैं?",
+    "oEn": ["4", "2", "1", "3"],
+    "oHi": ["4", "2", "1", "3"],
+    "c": 1,
+    "exp": "Let the numbers be $27a$ and $27b$, where $a$ and $b$ are co-prime. $27a + 27b = 216 \\implies a + b = 8$. Co-prime pairs that add to 8 are (1, 7) and (3, 5). Thus, exactly 2 pairs can be formed.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The HCF and LCM of two numbers are 8 and 48 respectively. If the ratio of the two numbers is 2 : 3, then the larger of the two numbers is:",
+    "hi": "दो संख्याओं का म.स.प. (HCF) और ल.स.प. (LCM) क्रमशः 8 और 48 है। यदि दोनों संख्याओं का अनुपात 2 : 3 है, तो बड़ी संख्या ज्ञात कीजिए।",
+    "oEn": ["16", "24", "48", "32"],
+    "oHi": ["16", "24", "48", "32"],
+    "c": 1,
+    "exp": "Since the HCF is 8, the numbers can be calculated using the ratio: $2 \\times 8 = 16$ and $3 \\times 8 = 24$. The larger number is 24.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the largest length of a tape that can accurately measure dimensions of 7 m, 3 m 85 cm, and 12 m 95 cm.",
+    "hi": "उस फीते की अधिकतम लंबाई ज्ञात कीजिए जो 7 मीटर, 3 मीटर 85 सेमी, और 12 मीटर 95 सेमी की विमाओं को सटीक रूप से माप सके।",
+    "oEn": ["15 cm", "25 cm", "42 cm", "35 cm"],
+    "oHi": ["15 cm", "25 cm", "42 cm", "35 cm"],
+    "c": 3,
+    "exp": "Convert all measurements into centimeters: 700 cm, 385 cm, and 1295 cm. The required tape size is the HCF of these dimensions. $\\text{HCF}(700, 385, 1295) = 35$ cm.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "What is the smallest number which when increased by 5 is completely divisible by 24, 32, 36, and 54?",
+    "hi": "वह छोटी से छोटी संख्या कौन सी है जिसमें 5 की वृद्धि करने पर वह 24, 32, 36, और 54 से पूर्णतः विभाज्य हो जाए?",
+    "oEn": ["854", "864", "859", "869"],
+    "oHi": ["854", "864", "859", "869"],
+    "c": 2,
+    "exp": "The required number will be $\\text{LCM}(24, 32, 36, 54) - 5$. The LCM of these numbers is 864. Required number = $864 - 5 = 859$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The HCF of two numbers is 23 and the other two factors of their LCM are 13 and 14. The larger of the two numbers is:",
+    "hi": "दो संख्याओं का म.स.प. (HCF) 23 है और उनके ल.स.प. (LCM) के अन्य दो गुणनखंड 13 और 14 हैं। दोनों संख्याओं में से बड़ी संख्या क्या है?",
+    "oEn": ["345", "299", "322", "368"],
+    "oHi": ["345", "299", "322", "368"],
+    "c": 2,
+    "exp": "The two numbers are formed by multiplying the individual unique factors of LCM by their common HCF. Numbers are $23 \\times 13 = 299$ and $23 \\times 14 = 322$. The larger number is 322.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the least number of square tiles required to pave the floor of a room 15 m 17 cm long and 9 m 2 cm broad.",
+    "hi": "15 मीटर 17 सेमी लंबे और 9 मीटर 2 सेमी चौड़े कमरे के फर्श पर लगाने के लिए आवश्यक वर्गाकार टाइलों की न्यूनतम संख्या ज्ञात कीजिए।",
+    "oEn": ["41", "841", "814", "738"],
+    "oHi": ["41", "841", "814", "738"],
+    "c": 2,
+    "exp": "Dimensions in cm: Length = 1517 cm, Width = 902 cm. Size of largest square tile = $\\text{HCF}(1517, 902) = 41$ cm. Number of tiles = $\\frac{\\text{Area of floor}}{\\text{Area of 1 tile}} = \\frac{1517 \\times 902}{41 \\times 41} = 37 \\times 22 = 814$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The LCM of two numbers is 20 times their HCF. The sum of LCM and HCF is 2520. If one number is 480, find the other number.",
+    "hi": "दो संख्याओं का ल.स.प. (LCM), उनके म.स.प. (HCF) का 20 गुना है। LCM और HCF का योग 2520 है। यदि एक संख्या 480 है, तो दूसरी संख्या ज्ञात कीजिए।",
+    "oEn": ["520", "400", "560", "600"],
+    "oHi": ["520", "400", "560", "600"],
+    "c": 3,
+    "exp": "Let HCF = $H$, then LCM = $20H$. Given: $H + 20H = 2520 \\implies 21H = 2520 \\implies H = 120$. So LCM = $20 \\times 120 = 2400$. Using $\\text{Num1} \\times \\text{Num2} = \\text{HCF} \\times \\text{LCM} \\implies 480 \\times X = 120 \\times 2400 \\implies X = 600$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the greatest number of three digits which when divided by 6, 9, and 12 leaves a remainder of 3 in each case.",
+    "hi": "तीन अंकों की वह बड़ी से बड़ी संख्या ज्ञात कीजिए जिसे 6, 9, और 12 से विभाजित करने पर प्रत्येक स्थिति में 3 शेष बचे।",
+    "oEn": ["972", "996", "939", "975"],
+    "oHi": ["972", "996", "939", "975"],
+    "c": 3,
+    "exp": "LCM of 6, 9, 12 is 36. Largest 3-digit number is 999. $999 \\div 36$ leaves a remainder of 27. Largest multiple = $999 - 27 = 972$. To get a remainder of 3, add 3: $972 + 3 = 975$.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "The HCF of two numbers is 11 and their LCM is 693. If one of the numbers lies between 70 and 100, find that number.",
+    "hi": "दो संख्याओं का म.स.प. (HCF) 11 है और उनका ल.स.प. (LCM) 693 है। यदि उनमें से एक संख्या 70 और 100 के बीच स्थित है, तो वह संख्या ज्ञात कीजिए।",
+    "oEn": ["91", "77", "88", "99"],
+    "oHi": ["91", "77", "88", "99"],
+    "c": 1,
+    "exp": "Product of unique factors of LCM = $\\text{LCM} / \\text{HCF} = 693 / 11 = 63$. Co-prime factors of 63 are (1, 63) and (7, 9). The possible pairs of numbers are ($11 \\times 1, 11 \\times 63$) and ($11 \\times 7, 11 \\times 9$), which gives (11, 693) and (77, 99). The number between 70 and 100 is 77.",
+    "Pyq": "ssc_mts_trend_2026"
+  },
+  {
+    "en": "Find the HCF of $(x^2 - 4)$ and $(x^2 - 4x + 4)$.",
+    "hi": "$(x^2 - 4)$ और $(x^2 - 4x + 4)$ का म.स.प. (HCF) ज्ञात कीजिए।",
+    "oEn": ["(x + 2)", "(x - 4)", "$(x - 2)^2$", "(x - 2)"],
+    "oHi": ["(x + 2)", "(x - 4)", "$(x - 2)^2$", "(x - 2)"],
+    "c": 3,
+    "exp": "Factorizing the expressions: $x^2 - 4 = (x - 2)(x + 2)$. Similarly, $x^2 - 4x + 4 = (x - 2)^2$. The highest common factor is $(x - 2)$.",
+    "Pyq": "ssc_mts_trend_2026"
+  }
+]
