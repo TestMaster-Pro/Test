@@ -1,0 +1,227 @@
+[
+  {
+    "en": "A can finish a work in 10 days and B can finish it in 15 days. In how many days will they finish the work together?",
+    "hi": "A किसी कार्य को 10 दिनों में और B इसे 15 दिनों में पूरा कर सकता है। वे एक साथ मिलकर कार्य को कितने दिनों में पूरा करेंगे?",
+    "oEn": ["8 days", "6 days", "5 days", "9 days"],
+    "oHi": ["8 दिन", "6 दिन", "5 दिन", "9 दिन"],
+    "c": 1,
+    "exp": "A+B = (10*15)/(10+15) = 150/25 = 6 days.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "A is twice as efficient as B. If they together finish a work in 18 days, in how many days can A alone finish it?",
+    "hi": "A, B की तुलना में दोगुना कार्यकुशल है। यदि वे दोनों मिलकर एक कार्य को 18 दिनों में पूरा करते हैं, तो A अकेला इसे कितने दिनों में पूरा कर सकता है?",
+    "oEn": ["24 days", "30 days", "27 days", "21 days"],
+    "oHi": ["24 दिन", "30 दिन", "27 दिन", "21 दिन"],
+    "c": 2,
+    "exp": "A:B = 2:1. Together efficiency = 3 units/day. Total work = 3 * 18 = 54 units. A = 54/2 = 27 days.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "If 12 men or 18 women can do a work in 14 days, in how many days can 8 men and 16 women do the same work?",
+    "hi": "यदि 12 पुरुष या 18 महिलाएं किसी कार्य को 14 दिनों में कर सकते हैं, तो 8 पुरुष और 16 महिलाएं उसी कार्य को कितने दिनों में कर सकते हैं?",
+    "oEn": ["9 days", "8 days", "7 days", "10 days"],
+    "oHi": ["9 दिन", "8 दिन", "7 दिन", "10 दिन"],
+    "c": 0,
+    "exp": "12M = 18W => 1M = 1.5W. Work = 12M*14 = 168M units. 8M+16W = 8M + 16*(2/3)M = 56/3 M. Time = 168 / (56/3) = 9 days.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A and B can complete a work in 12 days, B and C in 15 days, and C and A in 20 days. How long will they take to finish it working together?",
+    "hi": "A और B एक कार्य को 12 दिनों में, B और C 15 दिनों में, और C और A 20 दिनों में पूरा कर सकते हैं। वे एक साथ मिलकर कार्य को कितने समय में पूरा करेंगे?",
+    "oEn": ["12 days", "10 days", "8 days", "15 days"],
+    "oHi": ["12 दिन", "10 दिन", "8 दिन", "15 दिन"],
+    "c": 1,
+    "exp": "2(A+B+C) = 1/12+1/15+1/20 = 12/60 = 1/5. A+B+C = 1/10 = 10 days.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "A can do 1/2 of a work in 5 days and B can do 3/5 of the same work in 9 days. In how many days can both finish the work?",
+    "hi": "A एक कार्य का 1/2 भाग 5 दिनों में और B उसी कार्य का 3/5 भाग 9 दिनों में कर सकता है। दोनों मिलकर कार्य को कितने दिनों में पूरा कर सकते हैं?",
+    "oEn": ["4 1/3 days", "6 days", "5 1/3 days", "3 1/3 days"],
+    "oHi": ["4 1/3 दिन", "6 दिन", "5 1/3 दिन", "3 1/3 दिन"],
+    "c": 1,
+    "exp": "A=10 days, B=15 days. A+B = 1/10+1/15 = 1/6 = 6 days.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "A man can do a job in 20 days, but with his son's help, he can do it in 15 days. How long will the son take to do the job alone?",
+    "hi": "एक आदमी एक काम 20 दिनों में कर सकता है, लेकिन अपने बेटे की मदद से वह इसे 15 दिनों में कर सकता है। बेटा अकेले इस काम को करने में कितना समय लेगा?",
+    "oEn": ["40 days", "70 days", "50 days", "60 days"],
+    "oHi": ["40 दिन", "70 दिन", "50 दिन", "60 दिन"],
+    "c": 3,
+    "exp": "1/Son = 1/15 - 1/20 = 1/60. Son = 60 days.",
+    "Pyq": "ssc_mts_2024"
+  },
+  {
+    "en": "A and B undertake a work for ₹1200. A can do it in 8 days and B in 12 days. With the help of C, they finish it in 4 days. What is C's share?",
+    "hi": "A और B ने ₹1200 में एक काम लिया। A इसे 8 दिनों में और B 12 दिनों में कर सकता है। C की मदद से, वे इसे 4 दिनों में पूरा करते हैं। C का हिस्सा क्या है?",
+    "oEn": ["₹300", "₹100", "₹200", "₹400"],
+    "oHi": ["₹300", "₹100", "₹200", "₹400"],
+    "c": 2,
+    "exp": "C's 1-day work = 1/4 - (1/8+1/12) = 1/24. Ratio A:B:C = 3:2:1. C's share = 1/6 * 1200 = 200.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A starts a work and leaves after 2 days. B finishes the remaining work in 9 days. If A had left after 3 days, B would have finished in 6 days. Find A's capacity.",
+    "hi": "A एक कार्य शुरू करता है और 2 दिनों के बाद छोड़ देता है। B शेष कार्य को 9 दिनों में पूरा करता है। यदि A 3 दिनों के बाद छोड़ता, तो B इसे 6 दिनों में पूरा करता। A की कार्यक्षमता ज्ञात कीजिए।",
+    "oEn": ["A does 1/3 in a day", "A does 1/4 in a day", "A does 1/5 in a day", "A does 1/6 in a day"],
+    "oHi": ["A एक दिन में 1/3 करता है", "A एक दिन में 1/4 करता है", "A एक दिन में 1/5 करता है", "A एक दिन में 1/6 करता है"],
+    "c": 2,
+    "exp": "2A+9B=1, 3A+6B=1 => A=3B => B=1/15, A=1/5. So A does 1/5 of work per day.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "Pipes A and B can fill a tank in 10 and 15 hours respectively. If both are opened together, how long will it take to fill?",
+    "hi": "पाइप A और B एक टैंक को क्रमशः 10 और 15 घंटों में भर सकते हैं। यदि दोनों को एक साथ खोल दिया जाए, तो इसे भरने में कितना समय लगेगा?",
+    "oEn": ["12 hours", "5 hours", "8 hours", "6 hours"],
+    "oHi": ["12 घंटे", "5 घंटे", "8 घंटे", "6 घंटे"],
+    "c": 3,
+    "exp": "Efficiency = 1/10 + 1/15 = 1/6. Time = 6 hours.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "A and B can do a piece of work in 10 days and 15 days respectively. They work together for 4 days, then A leaves. How long will B take to finish the rest?",
+    "hi": "A और B किसी कार्य को क्रमशः 10 और 15 दिनों में कर सकते हैं। वे 4 दिनों तक एक साथ काम करते हैं, फिर A छोड़ देता है। B शेष कार्य को कितने समय में पूरा करेगा?",
+    "oEn": ["6 days", "7 days", "9 days", "5 days"],
+    "oHi": ["6 दिन", "7 दिन", "9 दिन", "5 दिन"],
+    "c": 3,
+    "exp": "A+B=1/6. In 4 days they do 4/6 = 2/3. Remaining = 1/3. B takes (1/3)*15 = 5 days.",
+    "Pyq": "ssc_mts_2024"
+  },
+  {
+    "en": "A can do a work in 20 days. B is 25% more efficient than A. How many days will B take to do the same work?",
+    "hi": "A किसी कार्य को 20 दिनों में कर सकता है। B, A से 25% अधिक कुशल है। B उसी कार्य को करने में कितने दिन लेगा?",
+    "oEn": ["15 days", "18 days", "12 days", "16 days"],
+    "oHi": ["15 दिन", "18 दिन", "12 दिन", "16 दिन"],
+    "c": 3,
+    "exp": "Eff A:B = 4:5. Time ratio = 5:4. 5 units = 20, so 4 units = 16 days.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "If 4 men or 6 boys can finish a work in 20 days, how long will 6 men and 11 boys take to finish it?",
+    "hi": "यदि 4 पुरुष या 6 लड़के किसी कार्य को 20 दिनों में पूरा कर सकते हैं, तो 6 पुरुष और 11 लड़के इसे पूरा करने में कितना समय लेंगे?",
+    "oEn": ["8 days", "10 days", "6 days", "12 days"],
+    "oHi": ["8 दिन", "10 दिन", "6 दिन", "12 दिन"],
+    "c": 2,
+    "exp": "4M=6B => 1M=1.5B. Work = 4M*20 = 80M units. 6M+11B = 6M + 11*(2/3)M = 40/3 M. Time = 80 / (40/3) = 6 days.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A is thrice as good a workman as B and is therefore able to finish a job in 40 days less than B. Find time taken by both together.",
+    "hi": "A, B की तुलना में तीन गुना बेहतर कर्मचारी है और इसलिए वह B से 40 दिन कम समय में काम पूरा कर सकता है। दोनों द्वारा एक साथ लिए गए समय को ज्ञात कीजिए।",
+    "oEn": ["18 days", "20 days", "15 days", "25 days"],
+    "oHi": ["18 दिन", "20 दिन", "15 दिन", "25 दिन"],
+    "c": 2,
+    "exp": "Time ratio A:B = 1:3. Diff=2 units=40 => 1 unit=20. A=20, B=60. Together = (20*60)/80 = 15 days.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A contractor undertook to do a piece of work in 40 days and engaged 100 men. After 35 days, he engaged 100 more men and finished on time. How many days would have been lost if he didn't?",
+    "hi": "एक ठेकेदार ने 40 दिनों में एक काम पूरा करने का बीड़ा उठाया और 100 पुरुषों को काम पर रखा। 35 दिनों के बाद, उसने 100 और पुरुष जोड़े और समय पर काम पूरा किया। यदि वह ऐसा नहीं करता तो कितने दिन खराब हो जाते?",
+    "oEn": ["10 days", "5 days", "12 days", "7 days"],
+    "oHi": ["10 दिन", "5 दिन", "12 दिन", "7 दिन"],
+    "c": 1,
+    "exp": "35*100 + 5*200 = 4500 units. Only 100 men: 4500/100 = 45 days. Lost = 5 days.",
+    "Pyq": "ssc_mts_2024"
+  },
+  {
+    "en": "A and B can do a work in 12 days. B and C in 15 days. A, B, C together in 10 days. How long will C take alone?",
+    "hi": "A और B किसी काम को 12 दिनों में कर सकते हैं। B और C 15 दिनों में। A, B, C तीनों मिलकर 10 दिनों में। C अकेले कितना समय लेगा?",
+    "oEn": ["20 days", "40 days", "30 days", "60 days"],
+    "oHi": ["20 दिन", "40 दिन", "30 दिन", "60 दिन"],
+    "c": 3,
+    "exp": "C = 1/10 - 1/12 = 1/60. C takes 60 days.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "A and B work on alternate days. A can do work in 10 days, B in 15 days. If A starts, in how many days will the work finish?",
+    "hi": "A और B वैकल्पिक दिनों में काम करते हैं। A काम 10 दिनों में, B 15 दिनों में कर सकता है। यदि A शुरू करता है, तो काम कितने दिनों में पूरा होगा?",
+    "oEn": ["10 days", "13 days", "11 days", "12 days"],
+    "oHi": ["10 दिन", "13 दिन", "11 दिन", "12 दिन"],
+    "c": 3,
+    "exp": "Work=30 units. A eff=3, B=2. 2-day cycle=5. 6 cycles=12 days=30 units. So 12 days.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "If 15 men can reap a field in 28 days, in how many days will 21 men reap the same field?",
+    "hi": "यदि 15 पुरुष एक खेत की कटाई 28 दिनों में कर सकते हैं, तो 21 पुरुष उसी खेत की कटाई कितने दिनों में करेंगे?",
+    "oEn": ["22 days", "20 days", "18 days", "25 days"],
+    "oHi": ["22 दिन", "20 दिन", "18 दिन", "25 दिन"],
+    "c": 1,
+    "exp": "M1D1 = M2D2 => 15*28 = 21*D2 => D2 = 20 days.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "A takes twice as much time as B and thrice as much time as C to finish a work. Working together, they finish in 2 days. How long will B take?",
+    "hi": "A, B से दोगुना समय और C से तीन गुना समय लेता है। एक साथ काम करते हुए, वे 2 दिनों में पूरा करते हैं। B को कितना समय लगेगा?",
+    "oEn": ["12 days", "4 days", "8 days", "6 days"],
+    "oHi": ["12 दिन", "4 दिन", "8 दिन", "6 दिन"],
+    "c": 3,
+    "exp": "Time ratio A:B:C = 6:3:2. Eff ratio = 1:2:3. Total eff=6. Work=12. B=12/2=6 days.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "Three taps A, B, C can fill a tank in 12, 15, and 20 hours. If A is open all the time, B and C open for one hour each alternately, how long to fill?",
+    "hi": "तीन नल A, B, C एक टैंक को 12, 15 और 20 घंटों में भर सकते हैं। यदि A हर समय खुला रहे, और B और C बारी-बारी से एक-एक घंटे के लिए खोले जाएं, तो टैंक कितने समय में भरेगा?",
+    "oEn": ["9 hours", "6 hours", "7 hours", "8 hours"],
+    "oHi": ["9 घंटे", "6 घंटे", "7 घंटे", "8 घंटे"],
+    "c": 2,
+    "exp": "Eff: A=5, B=4, C=3 (total=60). 2-hr block: 9+8=17. 3 blocks=51, rem=9, 7th hr A+B=9. Total 7 hours.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A and B can do a work in 10 days. B and C in 15 days, C and A in 20 days. Who among them is the most efficient?",
+    "hi": "A और B किसी कार्य को 10 दिनों में कर सकते हैं। B और C 15 दिनों में, C और A 20 दिनों में। उनमें से सबसे कुशल कौन है?",
+    "oEn": ["B", "C", "A", "All same"],
+    "oHi": ["B", "C", "A", "सभी समान"],
+    "c": 0,
+    "exp": "A+B=6, B+C=4, C+A=3. A=2.5, B=3.5, C=0.5. B is most efficient.",
+    "Pyq": "ssc_mts_2024"
+  },
+  {
+    "en": "A does half as much work as B in 3/4 of the time. If they take 18 days to complete the work together, how long will B take alone?",
+    "hi": "A, B के समय के 3/4 भाग में B से आधा काम करता है। यदि वे एक साथ कार्य पूरा करने में 18 दिन लेते हैं, तो B अकेले कितना समय लेगा?",
+    "oEn": ["30 days", "45 days", "50 days", "40 days"],
+    "oHi": ["30 दिन", "45 दिन", "50 दिन", "40 दिन"],
+    "c": 0,
+    "exp": "Eff ratio A:B = (1/2)/(3/4) = 2:3. Combined eff=5, work=5*18=90. B=90/3=30 days.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A and B start a work. A leaves 5 days before the completion. The work was completed in 20 days. How many days did A work?",
+    "hi": "A और B काम शुरू करते हैं। A काम पूरा होने से 5 दिन पहले छोड़ देता है। काम 20 दिनों में पूरा हुआ। A ने कितने दिन काम किया?",
+    "oEn": ["10 days", "18 days", "12 days", "15 days"],
+    "oHi": ["10 दिन", "18 दिन", "12 दिन", "15 दिन"],
+    "c": 3,
+    "exp": "B worked 20 days, A worked 20-5=15 days.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "Two workers A and B are engaged to do a piece of work. A working alone would take 8 hours more than when they work together. B takes 4.5 hours more.",
+    "hi": "दो कर्मचारी A और B एक काम करने के लिए रखे गए हैं। A अकेले काम करने में उनके एक साथ काम करने की तुलना में 8 घंटे अधिक लेगा। B 4.5 घंटे अधिक लेगा।",
+    "oEn": ["8 hours", "5 hours", "6 hours", "7 hours"],
+    "oHi": ["8 घंटे", "5 घंटे", "6 घंटे", "7 घंटे"],
+    "c": 2,
+    "exp": "Time together = sqrt(8 * 4.5) = 6 hours.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A can do a work in 16 days. B is 100% more efficient than A. C is 50% less efficient than B. How long to finish together?",
+    "hi": "A एक काम 16 दिनों में कर सकता है। B, A से 100% अधिक कुशल है। C, B से 50% कम कुशल है। साथ मिलकर पूरा करने में कितना समय लगेगा?",
+    "oEn": ["8 days", "4 days", "5 days", "6 days"],
+    "oHi": ["8 दिन", "4 दिन", "5 दिन", "6 दिन"],
+    "c": 1,
+    "exp": "A=1 unit/day (work=16). B=2, C=1. Total eff=4. Time=16/4=4 days.",
+    "Pyq": "ssc_mts_Trend_2026"
+  },
+  {
+    "en": "A tank has a leak which would empty it in 8 hours. A tap is turned on which admits 6 litres a minute. Now the tank empties in 12 hours. Capacity is:",
+    "hi": "एक टैंक में रिसाव है जो इसे 8 घंटे में खाली कर देगा। एक नल चालू किया जाता है जो 6 लीटर प्रति मिनट भरता है। अब टैंक 12 घंटे में खाली होता है। क्षमता है:",
+    "oEn": ["6000 liters", "7200 liters", "8640 liters", "5000 liters"],
+    "oHi": ["6000 लीटर", "7200 लीटर", "8640 लीटर", "5000 लीटर"],
+    "c": 2,
+    "exp": "Tap fills in 24 h = 1440 min. Capacity = 1440 * 6 = 8640 L.",
+    "Pyq": "ssc_mts_Trend_2026"
+  }
+]
