@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Who was the Chairman of the Drafting Committee of the Indian Constitution?",
+    "hi": "भारतीय संविधान की प्रारूप समिति के अध्यक्ष कौन थे?",
+    "oEn": ["Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Dr. Rajendra Prasad", "Sardar Patel"],
+    "oHi": ["जवाहरलाल नेहरू", "डॉ. बी.आर. अंबेडकर", "डॉ. राजेंद्र प्रसाद", "सरदार पटेल"],
+    "c": 1,
+    "exp": "Dr. B.R. Ambedkar served as the Chairman of the Drafting Committee.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The idea of the 'Preamble' in the Indian Constitution is borrowed from the constitution of:",
+    "hi": "भारतीय संविधान में 'प्रस्तावना' का विचार किस देश के संविधान से लिया गया है?",
+    "oEn": ["Canada", "USA", "UK", "Ireland"],
+    "oHi": ["कनाडा", "यूएसए", "यूके", "आयरलैंड"],
+    "c": 1,
+    "exp": "The Preamble's concept and its opening words 'We the People' were borrowed from the US Constitution.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Which amendment added the words 'Socialist', 'Secular', and 'Integrity' to the Preamble?",
+    "hi": "किस संशोधन द्वारा प्रस्तावना में 'समाजवादी', 'धर्मनिरपेक्ष' और 'अखंडता' शब्द जोड़े गए?",
+    "oEn": ["44th Amendment", "42nd Amendment", "40th Amendment", "52nd Amendment"],
+    "oHi": ["44वां संशोधन", "42वां संशोधन", "40वां संशोधन", "52वां संशोधन"],
+    "c": 1,
+    "exp": "The 42nd Constitutional Amendment Act (1976) added these three words to the Preamble.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "The Indian Constitution was adopted on:",
+    "hi": "भारतीय संविधान को कब अपनाया गया था?",
+    "oEn": ["26 January 1950", "15 August 1947", "26 November 1949", "26 January 1947"],
+    "oHi": ["26 जनवरी 1950", "15 अगस्त 1947", "26 नवंबर 1949", "26 जनवरी 1947"],
+    "c": 2,
+    "exp": "The Constitution was adopted on November 26, 1949, and came into force on Jan 26, 1950.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which part of the Constitution is called the 'Soul of the Constitution'?",
+    "hi": "संविधान के किस भाग को 'संविधान की आत्मा' कहा जाता है?",
+    "oEn": ["Fundamental Rights", "Directive Principles", "Preamble", "Fundamental Duties"],
+    "oHi": ["मौलिक अधिकार", "नीति निर्देशक सिद्धांत", "प्रस्तावना", "मौलिक कर्तव्य"],
+    "c": 2,
+    "exp": "The Preamble is referred to as the soul of the Constitution by various experts.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Who was the President of the Constituent Assembly?",
+    "hi": "संविधान सभा के अध्यक्ष कौन थे?",
+    "oEn": ["Dr. B.R. Ambedkar", "Dr. Rajendra Prasad", "Jawaharlal Nehru", "K.M. Munshi"],
+    "oHi": ["डॉ. बी.आर. अंबेडकर", "डॉ. राजेंद्र प्रसाद", "जवाहरलाल नेहरू", "के.एम. मुंशी"],
+    "c": 1,
+    "exp": "Dr. Rajendra Prasad was elected as the permanent President of the Constituent Assembly.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Which of the following terms is not mentioned in the Preamble?",
+    "hi": "प्रस्तावना में निम्नलिखित में से कौन सा शब्द उल्लेखित नहीं है?",
+    "oEn": ["Sovereign", "Democratic", "Federal", "Republic"],
+    "oHi": ["संप्रभु", "लोकतांत्रिक", "संघीय", "गणतंत्र"],
+    "c": 2,
+    "exp": "The term 'Federal' is not explicitly used in the Preamble of the Indian Constitution.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The concept of 'Single Citizenship' in India is inspired by:",
+    "hi": "भारत में 'एकल नागरिकता' की अवधारणा किससे प्रेरित है?",
+    "oEn": ["USA", "Britain (UK)", "Canada", "Australia"],
+    "oHi": ["यूएसए", "ब्रिटेन (यूके)", "कनाडा", "ऑस्ट्रेलिया"],
+    "c": 1,
+    "exp": "Unlike the US (dual citizenship), India follows the British model of single citizenship.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "How many times has the Preamble been amended?",
+    "hi": "प्रस्तावना में कितनी बार संशोधन किया गया है?",
+    "oEn": ["Never", "Once", "Twice", "Three times"],
+    "oHi": ["कभी नहीं", "एक बार", "दो बार", "तीन बार"],
+    "c": 1,
+    "exp": "The Preamble has been amended only once, in 1976.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Who described the Preamble as the 'Identity Card of the Constitution'?",
+    "hi": "किसने प्रस्तावना को 'संविधान का परिचय पत्र' (Identity Card) कहा था?",
+    "oEn": ["B.R. Ambedkar", "N.A. Palkhivala", "Jawaharlal Nehru", "K.M. Munshi"],
+    "oHi": ["बी.आर. अंबेडकर", "एन.ए. पालकीवाला", "जवाहरलाल नेहरू", "के.एम. मुंशी"],
+    "c": 1,
+    "exp": "N.A. Palkhivala famously called the Preamble the 'Identity Card' of the Constitution.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The Constituent Assembly took how much time to frame the Constitution?",
+    "hi": "संविधान सभा को संविधान बनाने में कितना समय लगा?",
+    "oEn": ["2 years, 11 months, 18 days", "3 years, 11 months, 18 days", "2 years, 10 months, 5 days", "1 year, 11 months, 18 days"],
+    "oHi": ["2 वर्ष, 11 महीने, 18 दिन", "3 वर्ष, 11 महीने, 18 दिन", "2 वर्ष, 10 महीने, 5 दिन", "1 वर्ष, 11 महीने, 18 दिन"],
+    "c": 0,
+    "exp": "It took 2 years, 11 months, and 18 days to finalize the Constitution.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Fundamental Rights in the Indian Constitution are derived from the:",
+    "hi": "भारतीय संविधान में मौलिक अधिकार कहाँ से लिए गए हैं?",
+    "oEn": ["British Constitution", "US Bill of Rights", "Irish Constitution", "Canadian Constitution"],
+    "oHi": ["ब्रिटिश संविधान", "अमेरिकी बिल ऑफ राइट्स", "आयरिश संविधान", "कनाडाई संविधान"],
+    "c": 1,
+    "exp": "The Fundamental Rights are inspired by the Bill of Rights of the United States.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "The Directive Principles of State Policy (DPSP) are borrowed from:",
+    "hi": "राज्य के नीति निर्देशक सिद्धांत (DPSP) कहाँ से लिए गए हैं?",
+    "oEn": ["Ireland", "USA", "UK", "Germany"],
+    "oHi": ["आयरलैंड", "यूएसए", "यूके", "जर्मनी"],
+    "c": 0,
+    "exp": "The DPSP was adopted from the Constitution of Ireland.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "Which Article of the Indian Constitution is described as the 'Heart and Soul' by Dr. B.R. Ambedkar?",
+    "hi": "डॉ. बी.आर. अंबेडकर द्वारा भारतीय संविधान के किस अनुच्छेद को 'हृदय और आत्मा' कहा गया है?",
+    "oEn": ["Article 14", "Article 19", "Article 32", "Article 21"],
+    "oHi": ["अनुच्छेद 14", "अनुच्छेद 19", "अनुच्छेद 32", "अनुच्छेद 21"],
+    "c": 2,
+    "exp": "Article 32 (Right to Constitutional Remedies) was called the heart and soul of the Constitution.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which of the following is NOT a feature of the Indian Constitution?",
+    "hi": "निम्नलिखित में से कौन सा भारतीय संविधान की विशेषता नहीं है?",
+    "oEn": ["Parliamentary Democracy", "Federal system", "Dictatorship", "Independent Judiciary"],
+    "oHi": ["संसदीय लोकतंत्र", "संघीय प्रणाली", "तानाशाही", "स्वतंत्र न्यायपालिका"],
+    "c": 2,
+    "exp": "Dictatorship is antithetical to the democratic nature of the Indian Constitution.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Objective Resolution' was moved in the Constituent Assembly by:",
+    "hi": "संविधान सभा में 'उद्देश्य प्रस्ताव' (Objective Resolution) किसने प्रस्तुत किया था?",
+    "oEn": ["Dr. Rajendra Prasad", "Jawaharlal Nehru", "B.R. Ambedkar", "Sardar Patel"],
+    "oHi": ["डॉ. राजेंद्र प्रसाद", "जवाहरलाल नेहरू", "बी.आर. अंबेडकर", "सरदार पटेल"],
+    "c": 1,
+    "exp": "Jawaharlal Nehru moved the Objective Resolution on December 13, 1946.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Which schedule of the Constitution contains the list of recognized languages?",
+    "hi": "संविधान की किस अनुसूची में मान्यता प्राप्त भाषाओं की सूची है?",
+    "oEn": ["7th Schedule", "8th Schedule", "9th Schedule", "10th Schedule"],
+    "oHi": ["7वीं अनुसूची", "8वीं अनुसूची", "9वीं अनुसूची", "10वीं अनुसूची"],
+    "c": 1,
+    "exp": "The 8th Schedule of the Indian Constitution lists 22 official languages.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The Indian Constitution is:",
+    "hi": "भारतीय संविधान है:",
+    "oEn": ["Rigid", "Flexible", "Partly rigid and partly flexible", "Neither rigid nor flexible"],
+    "oHi": ["कठोर", "लचीला", "आंशिक रूप से कठोर और आंशिक रूप से लचीला", "न तो कठोर और न ही लचीला"],
+    "c": 2,
+    "exp": "The Indian Constitution is a blend of rigidity (special majority) and flexibility (simple majority).",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Who was the Temporary President of the Constituent Assembly?",
+    "hi": "संविधान सभा के अस्थायी अध्यक्ष कौन थे?",
+    "oEn": ["Dr. Sachchidananda Sinha", "Dr. Rajendra Prasad", "H.C. Mukherjee", "B.N. Rau"],
+    "oHi": ["डॉ. सच्चिदानंद सिन्हा", "डॉ. राजेंद्र प्रसाद", "एच.सी. मुखर्जी", "बी.एन. राव"],
+    "c": 0,
+    "exp": "Dr. Sachchidananda Sinha was the temporary president for the first meeting.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The concept of 'Concurrent List' is borrowed from which country?",
+    "hi": "'समवर्ती सूची' (Concurrent List) की अवधारणा किस देश से ली गई है?",
+    "oEn": ["USA", "Australia", "Canada", "Japan"],
+    "oHi": ["यूएसए", "ऑस्ट्रेलिया", "कनाडा", "जापान"],
+    "c": 1,
+    "exp": "The Concurrent List is inspired by the Australian Constitution.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "The Indian Constitution recognizes the State as:",
+    "hi": "भारतीय संविधान राज्य को किस रूप में मान्यता देता है?",
+    "oEn": ["A Religious State", "A Secular State", "A Communist State", "A Monarchical State"],
+    "oHi": ["एक धार्मिक राज्य", "एक धर्मनिरपेक्ष राज्य", "एक साम्यवादी राज्य", "एक राजशाही राज्य"],
+    "c": 1,
+    "exp": "India is explicitly declared as a 'Secular' state in the Preamble.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which of these is the supreme source of power in India?",
+    "hi": "भारत में शक्ति का सर्वोच्च स्रोत कौन सा है?",
+    "oEn": ["The Supreme Court", "The Parliament", "The Constitution", "The President"],
+    "oHi": ["सर्वोच्च न्यायालय", "संसद", "संविधान", "राष्ट्रपति"],
+    "c": 2,
+    "exp": "The Constitution of India is the supreme law and source of all power in the country.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What is the minimum age required to be a member of the Constituent Assembly?",
+    "hi": "संविधान सभा का सदस्य बनने के लिए न्यूनतम आयु क्या है?",
+    "oEn": ["21 years", "25 years", "30 years", "No age limit specified"],
+    "oHi": ["21 वर्ष", "25 वर्ष", "30 वर्ष", "कोई आयु सीमा निर्दिष्ट नहीं है"],
+    "c": 3,
+    "exp": "The Constitution did not specify a minimum age requirement for members of the Constituent Assembly.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Fundamental Duties' were added to the Constitution by:",
+    "hi": "'मौलिक कर्तव्य' किस संशोधन द्वारा संविधान में जोड़े गए थे?",
+    "oEn": ["42nd Amendment", "44th Amendment", "86th Amendment", "73rd Amendment"],
+    "oHi": ["42वां संशोधन", "44वां संशोधन", "86वां संशोधन", "73वां संशोधन"],
+    "c": 0,
+    "exp": "Fundamental Duties were added by the 42nd Amendment (1976) on the recommendation of the Swaran Singh Committee.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The term 'Republic' in the Preamble means:",
+    "hi": "प्रस्तावना में 'गणतंत्र' शब्द का अर्थ है:",
+    "oEn": ["Head of State is elected", "Head of State is hereditary", "Head of State is nominated", "State has no religion"],
+    "oHi": ["राज्य का मुखिया चुना जाता है", "राज्य का मुखिया वंशानुगत है", "राज्य का मुखिया नामांकित है", "राज्य का कोई धर्म नहीं है"],
+    "c": 0,
+    "exp": "In a Republic, the head of state is not a hereditary ruler but is elected directly or indirectly.",
+    "Pyq": "Non-PYQ"
+  }
+]
