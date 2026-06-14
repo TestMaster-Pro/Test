@@ -1,0 +1,227 @@
+[
+  {
+    "en": "What is the full form of GDP?",
+    "hi": "जीडीपी (GDP) का पूर्ण रूप क्या है?",
+    "oEn": ["Gross Domestic Product", "Gross Daily Product", "Growth Domestic Product", "Great Domestic Product"],
+    "oHi": ["सकल घरेलू उत्पाद", "सकल दैनिक उत्पाद", "सकल विकास उत्पाद", "ग्रेट डोमेस्टिक प्रोडक्ट"],
+    "c": 0,
+    "exp": "GDP stands for Gross Domestic Product, the total monetary value of all goods and services produced within a country's borders.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which organization calculates the GDP in India?",
+    "hi": "भारत में जीडीपी की गणना कौन सा संगठन करता है?",
+    "oEn": ["RBI", "NITI Aayog", "NSO (National Statistical Office)", "Ministry of Finance"],
+    "oHi": ["आरबीआई", "नीति आयोग", "एनएसओ (राष्ट्रीय सांख्यिकी कार्यालय)", "वित्त मंत्रालय"],
+    "c": 2,
+    "exp": "The National Statistical Office (NSO) under the Ministry of Statistics and Programme Implementation calculates India's GDP.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "The 'Repo Rate' is determined by:",
+    "hi": "'रेपो रेट' किसके द्वारा निर्धारित किया जाता है?",
+    "oEn": ["Ministry of Finance", "RBI (Reserve Bank of India)", "SEBI", "State Bank of India"],
+    "oHi": ["वित्त मंत्रालय", "आरबीआई (भारतीय रिजर्व बैंक)", "सेबी", "भारतीय स्टेट बैंक"],
+    "c": 1,
+    "exp": "The Repo Rate is the rate at which the RBI lends money to commercial banks, set by the Monetary Policy Committee.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "Which type of unemployment occurs during economic recession?",
+    "hi": "आर्थिक मंदी के दौरान किस प्रकार की बेरोजगारी होती है?",
+    "oEn": ["Structural", "Frictional", "Cyclical", "Disguised"],
+    "oHi": ["संरचनात्मक", "घर्षणात्मक", "चक्रीय", "प्रच्छन्न"],
+    "c": 2,
+    "exp": "Cyclical unemployment is caused by the fluctuations in the business cycle, often peaking during a recession.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "What is the primary function of SEBI?",
+    "hi": "सेबी (SEBI) का प्राथमिक कार्य क्या है?",
+    "oEn": ["Regulate banks", "Regulate securities market", "Issue currency", "Manage fiscal policy"],
+    "oHi": ["बैंकों को विनियमित करना", "प्रतिभूति बाजार को विनियमित करना", "मुद्रा जारी करना", "राजकोषीय नीति का प्रबंधन"],
+    "c": 1,
+    "exp": "SEBI (Securities and Exchange Board of India) regulates and protects the interests of investors in the securities market.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "An economy where both public and private sectors co-exist is called:",
+    "hi": "वह अर्थव्यवस्था जहाँ सार्वजनिक और निजी दोनों क्षेत्र मौजूद हों, कहलाती है:",
+    "oEn": ["Capitalist", "Socialist", "Mixed", "Traditional"],
+    "oHi": ["पूंजीवादी", "समाजवादी", "मिश्रित", "पारंपरिक"],
+    "c": 2,
+    "exp": "India has a mixed economy where the state and private individuals participate in economic activities.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "What is 'Disguised Unemployment'?",
+    "hi": "'प्रच्छन्न बेरोजगारी' क्या है?",
+    "oEn": ["Unemployment in cities", "More people employed than required", "High-tech workers jobless", "Seasonal jobs"],
+    "oHi": ["शहरों में बेरोजगारी", "आवश्यकता से अधिक लोग कार्यरत", "उच्च-तकनीकी श्रमिक बेरोजगार", "मौसमी नौकरियां"],
+    "c": 1,
+    "exp": "Disguised unemployment is a situation where more people are engaged in a job than actually needed, common in agriculture.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which of the following is a 'Direct Tax'?",
+    "hi": "निम्नलिखित में से कौन सा एक 'प्रत्यक्ष कर' है?",
+    "oEn": ["GST", "Income Tax", "Excise Duty", "Sales Tax"],
+    "oHi": ["जीएसटी", "आयकर", "उत्पाद शुल्क", "बिक्री कर"],
+    "c": 1,
+    "exp": "Income Tax is a direct tax because the burden cannot be shifted to another person.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The study of individual units of the economy is called:",
+    "hi": "अर्थव्यवस्था की व्यक्तिगत इकाइयों के अध्ययन को क्या कहा जाता है?",
+    "oEn": ["Macroeconomics", "Microeconomics", "Econometrics", "Development Economics"],
+    "oHi": ["समष्टि अर्थशास्त्र", "व्यष्टि अर्थशास्त्र", "अर्थमिति", "विकास अर्थशास्त्र"],
+    "c": 1,
+    "exp": "Microeconomics focuses on individual agents like households and firms.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "What is the 'Fiscal Policy' in India concerned with?",
+    "hi": "भारत में 'राजकोषीय नीति' किससे संबंधित है?",
+    "oEn": ["Money supply", "Revenue and Expenditure of Government", "Banking operations", "Stock market"],
+    "oHi": ["मुद्रा आपूर्ति", "सरकार का राजस्व और व्यय", "बैंकिंग संचालन", "शेयर बाजार"],
+    "c": 1,
+    "exp": "Fiscal policy relates to the government's revenue, taxation, and spending.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "Which of the following is a 'Secondary Sector' activity?",
+    "hi": "निम्नलिखित में से कौन सी 'द्वितीयक क्षेत्र' की गतिविधि है?",
+    "oEn": ["Agriculture", "Manufacturing", "Banking", "Tourism"],
+    "oHi": ["कृषि", "विनिर्माण", "बैंकिंग", "पर्यटन"],
+    "c": 1,
+    "exp": "The secondary sector involves manufacturing and processing raw materials.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "What is 'Inflation'?",
+    "hi": "'मुद्रास्फीति' (Inflation) क्या है?",
+    "oEn": ["Decrease in prices", "Steady increase in price levels", "Deficit in budget", "Unemployment rise"],
+    "oHi": ["कीमतों में कमी", "मूल्य स्तरों में निरंतर वृद्धि", "बजट में घाटा", "बेरोजगारी में वृद्धि"],
+    "c": 1,
+    "exp": "Inflation is a general increase in prices and a fall in the purchasing power of money.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "The 'Primary Sector' in an economy refers to:",
+    "hi": "अर्थव्यवस्था में 'प्राथमिक क्षेत्र' का तात्पर्य है:",
+    "oEn": ["Services", "Manufacturing", "Agriculture and related activities", "Information Technology"],
+    "oHi": ["सेवाएं", "विनिर्माण", "कृषि और संबंधित गतिविधियां", "सूचना प्रौद्योगिकी"],
+    "c": 2,
+    "exp": "The primary sector involves extraction of raw materials from the earth.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "When imports exceed exports, it is called:",
+    "hi": "जब आयात निर्यात से अधिक हो, तो इसे क्या कहते हैं?",
+    "oEn": ["Trade Surplus", "Trade Deficit", "Balanced Trade", "Balance of Payments"],
+    "oHi": ["व्यापार अधिशेष", "व्यापार घाटा", "संतुलित व्यापार", "भुगतान संतुलन"],
+    "c": 1,
+    "exp": "A trade deficit occurs when a country spends more on imports than it earns from exports.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "What is the 'Law of Demand'?",
+    "hi": "'मांग का नियम' (Law of Demand) क्या है?",
+    "oEn": ["Demand rises as price rises", "Demand falls as price rises", "Demand stays constant", "None of the above"],
+    "oHi": ["कीमत बढ़ने पर मांग बढ़ती है", "कीमत बढ़ने पर मांग घटती है", "मांग स्थिर रहती है", "उपरोक्त में से कोई नहीं"],
+    "c": 1,
+    "exp": "The law of demand states that, other things being equal, as the price of a good increases, the quantity demanded decreases.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which bank is known as the 'Banker's Bank' in India?",
+    "hi": "भारत में किस बैंक को 'बैंकर्स बैंक' के रूप में जाना जाता है?",
+    "oEn": ["SBI", "RBI", "PNB", "HDFC"],
+    "oHi": ["एसबीआई", "आरबीआई", "पीएनबी", "एचडीएफसी"],
+    "c": 1,
+    "exp": "The RBI is the regulator and banker to all other commercial banks in India.",
+    "Pyq": "ssc_mts_2021"
+  },
+  {
+    "en": "What is 'Human Capital'?",
+    "hi": "'मानव पूंजी' क्या है?",
+    "oEn": ["Only machinery", "Knowledge and skills of people", "Only raw materials", "Cash in hand"],
+    "oHi": ["केवल मशीनरी", "लोगों का ज्ञान और कौशल", "केवल कच्चा माल", "हाथ में नकदी"],
+    "c": 1,
+    "exp": "Human capital refers to the stock of skills, knowledge, and abilities possessed by individuals.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What is 'CRR'?",
+    "hi": "'सीआरआर' (CRR) क्या है?",
+    "oEn": ["Cash Reserve Ratio", "Central Reserve Rate", "Common Revenue Ratio", "Credit Reserve Ratio"],
+    "oHi": ["नकद आरक्षित अनुपात", "केंद्रीय आरक्षित दर", "सामान्य राजस्व अनुपात", "क्रेडिट आरक्षित अनुपात"],
+    "c": 0,
+    "exp": "CRR is the minimum percentage of deposits that commercial banks must hold as cash with the RBI.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "The 'Tertiary Sector' is also known as:",
+    "hi": "'तृतीयक क्षेत्र' को और क्या कहा जाता है?",
+    "oEn": ["Service sector", "Manufacturing sector", "Agriculture sector", "Public sector"],
+    "oHi": ["सेवा क्षेत्र", "विनिर्माण क्षेत्र", "कृषि क्षेत्र", "सार्वजनिक क्षेत्र"],
+    "c": 0,
+    "exp": "The tertiary sector covers services like banking, transportation, and healthcare.",
+    "Pyq": "ssc_mts_2023"
+  },
+  {
+    "en": "What is the full form of 'GST'?",
+    "hi": "'जीएसटी' (GST) का पूर्ण रूप क्या है?",
+    "oEn": ["Goods and Service Tax", "Gross Service Tax", "Growth Service Tax", "Goods Sales Tax"],
+    "oHi": ["वस्तु एवं सेवा कर", "सकल सेवा कर", "विकास सेवा कर", "वस्तु बिक्री कर"],
+    "c": 0,
+    "exp": "Goods and Services Tax is an indirect tax used in India on the supply of goods and services.",
+    "Pyq": "ssc_mts_2022"
+  },
+  {
+    "en": "What is 'Per Capita Income'?",
+    "hi": "'प्रति व्यक्ति आय' क्या है?",
+    "oEn": ["Total income of a country", "Income per person", "Income of govt employees", "None of these"],
+    "oHi": ["किसी देश की कुल आय", "प्रति व्यक्ति आय", "सरकारी कर्मचारियों की आय", "इनमें से कोई नहीं"],
+    "c": 1,
+    "exp": "Per capita income is the average income earned per person in a given area in a specified year.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "Which of the following is a 'Public Good'?",
+    "hi": "निम्नलिखित में से कौन सा एक 'सार्वजनिक वस्तु' है?",
+    "oEn": ["Food", "Clothing", "National Defense", "Mobile Phones"],
+    "oHi": ["भोजन", "कपड़े", "राष्ट्रीय रक्षा", "मोबाइल फोन"],
+    "c": 2,
+    "exp": "Public goods are non-excludable and non-rivalrous, such as national defense.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What is 'Deflation'?",
+    "hi": "'अपस्फीति' (Deflation) क्या है?",
+    "oEn": ["Price rise", "General decline in prices", "Decrease in unemployment", "Budget surplus"],
+    "oHi": ["कीमतों में वृद्धि", "कीमतों में सामान्य गिरावट", "बेरोजगारी में कमी", "बजट अधिशेष"],
+    "c": 1,
+    "exp": "Deflation is a general decline in the price level of goods and services.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What does the 'Lorenz Curve' measure?",
+    "hi": "'लोरेंज वक्र' (Lorenz Curve) क्या मापता है?",
+    "oEn": ["Inflation", "Economic Inequality", "GDP growth", "Unemployment"],
+    "oHi": ["मुद्रास्फीति", "आर्थिक असमानता", "जीडीपी विकास", "बेरोजगारी"],
+    "c": 1,
+    "exp": "The Lorenz curve is a graphical representation of the distribution of income or wealth in a population.",
+    "Pyq": "Non-PYQ"
+  },
+  {
+    "en": "What is the main goal of 'Monetary Policy'?",
+    "hi": "'मौद्रिक नीति' का मुख्य लक्ष्य क्या है?",
+    "oEn": ["To control tax", "To control money supply and inflation", "To build bridges", "To increase population"],
+    "oHi": ["कर को नियंत्रित करना", "मुद्रा आपूर्ति और मुद्रास्फीति को नियंत्रित करना", "पुल बनाना", "जनसंख्या बढ़ाना"],
+    "c": 1,
+    "exp": "Monetary policy aims to manage money supply and interest rates to maintain price stability.",
+    "Pyq": "ssc_mts_2022"
+  }
+]
