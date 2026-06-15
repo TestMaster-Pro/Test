@@ -1,0 +1,227 @@
+[
+  {
+    "en": "A force F = (5i + 3j + 2k) N is applied over a particle which displaces it from its origin to the point r = (2i - j) m. The work done on the particle is:",
+    "hi": "एक बल F = (5i + 3j + 2k) N एक कण पर लगाया जाता है जो इसे मूल बिंदु से बिंदु r = (2i - j) m तक विस्थापित करता है। कण पर किया गया कार्य है:",
+    "oEn": ["7 J", "13 J", "10 J", "4 J"],
+    "oHi": ["7 J", "13 J", "10 J", "4 J"],
+    "c": 0,
+    "exp": "Work = F · r = (5i + 3j + 2k) · (2i - j + 0k) = (5*2) + (3*-1) + (2*0) = 10 - 3 = 7 J.",
+    "Pyq": "NEET_2019"
+  },
+  {
+    "en": "A body of mass 1 kg is thrown upwards with a velocity of 20 m/s. It momentarily comes to rest at a height of 18 m. How much energy is lost due to air friction? (g = 10 m/s^2)",
+    "hi": "1 किग्रा द्रव्यमान की एक वस्तु 20 मी/से के वेग से ऊपर की ओर फेंकी जाती है। यह 18 मीटर की ऊँचाई पर क्षण भर के लिए स्थिर हो जाती है। वायु घर्षण के कारण कितनी ऊर्जा नष्ट होती है? (g = 10 मी/से^2)",
+    "oEn": ["30 J", "40 J", "20 J", "10 J"],
+    "oHi": ["30 J", "40 J", "20 J", "10 J"],
+    "c": 2,
+    "exp": "Initial KE = 0.5 * 1 * 20^2 = 200 J. Final PE = mgh = 1 * 10 * 18 = 180 J. Loss = 200 - 180 = 20 J.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "If the kinetic energy of a body is increased by 300%, then the percentage change in its momentum is:",
+    "hi": "यदि किसी वस्तु की गतिज ऊर्जा में 300% की वृद्धि की जाती है, तो उसके संवेग में प्रतिशत परिवर्तन है:",
+    "oEn": ["100%", "200%", "300%", "400%"],
+    "oHi": ["100%", "200%", "300%", "400%"],
+    "c": 0,
+    "exp": "KE' = 4 KE_initial. Since p ∝ sqrt(KE), p' = sqrt(4) p = 2p. Change in p = (2p-p)/p * 100 = 100%.",
+    "Pyq": "NEET_2017"
+  },
+  {
+    "en": "A pump is used to lift 500 kg of water from a depth of 80 m in 10 seconds. Its power is (g = 10 m/s^2):",
+    "hi": "एक पंप का उपयोग 10 सेकंड में 80 मीटर की गहराई से 500 किग्रा पानी उठाने के लिए किया जाता है। इसकी शक्ति है (g = 10 मी/से^2):",
+    "oEn": ["40 kW", "4 kW", "8 kW", "20 kW"],
+    "oHi": ["40 kW", "4 kW", "8 kW", "20 kW"],
+    "c": 0,
+    "exp": "Power = mgh / t = (500 * 10 * 80) / 10 = 40,000 W = 40 kW.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A particle moves under the influence of a force F = -kx (where k is a spring constant). The work done in moving from x = 0 to x = A is:",
+    "hi": "एक कण बल F = -kx (जहाँ k स्प्रिंग नियतांक है) के प्रभाव में गति करता है। x = 0 से x = A तक ले जाने में किया गया कार्य है:",
+    "oEn": ["0.5 kA^2", "-0.5 kA^2", "kA^2", "-kA^2"],
+    "oHi": ["0.5 kA^2", "-0.5 kA^2", "kA^2", "-kA^2"],
+    "c": 1,
+    "exp": "W = ∫ F dx = ∫ (-kx) dx from 0 to A = -0.5 k [x^2] from 0 to A = -0.5 kA^2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Two springs of force constants k1 and k2 are stretched by the same force. The ratio of their potential energies is:",
+    "hi": "k1 और k2 स्प्रिंग नियतांक वाली दो स्प्रिंगों को समान बल द्वारा खींचा जाता है। उनकी स्थितिज ऊर्जाओं का अनुपात है:",
+    "oEn": ["k1 : k2", "k2 : k1", "sqrt(k1) : sqrt(k2)", "k1^2 : k2^2"],
+    "oHi": ["k1 : k2", "k2 : k1", "sqrt(k1) : sqrt(k2)", "k1^2 : k2^2"],
+    "c": 1,
+    "exp": "U = F^2 / 2k. Since F is same, U ∝ 1/k. Therefore, U1/U2 = k2/k1.",
+    "Pyq": "NEET_2015"
+  },
+  {
+    "en": "Which of the following statements about elastic collisions is true?",
+    "hi": "प्रत्यास्थ टक्करों (elastic collisions) के बारे में निम्नलिखित में से कौन सा कथन सत्य है?",
+    "oEn": ["Only kinetic energy is conserved", "Only momentum is conserved", "Both momentum and KE are conserved", "Neither is conserved"],
+    "oHi": ["केवल गतिज ऊर्जा संरक्षित रहती है", "केवल संवेग संरक्षित रहता है", "संवेग और गतिज ऊर्जा दोनों संरक्षित रहते हैं", "दोनों में से कोई नहीं"],
+    "c": 2,
+    "exp": "In a perfectly elastic collision, both linear momentum and kinetic energy are conserved.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A 5 kg mass moves with 2 m/s and collides head-on with a 2 kg mass at rest. If the collision is perfectly inelastic, the common velocity after impact is:",
+    "hi": "5 किग्रा द्रव्यमान 2 मी/से से चलता है और विरामावस्था में 2 किग्रा द्रव्यमान से सीधी टक्कर करता है। यदि टक्कर पूर्णतः अप्रत्यास्थ (inelastic) है, तो टक्कर के बाद सामान्य वेग है:",
+    "oEn": ["10/7 m/s", "2 m/s", "5/7 m/s", "14/5 m/s"],
+    "oHi": ["10/7 मी/से", "2 मी/से", "5/7 मी/से", "14/5 मी/से"],
+    "c": 0,
+    "exp": "m1u1 + m2u2 = (m1+m2)v => 5*2 + 0 = (5+2)v => v = 10/7 m/s.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A body of mass 'm' is moving in a circle of radius 'r' with a constant speed 'v'. The work done by the centripetal force is:",
+    "hi": "'m' द्रव्यमान का एक पिंड 'v' निरंतर चाल से 'r' त्रिज्या के वृत्त में घूम रहा है। अभिकेंद्र बल (centripetal force) द्वारा किया गया कार्य है:",
+    "oEn": ["mv^2/r", "Zero", "mv^2r", "None of these"],
+    "oHi": ["mv^2/r", "शून्य", "mv^2r", "इनमें से कोई नहीं"],
+    "c": 1,
+    "exp": "Centripetal force is always perpendicular to displacement, so work done is zero.",
+    "Pyq": "NEET_2016"
+  },
+  {
+    "en": "An engine delivers 10 kW of power. How much time will it take to lift a 100 kg mass to a height of 50 m? (g = 10 m/s^2)",
+    "hi": "एक इंजन 10 kW शक्ति प्रदान करता है। 100 किग्रा द्रव्यमान को 50 मीटर की ऊँचाई तक उठाने में इसे कितना समय लगेगा? (g = 10 मी/से^2)",
+    "oEn": ["0.5 s", "5 s", "10 s", "1 s"],
+    "oHi": ["0.5 से", "5 से", "10 से", "1 से"],
+    "c": 0,
+    "exp": "P = mgh/t => 10,000 = (100 * 10 * 50) / t => 10,000 = 50,000 / t => t = 5 s.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The potential energy of a system increases if work is done:",
+    "hi": "किसी निकाय की स्थितिज ऊर्जा बढ़ जाती है यदि कार्य किया जाता है:",
+    "oEn": ["By the system against a conservative force", "By the system against a non-conservative force", "On the system by a conservative force", "None of these"],
+    "oHi": ["निकाय द्वारा एक संरक्षी बल के विरुद्ध", "निकाय द्वारा एक असंरक्षी बल के विरुद्ध", "निकाय पर एक संरक्षी बल द्वारा", "इनमें से कोई नहीं"],
+    "c": 0,
+    "exp": "ΔU = -W_conservative. If the system does work against a conservative force, W is negative, so ΔU is positive.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A force F acting on a particle varies with position x as F = ax^2 + b. The work done in moving from x=0 to x=d is:",
+    "hi": "एक कण पर कार्य करने वाला बल F स्थिति x के साथ F = ax^2 + b के रूप में बदलता है। x=0 से x=d तक ले जाने में किया गया कार्य है:",
+    "oEn": ["ad^3/3 + bd", "ad^2/2 + bd", "ad^3 + bd", "ad^2 + b"],
+    "oHi": ["ad^3/3 + bd", "ad^2/2 + bd", "ad^3 + bd", "ad^2 + b"],
+    "c": 0,
+    "exp": "W = ∫(ax^2 + b) dx from 0 to d = [ax^3/3 + bx] from 0 to d = ad^3/3 + bd.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Power of a force F = (5i + 2j) N acting on a particle moving with velocity v = (2i + 3j) m/s is:",
+    "hi": "v = (2i + 3j) m/s वेग से चलते कण पर कार्य करने वाले बल F = (5i + 2j) N की शक्ति है:",
+    "oEn": ["16 W", "12 W", "10 W", "15 W"],
+    "oHi": ["16 W", "12 W", "10 W", "15 W"],
+    "c": 0,
+    "exp": "Power = F · v = (5i + 2j) · (2i + 3j) = 10 + 6 = 16 W.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A mass m is attached to a spring of constant k. If it is stretched by x, the potential energy stored is:",
+    "hi": "'m' द्रव्यमान 'k' नियतांक की एक स्प्रिंग से जुड़ा है। यदि इसे 'x' तक खींचा जाता है, तो संचित स्थितिज ऊर्जा है:",
+    "oEn": ["0.5 kx^2", "kx^2", "0.5 kx", "kx"],
+    "oHi": ["0.5 kx^2", "kx^2", "0.5 kx", "kx"],
+    "c": 0,
+    "exp": "Potential energy of a spring U = 0.5 kx^2.",
+    "Pyq": "NEET_2018"
+  },
+  {
+    "en": "A ball is dropped from a height h. As it falls, its:",
+    "hi": "एक गेंद को 'h' ऊँचाई से गिराया जाता है। जैसे-जैसे यह गिरती है, इसकी:",
+    "oEn": ["Total energy increases", "Kinetic energy increases and potential energy decreases", "Kinetic energy decreases and potential energy increases", "Total energy decreases"],
+    "oHi": ["कुल ऊर्जा बढ़ती है", "गतिज ऊर्जा बढ़ती है और स्थितिज ऊर्जा घटती है", "गतिज ऊर्जा घटती है और स्थितिज ऊर्जा बढ़ती है", "कुल ऊर्जा घटती है"],
+    "c": 1,
+    "exp": "As it falls, height decreases (PE decreases) and velocity increases (KE increases). Total energy remains constant.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "If the momentum of a body is doubled, its kinetic energy will become:",
+    "hi": "यदि किसी वस्तु का संवेग दोगुना कर दिया जाए, तो उसकी गतिज ऊर्जा हो जाएगी:",
+    "oEn": ["Two times", "Four times", "Half", "Eight times"],
+    "oHi": ["दो गुना", "चार गुना", "आधा", "आठ गुना"],
+    "c": 1,
+    "exp": "KE = p^2 / 2m. If p becomes 2p, KE' = (2p)^2 / 2m = 4 * (p^2 / 2m) = 4 KE.",
+    "Pyq": "NEET_2014"
+  },
+  {
+    "en": "A machine gun fires 30 bullets per minute with a velocity of 600 m/s. If each bullet is 10g, the power of the gun is:",
+    "hi": "एक मशीन गन 600 मी/से के वेग से प्रति मिनट 30 गोलियाँ दागती है। यदि प्रत्येक गोली 10 ग्राम की है, तो गन की शक्ति है:",
+    "oEn": ["600 W", "300 W", "900 W", "150 W"],
+    "oHi": ["600 W", "300 W", "900 W", "150 W"],
+    "c": 0,
+    "exp": "Work per minute = n * (0.5 * m * v^2) = 30 * (0.5 * 0.01 * 600^2) = 30 * 0.5 * 0.01 * 360,000 = 54,000 J. Power = 54,000/60 = 900 W.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A particle moves in a potential V(x) = x^2 - 4x. The equilibrium position is at:",
+    "hi": "एक कण विभव V(x) = x^2 - 4x में गति करता है। साम्यावस्था की स्थिति कहाँ है?",
+    "oEn": ["x = 2", "x = 4", "x = 0", "x = -2"],
+    "oHi": ["x = 2", "x = 4", "x = 0", "x = -2"],
+    "c": 0,
+    "exp": "Equilibrium occurs where dV/dx = 0. d/dx(x^2 - 4x) = 2x - 4 = 0 => x = 2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Work done by a non-conservative force like friction:",
+    "hi": "घर्षण जैसे असंरक्षी बल द्वारा किया गया कार्य:",
+    "oEn": ["Is always path independent", "Is always stored as PE", "Is always dissipated as heat", "Is zero"],
+    "oHi": ["हमेशा पथ से स्वतंत्र होता है", "हमेशा स्थितिज ऊर्जा के रूप में संचित होता है", "हमेशा ऊष्मा के रूप में नष्ट होता है", "शून्य है"],
+    "c": 2,
+    "exp": "Non-conservative forces dissipate mechanical energy into other forms like heat.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A body of mass 2 kg is pulled up a smooth incline by a force of 20 N. If the incline is 30°, the work done in moving it 2m is (g=10 m/s^2):",
+    "hi": "2 किग्रा द्रव्यमान के एक पिंड को 20 N के बल द्वारा चिकने नत समतल पर ऊपर खींचा जाता है। यदि नत समतल 30° का है, तो इसे 2 मीटर तक ले जाने में किया गया कार्य है (g=10 m/s^2):",
+    "oEn": ["40 J", "20 J", "10 J", "30 J"],
+    "oHi": ["40 J", "20 J", "10 J", "30 J"],
+    "c": 0,
+    "exp": "W = F * d = 20 N * 2 m = 40 J. (The angle and mass are irrelevant as the force is already given).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "An object of mass 10kg is raised to a height of 10m. The work done is:",
+    "hi": "10 किग्रा द्रव्यमान की एक वस्तु को 10 मीटर की ऊँचाई तक उठाया जाता है। किया गया कार्य है:",
+    "oEn": ["1000 J", "100 J", "500 J", "980 J"],
+    "oHi": ["1000 J", "100 J", "500 J", "980 J"],
+    "c": 0,
+    "exp": "W = mgh = 10 * 10 * 10 = 1000 J.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The potential energy of a particle in a force field is U = A/r^2 - B/r. The equilibrium distance is:",
+    "hi": "बल क्षेत्र में एक कण की स्थितिज ऊर्जा U = A/r^2 - B/r है। साम्यावस्था की दूरी है:",
+    "oEn": ["2A/B", "A/B", "B/2A", "None of these"],
+    "oHi": ["2A/B", "A/B", "B/2A", "इनमें से कोई नहीं"],
+    "c": 0,
+    "exp": "dU/dr = 0 => -2A/r^3 + B/r^2 = 0 => B/r^2 = 2A/r^3 => r = 2A/B.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is a unit of power?",
+    "hi": "निम्नलिखित में से कौन सा शक्ति का मात्रक है?",
+    "oEn": ["Watt", "Joule-second", "Newton-meter", "Pascal"],
+    "oHi": ["वाट", "जूल-सेकंड", "न्यूटन-मीटर", "पास्कल"],
+    "c": 0,
+    "exp": "Watt is the SI unit of power (Joule per second).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A 1000 kg car moves with a constant speed of 10 m/s against a resistive force of 500 N. The power delivered by the engine is:",
+    "hi": "एक 1000 किग्रा की कार 500 N के प्रतिरोधी बल के विरुद्ध 10 मी/से की निरंतर चाल से चलती है। इंजन द्वारा प्रदान की गई शक्ति है:",
+    "oEn": ["5000 W", "10000 W", "500 W", "50000 W"],
+    "oHi": ["5000 W", "10000 W", "500 W", "50000 W"],
+    "c": 0,
+    "exp": "To maintain constant speed, engine force = resistive force = 500 N. P = Fv = 500 * 10 = 5000 W.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The work done by the gravitational force on a particle moving around the Earth in a circular orbit is:",
+    "hi": "पृथ्वी के चारों ओर वृत्ताकार कक्षा में घूमने वाले कण पर गुरुत्वाकर्षण बल द्वारा किया गया कार्य है:",
+    "oEn": ["Zero", "Positive", "Negative", "Depends on radius"],
+    "oHi": ["शून्य", "धनात्मक", "ऋणात्मक", "त्रिज्या पर निर्भर करता है"],
+    "c": 0,
+    "exp": "Gravitational force (centripetal) is perpendicular to the displacement in a circular orbit, so work done is zero.",
+    "Pyq": "Trend_Based_2026"
+  }
+]
