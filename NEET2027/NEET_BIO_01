@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Which of the following classes of Fungi are known as 'Sac Fungi'?",
+    "hi": "कवक के किस वर्ग को 'सैक फंगी' (Sac Fungi) के रूप में जाना जाता है?",
+    "oEn": ["Phycomycetes", "Ascomycetes", "Basidiomycetes", "Deuteromycetes"],
+    "oHi": ["फाइकोमाइसेट्स (Phycomycetes)", "एस्कोमाइसेट्स (Ascomycetes)", "बेसिडिओमाइसेट्स (Basidiomycetes)", "ड्यूटेरोमाइसेट्स (Deuteromycetes)"],
+    "c": 1,
+    "exp": "Ascomycetes are commonly known as sac fungi because they produce spores (ascospores) in a sac-like structure called an ascus.",
+    "Pyq": "NEET_2021"
+  },
+  {
+    "en": "Select the mismatched pair regarding Animal Phyla.",
+    "hi": "जंतु संघ (Animal Phyla) के संबंध में गलत मेल का चयन करें।",
+    "oEn": ["Cnidaria: Cnidoblasts", "Ctenophora: Bioluminescence", "Platyhelminthes: Flame cells", "Annelida: Cnidocytes"],
+    "oHi": ["निडेरिया (Cnidaria): निडोब्लास्ट (Cnidoblasts)", "टीनोफोरा (Ctenophora): जैव-संदीप्ति (Bioluminescence)", "प्लेटीहेल्मिन्थीस (Platyhelminthes): ज्वाला कोशिकाएँ (Flame cells)", "एनेलिडा (Annelida): निडोसाइट्स (Cnidocytes)"],
+    "c": 3,
+    "exp": "Cnidocytes are characteristic of the Phylum Cnidaria, not Annelida. Annelids have nephridia for excretion.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which group of organisms is responsible for red tides in the sea?",
+    "hi": "समुद्र में लाल ज्वार (red tides) के लिए जीवों का कौन सा समूह जिम्मेदार है?",
+    "oEn": ["Chrysophytes", "Dinoflagellates", "Euglenoids", "Slime moulds"],
+    "oHi": ["क्राइसोफाइट्स (Chrysophytes)", "डाइनोफ्लैगेलेट्स (Dinoflagellates)", "यूग्लेनॉइड्स (Euglenoids)", "स्लाइम मोल्ड्स (Slime moulds)"],
+    "c": 1,
+    "exp": "Red dinoflagellates such as Gonyaulax undergo rapid multiplication and make the sea appear red (red tides).",
+    "Pyq": "NEET_2019"
+  },
+  {
+    "en": "In Pteridophytes, the dominant phase in the life cycle is:",
+    "hi": "टेरिडोफाइट्स में, जीवन चक्र की प्रभावी अवस्था कौन सी है?",
+    "oEn": ["Gametophyte", "Sporophyte", "Prothallus", "Zygote"],
+    "oHi": ["युग्मकोद्भिद (Gametophyte)", "बीजाणुद्भिद (Sporophyte)", "प्रोथैलस (Prothallus)", "युग्मनज (Zygote)"],
+    "c": 1,
+    "exp": "Unlike Bryophytes, Pteridophytes have a dominant, independent, photosynthetic sporophyte phase.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is a characteristic feature of the Phylum Chordata?",
+    "hi": "निम्नलिखित में से कौन सी फाइलम कोर्डेटा (Phylum Chordata) की विशेषता है?",
+    "oEn": ["Notochord present", "Ventral nerve cord", "Pharyngeal gill slits absent", "Heart is dorsal"],
+    "oHi": ["नोटोकॉर्ड उपस्थित", "अधर तंत्रिका रज्जु (Ventral nerve cord)", "ग्रसनी गलफड़े अनुपस्थित", "हृदय पृष्ठीय (dorsal) है"],
+    "c": 0,
+    "exp": "Chordates possess a notochord, a dorsal, hollow nerve cord, and pharyngeal gill slits at some stage of their life.",
+    "Pyq": "NEET_2020"
+  },
+  {
+    "en": "Viroids differ from viruses in that:",
+    "hi": "वायराइड (Viroids) वायरस से इस प्रकार भिन्न होते हैं कि:",
+    "oEn": ["They have DNA molecules without protein coat", "They have RNA molecules with protein coat", "They have RNA molecules without protein coat", "They have DNA molecules with protein coat"],
+    "oHi": ["उनमें प्रोटीन कोट के बिना DNA अणु होते हैं", "उनमें प्रोटीन कोट के साथ RNA अणु होते हैं", "उनमें प्रोटीन कोट के बिना RNA अणु होते हैं", "उनमें प्रोटीन कोट के साथ DNA अणु होते हैं"],
+    "c": 2,
+    "exp": "Viroids consist of free RNA without a protein coat, whereas viruses have an RNA or DNA core encased in a protein capsid.",
+    "Pyq": "NEET_2022"
+  },
+  {
+    "en": "Which of the following is a correct statement regarding Bryophytes?",
+    "hi": "ब्रायोफाइट्स के संबंध में निम्नलिखित में से कौन सा कथन सही है?",
+    "oEn": ["They possess true roots", "The sporophyte is dependent on the gametophyte", "They are vascular plants", "They are called the amphibians of the plant kingdom because they lack xylem and phloem"],
+    "oHi": ["उनमें वास्तविक जड़ें होती हैं", "बीजाणुद्भिद युग्मकोद्भिद पर निर्भर करता है", "ये संवहनी (vascular) पौधे हैं", "उन्हें पादप जगत का उभयचर कहा जाता है क्योंकि उनमें जाइलम और फ्लोएम का अभाव होता है"],
+    "c": 1,
+    "exp": "In bryophytes, the sporophyte is not free-living but attached to the photosynthetic gametophyte and derives nourishment from it.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is an example of a cartilaginous fish?",
+    "hi": "निम्नलिखित में से कौन सा उपास्थिमीन (cartilaginous fish) का उदाहरण है?",
+    "oEn": ["Exocoetus", "Clarias", "Trygon", "Labeo"],
+    "oHi": ["एक्सोकोटस (Exocoetus)", "क्लैरियस (Clarias)", "ट्रायगोन (Trygon)", "लेबियो (Labeo)"],
+    "c": 2,
+    "exp": "Trygon (sting ray) belongs to Chondrichthyes (cartilaginous fishes), while the others are Osteichthyes (bony fishes).",
+    "Pyq": "NEET_2016"
+  },
+  {
+    "en": "The main component of the cell wall in Fungi is:",
+    "hi": "कवक (Fungi) में कोशिका भित्ति का मुख्य घटक है:",
+    "oEn": ["Cellulose", "Chitin", "Peptidoglycan", "Hemicellulose"],
+    "oHi": ["सेलूलोज़", "काइटिन (Chitin)", "पेप्टिडोग्लाइकन", "हेमीसेल्युलोज़"],
+    "c": 1,
+    "exp": "Fungi cell walls are composed of chitin, a complex polysaccharide.",
+    "Pyq": "NEET_2017"
+  },
+  {
+    "en": "Taxonomic hierarchy: Which of the following is the correct order of classification?",
+    "hi": "वर्गीकरण पदानुक्रम (Taxonomic hierarchy): वर्गीकरण का सही क्रम कौन सा है?",
+    "oEn": ["Species -> Genus -> Family -> Order -> Class", "Genus -> Species -> Class -> Order -> Family", "Species -> Order -> Family -> Genus -> Class", "Class -> Order -> Family -> Genus -> Species"],
+    "oHi": ["प्रजाति -> वंश -> कुल -> गण -> वर्ग", "वंश -> प्रजाति -> वर्ग -> गण -> कुल", "प्रजाति -> गण -> कुल -> वंश -> वर्ग", "वर्ग -> गण -> कुल -> वंश -> प्रजाति"],
+    "c": 0,
+    "exp": "The hierarchy is Species < Genus < Family < Order < Class < Phylum/Division < Kingdom.",
+    "Pyq": "NEET_2024"
+  },
+  {
+    "en": "Which class of algae is characterized by the presence of chlorophyll a, c, and fucoxanthin?",
+    "hi": "शैवाल का कौन सा वर्ग क्लोरोफिल a, c और फ्यूकोксаैन्थिन (fucoxanthin) की उपस्थिति द्वारा पहचाना जाता है?",
+    "oEn": ["Chlorophyceae", "Phaeophyceae", "Rhodophyceae", "Cyanophyceae"],
+    "oHi": ["क्लोरोफाइसी", "फिओफाइसी (Phaeophyceae)", "रोडोफाइसी", "साइनोफाइसी"],
+    "c": 1,
+    "exp": "Phaeophyceae (Brown algae) possess chlorophyll a, c, and carotenoids like fucoxanthin.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Identify the characteristic of the Phylum Arthropoda.",
+    "hi": "फाइलम आर्थ्रोपोडा (Phylum Arthropoda) की विशेषता की पहचान करें।",
+    "oEn": ["Presence of water vascular system", "Jointed appendages", "Body covered by mantle", "Presence of flame cells"],
+    "oHi": ["जल संवहनी प्रणाली की उपस्थिति", "संयुक्त उपांग (Jointed appendages)", "शरीर मेंटल (mantle) द्वारा ढका हुआ", "ज्वाला कोशिकाओं की उपस्थिति"],
+    "c": 1,
+    "exp": "Arthropods are characterized by jointed appendages and a chitinous exoskeleton.",
+    "Pyq": "NEET_2015"
+  },
+  {
+    "en": "Cyanobacteria are classified under which Kingdom?",
+    "hi": "साइनोबैक्टीरिया (Cyanobacteria) को किस जगत (Kingdom) के अंतर्गत वर्गीकृत किया गया है?",
+    "oEn": ["Protista", "Plantae", "Monera", "Fungi"],
+    "oHi": ["प्रोटिस्टा", "प्लांटी", "मोनेरा", "कवक"],
+    "c": 2,
+    "exp": "Cyanobacteria (blue-green algae) are prokaryotic organisms, hence they fall under Kingdom Monera.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which structure in plants is diploid (2n)?",
+    "hi": "पौधों में कौन सी संरचना द्विगुणित (2n) होती है?",
+    "oEn": ["Egg cell", "Synergids", "Zygote", "Microspore"],
+    "oHi": ["अण्ड कोशिका", "सिनर्जिड्स", "युग्मनज (Zygote)", "माइक्रोस्पोर"],
+    "c": 2,
+    "exp": "Fusion of male and female gametes (n+n) results in a diploid zygote (2n).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The body of a Tapeworm is segmented. This is called:",
+    "hi": "फीताकृमि (Tapeworm) का शरीर खंडित होता है। इसे क्या कहते हैं?",
+    "oEn": ["Metamerism", "Strobilization", "Fragmentation", "Budding"],
+    "oHi": ["विखंडन (Metamerism)", "स्ट्रोबिलेशन", "विखंडन (Fragmentation)", "मुकुलन (Budding)"],
+    "c": 1,
+    "exp": "The body segments in Tapeworms (Platyhelminthes) are called proglottids, and the process is called strobilization.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is not a botanical garden?",
+    "hi": "निम्नलिखित में से कौन सा वानस्पतिक उद्यान (Botanical Garden) नहीं है?",
+    "oEn": ["Kew, England", "Howrah, India", "Lucknow, India", "National Park, Kaziranga"],
+    "oHi": ["क्यू (Kew), इंग्लैंड", "हावड़ा, भारत", "लखनऊ, भारत", "राष्ट्रीय उद्यान, काजीरंगा"],
+    "c": 3,
+    "exp": "Kaziranga is a National Park (wildlife sanctuary), not a botanical garden.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The 'double fertilization' phenomenon is a unique feature of:",
+    "hi": "'द्विनिषेचन' (double fertilization) की घटना किसकी अनूठी विशेषता है?",
+    "oEn": ["Gymnosperms", "Angiosperms", "Pteridophytes", "Bryophytes"],
+    "oHi": ["जिम्नोस्पर्म", "एंजियोस्पर्म (Angiosperms)", "टेरिडोफाइट्स", "ब्रायोफाइट्स"],
+    "c": 1,
+    "exp": "Double fertilization involving one male gamete with egg and another with central nuclei is unique to Angiosperms.",
+    "Pyq": "NEET_2023"
+  },
+  {
+    "en": "Which organism is known as the 'amphibian of the plant kingdom'?",
+    "hi": "किस जीव को 'पादप जगत का उभयचर' (amphibian of the plant kingdom) कहा जाता है?",
+    "oEn": ["Algae", "Fungi", "Bryophyta", "Pteridophyta"],
+    "oHi": ["शैवाल", "कवक", "ब्रायोफाइटा", "टेरिडोफाइटा"],
+    "c": 2,
+    "exp": "Bryophytes are called amphibians because they live in soil but depend on water for sexual reproduction.",
+    "Pyq": "NEET_2014"
+  },
+  {
+    "en": "Radially symmetrical animals are found in which Phyla?",
+    "hi": "अरीय सममित (Radially symmetrical) जंतु किस संघ में पाए जाते हैं?",
+    "oEn": ["Porifera and Coelenterata", "Coelenterata and Ctenophora", "Echinodermata and Platyhelminthes", "Arthropoda and Mollusca"],
+    "oHi": ["पोरिफेरा और सीलें्रटा", "सीलें्रटा और टीनोफोरा", "इकाइनोडर्मेटा और प्लेटीहेल्मिन्थीस", "आर्थ्रोपोडा और मोलस्का"],
+    "c": 1,
+    "exp": "Adult Echinoderms have radial symmetry, but Coelenterata and Ctenophora are primarily radially symmetrical.",
+    "Pyq": "NEET_2018"
+  },
+  {
+    "en": "Which of the following is a prokaryotic cell?",
+    "hi": "निम्नलिखित में से कौन सी एक प्रोकैरियोटिक कोशिका है?",
+    "oEn": ["Mycoplasma", "Saccharomyces", "Chlamydomonas", "Amoeba"],
+    "oHi": ["माइकोप्लाज्मा (Mycoplasma)", "सैक्रोमाइसेस", "क्लैमाइडोमोनास", "अमीबा"],
+    "c": 0,
+    "exp": "Mycoplasma is a type of bacteria and thus prokaryotic. The others are eukaryotic.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The presence of a 'Water Vascular System' is a diagnostic feature of:",
+    "hi": "'जल संवहनी प्रणाली' (Water Vascular System) की उपस्थिति किसकी नैदानिक विशेषता है?",
+    "oEn": ["Mollusca", "Echinodermata", "Chordata", "Annelida"],
+    "oHi": ["मोलस्का", "इकाइनोडर्मेटा (Echinodermata)", "कोर्डेटा", "एनेलिडा"],
+    "c": 1,
+    "exp": "Water vascular system is a unique feature of the phylum Echinodermata (e.g., Starfish).",
+    "Pyq": "NEET_2020"
+  },
+  {
+    "en": "Which of the following pigments is found in Red Algae (Rhodophyceae)?",
+    "hi": "लाल शैवाल (रोडोफाइसी) में निम्नलिखित में से कौन सा वर्णक पाया जाता है?",
+    "oEn": ["Chlorophyll a, b", "Chlorophyll a, c", "Chlorophyll a, d and phycoerythrin", "Chlorophyll a, e"],
+    "oHi": ["क्लोरोफिल a, b", "क्लोरोफिल a, c", "क्लोरोफिल a, d और फाइकोएरिथ्रिन", "क्लोरोफिल a, e"],
+    "c": 2,
+    "exp": "Rhodophyceae are red due to the presence of the red pigment phycoerythrin.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is an egg-laying mammal?",
+    "hi": "निम्नलिखित में से कौन सा अंडा देने वाला स्तनपायी (mammal) है?",
+    "oEn": ["Macropus", "Ornithorhynchus", "Delphinus", "Pteropus"],
+    "oHi": ["मैक्रोपस", "ऑर्निथोरिंकस (Ornithorhynchus)", "डेल्फिनस", "टेरोपस"],
+    "c": 1,
+    "exp": "Ornithorhynchus (Platypus) is an oviparous (egg-laying) mammal.",
+    "Pyq": "NEET_2016"
+  },
+  {
+    "en": "The basic unit of classification is:",
+    "hi": "वर्गीकरण की आधारभूत इकाई है:",
+    "oEn": ["Genus", "Species", "Family", "Order"],
+    "oHi": ["वंश", "प्रजाति (Species)", "कुल", "गण"],
+    "c": 1,
+    "exp": "Species is the fundamental or basic unit of biological classification.",
+    "Pyq": "NEET_2019"
+  },
+  {
+    "en": "Which statement about viruses is NOT correct?",
+    "hi": "वायरस के बारे में कौन सा कथन सही नहीं है?",
+    "oEn": ["Viruses are obligate parasites", "Viruses possess their own metabolic system", "Viruses can be crystallized", "Viruses have either DNA or RNA"],
+    "oHi": ["वायरस बाध्य परजीवी (obligate parasites) हैं", "वायरस के पास अपनी चयापचय प्रणाली होती है", "वायरस को क्रिस्टलीकृत किया जा सकता है", "वायरस में या तो DNA या RNA होता है"],
+    "c": 1,
+    "exp": "Viruses lack their own metabolic machinery and must hijack the host cell's machinery to replicate.",
+    "Pyq": "NEET_2021"
+  }
+]
