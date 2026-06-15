@@ -1,0 +1,228 @@
+[
+{
+"en": "Which of the following is a characteristic feature of the monocot root, distinguishing it from the dicot root?",
+"hi": "निम्नलिखित में से कौन सा एकबीजपत्री (monocot) जड़ की विशेषता है, जो इसे द्विबीजपत्री (dicot) जड़ से अलग करती है?",
+"oEn": ["Presence of exodermis", "Presence of large pith", "Presence of cambium", "Presence of unicellular root hairs"],
+"oHi": ["एक्सोडर्मिस की उपस्थिति", "बड़े मज्जा (pith) की उपस्थिति", "कैंबियम की उपस्थिति", "एककोशिकीय मूल रोम की उपस्थिति"],
+"c": 1,
+"exp": "Monocot roots possess a well-developed, large pith, whereas dicot roots have a very small or absent pith. Dicot roots show secondary growth due to cambium, while monocot roots do not.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The junction that helps to stop substances from leaking across a tissue is known as:",
+"hi": "वह जंक्शन जो ऊतकों के आर-पार पदार्थों के रिसाव को रोकने में मदद करता है, उसे क्या कहते हैं?",
+"oEn": ["Adhering junctions", "Gap junctions", "Tight junctions", "Desmosomes"],
+"oHi": ["एडहेरिंग जंक्शन", "गैप जंक्शन", "टाइट जंक्शन", "डेस्मोसोम"],
+"c": 2,
+"exp": "Tight junctions act as a barrier and prevent the leakage of substances across a tissue.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "In cockroach, the development is paurometabolous. This implies:",
+"hi": "तिलचट्टे में विकास 'पॉरोमेटाबोलस' (paurometabolous) होता है। इसका तात्पर्य है:",
+"oEn": ["Development through larval stage only", "Development through nymphal stage which resembles adult", "Development through pupal stage", "No metamorphosis"],
+"oHi": ["केवल लार्वा चरण के माध्यम से विकास", "निम्फ (nymph) चरण के माध्यम से विकास जो वयस्क जैसा दिखता है", "प्यूपा चरण के माध्यम से विकास", "कोई कायांतरण नहीं"],
+"c": 1,
+"exp": "Paurometabolous development means the cockroach develops through nymphal stages. The nymphs look very much like adults (gradual metamorphosis).",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The Casparian strip is present in which layer of the root?",
+"hi": "कैस्पेरियन पट्टी जड़ की किस परत में मौजूद होती है?",
+"oEn": ["Epidermis", "Cortex", "Endodermis", "Pericycle"],
+"oHi": ["एपिडर्मिस", "कॉर्टेक्स", "एंडोडर्मिस", "पेरीसाइकिल"],
+"c": 2,
+"exp": "The inner boundary of the cortex, the endodermis, is characterized by the presence of Casparian strips (suberized radial walls).",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which tissue lines the moist surface of the buccal cavity and pharynx?",
+"hi": "कौन सा ऊतक मुख गुहा (buccal cavity) और ग्रसनी की नम सतह को अस्तरित करता है?",
+"oEn": ["Simple squamous epithelium", "Simple cuboidal epithelium", "Compound epithelium", "Ciliated columnar epithelium"],
+"oHi": ["सरल शल्की उपकला", "सरल घनाकार उपकला", "संयुक्त उपकला", "पक्ष्माभी स्तंभाकार उपकला"],
+"c": 2,
+"exp": "Compound epithelium is made of more than one layer of cells and provides protection against chemical and mechanical stresses. It covers the moist surface of the buccal cavity, pharynx, etc.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "How many spermathecae are present in a female cockroach?",
+"hi": "मादा तिलचट्टे में कितने शुक्राणुधानी (spermathecae) मौजूद होते हैं?",
+"oEn": ["One pair", "Two pairs", "Three pairs", "Four pairs"],
+"oHi": ["एक जोड़ी", "दो जोड़े", "तीन जोड़े", "चार जोड़े"],
+"c": 0,
+"exp": "A pair of spermathecae is present in the 6th segment in the female cockroach.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Aestivation in which petals or sepals cover one another in any direction is called:",
+"hi": "वह एस्टिवेशन (दलविन्यास) जिसमें पंखुड़ियाँ या बाह्यदल किसी भी दिशा में एक-दूसरे को ढकते हैं, कहलाता है:",
+"oEn": ["Valvate", "Twisted", "Imbricate", "Vexillary"],
+"oHi": ["कोरस्पर्शी", "व्यावर्तित", "कोरछादी", "वेक्सिलरी"],
+"c": 2,
+"exp": "When the margins of sepals or petals overlap one another but not in any particular direction, as in Cassia and Gulmohar, it is called Imbricate aestivation.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following is considered as 'living' mechanical tissue?",
+"hi": "निम्नलिखित में से किसे 'जीवित' यांत्रिक ऊतक माना जाता है?",
+"oEn": ["Sclerenchyma", "Collenchyma", "Parenchyma", "Xylem vessels"],
+"oHi": ["स्केलेरेन्काइमा", "कोलेनकाइमा", "पेरेन्काइमा", "जाइलम वाहिकाएं"],
+"c": 1,
+"exp": "Collenchyma is a living mechanical tissue that provides flexibility and mechanical support to young stems and petioles.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Identify the correct sequence of layers in a dicot stem from outside to inside:",
+"hi": "बाहर से अंदर की ओर द्विबीजपत्री तने में परतों का सही क्रम पहचानें:",
+"oEn": ["Epidermis -> Cortex -> Pericycle -> Vascular Bundle", "Epidermis -> Pericycle -> Cortex -> Vascular Bundle", "Cortex -> Epidermis -> Vascular Bundle -> Pericycle", "Epidermis -> Vascular Bundle -> Cortex -> Pericycle"],
+"oHi": ["एपिडर्मिस -> कॉर्टेक्स -> पेरीसाइकिल -> संवहनी बंडल", "एपिडर्मिस -> पेरीसाइकिल -> कॉर्टेक्स -> संवहनी बंडल", "कॉर्टेक्स -> एपिडर्मिस -> संवहनी बंडल -> पेरीसाइकिल", "एपिडर्मिस -> संवहनी बंडल -> कॉर्टेक्स -> पेरीसाइकिल"],
+"c": 0,
+"exp": "The radial sequence in dicot stem is Epidermis, Hypodermis (part of cortex), General cortex, Endodermis, Pericycle, and Vascular bundles.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Intercalated discs are communication junctions found in:",
+"hi": "इंटरकेलेटेड डिस्क (Intercalated discs) संचार जंक्शन हैं जो पाए जाते हैं:",
+"oEn": ["Smooth muscles", "Skeletal muscles", "Cardiac muscles", "Neurons"],
+"oHi": ["चिकनी मांसपेशियों में", "कंकाल मांसपेशियों में", "हृदय की मांसपेशियों में", "न्यूरॉन्स में"],
+"c": 2,
+"exp": "Intercalated discs are features of cardiac muscle fibers; they facilitate communication by allowing cells to contract as a unit.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The floral formula ⊕ ⚥ K(5) C(5) A5 G(2) represents which family?",
+"hi": "पुष्प सूत्र ⊕ ⚥ K(5) C(5) A5 G(2) किस परिवार का प्रतिनिधित्व करता है?",
+"oEn": ["Fabaceae", "Solanaceae", "Liliaceae", "Brassicaceae"],
+"oHi": ["फेबेसी", "सोलेनेसी", "लिलियासी", "ब्रैसिसेसी"],
+"c": 1,
+"exp": "This is the characteristic floral formula of the Solanaceae family (e.g., Potato, Tomato, Petunia).",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Vascular bundles in monocot stems are characterized by:",
+"hi": "एकबीजपत्री तनों में संवहनी बंडल की विशेषता है:",
+"oEn": ["Open and conjoint", "Closed and scattered", "Closed and arranged in a ring", "Open and scattered"],
+"oHi": ["खुले और संयुक्त", "बंद और बिखरे हुए", "बंद और एक छल्ले में व्यवस्थित", "खुले और बिखरे हुए"],
+"c": 1,
+"exp": "Monocot stem vascular bundles are conjoint, collateral, closed (no cambium), and scattered in the ground tissue.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which cells in the leaf of grasses are responsible for curling/unrolling of leaves in response to water stress?",
+"hi": "घास की पत्तियों में कौन सी कोशिकाएं जल तनाव के कारण पत्तियों के मुड़ने/खुलने के लिए जिम्मेदार होती हैं?",
+"oEn": ["Guard cells", "Subsidiary cells", "Bulliform cells", "Mesophyll cells"],
+"oHi": ["द्वार कोशिकाएं", "सहायक कोशिकाएं", "बुलीफॉर्म कोशिकाएं", "मीसोफिल कोशिकाएं"],
+"c": 2,
+"exp": "Bulliform cells are large, empty, colorless cells present in the epidermis of grass leaves. They lose water under stress, causing the leaf to curl.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "What is the function of the 'crop' in the digestive system of a cockroach?",
+"hi": "तिलचट्टे के पाचन तंत्र में 'क्रॉप' (crop) का क्या कार्य है?",
+"oEn": ["Secretion of digestive enzymes", "Absorption of nutrients", "Storage of food", "Grinding of food"],
+"oHi": ["पाचक एंजाइमों का स्राव", "पोषक तत्वों का अवशोषण", "भोजन का भंडारण", "भोजन को पीसना"],
+"c": 2,
+"exp": "The crop is a sac-like structure used for the storage of food in cockroaches.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following is correct regarding heartwood?",
+"hi": "हार्टवुड (Heartwood) के संबंध में निम्नलिखित में से कौन सा सही है?",
+"oEn": ["It conducts water and minerals", "It is light in color", "It is highly durable due to deposition of resins, oils, etc.", "It is formed by peripheral secondary xylem"],
+"oHi": ["यह पानी और खनिजों का संचालन करता है", "यह रंग में हल्का होता है", "रेजिन, तेल आदि के जमाव के कारण यह अत्यधिक टिकाऊ होता है", "यह परिधीय द्वितीयक जाइलम द्वारा बनता है"],
+"c": 2,
+"exp": "Heartwood (duramen) consists of dead elements with highly lignified walls and filled with tannins, resins, oils, etc., making it durable and resistant to microbes.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The type of connective tissue that stores fat is:",
+"hi": "वसा का भंडारण करने वाला संयोजी ऊतक है:",
+"oEn": ["Areolar tissue", "Adipose tissue", "Dense regular connective tissue", "Reticular tissue"],
+"oHi": ["एरिओलर ऊतक", "वसा ऊतक (Adipose tissue)", "सघन नियमित संयोजी ऊतक", "रेटिकुलर ऊतक"],
+"c": 1,
+"exp": "Adipose tissue is a specialized loose connective tissue located mainly beneath the skin that stores fats.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "In a flower, if the ovary is situated on the thalamus above other floral parts, it is termed:",
+"hi": "एक फूल में, यदि अंडाशय अन्य पुष्प भागों के ऊपर थैलेमस पर स्थित होता है, तो इसे क्या कहा जाता है?",
+"oEn": ["Hypogynous", "Perigynous", "Epigynous", "Inferior ovary"],
+"oHi": ["हाइपोगाइनस", "पेरिगायनस", "एपाइगायनस", "निम्न अंडाशय"],
+"c": 0,
+"exp": "When the gynoecium occupies the highest position while other floral parts are situated below it, the flower is described as hypogynous (ovary is superior).",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which statement about Phellogen (Cork Cambium) is correct?",
+"hi": "फेल्लोजन (कॉर्क कैंबियम) के बारे में कौन सा कथन सही है?",
+"oEn": ["It is a meristematic tissue", "It produces secondary xylem", "It is located in the center of the stem", "It is composed of dead cells"],
+"oHi": ["यह एक मेरिस्टेमेटिक ऊतक है", "यह द्वितीयक जाइलम का उत्पादन करता है", "यह तने के केंद्र में स्थित होता है", "यह मृत कोशिकाओं से बना होता है"],
+"c": 0,
+"exp": "Phellogen is a secondary meristematic tissue that forms cork (phellem) on the outer side and secondary cortex (phelloderm) on the inner side.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The gizzard in a cockroach helps in:",
+"hi": "तिलचट्टे में गिज़र्ड (gizzard) मदद करता है:",
+"oEn": ["Sucking food", "Grinding food particles", "Excretion of nitrogenous waste", "Sensing environmental changes"],
+"oHi": ["भोजन चूसने में", "भोजन के कणों को पीसने में", "नाइट्रोजन युक्त कचरे के उत्सर्जन में", "पर्यावरणीय परिवर्तनों को समझने में"],
+"c": 1,
+"exp": "The gizzard (proventriculus) has an outer layer of thick circular muscles and thick inner cuticle forming six highly chitinous plate-like teeth, which grind the food.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Pneumatophores are respiratory roots found in:",
+"hi": "न्यूमेटोफोर्स (Pneumatophores) श्वसन जड़ें किसमें पाई जाती हैं?",
+"oEn": ["Banyan tree", "Mangrove plants", "Maize", "Carrot"],
+"oHi": ["बरगद का पेड़", "मैंग्रोव पौधे", "मक्का", "गाजर"],
+"c": 1,
+"exp": "Pneumatophores are specialized roots that grow vertically upwards in swampy areas (e.g., Rhizophora/Mangroves) for respiration.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following is a type of dense connective tissue?",
+"hi": "निम्नलिखित में से कौन सा सघन संयोजी ऊतक का एक प्रकार है?",
+"oEn": ["Blood", "Bone", "Cartilage", "Tendons"],
+"oHi": ["रक्त", "हड्डी", "उपास्थि", "टेंडन"],
+"c": 3,
+"exp": "Tendons and ligaments are examples of dense regular connective tissues. Blood, bone, and cartilage are specialized connective tissues.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The arrangement of flowers on the floral axis is termed as:",
+"hi": "पुष्पीय अक्ष पर फूलों की व्यवस्था को क्या कहते हैं?",
+"oEn": ["Placentation", "Inflorescence", "Aestivation", "Phyllotaxy"],
+"oHi": ["प्लेसेंटेशन", "पुष्पक्रम (Inflorescence)", "एस्टिवेशन", "फिलोटैक्सी"],
+"c": 1,
+"exp": "The arrangement of flowers on the floral axis is termed inflorescence.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which layer is responsible for the formation of cork in secondary growth?",
+"hi": "द्वितीयक वृद्धि में कॉर्क के निर्माण के लिए कौन सी परत जिम्मेदार है?",
+"oEn": ["Fascicular cambium", "Interfascicular cambium", "Cork cambium (Phellogen)", "Procambium"],
+"oHi": ["फैसिकुलर कैंबियम", "इंटरफैसिकुलर कैंबियम", "कॉर्क कैंबियम (फेल्लोजन)", "प्रोकेम्बियम"],
+"c": 2,
+"exp": "During secondary growth, the cork cambium (phellogen) cuts off cells on the outer side to form the cork (phellem).",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "In cockroach, blood flows into the heart through:",
+"hi": "तिलचट्टे में, रक्त हृदय में किसके माध्यम से बहता है?",
+"oEn": ["Ostia", "Aorta", "Sinuses", "Trachea"],
+"oHi": ["ओस्टिया (Ostia)", "महाधमनी", "साइनस", "श्वासनली"],
+"oHi": ["ओस्टिया", "महाधमनी", "साइनस", "श्वासनली"],
+"c": 0,
+"exp": "The heart of a cockroach has funnel-shaped chambers with ostia on either side. Blood from sinuses enters the heart through ostia.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following statements about simple cuboidal epithelium is correct?",
+"hi": "सरल घनाकार उपकला (simple cuboidal epithelium) के बारे में निम्नलिखित में से कौन सा कथन सही है?",
+"oEn": ["It is composed of a single layer of flattened cells", "It is mainly found in ducts of glands and tubular parts of nephrons", "It functions primarily for diffusion", "It has cilia on its surface"],
+"oHi": ["यह चपटी कोशिकाओं की एक परत से बना होता है", "यह मुख्य रूप से ग्रंथियों की नलिकाओं और नेफ्रॉन के ट्यूबलर भागों में पाया जाता है", "यह मुख्य रूप से विसरण के लिए कार्य करता है", "इसकी सतह पर सिलिया होता है"],
+"c": 1,
+"exp": "Simple cuboidal epithelium is commonly found in ducts of glands and tubular parts of nephrons in the kidney. Its main function is secretion and absorption.",
+"Pyq": "Trend_Based_2026"
+}
+]
