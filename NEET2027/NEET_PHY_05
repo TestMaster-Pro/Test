@@ -1,0 +1,227 @@
+[
+  {
+    "en": "A particle of mass m is moving in a horizontal circle of radius r with constant angular velocity ω. The angular momentum of the particle about the center of the circle is:",
+    "hi": "m द्रव्यमान का एक कण r त्रिज्या के क्षैतिज वृत्त में निरंतर कोणीय वेग ω से घूम रहा है। वृत्त के केंद्र के परितः कण का कोणीय संवेग है:",
+    "oEn": ["mrω", "mr^2ω", "mr^2ω^2", "zero"],
+    "oHi": ["mrω", "mr^2ω", "mr^2ω^2", "शून्य"],
+    "c": 1,
+    "exp": "L = Iω = (mr^2)ω = mr^2ω.",
+    "Pyq": "NEET_2016"
+  },
+  {
+    "en": "The moment of inertia of a uniform circular disc about an axis passing through its center and perpendicular to its plane is:",
+    "hi": "एक एकसमान वृत्ताकार डिस्क का उसके केंद्र से गुजरने वाले और उसके तल के लंबवत अक्ष के परितः जड़त्व आघूर्ण है:",
+    "oEn": ["MR^2", "0.25 MR^2", "0.5 MR^2", "2 MR^2"],
+    "oHi": ["MR^2", "0.25 MR^2", "0.5 MR^2", "2 MR^2"],
+    "c": 2,
+    "exp": "For a disc, I = 0.5 MR^2.",
+    "Pyq": "NEET_2020"
+  },
+  {
+    "en": "Three particles of masses 1kg, 2kg, and 3kg are situated at (0,0), (1,2), and (3,1) respectively. The coordinates of their center of mass are:",
+    "hi": "1kg, 2kg, और 3kg द्रव्यमान के तीन कण क्रमशः (0,0), (1,2), और (3,1) पर स्थित हैं। उनके द्रव्यमान केंद्र के निर्देशांक हैं:",
+    "oEn": ["(7/6, 11/6)", "(2, 1)", "(1, 2)", "(11/6, 7/6)"],
+    "oHi": ["(7/6, 11/6)", "(2, 1)", "(1, 2)", "(11/6, 7/6)"],
+    "c": 3,
+    "exp": "Xcm = (1*0 + 2*1 + 3*3)/6 = 11/6; Ycm = (1*0 + 2*2 + 3*1)/6 = 7/6.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A torque of 20 Nm is applied to a flywheel of mass 20 kg and radius of gyration 0.5 m. The angular acceleration is:",
+    "hi": "20 किग्रा द्रव्यमान और 0.5 मीटर घूर्णन त्रिज्या वाले चक्का (flywheel) पर 20 Nm का आघूर्ण लगाया जाता है। कोणीय त्वरण है:",
+    "oEn": ["8 rad/s^2", "4 rad/s^2", "2 rad/s^2", "1 rad/s^2"],
+    "oHi": ["8 rad/s^2", "4 rad/s^2", "2 rad/s^2", "1 rad/s^2"],
+    "c": 1,
+    "exp": "I = mk^2 = 20 * (0.5)^2 = 5 kgm^2. τ = Iα => 20 = 5α => α = 4 rad/s^2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "If a rigid body is rolling without slipping on a horizontal surface, the velocity of the point of contact is:",
+    "hi": "यदि एक दृढ़ पिंड क्षैतिज सतह पर बिना फिसले लुढ़क रहा है, तो संपर्क बिंदु का वेग है:",
+    "oEn": ["v", "2v", "v/2", "Zero"],
+    "oHi": ["v", "2v", "v/2", "शून्य"],
+    "c": 3,
+    "exp": "For rolling without slipping, the point of contact is momentarily at rest relative to the surface.",
+    "Pyq": "NEET_2019"
+  },
+  {
+    "en": "The ratio of the radii of gyration of a circular disc and a circular ring of the same mass and radius about their respective central axes is:",
+    "hi": "एक ही द्रव्यमान और त्रिज्या वाली वृत्ताकार डिस्क और वृत्ताकार वलय (ring) की उनके केंद्रीय अक्षों के परितः घूर्णन त्रिज्याओं का अनुपात है:",
+    "oEn": ["√2:1", "1:√2", "1:2", "2:1"],
+    "oHi": ["√2:1", "1:√2", "1:2", "2:1"],
+    "c": 1,
+    "exp": "k_disc = R/√2, k_ring = R. Ratio = 1/√2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Angular momentum is defined as:",
+    "hi": "कोणीय संवेग को परिभाषित किया गया है:",
+    "oEn": ["p × r", "I × α", "F × r", "r × p"],
+    "oHi": ["p × r", "I × α", "F × r", "r × p"],
+    "c": 3,
+    "exp": "By definition, L = r × p.",
+    "Pyq": "NEET_2015"
+  },
+  {
+    "en": "A dancer spinning on a frictionless floor increases her angular speed by:",
+    "hi": "घर्षणहीन फर्श पर घूम रही एक नर्तकी अपनी कोणीय गति बढ़ाती है:",
+    "oEn": ["Stretching her arms outward", "Pulling her arms inward", "Closing her eyes", "Changing her clothes"],
+    "oHi": ["अपनी बाहों को बाहर की ओर फैलाकर", "अपनी बाहों को अंदर की ओर खींचकर", "अपनी आँखें बंद करके", "अपने कपड़े बदलकर"],
+    "c": 1,
+    "exp": "By conservation of angular momentum, reducing I (by pulling arms in) increases ω.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The theorem of parallel axes states:",
+    "hi": "समांतर अक्षों का प्रमेय बताता है:",
+    "oEn": ["I = Icm - Md^2", "I = Icm + Md", "I = Icm + Md^2", "I = Icm + 2Md^2"],
+    "oHi": ["I = Icm - Md^2", "I = Icm + Md", "I = Icm + Md^2", "I = Icm + 2Md^2"],
+    "c": 2,
+    "exp": "I = Icm + Md^2 relates the moment of inertia about any axis to the CM axis.",
+    "Pyq": "NEET_2018"
+  },
+  {
+    "en": "A solid sphere and a hollow sphere of the same mass and radius are released from the top of an incline. Which reaches the bottom first?",
+    "hi": "एक ही द्रव्यमान और त्रिज्या के एक ठोस गोले और एक खोखले गोले को एक नत समतल के ऊपर से छोड़ा जाता है। कौन सबसे पहले नीचे पहुँचता है?",
+    "oEn": ["Hollow sphere", "Both simultaneously", "None", "Solid sphere"],
+    "oHi": ["खोखला गोला", "दोनों एक साथ", "कोई नहीं", "ठोस गोला"],
+    "c": 3,
+    "exp": "Solid sphere has lower moment of inertia (2/5MR^2) than hollow (2/3MR^2), resulting in higher acceleration.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Torque is the rotational analogue of:",
+    "hi": "आघूर्ण (Torque) किसका घूर्णन एनालॉग है?",
+    "oEn": ["Momentum", "Force", "Velocity", "Energy"],
+    "oHi": ["संवेग", "बल", "वेग", "ऊर्जा"],
+    "c": 1,
+    "exp": "Torque (τ = r × F) is the rotational analog of force (F).",
+    "Pyq": "NEET_2014"
+  },
+  {
+    "en": "If the net external torque on a system is zero, then:",
+    "hi": "यदि किसी निकाय पर नेट बाहरी आघूर्ण शून्य है, तो:",
+    "oEn": ["Linear momentum is conserved", "Energy is conserved", "Angular momentum is conserved", "Kinetic energy is conserved"],
+    "oHi": ["रेखीय संवेग संरक्षित रहता है", "ऊर्जा संरक्षित रहती है", "कोणीय संवेग संरक्षित रहता है", "गतिज ऊर्जा संरक्षित रहती है"],
+    "c": 2,
+    "exp": "τ = dL/dt. If τ = 0, then L = constant.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The moment of inertia of a thin rod of mass M and length L about an axis through its center is:",
+    "hi": "M द्रव्यमान और L लंबाई की एक पतली छड़ का उसके केंद्र से गुजरने वाले अक्ष के परितः जड़त्व आघूर्ण है:",
+    "oEn": ["ML^2/3", "ML^2/12", "ML^2/4", "ML^2/6"],
+    "oHi": ["ML^2/3", "ML^2/12", "ML^2/4", "ML^2/6"],
+    "c": 1,
+    "exp": "Standard formula for a thin rod through the CM is I = ML^2/12.",
+    "Pyq": "NEET_2021"
+  },
+  {
+    "en": "A particle moves in a circular path with decreasing speed. The net acceleration is:",
+    "hi": "एक कण घटती गति के साथ वृत्ताकार पथ में चलता है। नेट त्वरण है:",
+    "oEn": ["Centripetal only", "Tangential only", "Zero", "Vector sum of centripetal and tangential"],
+    "oHi": ["केवल अभिकेंद्र", "केवल स्पर्शरेखीय", "शून्य", "अभिकेंद्र और स्पर्शरेखीय का सदिश योग"],
+    "c": 3,
+    "exp": "Net acceleration = vector sum of centripetal (v^2/r) and tangential (dv/dt) components.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The radius of gyration of a uniform rod of length L about an axis through one end is:",
+    "hi": "एक सिरे से गुजरने वाले अक्ष के परितः L लंबाई की एकसमान छड़ की घूर्णन त्रिज्या है:",
+    "oEn": ["L/2", "L/√12", "L/√3", "L/3"],
+    "oHi": ["L/2", "L/√12", "L/√3", "L/3"],
+    "c": 2,
+    "exp": "I = ML^2/3 = Mk^2 => k = L/√3.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following has the highest moment of inertia about the same axis?",
+    "hi": "समान अक्ष के परितः निम्नलिखित में से किसका जड़त्व आघूर्ण सबसे अधिक है?",
+    "oEn": ["Solid sphere", "Hollow sphere", "Disc", "Rod"],
+    "oHi": ["ठोस गोला", "खोखला गोला", "डिस्क", "छड़"],
+    "c": 1,
+    "exp": "Hollow sphere has 2/3MR^2, while others are lower (solid sphere 2/5, disc 1/2).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The work done by a torque τ in rotating a body by an angle θ is:",
+    "hi": "एक पिंड को θ कोण तक घुमाने में आघूर्ण τ द्वारा किया गया कार्य है:",
+    "oEn": ["τ/θ", "θ/τ", "0.5 τθ^2", "τθ"],
+    "oHi": ["τ/θ", "θ/τ", "0.5 τθ^2", "τθ"],
+    "c": 3,
+    "exp": "W = ∫τ dθ = τθ for constant torque.",
+    "Pyq": "NEET_2013"
+  },
+  {
+    "en": "A body is rotating with angular velocity ω. The kinetic energy of rotation is:",
+    "hi": "एक पिंड कोणीय वेग ω के साथ घूम रहा है। घूर्णन की गतिज ऊर्जा है:",
+    "oEn": ["Iω", "0.5 I^2ω", "0.5 Iω^2", "Iω^2"],
+    "oHi": ["Iω", "0.5 I^2ω", "0.5 Iω^2", "Iω^2"],
+    "c": 2,
+    "exp": "Rotational KE = 0.5 Iω^2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The center of mass of a system of particles does not depend on:",
+    "hi": "कणों के एक निकाय का द्रव्यमान केंद्र किस पर निर्भर नहीं करता है?",
+    "oEn": ["Masses of particles", "Forces acting on particles", "Positions of particles", "Configuration of system"],
+    "oHi": ["कणों के द्रव्यमान", "कणों पर कार्य करने वाले बल", "कणों की स्थिति", "निकाय का विन्यास"],
+    "c": 1,
+    "exp": "CM is purely geometric/mass-dependent, not influenced by internal or external forces.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "For an object rolling without slipping, total kinetic energy is:",
+    "hi": "बिना फिसले लुढ़कती वस्तु के लिए, कुल गतिज ऊर्जा है:",
+    "oEn": ["0.5 mv^2", "0.5 Iω^2", "mv^2", "0.5 mv^2(1 + k^2/r^2)"],
+    "oHi": ["0.5 mv^2", "0.5 Iω^2", "mv^2", "0.5 mv^2(1 + k^2/r^2)"],
+    "c": 3,
+    "exp": "Total KE = Translation + Rotation = 0.5 mv^2 + 0.5 Iω^2 = 0.5 mv^2(1 + k^2/r^2).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The direction of angular velocity vector for a right-handed rotating body is:",
+    "hi": "दाएं हाथ से घूमने वाले पिंड के लिए कोणीय वेग सदिश की दिशा है:",
+    "oEn": ["Perpendicular to axis", "In the plane of rotation", "Along the axis of rotation", "None"],
+    "oHi": ["अक्ष के लंबवत", "घूर्णन के तल में", "घूर्णन अक्ष के अनुदिश", "कोई नहीं"],
+    "c": 2,
+    "exp": "Angular velocity vector points along the axis of rotation via the right-hand rule.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "When a person sitting on a rotating stool stretches his hands, his angular velocity:",
+    "hi": "जब घूमने वाली स्टूल पर बैठा व्यक्ति अपने हाथ फैलाता है, तो उसका कोणीय वेग:",
+    "oEn": ["Increases", "Decreases", "Remains same", "Becomes zero"],
+    "oHi": ["बढ़ जाता है", "घट जाता है", "वही रहता है", "शून्य हो जाता है"],
+    "c": 1,
+    "exp": "Stretching hands increases I, so ω must decrease to conserve L.",
+    "Pyq": "NEET_2017"
+  },
+  {
+    "en": "The unit of torque is:",
+    "hi": "आघूर्ण (Torque) का मात्रक है:",
+    "oEn": ["N/m", "J/s", "kgm/s", "Nm"],
+    "oHi": ["N/m", "J/s", "kgm/s", "Nm"],
+    "c": 3,
+    "exp": "Torque = Force × Distance, so SI unit is Newton-meter (Nm).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A solid disc rolls down an incline. The ratio of rotational KE to total KE is:",
+    "hi": "एक ठोस डिस्क एक नत समतल पर लुढ़कती है। घूर्णन गतिज ऊर्जा और कुल गतिज ऊर्जा का अनुपात है:",
+    "oEn": ["1:2", "1:3", "2:3", "3:4"],
+    "oHi": ["1:2", "1:3", "2:3", "3:4"],
+    "c": 1,
+    "exp": "Rot KE = 0.25 Mv^2, Total KE = 0.75 Mv^2. Ratio = 1:3.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Moment of inertia is also known as:",
+    "hi": "जड़त्व आघूर्ण को इस नाम से भी जाना जाता है:",
+    "oEn": ["Rotational inertia", "Both 1 and 2", "Angular mass", "Force of rotation"],
+    "oHi": ["घूर्णन जड़त्व", "1 और 2 दोनों", "कोणीय द्रव्यमान", "घूर्णन का बल"],
+    "c": 1,
+    "exp": "Moment of inertia is called both rotational inertia and angular mass.",
+    "Pyq": "Trend_Based_2026"
+  }
+]
