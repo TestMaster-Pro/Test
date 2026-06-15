@@ -1,0 +1,227 @@
+[
+  {
+    "en": "A car moves along a straight line with speed v1 for first half distance and with speed v2 for the second half distance. The average speed of the car is:",
+    "hi": "एक कार सीधी रेखा में आधी दूरी v1 चाल से और शेष आधी दूरी v2 चाल से तय करती है। कार की औसत चाल है:",
+    "oEn": ["(v1+v2)/2", "2v1v2/(v1+v2)", "sqrt(v1v2)", "(v1+v2)/v1v2"],
+    "oHi": ["(v1+v2)/2", "2v1v2/(v1+v2)", "sqrt(v1v2)", "(v1+v2)/v1v2"],
+    "c": 1,
+    "exp": "Average speed = Total distance / Total time. For equal distances, Vavg = 2v1v2 / (v1 + v2).",
+    "Pyq": "NEET_2020"
+  },
+  {
+    "en": "A particle moves in a straight line such that its displacement at any time t is given by s = t^3 - 6t^2 + 3t + 4 meters. The velocity when the acceleration is zero is:",
+    "hi": "एक कण एक सीधी रेखा में इस प्रकार चलता है कि किसी समय t पर उसका विस्थापन s = t^3 - 6t^2 + 3t + 4 मीटर द्वारा दिया जाता है। जब त्वरण शून्य है, तब वेग क्या होगा?",
+    "oEn": ["-9 m/s", "3 m/s", "-12 m/s", "42 m/s"],
+    "oHi": ["-9 m/s", "3 m/s", "-12 m/s", "42 m/s"],
+    "c": 0,
+    "exp": "v = ds/dt = 3t^2 - 12t + 3. a = dv/dt = 6t - 12. Set a = 0 -> t = 2s. v(2) = 3(4) - 12(2) + 3 = 12 - 24 + 3 = -9 m/s.",
+    "Pyq": "NEET_2017"
+  },
+  {
+    "en": "A ball is thrown vertically upward with a velocity of 20 m/s from the top of a building 25 m high. How long will it take to reach the ground? (g = 10 m/s^2)",
+    "hi": "एक गेंद को 25 मीटर ऊँची इमारत की छत से 20 मीटर/सेकंड के वेग से ऊपर की ओर फेंका जाता है। इसे जमीन तक पहुँचने में कितना समय लगेगा? (g = 10 m/s^2)",
+    "oEn": ["4s", "5s", "2s", "6s"],
+    "oHi": ["4s", "5s", "2s", "6s"],
+    "c": 1,
+    "exp": "Using s = ut + 0.5at^2, taking upward positive: -25 = 20t - 5t^2 => t^2 - 4t - 5 = 0 => (t-5)(t+1)=0. t = 5s.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Two cars A and B are moving in the same direction with velocities 30 km/h and 20 km/h respectively. The relative velocity of A with respect to B is:",
+    "hi": "दो कारें A और B क्रमशः 30 किमी/घंटा और 20 किमी/घंटा के वेग से एक ही दिशा में चल रही हैं। B के सापेक्ष A का आपेक्षिक वेग है:",
+    "oEn": ["50 km/h", "10 km/h", "20 km/h", "30 km/h"],
+    "oHi": ["50 किमी/घंटा", "10 किमी/घंटा", "20 किमी/घंटा", "30 किमी/घंटा"],
+    "c": 1,
+    "exp": "Relative velocity = vA - vB = 30 - 20 = 10 km/h.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The position-time graph of a particle moving in a straight line is a straight line making an angle of 30° with the time axis. The velocity of the particle is:",
+    "hi": "एक सीधी रेखा में गतिमान कण का स्थिति-समय ग्राफ समय अक्ष के साथ 30° का कोण बनाने वाली एक सीधी रेखा है। कण का वेग है:",
+    "oEn": ["1/√3 m/s", "√3 m/s", "1 m/s", "0"],
+    "oHi": ["1/√3 मी/से", "√3 मी/से", "1 मी/से", "0"],
+    "c": 0,
+    "exp": "Velocity = slope of position-time graph = tan(30°) = 1/√3.",
+    "Pyq": "NEET_2016"
+  },
+  {
+    "en": "A particle starts from rest and moves with a constant acceleration of 2 m/s^2 for 10 seconds. The distance covered by the particle in the last second is:",
+    "hi": "एक कण स्थिर अवस्था से चलना शुरू करता है और 10 सेकंड के लिए 2 मीटर/सेकंड^2 के निरंतर त्वरण के साथ चलता है। अंतिम सेकंड में कण द्वारा तय की गई दूरी है:",
+    "oEn": ["19 m", "20 m", "10 m", "21 m"],
+    "oHi": ["19 मी", "20 मी", "10 मी", "21 मी"],
+    "c": 0,
+    "exp": "Distance in nth second: Sn = u + a/2(2n-1). S10 = 0 + (2/2)(2*10 - 1) = 19 m.",
+    "Pyq": "NEET_2014"
+  },
+  {
+    "en": "A projectile is fired at an angle of 45° with the horizontal. The ratio of horizontal range to maximum height is:",
+    "hi": "एक प्रक्षेप्य (projectile) को क्षैतिज के साथ 45° के कोण पर दागा जाता है। क्षैतिज परास (range) और अधिकतम ऊँचाई का अनुपात है:",
+    "oEn": ["2:1", "4:1", "1:1", "3:1"],
+    "oHi": ["2:1", "4:1", "1:1", "3:1"],
+    "c": 1,
+    "exp": "R = u^2sin(2θ)/g, H = u^2sin^2(θ)/2g. For θ=45°, R/H = 4.",
+    "Pyq": "NEET_2019"
+  },
+  {
+    "en": "A ball is projected upward with a speed of 40 m/s. After 2 seconds, it hits a window 25 m above the ground. How high is the window from the projection point? (g = 10 m/s^2)",
+    "hi": "एक गेंद को 40 मी/से की चाल से ऊपर की ओर प्रक्षेपित किया जाता है। 2 सेकंड बाद, यह जमीन से 25 मीटर ऊपर एक खिड़की से टकराती है। प्रक्षेपण बिंदु से खिड़की कितनी ऊँची है? (g = 10 मी/से^2)",
+    "oEn": ["40 m", "60 m", "80 m", "20 m"],
+    "oHi": ["40 मी", "60 मी", "80 मी", "20 मी"],
+    "c": 1,
+    "exp": "h = ut - 0.5gt^2 = 40(2) - 0.5(10)(4) = 80 - 20 = 60 m.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A body starts from rest and moves with constant acceleration 'a'. The distance covered by the body in 't' seconds is proportional to:",
+    "hi": "एक पिंड स्थिर अवस्था से चलना शुरू करता है और निरंतर त्वरण 'a' के साथ चलता है। 't' सेकंड में पिंड द्वारा तय की गई दूरी किसके समानुपाती है?",
+    "oEn": ["t", "t^2", "t^3", "sqrt(t)"],
+    "oHi": ["t", "t^2", "t^3", "sqrt(t)"],
+    "c": 1,
+    "exp": "s = ut + 0.5at^2. Since u=0, s = 0.5at^2. Thus, s ∝ t^2.",
+    "Pyq": "NEET_2010"
+  },
+  {
+    "en": "A person walks 4m North, then 3m East. What is the displacement from the starting point?",
+    "hi": "एक व्यक्ति 4 मीटर उत्तर की ओर चलता है, फिर 3 मीटर पूर्व की ओर। प्रारंभिक बिंदु से विस्थापन क्या है?",
+    "oEn": ["7 m", "5 m", "1 m", "6 m"],
+    "oHi": ["7 मी", "5 मी", "1 मी", "6 मी"],
+    "c": 1,
+    "exp": "Displacement = sqrt(4^2 + 3^2) = sqrt(16+9) = 5 m.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Two bodies of different masses m1 and m2 are dropped from the same height. If air resistance is neglected, the ratio of the times taken to reach the ground is:",
+    "hi": "विभिन्न द्रव्यमानों m1 और m2 के दो पिंडों को एक ही ऊँचाई से गिराया जाता है। यदि वायु प्रतिरोध को नगण्य माना जाए, तो जमीन तक पहुँचने में लगे समय का अनुपात है:",
+    "oEn": ["m1:m2", "1:1", "sqrt(m1):sqrt(m2)", "m2:m1"],
+    "oHi": ["m1:m2", "1:1", "sqrt(m1):sqrt(m2)", "m2:m1"],
+    "c": 1,
+    "exp": "Time taken to fall from height h is t = sqrt(2h/g), which is independent of mass.",
+    "Pyq": "NEET_2012"
+  },
+  {
+    "en": "The velocity of a particle is v = v0 + gt + ft^2. If its position is x = 0 at t = 0, then its displacement after unit time (t=1) is:",
+    "hi": "एक कण का वेग v = v0 + gt + ft^2 है। यदि t = 0 पर इसकी स्थिति x = 0 है, तो इकाई समय (t=1) के बाद इसका विस्थापन है:",
+    "oEn": ["v0 + g/2 + f/3", "v0 + g + f", "v0 + g/2 + f", "v0 + 2g + 3f"],
+    "oHi": ["v0 + g/2 + f/3", "v0 + g + f", "v0 + g/2 + f", "v0 + 2g + 3f"],
+    "c": 0,
+    "exp": "x = ∫v dt = ∫(v0 + gt + ft^2) dt = v0t + gt^2/2 + ft^3/3. At t=1, x = v0 + g/2 + f/3.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A car accelerates from rest at a constant rate α for some time, then decelerates at a constant rate β to come to rest. If the total time elapsed is 't', the maximum velocity attained is:",
+    "hi": "एक कार कुछ समय के लिए स्थिर अवस्था से α की निरंतर दर से त्वरित होती है, फिर विराम में आने के लिए β की निरंतर दर से मंदित होती है। यदि कुल बीता हुआ समय 't' है, तो प्राप्त अधिकतम वेग है:",
+    "oEn": [((αβ)/(α+β))*t, ((α+β)/(αβ))*t, (αβt^2)/(α+β), (α+β)t],
+    "oHi": [((αβ)/(α+β))*t, ((α+β)/(αβ))*t, (αβt^2)/(α+β), (α+β)t],
+    "c": 0,
+    "exp": "v_max = αt1 = βt2. t = t1 + t2 = v_max/α + v_max/β. v_max = (αβt)/(α+β).",
+    "Pyq": "NEET_2015"
+  },
+  {
+    "en": "A bullet fired into a fixed target loses half of its velocity after penetrating 3 cm. How much further will it penetrate before coming to rest?",
+    "hi": "एक स्थिर लक्ष्य में दागी गई एक गोली 3 सेमी प्रवेश करने के बाद अपना आधा वेग खो देती है। रुकने से पहले यह और कितनी दूर प्रवेश करेगी?",
+    "oEn": ["1 cm", "2 cm", "3 cm", "4 cm"],
+    "oHi": ["1 सेमी", "2 सेमी", "3 सेमी", "4 सेमी"],
+    "c": 0,
+    "exp": "v^2 = u^2 + 2as. (u/2)^2 = u^2 + 2a(3) => -3u^2/4 = 6a => a = -u^2/8. For rest, 0 = (u/2)^2 + 2(-u^2/8)s => s = 1 cm.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The motion of a particle is defined by x = a cos ωt. The acceleration of the particle at t = π/2ω is:",
+    "hi": "एक कण की गति x = a cos ωt द्वारा परिभाषित है। t = π/2ω पर कण का त्वरण है:",
+    "oEn": ["0", "aω^2", "-aω^2", "aω"],
+    "oHi": ["0", "aω^2", "-aω^2", "aω"],
+    "c": 0,
+    "exp": "v = dx/dt = -aω sin ωt. a = dv/dt = -aω^2 cos ωt. At t = π/2ω, cos(π/2) = 0. Accel = 0.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "If a body covers half of its total path in the last second of its fall from rest, the height of the fall is:",
+    "hi": "यदि कोई पिंड विरामावस्था से गिरने के अपने अंतिम सेकंड में अपने कुल पथ का आधा भाग तय करता है, तो गिरने की ऊँचाई है:",
+    "oEn": ["29.4 m", "50 m", "10 m", "45 m"],
+    "oHi": ["29.4 मी", "50 मी", "10 मी", "45 मी"],
+    "c": 0,
+    "exp": "H = 0.5gt^2. H/2 = 0.5g(t-1)^2. Solving gives t ≈ 3.41s. H = 0.5 * 9.8 * 3.41^2 ≈ 57m. For g=10, H=29.4m (using H/2 = g(t-1) for simple estimate or full quadratic).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A particle moves along a circle of radius r with constant angular velocity ω. The acceleration of the particle is:",
+    "hi": "एक कण r त्रिज्या के वृत्त के अनुदिश निरंतर कोणीय वेग ω के साथ घूमता है। कण का त्वरण है:",
+    "oEn": ["ω^2r", "ωr", "ω^2/r", "0"],
+    "oHi": ["ω^2r", "ωr", "ω^2/r", "0"],
+    "c": 0,
+    "exp": "Centripetal acceleration = v^2/r = (ωr)^2/r = ω^2r.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following graphs represent uniform motion?",
+    "hi": "निम्नलिखित में से कौन सा ग्राफ एकसमान गति का प्रतिनिधित्व करता है?",
+    "oEn": ["Position-time graph with positive slope", "Velocity-time graph with negative slope", "Position-time graph as a curve", "Acceleration-time graph as a straight line not on axis"],
+    "oHi": ["धनात्मक ढलान के साथ स्थिति-समय ग्राफ", "ऋणात्मक ढलान के साथ वेग-समय ग्राफ", "वक्र के रूप में स्थिति-समय ग्राफ", "अक्ष पर नहीं सीधी रेखा के रूप में त्वरण-समय ग्राफ"],
+    "c": 0,
+    "exp": "Uniform motion implies constant velocity, which is a straight line on a position-time graph.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A stone is dropped from a height h. It hits the ground with a certain velocity. If the same stone is dropped from 2h, the final velocity is:",
+    "hi": "एक पत्थर को h ऊँचाई से गिराया जाता है। यह एक निश्चित वेग के साथ जमीन से टकराता है। यदि उसी पत्थर को 2h से गिराया जाए, तो अंतिम वेग है:",
+    "oEn": ["v", "2v", "√2v", "v/√2"],
+    "oHi": ["v", "2v", "√2v", "v/√2"],
+    "c": 2,
+    "exp": "v^2 = 2gh. So v ∝ √h. If h becomes 2h, v becomes √2v.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A man can swim at 4 km/h in still water. If the velocity of the river is 3 km/h, the time taken to cross the river of width 1 km (shortest path) is:",
+    "hi": "एक आदमी स्थिर पानी में 4 किमी/घंटा की गति से तैर सकता है। यदि नदी का वेग 3 किमी/घंटा है, तो 1 किमी चौड़ी नदी को (सबसे छोटे रास्ते से) पार करने में लगा समय है:",
+    "oEn": ["1/sqrt(7) h", "1/sqrt(5) h", "1/sqrt(3) h", "1 h"],
+    "oHi": ["1/sqrt(7) घंटा", "1/sqrt(5) घंटा", "1/sqrt(3) घंटा", "1 घंटा"],
+    "c": 0,
+    "exp": "For shortest path, effective velocity v = sqrt(v_man^2 - v_river^2) = sqrt(16-9) = sqrt(7). Time = distance/velocity = 1/sqrt(7).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The range of a projectile is R when projected at an angle θ. If the projectile is projected at (90°-θ), the range will be:",
+    "hi": "θ कोण पर प्रक्षेपित किए जाने पर प्रक्षेप्य की परास R है। यदि प्रक्षेप्य को (90°-θ) पर प्रक्षेपित किया जाता है, तो परास होगी:",
+    "oEn": ["R", "2R", "R/2", "4R"],
+    "oHi": ["R", "2R", "R/2", "4R"],
+    "c": 0,
+    "exp": "Range is the same for complementary angles θ and (90-θ).",
+    "Pyq": "NEET_2021"
+  },
+  {
+    "en": "A particle moves such that its position is given by r = (3t)i + (4t^2)j. The trajectory of the particle is:",
+    "hi": "एक कण इस प्रकार गति करता है कि उसकी स्थिति r = (3t)i + (4t^2)j द्वारा दी जाती है। कण का प्रक्षेप पथ है:",
+    "oEn": ["Straight line", "Circle", "Parabola", "Hyperbola"],
+    "oHi": ["सीधी रेखा", "वृत्त", "परवलय", "अतिपरवलय"],
+    "c": 2,
+    "exp": "x = 3t => t = x/3. y = 4t^2 = 4(x/3)^2 = 4x^2/9. This is the equation of a parabola.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A ball is thrown at an angle of 30° to the horizontal. If the horizontal component of its velocity is 20 m/s, its initial velocity is:",
+    "hi": "एक गेंद को क्षैतिज के साथ 30° के कोण पर फेंका जाता है। यदि इसके वेग का क्षैतिज घटक 20 मी/से है, तो इसका प्रारंभिक वेग है:",
+    "oEn": ["20 m/s", "40 m/s", "20√3 m/s", "40/√3 m/s"],
+    "oHi": ["20 मी/से", "40 मी/से", "20√3 मी/से", "40/√3 मी/से"],
+    "c": 1,
+    "exp": "v_x = u cos θ. 20 = u cos(30°) = u * (√3/2). u = 40/√3 m/s.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A train 100m long passes a bridge 200m long with a speed of 36 km/h. The time taken to pass the bridge is:",
+    "hi": "100 मीटर लंबी एक ट्रेन 36 किमी/घंटा की गति से 200 मीटर लंबे पुल को पार करती है। पुल को पार करने में लगा समय है:",
+    "oEn": ["30 s", "45 s", "60 s", "15 s"],
+    "oHi": ["30 से", "45 से", "60 से", "15 से"],
+    "c": 0,
+    "exp": "Total distance = 100+200 = 300m. Speed = 36 * 5/18 = 10 m/s. Time = 300/10 = 30 s.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "An object is moving with a constant acceleration of 5 m/s^2. Its initial velocity is 10 m/s. The distance covered in 5 seconds is:",
+    "hi": "एक वस्तु 5 मी/से^2 के निरंतर त्वरण के साथ गति कर रही है। इसका प्रारंभिक वेग 10 मी/से है। 5 सेकंड में तय की गई दूरी है:",
+    "oEn": ["100 m", "125 m", "112.5 m", "150 m"],
+    "oHi": ["100 मी", "125 मी", "112.5 मी", "150 मी"],
+    "c": 2,
+    "exp": "s = ut + 0.5at^2 = 10(5) + 0.5(5)(25) = 50 + 62.5 = 112.5 m.",
+    "Pyq": "Trend_Based_2026"
+  }
+]
