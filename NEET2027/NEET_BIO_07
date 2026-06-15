@@ -1,0 +1,227 @@
+[
+  {
+    "en": "In the Lac operon, which gene codes for the enzyme transacetylase?",
+    "hi": "लैक ओपेरॉन (Lac operon) में, कौन सा जीन ट्रांसएसिटिलेज एंजाइम के लिए कोड करता है?",
+    "oEn": ["lacZ", "lacY", "lacA", "lacI"],
+    "oHi": ["lacZ", "lacY", "lacA", "lacI"],
+    "c": 2,
+    "exp": "lacZ codes for beta-galactosidase, lacY for permease, and lacA for transacetylase.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is NOT a condition required for Hardy-Weinberg equilibrium?",
+    "hi": "इनमें से कौन सी शर्त हार्डी-वेनबर्ग संतुलन (Hardy-Weinberg equilibrium) के लिए आवश्यक नहीं है?",
+    "oEn": ["Random mating", "Large population size", "Natural selection", "No gene flow"],
+    "oHi": ["यादृच्छिक संभोग (Random mating)", "बड़ी जनसंख्या", "प्राकृतिक चयन (Natural selection)", "जीन प्रवाह का न होना"],
+    "c": 2,
+    "exp": "Hardy-Weinberg equilibrium assumes the absence of natural selection, mutation, migration, and genetic drift.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The DNA replication is semi-conservative. Who provided experimental proof using E. coli?",
+    "hi": "डीएनए प्रतिकृति अर्ध-संरक्षी (semi-conservative) होती है। ई. कोलाई (E. coli) का उपयोग करके प्रयोगात्मक प्रमाण किसने दिया?",
+    "oEn": ["Meselson and Stahl", "Hershey and Chase", "Watson and Crick", "Griffith"],
+    "oHi": ["मेसेल्सन और स्टाल", "हर्षे और चेस", "वाटसन और क्रिक", "ग्रिफिथ"],
+    "c": 0,
+    "exp": "Matthew Meselson and Franklin Stahl proved semi-conservative DNA replication using 15N and 14N isotopes in E. coli.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "What is the function of DNA polymerase III in prokaryotes?",
+    "hi": "प्रोकैरियोट्स में डीएनए पॉलीमरेज़ III (DNA polymerase III) का कार्य क्या है?",
+    "oEn": ["Primer removal", "Main DNA synthesis", "DNA repair", "Nick sealing"],
+    "oHi": ["प्राइमर हटाना", "मुख्य डीएनए संश्लेषण", "डीएनए मरम्मत", "निक सीलिंग"],
+    "c": 1,
+    "exp": "DNA polymerase III is the primary enzyme responsible for synthesizing the new DNA strand.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following traits in humans follows polygenic inheritance?",
+    "hi": "मनुष्यों में निम्नलिखित में से कौन सा लक्षण बहुजीनी वंशागति (polygenic inheritance) का पालन करता है?",
+    "oEn": ["Color blindness", "Sickle cell anemia", "Skin color", "Hemophilia"],
+    "oHi": ["वर्णांधता (Color blindness)", "सिकल सेल एनीमिया", "त्वचा का रंग", "हीमोफीलिया"],
+    "c": 2,
+    "exp": "Human skin color is a classic example of polygenic inheritance where multiple genes contribute to the phenotype.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The sequence of mRNA transcribed from a DNA template strand 3'-ATGC-5' would be:",
+    "hi": "3'-ATGC-5' डीएनए टेम्पलेट स्ट्रैंड से ट्रांसक्राइब किए गए mRNA का अनुक्रम होगा:",
+    "oEn": ["5'-TACG-3'", "5'-UACG-3'", "5'-AUGC-3'", "5'-GCUA-3'"],
+    "oHi": ["5'-TACG-3'", "5'-UACG-3'", "5'-AUGC-3'", "5'-GCUA-3'"],
+    "c": 1,
+    "exp": "Transcription follows complementary base pairing rules: A pairs with U (in RNA), T with A, G with C, C with G. Template 3'-ATGC-5' yields mRNA 5'-UACG-3'.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Adaptive radiation of Darwin's finches is an example of:",
+    "hi": "डार्विन फिंचों का अनुकूली विकिरण (Adaptive radiation) किसका उदाहरण है?",
+    "oEn": ["Divergent evolution", "Convergent evolution", "Saltation", "Artificial selection"],
+    "oHi": ["अपसारी विकास (Divergent evolution)", "अभिसारी विकास (Convergent evolution)", "साल्टेशन", "कृत्रिम चयन"],
+    "c": 0,
+    "exp": "Adaptive radiation is the diversification of a group of organisms into forms filling different ecological niches, illustrating divergent evolution.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is considered a 'start codon'?",
+    "hi": "निम्नलिखित में से किसे 'प्रारंभ कोडोन' (start codon) माना जाता है?",
+    "oEn": ["UAA", "UAG", "AUG", "UGA"],
+    "oHi": ["UAA", "UAG", "AUG", "UGA"],
+    "c": 2,
+    "exp": "AUG is the universal start codon, coding for Methionine.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In a pedigree analysis, a shaded square represents:",
+    "hi": "वंशावली विश्लेषण (pedigree analysis) में, एक छायांकित वर्ग (shaded square) क्या दर्शाता है?",
+    "oEn": ["Affected female", "Unaffected male", "Affected male", "Unaffected female"],
+    "oHi": ["प्रभावित महिला", "अप्रभावित पुरुष", "प्रभावित पुरुष", "अप्रभावित महिला"],
+    "c": 2,
+    "exp": "In pedigree charts, squares represent males and circles represent females; shading indicates the presence of the trait.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "What is the role of tRNA in protein synthesis?",
+    "hi": "प्रोटीन संश्लेषण में tRNA की क्या भूमिका है?",
+    "oEn": ["Carries DNA template", "Codes for amino acids", "Brings amino acids to the ribosome", "Synthesizes mRNA"],
+    "oHi": ["डीएनए टेम्पलेट ले जाता है", "अमीनो एसिड के लिए कोड करता है", "अमीनो एसिड को राइबोसोम तक लाता है", "mRNA का संश्लेषण करता है"],
+    "c": 2,
+    "exp": "tRNA acts as an adapter molecule that brings specific amino acids to the mRNA-ribosome complex.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following human evolutionary stages had a cranial capacity of about 900cc?",
+    "hi": "मानव विकास के किस चरण में कपाल क्षमता (cranial capacity) लगभग 900cc थी?",
+    "oEn": ["Homo habilis", "Homo erectus", "Homo sapiens", "Neanderthal"],
+    "oHi": ["होमो हैबिलिस", "होमो इरेक्टस", "होमो सेपियन्स", "नियंडरथल"],
+    "c": 1,
+    "exp": "Homo erectus had a cranial capacity of approximately 900cc.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The process of 'splicing' in eukaryotes involves removal of:",
+    "hi": "यूकेरियोट्स में 'स्प्लिसिंग' (splicing) की प्रक्रिया में किसको हटाना शामिल है?",
+    "oEn": ["Exons", "Introns", "Promoter", "Poly-A tail"],
+    "oHi": ["एक्सॉन", "इंट्रॉन", "प्रमोटर", "पॉली-ए टेल"],
+    "c": 1,
+    "exp": "Splicing removes non-coding introns and joins coding exons to form mature mRNA.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Linkage was first observed in which organism by T.H. Morgan?",
+    "hi": "टी.एच. मॉर्गन द्वारा किस जीव में सबसे पहले लिंकेज (Linkage) देखा गया था?",
+    "oEn": ["Pea plant", "Drosophila", "E. coli", "Neurospora"],
+    "oHi": ["मटर का पौधा", "ड्रोसोफिला", "ई. कोलाई", "न्यूरोस्पोरा"],
+    "c": 1,
+    "exp": "T.H. Morgan extensively used Drosophila melanogaster to study linkage and genetic mapping.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which enzyme is responsible for 'unzipping' the DNA double helix?",
+    "hi": "डीएनए डबल हेलिक्स को 'अनज़िप' करने के लिए कौन सा एंजाइम जिम्मेदार है?",
+    "oEn": ["DNA Polymerase", "Helicase", "Ligase", "Primase"],
+    "oHi": ["डीएनए पॉलीमरेज़", "हेलिकेज़", "लिगेज़", "प्राइमेज़"],
+    "c": 1,
+    "exp": "Helicase breaks the hydrogen bonds between base pairs, separating the strands.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "If the genotype is I^A I^B, the blood group is:",
+    "hi": "यदि जीनोटाइप I^A I^B है, तो रक्त समूह क्या होगा?",
+    "oEn": ["A", "B", "AB", "O"],
+    "oHi": ["A", "B", "AB", "O"],
+    "c": 2,
+    "exp": "This is an example of co-dominance, where both alleles express themselves, resulting in blood group AB.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which experiment proved that DNA is the genetic material?",
+    "hi": "किस प्रयोग ने सिद्ध किया कि डीएनए आनुवंशिक सामग्री (genetic material) है?",
+    "oEn": ["Griffith's transformation", "Hershey-Chase", "Meselson-Stahl", "Beadle and Tatum"],
+    "oHi": ["ग्रिफिथ का रूपांतरण", "हर्षे-चेस", "मेसेल्सन-स्टाल", "बीडल और टॉटम"],
+    "c": 1,
+    "exp": "Hershey and Chase used bacteriophages to prove DNA, not protein, is the genetic material.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Genetic drift refers to:",
+    "hi": "जेनेटिक ड्रिफ्ट (Genetic drift) का तात्पर्य है:",
+    "oEn": ["Selection of best fit", "Change in allele frequency due to chance", "Migration of individuals", "Mutation rate change"],
+    "oHi": ["सबसे उपयुक्त का चयन", "संयोग के कारण एलील आवृत्ति में परिवर्तन", "व्यक्तियों का प्रवास", "उत्परिवर्तन दर में परिवर्तन"],
+    "c": 1,
+    "exp": "Genetic drift is a random change in allele frequencies in a population over generations.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In the Hershey-Chase experiment, what was the radioactive isotope used to label DNA?",
+    "hi": "हर्षे-चेस प्रयोग में, डीएनए को लेबल करने के लिए किस रेडियोधर्मी आइसोटोप का उपयोग किया गया था?",
+    "oEn": ["S-35", "P-32", "C-14", "N-15"],
+    "oHi": ["S-35", "P-32", "C-14", "N-15"],
+    "c": 1,
+    "exp": "Phosphorus (32P) is present in DNA, while Sulfur (35S) is present in proteins.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The phenotype ratio of 9:3:3:1 is observed in:",
+    "hi": "9:3:3:1 का फेनोटाइप अनुपात किसमें देखा जाता है?",
+    "oEn": ["Monohybrid cross", "Test cross", "Dihybrid cross", "Incomplete dominance"],
+    "oHi": ["मोनोहाइब्रिड क्रॉस", "टेस्ट क्रॉस", "डाईहाइब्रिड क्रॉस", "अपूर्ण प्रभाविता"],
+    "c": 2,
+    "exp": "Mendel's dihybrid cross between two traits (e.g., seed shape and seed color) yields this phenotypic ratio in the F2 generation.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of these is a vestigial organ in humans?",
+    "hi": "इनमें से कौन सा मनुष्यों में अवशेषी अंग (vestigial organ) है?",
+    "oEn": ["Appendix", "Liver", "Heart", "Stomach"],
+    "oHi": ["अपेंडिक्स (Appendix)", "लिवर", "हृदय", "पेट"],
+    "c": 0,
+    "exp": "The vermiform appendix is a classic example of a vestigial structure in humans.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "VNTRs are used in:",
+    "hi": "VNTRs का उपयोग किसमें किया जाता है?",
+    "oEn": ["Transcription", "DNA fingerprinting", "Translation", "Replication"],
+    "oHi": ["ट्रांसक्रिप्शन", "डीएनए फिंगरप्रिंटिंग", "ट्रांसलेशन", "प्रतिकृति"],
+    "c": 1,
+    "exp": "Variable Number Tandem Repeats (VNTRs) are highly polymorphic and essential for DNA fingerprinting.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which syndrome results from XXY chromosome configuration?",
+    "hi": "XXY गुणसूत्र विन्यास (chromosome configuration) से कौन सा सिंड्रोम होता है?",
+    "oEn": ["Turner syndrome", "Down syndrome", "Klinefelter syndrome", "Patau syndrome"],
+    "oHi": ["टर्नर सिंड्रोम", "डाउन सिंड्रोम", "क्लाइनफेल्टर सिंड्रोम", "पटाऊ सिंड्रोम"],
+    "c": 2,
+    "exp": "Klinefelter syndrome is characterized by an extra X chromosome in males (XXY).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The 'Beads-on-a-string' structure of chromatin consists of:",
+    "hi": "क्रोमैटिन की 'बीड्स-ऑन-ए-स्ट्रिंग' संरचना में क्या होता है?",
+    "oEn": ["DNA and RNA", "DNA and Histones", "RNA and Ribosomes", "Protein only"],
+    "oHi": ["डीएनए और आरएनए", "डीएनए और हिस्टोन", "आरएनए और राइबोसोम", "केवल प्रोटीन"],
+    "c": 1,
+    "exp": "Nucleosomes are the 'beads', consisting of DNA wrapped around a histone protein core.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Convergent evolution leads to:",
+    "hi": "अभिसारी विकास (Convergent evolution) से क्या होता है?",
+    "oEn": ["Analogous organs", "Homologous organs", "Adaptive radiation", "Increased mutation"],
+    "oHi": ["एनालॉगस अंग", "समजात अंग (Homologous organs)", "अनुकूली विकिरण", "उत्परिवर्तन में वृद्धि"],
+    "c": 0,
+    "exp": "Convergent evolution produces analogous structures that perform similar functions but have different origins (e.g., wings of insects and birds).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The genetic code is described as 'degenerate' because:",
+    "hi": "आनुवंशिक कोड को 'डिजेनरेट' (degenerate) क्यों कहा जाता है?",
+    "oEn": ["One codon codes for many amino acids", "Many codons code for one amino acid", "It is universal", "It has stop codons"],
+    "oHi": ["एक कोडोन कई अमीनो एसिड के लिए कोड करता है", "कई कोडोन एक अमीनो एसिड के लिए कोड करते हैं", "यह सार्वभौमिक है", "इसमें स्टॉप कोडोन होते हैं"],
+    "c": 1,
+    "exp": "Degeneracy means more than one codon can code for the same amino acid.",
+    "Pyq": "Trend_Based_2026"
+  }
+]
