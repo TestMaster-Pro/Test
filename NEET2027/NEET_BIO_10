@@ -1,0 +1,227 @@
+[
+  {
+    "en": "According to Gause's Competitive Exclusion Principle, two closely related species competing for the same resources cannot co-exist indefinitely. Which of the following is the primary condition for this?",
+    "hi": "गॉस के प्रतिस्पर्धात्मक अपवर्जन सिद्धांत (Gause's Competitive Exclusion Principle) के अनुसार, एक ही संसाधनों के लिए प्रतिस्पर्धा करने वाली दो निकट संबंधी प्रजातियां अनिश्चित काल तक साथ नहीं रह सकतीं। इसके लिए मुख्य स्थिति क्या है?",
+    "oEn": ["Resources must be limiting", "Resources must be unlimited", "Species must be separated by time", "Predation must be high"],
+    "oHi": ["संसाधन सीमित होने चाहिए", "संसाधन असीमित होने चाहिए", "प्रजातियों को समय द्वारा अलग होना चाहिए", "परभक्षण उच्च होना चाहिए"],
+    "c": 0,
+    "exp": "The principle states that two species competing for the same limiting resources cannot coexist at constant population values.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In the Verhulst-Pearl logistic growth equation dN/dt = rN (K-N)/K, what does 'K' represent?",
+    "hi": "Verhulst-Pearl लॉजिस्टिक वृद्धि समीकरण dN/dt = rN (K-N)/K में, 'K' क्या दर्शाता है?",
+    "oEn": ["Intrinsic rate of natural increase", "Population density at time t", "Carrying capacity", "Environmental resistance"],
+    "oHi": ["प्राकृतिक वृद्धि की आंतरिक दर", "समय t पर जनसंख्या घनत्व", "वहन क्षमता (Carrying capacity)", "पर्यावरणीय प्रतिरोध"],
+    "c": 2,
+    "exp": "K represents the Carrying Capacity, which is the maximum population size that the environment can sustain.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which ecological pyramid is always upright in a terrestrial ecosystem?",
+    "hi": "स्थलीय पारिस्थितिकी तंत्र में कौन सा पारिस्थितिक पिरामिड हमेशा सीधा (upright) होता है?",
+    "oEn": ["Pyramid of Number", "Pyramid of Energy", "Pyramid of Biomass", "Both Number and Biomass"],
+    "oHi": ["संख्या का पिरामिड", "ऊर्जा का पिरामिड", "जीवभार का पिरामिड", "संख्या और जीवभार दोनों"],
+    "c": 1,
+    "exp": "The pyramid of energy is always upright because energy is lost as heat at each trophic level (10% law).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which step of decomposition involves the breaking down of detritus into smaller particles by detritivores like earthworms?",
+    "hi": "अपघटन (Decomposition) के किस चरण में केचुओं जैसे अपरदाहारी जीवों (detritivores) द्वारा अपरद (detritus) को छोटे कणों में तोड़ा जाता है?",
+    "oEn": ["Fragmentation", "Leaching", "Catabolism", "Humification"],
+    "oHi": ["खंडीकरण (Fragmentation)", "निक्षालन (Leaching)", "अपचय (Catabolism)", "ह्यूमिफिकेशन"],
+    "c": 0,
+    "exp": "Fragmentation is the process where detritivores break down detritus into smaller particles, increasing surface area for microbial action.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is a sedimentary nutrient cycle?",
+    "hi": "निम्नलिखित में से कौन सा एक अवसादी पोषक चक्र (sedimentary nutrient cycle) है?",
+    "oEn": ["Carbon cycle", "Nitrogen cycle", "Phosphorus cycle", "Hydrogen cycle"],
+    "oHi": ["कार्बन चक्र", "नाइट्रोजन चक्र", "फास्फोरस चक्र", "हाइड्रोजन चक्र"],
+    "c": 2,
+    "exp": "Phosphorus and Sulphur cycles are sedimentary, meaning their reservoir is the Earth's crust (rocks).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In a hydrosere succession, the stage that follows the 'Submerged plant stage' is:",
+    "hi": "जलक्रमक (Hydrosere) अनुक्रमण में, 'निमग्न पादप चरण' (Submerged plant stage) के बाद का चरण कौन सा है?",
+    "oEn": ["Phytoplankton stage", "Rooted-floating angiosperm stage", "Reed-swamp stage", "Scrub stage"],
+    "oHi": ["पादप प्लवक चरण", "मूल-प्लवी आवृतबीजी चरण", "रीड-स्वैम्प चरण", "झाड़ी चरण"],
+    "c": 1,
+    "exp": "The sequence is Phytoplankton -> Submerged plant -> Rooted-floating angiosperm -> Reed-swamp -> Marsh-meadow -> Scrub -> Forest.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "According to the 'Species-Area Relationship' (log S = log C + Z log A), what is the value of 'Z' for a wide range of taxonomic groups?",
+    "hi": "'प्रजाति-क्षेत्र संबंध' (log S = log C + Z log A) के अनुसार, टैक्सोनॉमिक समूहों की एक विस्तृत श्रृंखला के लिए 'Z' का मान क्या है?",
+    "oEn": ["0.1 to 0.2", "0.6 to 1.2", "0.01 to 0.05", "1.5 to 2.0"],
+    "oHi": ["0.1 से 0.2", "0.6 से 1.2", "0.01 से 0.05", "1.5 से 2.0"],
+    "c": 0,
+    "exp": "The regression coefficient (Z) typically lies in the range of 0.1 to 0.2, regardless of the taxonomic group or region.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is considered an 'Ex-situ' conservation strategy?",
+    "hi": "निम्नलिखित में से किसे 'बहि:स्थाने' (Ex-situ) संरक्षण रणनीति माना जाता है?",
+    "oEn": ["Biosphere reserves", "National parks", "Sacred groves", "Cryopreservation"],
+    "oHi": ["जीवमंडल रिज़र्व", "राष्ट्रीय उद्यान", "पवित्र उपवन", "क्रायोप्रेज़र्वेशन"],
+    "c": 3,
+    "exp": "Cryopreservation (seed banks, gamete storage) is an ex-situ method, meaning conservation outside the natural habitat.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Biomagnification of DDT in an aquatic food chain is maximum in which of the following?",
+    "hi": "जलीय खाद्य श्रृंखला में DDT का जैव-आवर्धन (Biomagnification) किसमें अधिकतम होता है?",
+    "oEn": ["Phytoplankton", "Zooplankton", "Small fish", "Fish-eating birds"],
+    "oHi": ["पादप प्लवक", "प्राणी प्लवक", "छोटी मछली", "मछली खाने वाले पक्षी"],
+    "c": 3,
+    "exp": "Biomagnification increases concentration at higher trophic levels; fish-eating birds are at the top and accumulate the most.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "What is the primary cause of ozone depletion in the stratosphere?",
+    "hi": "समताप मंडल (stratosphere) में ओजोन परत के क्षय का प्राथमिक कारण क्या है?",
+    "oEn": ["Carbon dioxide", "CFCs (Chlorofluorocarbons)", "Nitrogen oxides", "Sulfur dioxide"],
+    "oHi": ["कार्बन डाइऑक्साइड", "CFCs (क्लोरोफ्लोरोकार्बन)", "नाइट्रोजन ऑक्साइड", "सल्फर डाइऑक्साइड"],
+    "c": 1,
+    "exp": "CFCs release chlorine atoms in the stratosphere, which catalyze the breakdown of ozone molecules.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which gas contributes the highest percentage to the greenhouse effect?",
+    "hi": "कौन सी गैस ग्रीनहाउस प्रभाव में सबसे अधिक योगदान देती है?",
+    "oEn": ["Methane", "Nitrous oxide", "Carbon dioxide", "CFCs"],
+    "oHi": ["मीथेन", "नाइट्रस ऑक्साइड", "कार्बन डाइऑक्साइड", "CFCs"],
+    "c": 2,
+    "exp": "Carbon dioxide contributes approximately 60% of the greenhouse effect.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Mycorrhiza is an example of which type of population interaction?",
+    "hi": "माइकोराइजा (Mycorrhiza) किस प्रकार की जनसंख्या पारस्परिक क्रिया का उदाहरण है?",
+    "oEn": ["Mutualism", "Commensalism", "Amensalism", "Parasitism"],
+    "oHi": ["सहुपकारिता (Mutualism)", "सहभोजिता (Commensalism)", "असमभोजिता (Amensalism)", "परजीविता (Parasitism)"],
+    "c": 0,
+    "exp": "Mycorrhiza is a mutualistic association between fungi and roots of higher plants.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The rate at which new organic matter is created by producers is called:",
+    "hi": "उत्पादकों द्वारा नए कार्बनिक पदार्थ के निर्माण की दर क्या कहलाती है?",
+    "oEn": ["Net Primary Productivity", "Gross Primary Productivity", "Secondary Productivity", "Standing crop"],
+    "oHi": ["शुद्ध प्राथमिक उत्पादकता", "सकल प्राथमिक उत्पादकता", "द्वितीयक उत्पादकता", "खड़ी फसल (Standing crop)"],
+    "c": 1,
+    "exp": "Gross Primary Productivity (GPP) is the total rate of photosynthesis. Net Primary Productivity is GPP minus respiration losses.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which organism is a pioneer species in a xerarch succession (Lithosere)?",
+    "hi": "मरुक्रमक (Xerarch succession/Lithosere) में अग्रणी प्रजाति (pioneer species) कौन सा जीव है?",
+    "oEn": ["Mosses", "Lichens", "Grasses", "Shrubs"],
+    "oHi": ["काई (Mosses)", "लाइकेन (Lichens)", "घास", "झाड़ियाँ"],
+    "c": 1,
+    "exp": "Lichens are the pioneer species on bare rock, secreting acids to dissolve rock and form soil.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "According to Allen's rule, animals living in colder climates generally have:",
+    "hi": "एलन के नियम (Allen's rule) के अनुसार, ठंडी जलवायु में रहने वाले जानवरों के पास आमतौर पर क्या होता है?",
+    "oEn": ["Longer ears and limbs", "Shorter ears and limbs", "Larger body size", "Smaller body size"],
+    "oHi": ["लंबे कान और अंग", "छोटे कान और अंग", "बड़ा शरीर का आकार", "छोटा शरीर का आकार"],
+    "c": 1,
+    "exp": "Allen's rule states that mammals in colder climates have shorter ears and limbs to minimize heat loss.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "What is the phenomenon of enrichment of water bodies with nutrients like nitrogen and phosphorus, leading to excessive growth of algae?",
+    "hi": "नाइट्रोजन और फास्फोरस जैसे पोषक तत्वों के साथ जल निकायों के संवर्धन की प्रक्रिया, जो शैवाल की अत्यधिक वृद्धि का कारण बनती है, क्या कहलाती है?",
+    "oEn": ["Biomagnification", "Eutrophication", "Leaching", "Bioaccumulation"],
+    "oHi": ["जैव-आवर्धन", "सुपोषण (Eutrophication)", "निक्षालन", "जैव-संचयन"],
+    "c": 1,
+    "exp": "Eutrophication is the excessive growth of algae due to nutrient enrichment, which can deplete oxygen.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is considered an 'In-situ' conservation method?",
+    "hi": "निम्नलिखित में से किसे 'स्व-स्थाने' (In-situ) संरक्षण विधि माना जाता है?",
+    "oEn": ["Botanical gardens", "Zoological parks", "Sacred groves", "Seed banks"],
+    "oHi": ["वनस्पति उद्यान", "चिड़ियाघर", "पवित्र उपवन", "बीज बैंक"],
+    "c": 2,
+    "exp": "Sacred groves are areas where the entire ecosystem is protected in its natural state, thus In-situ.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The age pyramid of a declining population is:",
+    "hi": "घटती हुई जनसंख्या का आयु पिरामिड कैसा होता है?",
+    "oEn": ["Triangular shaped", "Urn-shaped", "Bell-shaped", "Rectangular shaped"],
+    "oHi": ["त्रिकोणीय आकार", "कलश (Urn) आकार", "घंटी के आकार का", "आयताकार"],
+    "c": 1,
+    "exp": "Declining populations have a small pre-reproductive base, giving the pyramid an urn shape.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "What is the function of an Electrostatic Precipitator in industries?",
+    "hi": "उद्योगों में इलेक्ट्रोस्टैटिक प्रीसिपिटेटर (Electrostatic Precipitator) का कार्य क्या है?",
+    "oEn": ["To remove gaseous pollutants", "To remove particulate matter", "To treat wastewater", "To reduce noise pollution"],
+    "oHi": ["गैसीय प्रदूषकों को हटाने के लिए", "कणिकीय पदार्थ (particulate matter) को हटाने के लिए", "अपशिष्ट जल के उपचार के लिए", "ध्वनि प्रदूषण को कम करने के लिए"],
+    "c": 1,
+    "exp": "Electrostatic precipitators are used to remove over 99% of particulate matter from industrial exhaust.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In the carbon cycle, which of the following is a major reservoir of carbon?",
+    "hi": "कार्बन चक्र में, निम्नलिखित में से कौन सा कार्बन का एक प्रमुख भंडार (reservoir) है?",
+    "oEn": ["Atmosphere", "Ocean", "Soil", "Fossil fuels"],
+    "oHi": ["वायुमंडल", "महासागर", "मिट्टी", "जीवाश्म ईंधन"],
+    "c": 1,
+    "exp": "Oceans act as the largest reservoir of carbon on Earth, holding about 71% of the global carbon.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "What is the 'Standing Crop' in an ecosystem?",
+    "hi": "पारिस्थितिकी तंत्र में 'खड़ी फसल' (Standing Crop) क्या है?",
+    "oEn": ["Total energy produced per year", "Total living biomass at a trophic level at a particular time", "Total minerals in the soil", "Total number of individuals"],
+    "oHi": ["प्रति वर्ष उत्पादित कुल ऊर्जा", "किसी विशेष समय पर एक पोषण स्तर पर कुल जीवित जैवभार", "मिट्टी में कुल खनिज", "व्यक्तियों की कुल संख्या"],
+    "c": 1,
+    "exp": "Standing crop is the amount of living material (biomass) present in a population or trophic level at a given time.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is NOT an attribute of a population?",
+    "hi": "निम्नलिखित में से कौन सा एक जनसंख्या का गुण (attribute) नहीं है?",
+    "oEn": ["Natality", "Mortality", "Sex ratio", "Stratification"],
+    "oHi": ["जन्म दर (Natality)", "मृत्यु दर (Mortality)", "लिंग अनुपात", "स्तरीकरण (Stratification)"],
+    "c": 3,
+    "exp": "Stratification (vertical layering of species) is an attribute of a community, not a single population.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In the decomposition cycle, 'Leaching' refers to:",
+    "hi": "अपघटन चक्र में, 'निक्षालन' (Leaching) का तात्पर्य क्या है?",
+    "oEn": ["Water-soluble inorganic nutrients going into the soil horizon", "Microbial breakdown of detritus", "Fragmentation of detritus", "Formation of humus"],
+    "oHi": ["जल-विलेय अकार्बनिक पोषक तत्वों का मिट्टी की परत में जाना", "अपरद का सूक्ष्मजैविक अपघटन", "अपरद का खंडीकरण", "ह्यूमस का निर्माण"],
+    "c": 0,
+    "exp": "During leaching, water-soluble nutrients go down into the soil horizon and get precipitated as unavailable salts.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which act was implemented in India to control air pollution?",
+    "hi": "भारत में वायु प्रदूषण को नियंत्रित करने के लिए कौन सा अधिनियम लागू किया गया था?",
+    "oEn": ["Water Act", "Air Act", "Environment Protection Act", "Forest Conservation Act"],
+    "oHi": ["जल अधिनियम", "वायु अधिनियम", "पर्यावरण संरक्षण अधिनियम", "वन संरक्षण अधिनियम"],
+    "c": 1,
+    "exp": "The Air (Prevention and Control of Pollution) Act was implemented in 1981.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is a characteristic of a 'K-selected' species?",
+    "hi": "निम्नलिखित में से कौन सी एक 'K-selected' प्रजाति की विशेषता है?",
+    "oEn": ["Produce large number of offspring", "Small body size", "Produce few, large offspring", "Short life span"],
+    "oHi": ["बड़ी संख्या में संतानों का उत्पादन", "छोटा शरीर का आकार", "कम, बड़ी संतानों का उत्पादन", "छोटा जीवन काल"],
+    "c": 2,
+    "exp": "K-selected species produce few, large offspring and invest heavily in parental care; they are stable in environments at carrying capacity.",
+    "Pyq": "Trend_Based_2026"
+  }
+]
