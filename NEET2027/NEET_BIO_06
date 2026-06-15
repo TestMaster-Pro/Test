@@ -1,0 +1,231 @@
+Here is a curated set of 25 high-yield, moderate-to-hard difficulty questions focused on "Reproduction Biology" for NEET 2026. These align with the current trend of assertion-reasoning, statement-based, and concept-application questions found in recent exams.
+```json
+[
+  {
+    "en": "Which layer of the microsporangium is responsible for nourishing the developing pollen grains?",
+    "hi": "माइक्रोस्पोरेंजियम की कौन सी परत विकासशील पराग कणों (pollen grains) को पोषण प्रदान करने के लिए जिम्मेदार है?",
+    "oEn": ["Epidermis", "Endothecium", "Middle layers", "Tapetum"],
+    "oHi": ["एपिडर्मिस", "एंडोथिसियम", "मध्य परतें", "टेपेटम"],
+    "c": 3,
+    "exp": "Tapetum is the innermost wall layer of the microsporangium, providing nutrition to developing microspores.",
+    "Pyq": "NEET_2023"
+  },
+  {
+    "en": "During oogenesis, the primary oocyte completes meiosis I and enters meiosis II only after:",
+    "hi": "ओजेनेसिस (oogenesis) के दौरान, प्राथमिक ओसाइट अर्धसूत्रीविभाजन I (meiosis I) पूरा करता है और अर्धसूत्रीविभाजन II में प्रवेश करता है, केवल तब जब:",
+    "oEn": ["Puberty", "Ovulation", "Fertilization", "Menopause"],
+    "oHi": ["यौवन (Puberty)", "अंडोत्सर्ग (Ovulation)", "निषेचन (Fertilization)", "रजोनिवृत्ति (Menopause)"],
+    "c": 2,
+    "exp": "Secondary oocyte arrests at Metaphase II and completes meiosis II only upon the entry of sperm during fertilization.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which hormone surge is essential for the rupture of the Graafian follicle and release of the ovum?",
+    "hi": "ग्राफियन फॉलिकल (Graafian follicle) के फटने और ओवम (ovum) के रिलीज के लिए कौन सा हार्मोन सर्ज आवश्यक है?",
+    "oEn": ["FSH", "LH", "Estrogen", "Progesterone"],
+    "oHi": ["FSH", "LH", "एस्ट्रोजन", "प्रोजेस्टेरोन"],
+    "c": 1,
+    "exp": "The LH surge (Luteinizing Hormone) triggers ovulation approximately 24-36 hours before it occurs.",
+    "Pyq": "NEET_2024"
+  },
+  {
+    "en": "In angiosperms, what represents the female gametophyte?",
+    "hi": "आवृतबीजी (Angiosperms) में, मादा युग्मकोद्भिद (female gametophyte) का प्रतिनिधित्व क्या करता है?",
+    "oEn": ["Embryo sac", "Nucellus", "Megaspore mother cell", "Ovary"],
+    "oHi": ["भ्रूणकोष (Embryo sac)", "न्यूसेलस", "मेगास्पोर मदर सेल", "अंडाशय"],
+    "c": 0,
+    "exp": "The embryo sac is the mature female gametophyte in flowering plants, consisting of 7 cells and 8 nuclei.",
+    "Pyq": "NEET_2025"
+  },
+  {
+    "en": "The function of the 'zona pellucida' layer in an ovum is:",
+    "hi": "ओवम में 'जोना पेलुसिडा' (zona pellucida) परत का कार्य है:",
+    "oEn": ["Nourishment of ovum", "Protection", "Preventing polyspermy", "Supporting sperm"],
+    "oHi": ["ओवम का पोषण", "सुरक्षा", "पॉलीस्पर्मी (polyspermy) को रोकना", "शुक्राणु का समर्थन करना"],
+    "c": 2,
+    "exp": "Zona pellucida contains receptors for sperm and prevents the entry of multiple sperms after the first one enters.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which cells in the testis provide nutrition to the germ cells?",
+    "hi": "वृषण (testis) में कौन सी कोशिकाएं जर्म कोशिकाओं को पोषण प्रदान करती हैं?",
+    "oEn": ["Leydig cells", "Sertoli cells", "Spermatogonia", "Primary spermatocytes"],
+    "oHi": ["लेडिग कोशिकाएं", "सर्टोली कोशिकाएं", "स्पर्मेटोगोनिया", "प्राथमिक स्पर्मेटोसाइट्स"],
+    "c": 1,
+    "exp": "Sertoli cells (nurse cells) provide structural and nutritional support to developing germ cells.",
+    "Pyq": "NEET_2022"
+  },
+  {
+    "en": "Triple fusion in angiosperms results in the formation of:",
+    "hi": "आवृतबीजी (Angiosperms) में ट्रिपल फ्यूजन (triple fusion) से किसका निर्माण होता है?",
+    "oEn": ["Zygote", "Primary Endosperm Nucleus", "Embryo", "Seed coat"],
+    "oHi": ["युग्मनज (Zygote)", "प्राथमिक भ्रूणपोष केंद्रक (Primary Endosperm Nucleus)", "भ्रूण (Embryo)", "बीज आवरण"],
+    "c": 1,
+    "exp": "Triple fusion involves the fusion of one male gamete with two polar nuclei, forming the triploid PEN.",
+    "Pyq": "NEET_2024"
+  },
+  {
+    "en": "Identify the hormone responsible for the maintenance of the corpus luteum:",
+    "hi": "कॉर्पस ल्यूटियम (corpus luteum) के रखरखाव के लिए जिम्मेदार हार्मोन की पहचान करें:",
+    "oEn": ["hCG", "LH", "FSH", "Progesterone"],
+    "oHi": ["hCG", "LH", "FSH", "प्रोजेस्टेरोन"],
+    "c": 1,
+    "exp": "LH maintains the corpus luteum during the luteal phase of the menstrual cycle.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is an example of an IUD (Intrauterine Device)?",
+    "hi": "निम्नलिखित में से कौन सा एक IUD (इंट्रायूटेरिन डिवाइस) का उदाहरण है?",
+    "oEn": ["Mala D", "Saheli", "Copper T", "Condoms"],
+    "oHi": ["माला डी (Mala D)", "सहेली (Saheli)", "कॉपर टी (Copper T)", "कंडोम"],
+    "c": 2,
+    "exp": "Copper T (Cu-T) is a copper-releasing IUD that increases phagocytosis of sperm within the uterus.",
+    "Pyq": "NEET_2023"
+  },
+  {
+    "en": "Apomixis in plants is a form of:",
+    "hi": "पौधों में एपोमिक्सिस (Apomixis) किसका एक रूप है?",
+    "oEn": ["Sexual reproduction", "Asexual reproduction", "Vegetative propagation", "Parthenocarpy"],
+    "oHi": ["लैंगिक प्रजनन", "अलैंगिक प्रजनन", "वनस्पति प्रसार", "पार्थेनोकार्पी"],
+    "c": 1,
+    "exp": "Apomixis is a form of asexual reproduction that mimics sexual reproduction (seed formation without fertilization).",
+    "Pyq": "NEET_2025"
+  },
+  {
+    "en": "The stage of the embryo that implants in the human uterus is:",
+    "hi": "मानव गर्भाशय में प्रत्यारोपित (implants) होने वाले भ्रूण की अवस्था है:",
+    "oEn": ["Morula", "Blastocyst", "Gastrula", "Zygote"],
+    "oHi": ["मोरुला", "ब्लास्टोसिस्ट", "गैस्ट्रुला", "युग्मनज (Zygote)"],
+    "c": 1,
+    "exp": "The blastocyst stage embeds itself into the endometrium of the uterus.",
+    "Pyq": "NEET_2024"
+  },
+  {
+    "en": "Which part of the sperm contains enzymes for egg penetration?",
+    "hi": "शुक्राणु (sperm) के किस भाग में अंडे में प्रवेश के लिए एंजाइम होते हैं?",
+    "oEn": ["Head", "Neck", "Middle piece", "Acrosome"],
+    "oHi": ["सिर", "गर्दन", "मध्य भाग", "एक्रोसोम"],
+    "c": 3,
+    "exp": "The acrosome contains hydrolytic enzymes (like hyaluronidase) that help penetrate the egg's zona pellucida.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Embryo sac is to ovule as ___ is to anther.",
+    "hi": "भ्रूणकोष (Embryo sac) का संबंध बीजांड (ovule) से वैसा ही है जैसा ___ का परागकोष (anther) से है।",
+    "oEn": ["Stamen", "Pollen grain", "Microsporangium", "Filament"],
+    "oHi": ["पुंकेसर", "पराग कण", "लघुबीजाणुधानी (Microsporangium)", "तंतु (Filament)"],
+    "c": 1,
+    "exp": "The pollen grain is the male gametophyte, analogous to the embryo sac (female gametophyte) contained within the anther/ovule respectively.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Parturition is induced by a complex neuroendocrine mechanism involving:",
+    "hi": "प्रसव (Parturition) एक जटिल न्यूरोएंडोक्राइन तंत्र द्वारा प्रेरित होता है जिसमें शामिल है:",
+    "oEn": ["Oxytocin and Relaxin", "Cortisol, Estrogen, Oxytocin", "Progesterone only", "FSH and LH"],
+    "oHi": ["ऑक्सीटोसिन और रिलैक्सिन", "कॉर्टिसोल, एस्ट्रोजन, ऑक्सीटोसिन", "केवल प्रोजेस्टेरोन", "FSH और LH"],
+    "c": 1,
+    "exp": "The signal for parturition originates from the fully developed fetus and placenta, releasing cortisol, estrogen, and oxytocin.",
+    "Pyq": "NEET_2022"
+  },
+  {
+    "en": "In a flower, the gynoecium consists of:",
+    "hi": "एक फूल में, जायांग (gynoecium) से मिलकर बनता है:",
+    "oEn": ["Stigma, style, ovary", "Anther, filament", "Petals, sepals", "Ovules only"],
+    "oHi": ["वर्तिकाग्र, वर्तिका, अंडाशय", "परागकोष, तंतु", "पंखुड़ियाँ, बाह्यदल", "केवल बीजांड"],
+    "c": 0,
+    "exp": "Gynoecium is the female reproductive part consisting of stigma, style, and ovary.",
+    "Pyq": "NEET_2023"
+  },
+  {
+    "en": "What is the role of the Leydig cells?",
+    "hi": "लेडिग कोशिकाओं (Leydig cells) की क्या भूमिका है?",
+    "oEn": ["Sperm production", "Testosterone synthesis", "Nourishment", "Storage"],
+    "oHi": ["शुक्राणु उत्पादन", "टेस्टोस्टेरोन संश्लेषण", "पोषण", "भंडारण"],
+    "c": 1,
+    "exp": "Leydig cells (interstitial cells) produce androgens, primarily testosterone.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Cleistogamous flowers are:",
+    "hi": "क्लिस्टोगैमस (Cleistogamous) फूल होते हैं:",
+    "oEn": ["Always open", "Always closed", "Cross-pollinated", "Wind-pollinated"],
+    "oHi": ["हमेशा खुले", "हमेशा बंद", "पर-परागण", "वायु-परागण"],
+    "c": 1,
+    "exp": "Cleistogamous flowers do not open at all; they ensure self-pollination (autogamy).",
+    "Pyq": "NEET_2024"
+  },
+  {
+    "en": "Which phase of the menstrual cycle is also known as the 'Secretory phase'?",
+    "hi": "मासिक धर्म चक्र (menstrual cycle) के किस चरण को 'स्रावी चरण' (secretory phase) के रूप में भी जाना जाता है?",
+    "oEn": ["Menstrual phase", "Follicular phase", "Luteal phase", "Ovulatory phase"],
+    "oHi": ["मासिक धर्म चरण", "कूपिक चरण (Follicular phase)", "ल्यूटल चरण", "डिंबोत्सर्जन चरण (Ovulatory phase)"],
+    "c": 2,
+    "exp": "The luteal phase (days 15-28) is the secretory phase where the endometrium prepares for implantation.",
+    "Pyq": "NEET_2025"
+  },
+  {
+    "en": "What is the function of the 'tapetum' in microsporangium?",
+    "hi": "माइक्रोस्पोरेंजियम में 'टेपेटम' (tapetum) का कार्य क्या है?",
+    "oEn": ["Protection", "Dehiscence", "Nutrition", "Mechanical support"],
+    "oHi": ["सुरक्षा", "विस्फोट (Dehiscence)", "पोषण", "यांत्रिक समर्थन"],
+    "c": 2,
+    "exp": "Tapetum provides nutrition to the developing pollen grains.",
+    "Pyq": "NEET_2022"
+  },
+  {
+    "en": "Which structure connects the fetus to the placenta?",
+    "hi": "कौन सी संरचना भ्रूण को प्लेसेंटा (placenta) से जोड़ती है?",
+    "oEn": ["Umbilical cord", "Amniotic sac", "Chorionic villi", "Yolk sac"],
+    "oHi": ["नाल (Umbilical cord)", "अम्नियोटिक थैली", "कोरियोनिक विली", "योक थैली"],
+    "c": 0,
+    "exp": "The umbilical cord transports substances between the mother and the fetus via the placenta.",
+    "Pyq": "NEET_2025"
+  },
+  {
+    "en": "The method of sterilization in males is called:",
+    "hi": "पुरुषों में नसबंदी की विधि को कहा जाता है:",
+    "oEn": ["Tubectomy", "Vasectomy", "Laparoscopy", "IUD"],
+    "oHi": ["ट्यूबेक्टोमी", "वासेक्टोमी", "लैप्रोस्कोपी", "IUD"],
+    "c": 1,
+    "exp": "Vasectomy involves cutting or tying the vas deferens.",
+    "Pyq": "NEET_2023"
+  },
+  {
+    "en": "Endosperm development precedes embryo development in angiosperms. Why?",
+    "hi": "आवृतबीजी (Angiosperms) में भ्रूण के विकास से पहले भ्रूणपोष (endosperm) का विकास होता है। क्यों?",
+    "oEn": ["To provide nutrition", "To protect the zygote", "To attract pollinators", "It is accidental"],
+    "oHi": ["पोषण प्रदान करने के लिए", "युग्मनज की रक्षा के लिए", "परागणकों को आकर्षित करने के लिए", "यह आकस्मिक है"],
+    "c": 0,
+    "exp": "Endosperm provides essential nourishment for the developing embryo.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In humans, fertilization occurs at the:",
+    "hi": "मनुष्यों में, निषेचन (fertilization) कहाँ होता है?",
+    "oEn": ["Uterus", "Ovary", "Ampulla-isthmus junction", "Vagina"],
+    "oHi": ["गर्भाशय", "अंडाशय", "एम्पुला-इस्थमस जंक्शन", "योनि"],
+    "c": 2,
+    "exp": "Fertilization occurs specifically at the ampullary-isthmic junction of the fallopian tube.",
+    "Pyq": "NEET_2024"
+  },
+  {
+    "en": "What is the ploidy of the secondary nucleus in the embryo sac?",
+    "hi": "भ्रूणकोष (embryo sac) में द्वितीयक केंद्रक (secondary nucleus) की प्लॉयडी क्या है?",
+    "oEn": ["Haploid", "Diploid", "Triploid", "Tetraploid"],
+    "oHi": ["हैप्लोइड", "डिप्लोइड", "ट्रिप्लोइड", "टेट्राप्लोइड"],
+    "c": 1,
+    "exp": "The secondary nucleus is formed by the fusion of two haploid polar nuclei, making it diploid.",
+    "Pyq": "NEET_2023"
+  },
+  {
+    "en": "The presence of hCG in urine is the basis for:",
+    "hi": "मूत्र में hCG की उपस्थिति किसका आधार है?",
+    "oEn": ["Pregnancy test", "Ovulation test", "Infection test", "Kidney test"],
+    "oHi": ["गर्भावस्था परीक्षण", "डिंबोत्सर्जन परीक्षण", "संक्रमण परीक्षण", "गुर्दा परीक्षण"],
+    "c": 0,
+    "exp": "hCG (Human Chorionic Gonadotropin) is produced by the placenta during pregnancy and is excreted in urine.",
+    "Pyq": "NEET_2024"
+  }
+]
+
+```
