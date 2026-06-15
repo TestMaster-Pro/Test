@@ -1,0 +1,227 @@
+[
+  {
+    "en": "For an ideal gas, the molar heat capacity at constant pressure (Cp) and constant volume (Cv) are related as:",
+    "hi": "एक आदर्श गैस के लिए, स्थिर दबाव (Cp) और स्थिर आयतन (Cv) पर मोलर ऊष्मा धारिता इस प्रकार संबंधित हैं:",
+    "oEn": ["Cp/Cv = R", "Cp - Cv = R", "Cv - Cp = R", "Cp + Cv = R"],
+    "oHi": ["Cp/Cv = R", "Cp - Cv = R", "Cv - Cp = R", "Cp + Cv = R"],
+    "c": 1,
+    "exp": "Mayer's relation for an ideal gas is Cp - Cv = R.",
+    "Pyq": "NEET_2024"
+  },
+  {
+    "en": "In a thermodynamic process, the internal energy of an ideal gas increases by 100 J, and the gas does 50 J of work. The heat supplied to the gas is:",
+    "hi": "एक ऊष्मागतिक प्रक्रिया में, एक आदर्श गैस की आंतरिक ऊर्जा 100 J बढ़ जाती है, और गैस 50 J कार्य करती है। गैस को दी गई ऊष्मा है:",
+    "oEn": ["150 J", "50 J", "200 J", "100 J"],
+    "oHi": ["150 J", "50 J", "200 J", "100 J"],
+    "c": 0,
+    "exp": "First law: ΔQ = ΔU + W = 100 J + 50 J = 150 J.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The average kinetic energy of a molecule of an ideal gas at temperature T is:",
+    "hi": "T तापमान पर एक आदर्श गैस के अणु की औसत गतिज ऊर्जा है:",
+    "oEn": ["5/2 kT", "3/2 kT", "1/2 kT", "3kT"],
+    "oHi": ["5/2 kT", "3/2 kT", "1/2 kT", "3kT"],
+    "c": 1,
+    "exp": "Average translational kinetic energy per molecule is 3/2 kT.",
+    "Pyq": "NEET_2023"
+  },
+  {
+    "en": "The root mean square (rms) speed of gas molecules at absolute temperature T is:",
+    "hi": "परम तापमान T पर गैस अणुओं की वर्ग माध्य मूल (rms) चाल है:",
+    "oEn": ["3RT/M", "sqrt(2RT/M)", "sqrt(3RT/M)", "sqrt(RT/M)"],
+    "oHi": ["3RT/M", "sqrt(2RT/M)", "sqrt(3RT/M)", "sqrt(RT/M)"],
+    "c": 2,
+    "exp": "v_rms = sqrt(3RT/M), where M is molar mass.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "If the temperature of a black body is doubled, the rate of energy radiation becomes:",
+    "hi": "यदि एक ब्लैक बॉडी का तापमान दोगुना कर दिया जाए, तो ऊर्जा विकिरण की दर हो जाती है:",
+    "oEn": ["8 times", "16 times", "4 times", "2 times"],
+    "oHi": ["8 गुना", "16 गुना", "4 गुना", "2 गुना"],
+    "c": 1,
+    "exp": "Stefan-Boltzmann Law: E ∝ T^4. If T becomes 2T, E becomes (2)^4 = 16 times.",
+    "Pyq": "NEET_2022"
+  },
+  {
+    "en": "For an adiabatic process, the relation between Pressure (P) and Temperature (T) is:",
+    "hi": "रुद्धोष्म प्रक्रिया (adiabatic process) के लिए, दबाव (P) और तापमान (T) के बीच संबंध है:",
+    "oEn": ["P^γ * T = constant", "P^(1-γ) * T^γ = constant", "P * T = constant", "P * T^γ = constant"],
+    "oHi": ["P^γ * T = constant", "P^(1-γ) * T^γ = constant", "P * T = constant", "P * T^γ = constant"],
+    "c": 1,
+    "exp": "Using PV^γ = const and PV = nRT, substituting V gives P^(1-γ) * T^γ = constant.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The degree of freedom for a diatomic gas molecule at room temperature is:",
+    "hi": "कमरे के तापमान पर द्वि-परमाणुक गैस अणु के लिए स्वतंत्रता की कोटि (degree of freedom) है:",
+    "oEn": ["5", "7", "6", "3"],
+    "oHi": ["5", "7", "6", "3"],
+    "c": 0,
+    "exp": "At room temperature, diatomic molecules have 3 translational and 2 rotational degrees of freedom (f=5).",
+    "Pyq": "NEET_2023"
+  },
+  {
+    "en": "In an isothermal process, the internal energy of an ideal gas:",
+    "hi": "समतापीय प्रक्रिया (isothermal process) में, एक आदर्श गैस की आंतरिक ऊर्जा:",
+    "oEn": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+    "oHi": ["बढ़ती है", "घटती है", "स्थिर रहती है", "शून्य हो जाती है"],
+    "c": 2,
+    "exp": "Internal energy U is a function of temperature T. In isothermal (constant T), ΔU = 0.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following processes represents an isobaric process?",
+    "hi": "निम्नलिखित में से कौन सी प्रक्रिया समदाबीय (isobaric) प्रक्रिया को दर्शाती है?",
+    "oEn": ["Constant temperature", "Constant pressure", "No heat exchange", "Constant volume"],
+    "oHi": ["स्थिर तापमान", "स्थिर दबाव", "कोई ऊष्मा विनिमय नहीं", "स्थिर आयतन"],
+    "c": 1,
+    "exp": "An isobaric process is one where the system maintains constant pressure.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The work done in an isochoric process is:",
+    "hi": "समआयतनिक (isochoric) प्रक्रिया में किया गया कार्य है:",
+    "oEn": ["Positive", "Zero", "Maximum", "Negative"],
+    "oHi": ["धनात्मक", "शून्य", "अधिकतम", "ऋणात्मक"],
+    "c": 1,
+    "exp": "W = P * ΔV. In isochoric process, ΔV = 0, so W = 0.",
+    "Pyq": "NEET_2022"
+  },
+  {
+    "en": "The efficiency of a Carnot engine working between 27°C and 127°C is:",
+    "hi": "27°C और 127°C के बीच काम करने वाले कार्नोट इंजन की दक्षता है:",
+    "oEn": ["33%", "50%", "20%", "25%"],
+    "oHi": ["33%", "50%", "20%", "25%"],
+    "c": 3,
+    "exp": "η = 1 - (T_sink/T_source) = 1 - (300/400) = 0.25 = 25%.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which law of thermodynamics defines temperature?",
+    "hi": "ऊष्मप्रवैगिकी का कौन सा नियम तापमान को परिभाषित करता है?",
+    "oEn": ["Second law", "Zeroth law", "Third law", "First law"],
+    "oHi": ["द्वितीय नियम", "शून्य-व नियम (Zeroth law)", "तृतीय नियम", "प्रथम नियम"],
+    "c": 1,
+    "exp": "The Zeroth Law of thermodynamics introduces the concept of temperature.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The mean free path (λ) of gas molecules is inversely proportional to:",
+    "hi": "गैस अणुओं का माध्य मुक्त पथ (λ) किसके व्युत्क्रमानुपाती होता है?",
+    "oEn": ["Collision cross section", "Number of molecules", "All of these", "Density"],
+    "oHi": ["टक्कर क्रॉस सेक्शन", "अणुओं की संख्या", "इनमें से सभी", "घनत्व"],
+    "c": 2,
+    "exp": "λ = 1/(√2 n π d^2). It is inversely proportional to number density, cross-section, etc.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In a cyclic process, the net change in internal energy is:",
+    "hi": "एक चक्रीय प्रक्रिया में, आंतरिक ऊर्जा में कुल परिवर्तन है:",
+    "oEn": ["Positive", "Zero", "Negative", "Depends on path"],
+    "oHi": ["धनात्मक", "शून्य", "ऋणात्मक", "पथ पर निर्भर करता है"],
+    "c": 1,
+    "exp": "Internal energy is a state function; hence, ΔU = 0 in any cycle.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The internal energy of an ideal gas depends only on:",
+    "hi": "एक आदर्श गैस की आंतरिक ऊर्जा केवल किस पर निर्भर करती है?",
+    "oEn": ["Pressure", "Volume", "Temperature", "Density"],
+    "oHi": ["दबाव", "आयतन", "तापमान", "घनत्व"],
+    "c": 2,
+    "exp": "For an ideal gas, internal energy is purely a function of temperature.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which process is reversible?",
+    "hi": "कौन सी प्रक्रिया प्रतिवर्ती (reversible) है?",
+    "oEn": ["Rapid compression", "Free expansion", "Slow isothermal expansion", "Explosion"],
+    "oHi": ["तेज संपीड़न", "मुक्त प्रसार", "धीमा समतापीय प्रसार", "विस्फोट"],
+    "c": 2,
+    "exp": "Reversible processes are quasi-static and frictionless.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "For a real gas, the compressibility factor Z = PV/nRT is:",
+    "hi": "एक वास्तविक गैस के लिए, संपीड्यता कारक (compressibility factor) Z = PV/nRT है:",
+    "oEn": ["Always less than 1", "Not equal to 1", "Always greater than 1", "Equal to 1"],
+    "oHi": ["हमेशा 1 से कम", "1 के बराबर नहीं", "हमेशा 1 से अधिक", "1 के बराबर"],
+    "c": 1,
+    "exp": "Real gases deviate from ideal behavior, so Z ≠ 1.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The pressure of an ideal gas is:",
+    "hi": "एक आदर्श गैस का दबाव है:",
+    "oEn": ["3/2 * KE per unit volume", "1/2 * KE per unit volume", "2/3 * KE per unit volume", "KE per unit volume"],
+    "oHi": ["3/2 * प्रति इकाई आयतन गतिज ऊर्जा", "1/2 * प्रति इकाई आयतन गतिज ऊर्जा", "2/3 * प्रति इकाई आयतन गतिज ऊर्जा", "प्रति इकाई आयतन गतिज ऊर्जा"],
+    "c": 2,
+    "exp": "Kinetic theory relates pressure to energy density as P = 2/3 * (KE/V).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Entropy is a measure of:",
+    "hi": "एंट्रॉपी (Entropy) किसका माप है?",
+    "oEn": ["Work", "Efficiency", "Disorder", "Energy"],
+    "oHi": ["कार्य", "दक्षता", "अव्यवस्था (Disorder)", "ऊर्जा"],
+    "c": 2,
+    "exp": "Entropy quantifies the degree of disorder in a system.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The value of Universal Gas Constant R is approximately:",
+    "hi": "सार्वत्रिक गैस नियतांक R का मान लगभग है:",
+    "oEn": ["0.0821 L·atm/mol·K", "8.314 J/mol·K", "All of these", "1.987 cal/mol·K"],
+    "oHi": ["0.0821 L·atm/mol·K", "8.314 J/mol·K", "इनमें से सभी", "1.987 cal/mol·K"],
+    "c": 2,
+    "exp": "All given values are standard values of R in different units.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "If a gas is compressed adiabatically, its temperature:",
+    "hi": "यदि किसी गैस को रुद्धोष्म (adiabatic) तरीके से दबाया जाए, तो उसका तापमान:",
+    "oEn": ["Remains same", "Increases", "Becomes zero", "Decreases"],
+    "oHi": ["स्थिर रहता है", "बढ़ता है", "शून्य हो जाता है", "घटता है"],
+    "c": 1,
+    "exp": "In adiabatic compression, work is done on the gas, increasing internal energy/temperature.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The volume of a gas at constant temperature is doubled. The new pressure is:",
+    "hi": "स्थिर तापमान पर एक गैस का आयतन दोगुना कर दिया जाता है। नया दबाव है:",
+    "oEn": ["Double", "Same", "Four times", "Half"],
+    "oHi": ["दोगुना", "समान", "चार गुना", "आधा"],
+    "c": 3,
+    "exp": "Boyle's Law: P1V1 = P2V2. If V2 = 2V1, then P2 = P1/2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A monoatomic gas has degrees of freedom:",
+    "hi": "एक एकल-परमाणुक गैस में स्वतंत्रता की कोटि होती है:",
+    "oEn": ["5", "3", "6", "7"],
+    "oHi": ["5", "3", "6", "7"],
+    "c": 1,
+    "exp": "Monoatomic gas atoms only have translational degrees of freedom (f=3).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The specific heat of a gas at constant volume (Cv) for a diatomic gas is:",
+    "hi": "द्वि-परमाणुक गैस के लिए स्थिर आयतन (Cv) पर विशिष्ट ऊष्मा है:",
+    "oEn": ["3/2 R", "R", "7/2 R", "5/2 R"],
+    "oHi": ["3/2 R", "R", "7/2 R", "5/2 R"],
+    "c": 3,
+    "exp": "Cv = f/2 * R. For diatomic, f=5, so Cv = 5/2 R.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "According to the Kinetic Theory of gases, collisions between molecules are:",
+    "hi": "गैसों के गतिज सिद्धांत के अनुसार, अणुओं के बीच टक्करें होती हैं:",
+    "oEn": ["Partially elastic", "Inelastic", "Perfectly elastic", "Zero energy"],
+    "oHi": ["आंशिक रूप से प्रत्यास्थ", "अप्रत्यास्थ", "पूर्णतः प्रत्यास्थ", "शून्य ऊर्जा"],
+    "c": 2,
+    "exp": "Kinetic theory assumes collisions between gas molecules are perfectly elastic.",
+    "Pyq": "Trend_Based_2026"
+  }
+]
