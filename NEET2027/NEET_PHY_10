@@ -1,0 +1,182 @@
+[
+  {
+    "en": "The electric field at a distance r from a point charge q is:",
+    "hi": "बिंदु आवेश q से r दूरी पर विद्युत क्षेत्र है:",
+    "oEn": ["kqr", "kq^2/r^2", "kq/r^2", "kq/r"],
+    "oHi": ["kqr", "kq^2/r^2", "kq/r^2", "kq/r"],
+    "c": 2,
+    "exp": "The formula for the electric field of a point charge is E = k|q|/r^2.",
+    "Pyq": "NEET_2015"
+  },
+  {
+    "en": "Two point charges +3μC and +8μC repel each other with a force of 40N. If a charge of -5μC is added to each, the force becomes:",
+    "hi": "+3μC और +8μC के दो बिंदु आवेश एक-दूसरे को 40N के बल से प्रतिकर्षित करते हैं। यदि प्रत्येक में -5μC का आवेश जोड़ा जाए, तो बल हो जाता है:",
+    "oEn": ["20N", "-10N", "10N", "0N"],
+    "oHi": ["20N", "-10N", "10N", "0N"],
+    "c": 1,
+    "exp": "New charges: -2μC and +3μC. F ∝ q1*q2. F' = 40 * ((-2*3)/(3*8)) = 40 * (-6/24) = -10N (Attraction).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Electric flux through a closed surface enclosing a charge q is:",
+    "hi": "आवेश q को घेरने वाली एक बंद सतह से गुजरने वाला विद्युत फ्लक्स है:",
+    "oEn": ["ε0/q", "q * ε0", "Zero", "q/ε0"],
+    "oHi": ["ε0/q", "q * ε0", "शून्य", "q/ε0"],
+    "c": 3,
+    "exp": "Gauss's Law states total flux = q_enclosed / ε0.",
+    "Pyq": "NEET_2019"
+  },
+  {
+    "en": "The electric potential at the center of a charged spherical shell is:",
+    "hi": "आवेशित गोलाकार कोश के केंद्र पर विद्युत विभव है:",
+    "oEn": ["Same as at the surface", "Double the surface potential", "Zero", "Half the surface potential"],
+    "oHi": ["सतह के समान", "सतह विभव का दोगुना", "शून्य", "सतह विभव का आधा"],
+    "c": 0,
+    "exp": "The potential inside a charged spherical shell is constant and equal to the potential at the surface.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A dipole of moment p is placed in a uniform electric field E. The torque on it is:",
+    "hi": "p आघूर्ण वाले एक द्विध्रुव (dipole) को एकसमान विद्युत क्षेत्र E में रखा जाता है। उस पर आघूर्ण है:",
+    "oEn": ["p · E", "pE", "p × E", "E × p"],
+    "oHi": ["p · E", "pE", "p × E", "E × p"],
+    "c": 2,
+    "exp": "Torque τ = p × E.",
+    "Pyq": "NEET_2017"
+  },
+  {
+    "en": "The work done in moving a charge q around an equipotential surface is:",
+    "hi": "एक आवेश q को समविभव सतह (equipotential surface) पर घुमाने में किया गया कार्य है:",
+    "oEn": ["qV", "Zero", "q/V", "V/q"],
+    "oHi": ["qV", "शून्य", "q/V", "V/q"],
+    "c": 1,
+    "exp": "Work = q * ΔV. Since ΔV = 0 on an equipotential surface, W = 0.",
+    "Pyq": "NEET_2014"
+  },
+  {
+    "en": "Which of the following is not a property of electric field lines?",
+    "hi": "निम्नलिखित में से कौन सा विद्युत क्षेत्र रेखाओं का गुण नहीं है?",
+    "oEn": ["They start from positive and end at negative", "They are continuous curves", "Tangent shows field direction", "They intersect each other"],
+    "oHi": ["वे धनात्मक से शुरू होती हैं और ऋणात्मक पर समाप्त होती हैं", "वे निरंतर वक्र हैं", "स्पर्श रेखा क्षेत्र की दिशा दर्शाती है", "वे एक-दूसरे को काटती हैं"],
+    "c": 3,
+    "exp": "Electric field lines can never intersect, as that would imply two directions at one point.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The capacitance of a parallel plate capacitor depends on:",
+    "hi": "समांतर प्लेट संधारित्र (capacitor) की धारिता किस पर निर्भर करती है?",
+    "oEn": ["Area and distance between plates", "Potential difference", "Charge on plates", "Material of plates"],
+    "oHi": ["प्लेटों का क्षेत्रफल और उनके बीच की दूरी", "विभवांतर", "प्लेटों पर आवेश", "प्लेटों की सामग्री"],
+    "c": 0,
+    "exp": "C = ε0A/d. It depends on geometry (Area, distance) and dielectric.",
+    "Pyq": "NEET_2018"
+  },
+  {
+    "en": "If a dielectric slab is inserted into a capacitor, its capacitance:",
+    "hi": "यदि संधारित्र में एक परावैद्युत स्लैब (dielectric slab) डाली जाती है, तो उसकी धारिता:",
+    "oEn": ["Decreases", "Increases", "Remains same", "Becomes zero"],
+    "oHi": ["घट जाती है", "बढ़ जाती है", "समान रहती है", "शून्य हो जाती है"],
+    "c": 1,
+    "exp": "C' = KC. Since K > 1, capacitance increases.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The force between two charges at distance r is F. If distance is halved, the force becomes:",
+    "hi": "r दूरी पर दो आवेशों के बीच बल F है। यदि दूरी आधी कर दी जाए, तो बल हो जाता है:",
+    "oEn": ["2F", "F/2", "F/4", "4F"],
+    "oHi": ["2F", "F/2", "F/4", "4F"],
+    "c": 3,
+    "exp": "F ∝ 1/r^2. If r becomes r/2, F becomes 4F.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Energy stored in a capacitor is:",
+    "hi": "संधारित्र में संचित ऊर्जा है:",
+    "oEn": ["0.5 CV^2", "CV^2", "Q^2 / C", "0.5 QV"],
+    "oHi": ["0.5 CV^2", "CV^2", "Q^2 / C", "0.5 QV"],
+    "c": 0,
+    "exp": "U = 0.5 CV^2. (Note: 0.5 QV is also correct, but 0.5 CV^2 is the standard form.)",
+    "Pyq": "NEET_2013"
+  },
+  {
+    "en": "Electric potential due to a point charge q at distance r is:",
+    "hi": "r दूरी पर बिंदु आवेश q के कारण विद्युत विभव है:",
+    "oEn": ["kq/r^2", "kq^2/r", "kq/r", "kqr"],
+    "oHi": ["kq/r^2", "kq^2/r", "kq/r", "kqr"],
+    "c": 2,
+    "exp": "V = kq/r.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is a scalar quantity?",
+    "hi": "निम्नलिखित में से कौन सी एक अदिश राशि (scalar quantity) है?",
+    "oEn": ["Electric Field", "Electric Potential", "Electric Force", "Electric Dipole Moment"],
+    "oHi": ["विद्युत क्षेत्र", "विद्युत विभव", "विद्युत बल", "विद्युत द्विध्रुव आघूर्ण"],
+    "c": 1,
+    "exp": "Electric potential has magnitude but no direction, so it is a scalar.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Dielectric constant of a metal is:",
+    "hi": "धातु का परावैद्युतांक (dielectric constant) है:",
+    "oEn": ["Zero", "1", "10", "Infinite"],
+    "oHi": ["शून्य", "1", "10", "अनंत"],
+    "c": 3,
+    "exp": "For a perfect conductor (metal), K is considered infinite as E inside is zero.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Two capacitors of 2μF and 3μF are in series. The equivalent capacitance is:",
+    "hi": "2μF और 3μF के दो संधारित्र श्रेणीक्रम (series) में हैं। समतुल्य धारिता है:",
+    "oEn": ["1.2μF", "5μF", "6μF", "0.8μF"],
+    "oHi": ["1.2μF", "5μF", "6μF", "0.8μF"],
+    "c": 0,
+    "exp": "1/C_eq = 1/2 + 1/3 = 5/6. C_eq = 6/5 = 1.2μF.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The unit of electric flux is:",
+    "hi": "विद्युत फ्लक्स का मात्रक है:",
+    "oEn": ["V/m", "C/m^2", "Nm^2/C", "J/C"],
+    "oHi": ["V/m", "C/m^2", "Nm^2/C", "J/C"],
+    "c": 2,
+    "exp": "Flux Φ = E * Area = (N/C) * m^2 = Nm^2/C.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The work required to assemble a dipole in an external field is:",
+    "hi": "बाहरी क्षेत्र में द्विध्रुव को व्यवस्थित करने के लिए आवश्यक कार्य है:",
+    "oEn": ["pE cosθ", "-pE cosθ", "pE sinθ", "Zero"],
+    "oHi": ["pE cosθ", "-pE cosθ", "pE sinθ", "शून्य"],
+    "c": 1,
+    "exp": "Potential energy U = -p · E = -pE cosθ.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Surface charge density is defined as:",
+    "hi": "सतह आवेश घनत्व (surface charge density) को इस प्रकार परिभाषित किया गया है:",
+    "oEn": ["Charge per unit volume", "Charge per unit length", "Force per unit charge", "Charge per unit area"],
+    "oHi": ["प्रति इकाई आयतन आवेश", "प्रति इकाई लंबाई आवेश", "प्रति इकाई आवेश बल", "प्रति इकाई क्षेत्रफल आवेश"],
+    "c": 3,
+    "exp": "σ = Q/A.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Electric field inside a charged conductor is:",
+    "hi": "आवेशित चालक के अंदर विद्युत क्षेत्र है:",
+    "oEn": ["Zero", "Uniform", "Maximum", "Variable"],
+    "oHi": ["शून्य", "एकसमान", "अधिकतम", "परिवर्तनीय"],
+    "c": 0,
+    "exp": "In electrostatic equilibrium, charge resides on the surface, field inside is zero.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Capacity of a spherical conductor of radius R is:",
+    "hi": "R त्रिज्या वाले गोलाकार चालक की धारिता है:",
+    "oEn": ["πε0R", "1/4πε0R", "4πε0R", "4πε0R^2"],
+    "oHi": ["πε0R", "1/4πε0R", "4πε0R", "4πε0R^2"],
+    "c": 2,
+    "exp": "C = Q/V = Q / (kQ/R) = R/k = 4πε0R.",
+    "Pyq": "Trend_Based_2026"
+  }
+]
