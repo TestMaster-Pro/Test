@@ -1,0 +1,227 @@
+[
+{
+"en": "Which enzyme in the gastric juice is responsible for the activation of pepsinogen?",
+"hi": "जठर रस में कौन सा एंजाइम पेप्सिनोजेन को सक्रिय करने के लिए जिम्मेदार है?",
+"oEn": ["Trypsin", "HCl", "Enterokinase", "Lipase"],
+"oHi": ["ट्रिप्सिन", "HCl", "एंटेरोकाइनेज", "लाइपेज"],
+"c": 1,
+"exp": "The proenzyme pepsinogen, on exposure to hydrochloric acid (HCl), gets converted into the active enzyme pepsin.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The partial pressure of oxygen in the alveolar air is:",
+"hi": "कूपिका वायु (alveolar air) में ऑक्सीजन का आंशिक दबाव होता है:",
+"oEn": ["40 mm Hg", "45 mm Hg", "104 mm Hg", "95 mm Hg"],
+"oHi": ["40 mm Hg", "45 mm Hg", "104 mm Hg", "95 mm Hg"],
+"c": 2,
+"exp": "The partial pressure of O2 in alveoli is 104 mm Hg, while in deoxygenated blood, it is 40 mm Hg.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following is the 'natural pacemaker' of the heart?",
+"hi": "निम्नलिखित में से कौन सा हृदय का 'प्राकृतिक पेसमेकर' है?",
+"oEn": ["AV node", "SA node", "Bundle of His", "Purkinje fibers"],
+"oHi": ["AV नोड", "SA नोड", "बंडल ऑफ हिज़", "पुरकिंजे फाइबर"],
+"c": 1,
+"exp": "The Sino-atrial node (SA node) is called the natural pacemaker as it generates the maximum number of action potentials.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The counter-current mechanism in the kidney is mainly responsible for:",
+"hi": "गुर्दे (kidney) में प्रतिधारा तंत्र (counter-current mechanism) मुख्य रूप से किसके लिए जिम्मेदार है?",
+"oEn": ["Filtration of blood", "Concentration of urine", "Excretion of toxins", "Reabsorption of glucose"],
+"oHi": ["रक्त का निस्पंदन", "मूत्र का सांद्रण", "विषाक्त पदार्थों का उत्सर्जन", "ग्लूकोज का पुनरावशोषण"],
+"c": 1,
+"exp": "The counter-current mechanism (involving Henle's loop and vasa recta) helps in maintaining a concentration gradient in the medullary interstitium to concentrate urine.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which part of the brain controls respiration and cardiovascular reflexes?",
+"hi": "मस्तिष्क का कौन सा हिस्सा श्वसन और हृदय संबंधी सजगता (reflexes) को नियंत्रित करता है?",
+"oEn": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+"oHi": ["प्रमस्तिष्क (Cerebrum)", "अनुमस्तिष्क (Cerebellum)", "मज्जा (Medulla oblongata)", "हाइपोथैलेमस"],
+"c": 2,
+"exp": "The medulla oblongata contains centers which control respiration, cardiovascular reflexes, and gastric secretions.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "What is the role of ANF (Atrial Natriuretic Factor)?",
+"hi": "ANF (एट्रियल नैट्रियूरेटिक फैक्टर) की क्या भूमिका है?",
+"oEn": ["Increases blood pressure", "Decreases blood pressure by vasodilation", "Stimulates aldosterone secretion", "Increases sodium reabsorption"],
+"oHi": ["रक्तचाप बढ़ाता है", "वाहिकाविस्फारण द्वारा रक्तचाप घटाता है", "एल्डोस्टेरोन स्राव को उत्तेजित करता है", "सोडियम पुनरावशोषण बढ़ाता है"],
+"c": 1,
+"exp": "ANF is released by the heart in response to high blood pressure; it causes vasodilation to reduce blood pressure.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following hormones is not secreted by the pituitary gland?",
+"hi": "निम्नलिखित में से कौन सा हार्मोन पिट्यूटरी ग्रंथि द्वारा स्रावित नहीं होता है?",
+"oEn": ["Growth Hormone", "Prolactin", "Cortisol", "TSH"],
+"oHi": ["ग्रोथ हार्मोन", "प्रोलैक्टिन", "कोर्टिसोल", "TSH"],
+"c": 2,
+"exp": "Cortisol is secreted by the adrenal cortex, while the others are secreted by the anterior pituitary.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which part of the nephron is impermeable to water but permeable to electrolytes?",
+"hi": "नेफ्रॉन का कौन सा हिस्सा पानी के लिए अभेद्य (impermeable) है लेकिन इलेक्ट्रोलाइट्स के लिए पारगम्य है?",
+"oEn": ["Proximal Convoluted Tubule", "Descending limb of Henle's loop", "Ascending limb of Henle's loop", "Collecting duct"],
+"oHi": ["प्रॉक्सिमल कनवोल्यूटेड ट्यूब्यूल", "हेनले लूप का अवरोही अंग", "हेनले लूप का आरोही अंग", "कलेक्टिंग डक्ट"],
+"c": 2,
+"exp": "The ascending limb of Henle's loop is impermeable to water but allows transport of electrolytes actively or passively.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following is known as the 'master gland'?",
+"hi": "निम्नलिखित में से किसे 'मास्टर ग्रंथि' के रूप में जाना जाता है?",
+"oEn": ["Thyroid", "Adrenal", "Pituitary", "Pineal"],
+"oHi": ["थायराइड", "एड्रिनल", "पिट्यूटरी", "पीनियल"],
+"c": 2,
+"exp": "The pituitary gland is called the master gland as it regulates the functioning of several other endocrine glands.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The amount of air inspired or expired during a normal respiration is called:",
+"hi": "सामान्य श्वसन के दौरान प्रेरित या नि:श्वसित हवा की मात्रा क्या कहलाती है?",
+"oEn": ["Inspiratory Reserve Volume", "Tidal Volume", "Expiratory Reserve Volume", "Vital Capacity"],
+"oHi": ["इंस्पिरेटरी रिज़र्व वॉल्यूम", "टाइडल वॉल्यूम", "एक्सपायरेटरी रिज़र्व वॉल्यूम", "वाइटल कैपेसिटी"],
+"c": 1,
+"exp": "Tidal Volume is the volume of air inspired or expired during a normal respiration (approx. 500 mL).",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which muscle bands are known as 'thick filaments' in skeletal muscle?",
+"hi": "कंकाल की मांसपेशियों में किन पेशी बैंड को 'मोटे फिलामेंट' (thick filaments) के रूप में जाना जाता है?",
+"oEn": ["Actin", "Myosin", "Troponin", "Tropomyosin"],
+"oHi": ["एक्टिन", "मायोसिन", "ट्रोपोनिन", "ट्रोपोमायोसिन"],
+"c": 1,
+"exp": "Myosin filaments are the thick filaments, whereas actin filaments are the thin filaments.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which vitamin deficiency leads to 'Night Blindness'?",
+"hi": "किस विटामिन की कमी से 'रतौंधी' (Night Blindness) होती है?",
+"oEn": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+"oHi": ["विटामिन A", "विटामिन B", "विटामिन C", "विटामिन D"],
+"c": 0,
+"exp": "Vitamin A deficiency leads to night blindness and xerophthalmia.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The joint between the atlas and axis vertebra is an example of:",
+"hi": "एटलस और एक्सिस कशेरुका के बीच का जोड़ किसका उदाहरण है?",
+"oEn": ["Hinge joint", "Pivot joint", "Ball and socket joint", "Saddle joint"],
+"oHi": ["हिंज जोड़", "धुराग्र (Pivot) जोड़", "बॉल और सॉकेट जोड़", "सैडल जोड़"],
+"c": 1,
+"exp": "The atlanto-axial joint is a type of pivot joint which allows rotational movement.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which hormone is responsible for maintaining the circadian rhythm in humans?",
+"hi": "मनुष्यों में सर्कैडियन लय (circadian rhythm) बनाए रखने के लिए कौन सा हार्मोन जिम्मेदार है?",
+"oEn": ["Insulin", "Melatonin", "Adrenaline", "Thyroxine"],
+"oHi": ["इंसुलिन", "मेलाटोनिन", "एड्रेनालाईन", "थायरोक्सिन"],
+"c": 1,
+"exp": "The pineal gland secretes melatonin, which plays a very important role in regulation of a 24-hour (diurnal) rhythm of our body.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The total lung capacity (TLC) is equal to:",
+"hi": "कुल फेफड़ों की क्षमता (TLC) किसके बराबर होती है?",
+"oEn": ["IRV + TV + ERV", "VC + RV", "ERV + RV", "TV + IRV"],
+"oHi": ["IRV + TV + ERV", "VC + RV", "ERV + RV", "TV + IRV"],
+"c": 1,
+"exp": "Total Lung Capacity (TLC) is the total volume of air accommodated in the lungs at the end of a forced inspiration (VC + Residual Volume).",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "What is the primary function of bile salts?",
+"hi": "पित्त लवणों (bile salts) का प्राथमिक कार्य क्या है?",
+"oEn": ["Protein digestion", "Emulsification of fats", "Starch breakdown", "Absorption of vitamins"],
+"oHi": ["प्रोटीन पाचन", "वसा का इमल्सीफिकेशन", "स्टार्च का टूटना", "विटामिन का अवशोषण"],
+"c": 1,
+"exp": "Bile salts help in the emulsification of fats, breaking them into very small micelles for easy action of lipases.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which structure in the eye is responsible for the sharpest vision?",
+"hi": "आंख में कौन सी संरचना सबसे स्पष्ट दृष्टि के लिए जिम्मेदार है?",
+"oEn": ["Blind spot", "Fovea", "Iris", "Choroid"],
+"oHi": ["ब्लाइंड स्पॉट", "फोविया", "आइरिस", "कोरोइड"],
+"c": 1,
+"exp": "The fovea is a thinned-out portion of the retina where only cones are densely packed, providing the greatest visual acuity.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which valve prevents the backflow of blood from the left ventricle into the left atrium?",
+"hi": "कौन सा वाल्व रक्त को बाएं वेंट्रिकल से बाएं आलिंद में वापस जाने से रोकता है?",
+"oEn": ["Tricuspid valve", "Bicuspid (Mitral) valve", "Pulmonary valve", "Aortic valve"],
+"oHi": ["ट्रिकस्पिड वाल्व", "बाइकस्पिड (मिट्रल) वाल्व", "पल्मोनरी वाल्व", "महाधमनी वाल्व"],
+"c": 1,
+"exp": "The bicuspid (mitral) valve guards the opening between the left atrium and left ventricle.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which hormone promotes the secretion of gastric juice?",
+"hi": "कौन सा हार्मोन जठर रस (gastric juice) के स्राव को बढ़ावा देता है?",
+"oEn": ["Gastrin", "Secretin", "CCK", "GIP"],
+"oHi": ["गैस्ट्रिन", "सेक्रेटिन", "CCK", "GIP"],
+"c": 0,
+"exp": "Gastrin acts on the gastric glands and stimulates the secretion of hydrochloric acid and pepsinogen.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The functional unit of the kidney is the:",
+"hi": "गुर्दे की कार्यात्मक इकाई है:",
+"oEn": ["Neuron", "Nephron", "Medulla", "Pelvis"],
+"oHi": ["न्यूरॉन", "नेफ्रॉन", "मज्जा", "पेल्विस"],
+"c": 1,
+"exp": "Nephrons are the structural and functional units of the kidney.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which part of the ear is responsible for maintaining body balance?",
+"hi": "कान का कौन सा हिस्सा शरीर का संतुलन बनाए रखने के लिए जिम्मेदार है?",
+"oEn": ["Tympanic membrane", "Ossicles", "Vestibular apparatus", "Cochlea"],
+"oHi": ["टिम्पैनिक झिल्ली", "ऑसिकल्स", "वेस्टिबुलर उपकरण", "कोक्लीआ"],
+"c": 2,
+"exp": "The vestibular apparatus (semicircular canals and otolith organ) is responsible for maintaining balance and posture.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which blood cells are responsible for providing immunity?",
+"hi": "कौन सी रक्त कोशिकाएं प्रतिरक्षा (immunity) प्रदान करने के लिए जिम्मेदार हैं?",
+"oEn": ["RBCs", "Platelets", "Lymphocytes", "Eosinophils"],
+"oHi": ["RBCs", "प्लेटलेट्स", "लिम्फोसाइट्स", "ईोसिनोफिल्स"],
+"c": 2,
+"exp": "Lymphocytes are a type of WBC responsible for the immune responses of the body.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "What is the function of the 'Eustachian tube'?",
+"hi": "'यूस्टेशियन ट्यूब' (Eustachian tube) का क्या कार्य है?",
+"oEn": ["Transmission of sound", "Equalizing pressure on either side of the eardrum", "Balance of body", "Production of ear wax"],
+"oHi": ["ध्वनि का संचरण", "कान के पर्दे के दोनों तरफ दबाव को बराबर करना", "शरीर का संतुलन", "कान के मोम का उत्पादन"],
+"c": 1,
+"exp": "The Eustachian tube connects the middle ear cavity with the pharynx and helps in equalizing the pressures on either side of the eardrum.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following is a glucocorticoid?",
+"hi": "निम्नलिखित में से कौन सा ग्लूकोकोर्टिकॉइड (glucocorticoid) है?",
+"oEn": ["Aldosterone", "Cortisol", "Testosterone", "Adrenaline"],
+"oHi": ["एल्डोस्टेरोन", "कोर्टिसोल", "टेस्टोस्टेरोन", "एड्रेनालाईन"],
+"c": 1,
+"exp": "Cortisol is the main glucocorticoid secreted by the adrenal cortex.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which hormone controls the reabsorption of water in the distal tubules of the kidney?",
+"hi": "कौन सा हार्मोन गुर्दे की डिस्टल नलिकाओं (distal tubules) में पानी के पुनरावशोषण को नियंत्रित करता है?",
+"oEn": ["ADH (Vasopressin)", "Insulin", "Thyroxine", "Adrenaline"],
+"oHi": ["ADH (वासोप्रेसिन)", "इंसुलिन", "थायरोक्सिन", "एड्रेनालाईन"],
+"c": 0,
+"exp": "Anti-Diuretic Hormone (ADH) facilitates water reabsorption from the later parts of the tubule, thereby preventing diuresis.",
+"Pyq": "Trend_Based_2026"
+}
+]
