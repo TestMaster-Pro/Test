@@ -1,0 +1,227 @@
+[
+  {
+    "en": "The displacement of a particle executing SHM is given by x = A sin(ωt + φ). The acceleration of the particle is:",
+    "hi": "SHM निष्पादित कर रहे एक कण का विस्थापन x = A sin(ωt + φ) द्वारा दिया गया है। कण का त्वरण है:",
+    "oEn": ["ω^2 A", "-ω^2 x", "ω^2 x", "-ω^2 A"],
+    "oHi": ["ω^2 A", "-ω^2 x", "ω^2 x", "-ω^2 A"],
+    "c": 1,
+    "exp": "Acceleration a = d^2x/dt^2 = -ω^2 A sin(ωt + φ) = -ω^2 x.",
+    "Pyq": "NEET_2016"
+  },
+  {
+    "en": "The time period of a simple pendulum of length L in a lift moving upwards with acceleration 'a' is:",
+    "hi": "'a' त्वरण के साथ ऊपर की ओर बढ़ने वाली लिफ्ट में L लंबाई वाले सरल लोलक का आवर्तकाल है:",
+    "oEn": ["2π sqrt(L/g)", "2π sqrt(L / (g+a))", "2π sqrt(L / (g-a))", "2π sqrt(g / (L+a))"],
+    "oHi": ["2π sqrt(L/g)", "2π sqrt(L / (g+a))", "2π sqrt(L / (g-a))", "2π sqrt(g / (L+a))"],
+    "c": 1,
+    "exp": "Effective gravity g_eff = g + a. T = 2π sqrt(L/g_eff).",
+    "Pyq": "NEET_2018"
+  },
+  {
+    "en": "A wave is represented by y = A sin(kx - ωt). The wave velocity is:",
+    "hi": "एक तरंग को y = A sin(kx - ωt) द्वारा दर्शाया गया है। तरंग वेग है:",
+    "oEn": ["k/ω", "ωk", "ω/k", "ω^2/k"],
+    "oHi": ["k/ω", "ωk", "ω/k", "ω^2/k"],
+    "c": 2,
+    "exp": "Wave velocity v = coefficient of t / coefficient of x = ω/k.",
+    "Pyq": "NEET_2015"
+  },
+  {
+    "en": "In SHM, the kinetic energy is maximum at:",
+    "hi": "SHM में, गतिज ऊर्जा अधिकतम कहाँ होती है?",
+    "oEn": ["Extreme position", "Mean position", "Halfway to extreme", "Nowhere"],
+    "oHi": ["अति स्थिति", "मध्य स्थिति", "अति स्थिति तक आधा रास्ता", "कहीं नहीं"],
+    "c": 1,
+    "exp": "At mean position, velocity is maximum, thus KE is maximum.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The beats frequency is defined as:",
+    "hi": "बीट्स आवृत्ति को किस रूप में परिभाषित किया गया है?",
+    "oEn": ["Sum of two frequencies", "Difference of two frequencies", "Product of two frequencies", "Ratio of two frequencies"],
+    "oHi": ["दो आवृत्तियों का योग", "दो आवृत्तियों का अंतर", "दो आवृत्तियों का गुणनफल", "दो आवृत्तियों का अनुपात"],
+    "c": 1,
+    "exp": "Beat frequency = |f1 - f2|.",
+    "Pyq": "NEET_2017"
+  },
+  {
+    "en": "For a standing wave, the distance between two consecutive nodes is:",
+    "hi": "एक अप्रगामी तरंग (standing wave) के लिए, दो लगातार नोड्स के बीच की दूरी है:",
+    "oEn": ["λ", "λ/4", "2λ", "λ/2"],
+    "oHi": ["λ", "λ/4", "2λ", "λ/2"],
+    "c": 3,
+    "exp": "Distance between consecutive nodes or antinodes is half a wavelength.",
+    "Pyq": "NEET_2019"
+  },
+  {
+    "en": "The total energy of a particle executing SHM is:",
+    "hi": "SHM निष्पादित कर रहे एक कण की कुल ऊर्जा है:",
+    "oEn": ["kA^2", "0.25 kA^2", "0.5 kA^2", "Zero"],
+    "oHi": ["kA^2", "0.25 kA^2", "0.5 kA^2", "शून्य"],
+    "c": 2,
+    "exp": "Total energy = 0.5 * k * A^2.",
+    "Pyq": "NEET_2020"
+  },
+  {
+    "en": "Which of the following is a longitudinal wave?",
+    "hi": "निम्नलिखित में से कौन सी एक अनुदैर्ध्य तरंग (longitudinal wave) है?",
+    "oEn": ["Light wave", "Radio wave", "Water ripple", "Sound wave"],
+    "oHi": ["प्रकाश तरंग", "रेडियो तरंग", "पानी की लहर", "ध्वनि तरंग"],
+    "c": 3,
+    "exp": "Sound waves propagate via compressions and rarefactions, making them longitudinal.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The frequency of a simple pendulum depends on:",
+    "hi": "एक सरल लोलक की आवृत्ति किस पर निर्भर करती है?",
+    "oEn": ["Mass", "Length", "Amplitude", "Initial angle"],
+    "oHi": ["द्रव्यमान", "लंबाई", "आयाम", "प्रारंभिक कोण"],
+    "c": 1,
+    "exp": "f = (1/2π) * sqrt(g/L). It depends only on length and gravity.",
+    "Pyq": "NEET_2014"
+  },
+  {
+    "en": "The Doppler effect is related to:",
+    "hi": "डॉपलर प्रभाव किससे संबंधित है?",
+    "oEn": ["Change in amplitude", "Apparent change in frequency", "Change in phase", "Change in speed of sound"],
+    "oHi": ["आयाम में परिवर्तन", "आवृत्ति में आभासी परिवर्तन", "चरण में परिवर्तन", "ध्वनि की गति में परिवर्तन"],
+    "c": 1,
+    "exp": "Doppler effect describes the change in frequency due to relative motion.",
+    "Pyq": "NEET_2013"
+  },
+  {
+    "en": "The velocity of sound in a gas is proportional to:",
+    "hi": "गैस में ध्वनि का वेग किसके समानुपाती होता है?",
+    "oEn": ["T", "1/T", "T^2", "sqrt(T)"],
+    "oHi": ["T", "1/T", "T^2", "sqrt(T)"],
+    "c": 3,
+    "exp": "v = sqrt(γRT/M). Thus, v ∝ sqrt(T).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A particle performs SHM with amplitude A. At what displacement is the kinetic energy equal to potential energy?",
+    "hi": "एक कण आयाम A के साथ SHM करता है। किस विस्थापन पर गतिज ऊर्जा स्थितिज ऊर्जा के बराबर होती है?",
+    "oEn": ["A/2", "A/√3", "A/√2", "A"],
+    "oHi": ["A/2", "A/√3", "A/√2", "A"],
+    "c": 2,
+    "exp": "0.5 k(A^2 - x^2) = 0.5 kx^2 => A^2 = 2x^2 => x = A/√2.",
+    "Pyq": "NEET_2021"
+  },
+  {
+    "en": "The phase difference between velocity and displacement in SHM is:",
+    "hi": "SHM में वेग और विस्थापन के बीच का चरण अंतर है:",
+    "oEn": ["π", "0", "2π", "π/2"],
+    "oHi": ["π", "0", "2π", "π/2"],
+    "c": 3,
+    "exp": "x = A sin(ωt), v = dx/dt = Aω cos(ωt) = Aω sin(ωt + π/2).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The speed of a transverse wave on a stretched string depends on:",
+    "hi": "एक खींची हुई डोरी पर अनुप्रस्थ तरंग (transverse wave) की गति किस पर निर्भर करती है?",
+    "oEn": ["Tension only", "Length only", "Tension and mass per unit length", "Amplitude"],
+    "oHi": ["केवल तनाव", "केवल लंबाई", "तनाव और प्रति इकाई लंबाई द्रव्यमान", "आयाम"],
+    "c": 2,
+    "exp": "v = sqrt(T/μ).",
+    "Pyq": "NEET_2017"
+  },
+  {
+    "en": "What is the frequency of SHM if time period is 2s?",
+    "hi": "यदि आवर्तकाल 2s है, तो SHM की आवृत्ति क्या है?",
+    "oEn": ["2 Hz", "1 Hz", "4 Hz", "0.5 Hz"],
+    "oHi": ["2 Hz", "1 Hz", "4 Hz", "0.5 Hz"],
+    "c": 3,
+    "exp": "f = 1/T = 1/2 = 0.5 Hz.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In resonance, the amplitude of vibration is:",
+    "hi": "अनुनाद (resonance) में, कंपन का आयाम है:",
+    "oEn": ["Minimum", "Zero", "Constant", "Maximum"],
+    "oHi": ["न्यूनतम", "शून्य", "स्थिर", "अधिकतम"],
+    "c": 3,
+    "exp": "Resonance occurs when driving frequency matches natural frequency, maximizing amplitude.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The fundamental frequency of an open organ pipe of length L is:",
+    "hi": "L लंबाई के खुले ऑर्गन पाइप की मूल आवृत्ति है:",
+    "oEn": ["v/4L", "2v/L", "v/L", "v/2L"],
+    "oHi": ["v/4L", "2v/L", "v/L", "v/2L"],
+    "c": 3,
+    "exp": "For an open pipe, f = v / 2L.",
+    "Pyq": "NEET_2018"
+  },
+  {
+    "en": "The path difference corresponding to a phase difference of π is:",
+    "hi": "π के चरण अंतर के अनुरूप पथ अंतर (path difference) है:",
+    "oEn": ["λ", "λ/4", "2λ", "λ/2"],
+    "oHi": ["λ", "λ/4", "2λ", "λ/2"],
+    "c": 3,
+    "exp": "Path diff = (λ/2π) * Phase diff = (λ/2π) * π = λ/2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A body is in SHM. At mean position:",
+    "hi": "एक पिंड SHM में है। मध्य स्थिति में:",
+    "oEn": ["Kinetic energy is zero", "Acceleration is maximum", "Potential energy is zero", "Velocity is zero"],
+    "oHi": ["गतिज ऊर्जा शून्य है", "त्वरण अधिकतम है", "स्थितिज ऊर्जा शून्य है", "वेग शून्य है"],
+    "c": 2,
+    "exp": "At x=0, PE = 0.5kx^2 = 0.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which wave property determines the pitch of a sound?",
+    "hi": "ध्वनि की पिच कौन सा तरंग गुण निर्धारित करता है?",
+    "oEn": ["Amplitude", "Waveform", "Speed", "Frequency"],
+    "oHi": ["आयाम", "तरंग रूप", "गति", "आवृत्ति"],
+    "c": 3,
+    "exp": "Pitch is primarily determined by the frequency of the sound wave.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "An echo is a result of:",
+    "hi": "प्रतिध्वनि (echo) किसका परिणाम है?",
+    "oEn": ["Refraction of sound", "Diffraction", "Interference", "Reflection of sound"],
+    "oHi": ["ध्वनि का अपवर्तन", "विवर्तन", "व्यतिकरण", "ध्वनि का परावर्तन"],
+    "c": 3,
+    "exp": "An echo is caused by the reflection of sound waves from a surface.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The value of displacement in SHM at t=T/4, where T is the period (starts from mean position):",
+    "hi": "t=T/4 पर SHM में विस्थापन का मान, जहां T आवर्तकाल है (मध्य स्थिति से शुरू होता है):",
+    "oEn": ["Zero", "Half", "Minimum", "Maximum"],
+    "oHi": ["शून्य", "आधा", "न्यूनतम", "अधिकतम"],
+    "c": 3,
+    "exp": "x = A sin(ωt). At t = T/4, ωt = π/2. x = A sin(π/2) = A.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The speed of sound is highest in:",
+    "hi": "ध्वनि की गति किसमें सबसे अधिक होती है?",
+    "oEn": ["Liquids", "Gases", "Vacuum", "Solids"],
+    "oHi": ["तरल", "गैस", "निर्वात", "ठोस"],
+    "c": 3,
+    "exp": "Sound travels fastest through materials with high stiffness and density, like solids.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A damped oscillation is one where the amplitude:",
+    "hi": "एक अवमंदित दोलन (damped oscillation) वह है जहां आयाम:",
+    "oEn": ["Increases with time", "Remains constant", "Is zero", "Decreases with time"],
+    "oHi": ["समय के साथ बढ़ता है", "स्थिर रहता है", "शून्य है", "समय के साथ घटता है"],
+    "c": 3,
+    "exp": "Damping forces remove energy, causing amplitude to decrease over time.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Superposition of two waves of slightly different frequencies results in:",
+    "hi": "थोड़ी अलग आवृत्तियों वाली दो तरंगों के अध्यारोपण (superposition) का परिणाम है:",
+    "oEn": ["Stationary waves", "Interference", "Refraction", "Beats"],
+    "oHi": ["अप्रगामी तरंगें", "व्यतिकरण", "अपवर्तन", "बीट्स"],
+    "c": 3,
+    "exp": "Beats occur when two waves of slightly different frequencies interfere.",
+    "Pyq": "Trend_Based_2026"
+  }
+]
