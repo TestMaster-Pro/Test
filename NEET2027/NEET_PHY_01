@@ -1,0 +1,222 @@
+[
+  {
+    "en": "The dimensional formula of Planck's constant (h) is equivalent to that of which physical quantity?",
+    "hi": "प्लांक नियतांक (h) का विमीय सूत्र किस भौतिक राशि के समान है?",
+    "oEn": ["Force", "Angular momentum", "Linear momentum", "Work"],
+    "oHi": ["बल", "कोणीय संवेग", "रेखीय संवेग", "कार्य"],
+    "c": 1,
+    "exp": "Planck's constant (h) has dimensions of [ML^2T^-1], which is the same as Angular Momentum (L = mvr).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "If the energy (E), velocity (v), and time (T) are chosen as the fundamental quantities, the dimensional formula of surface tension is:",
+    "hi": "यदि ऊर्जा (E), वेग (v), और समय (T) को मूल राशियों के रूप में चुना जाता है, तो पृष्ठ तनाव का विमीय सूत्र है:",
+    "oEn": ["EV^-2T^-2", "E^-2V^2T", "EV^-2T^2", "E^2V^-2T"],
+    "oHi": ["EV^-2T^-2", "E^-2V^2T", "EV^-2T^2", "E^2V^-2T"],
+    "c": 0,
+    "exp": "Surface tension is Force/length or Energy/Area. Solving dimensionally results in E T^-2 V^-2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A physical quantity P is related to four observables a, b, c, and d as follows: P = a^3 b^2 / (sqrt(c) d). The percentage errors of measurement in a, b, c, and d are 1%, 3%, 4%, and 2% respectively. What is the percentage error in P?",
+    "hi": "एक भौतिक राशि P चार प्रेक्षणों a, b, c, और d से इस प्रकार संबंधित है: P = a^3 b^2 / (sqrt(c) d)। a, b, c, और d में मापन की प्रतिशत त्रुटियाँ क्रमशः 1%, 3%, 4%, और 2% हैं। P में प्रतिशत त्रुटि क्या है?",
+    "oEn": ["12%", "13%", "14%", "15%"],
+    "oHi": ["12%", "13%", "14%", "15%"],
+    "c": 1,
+    "exp": "Error in P = 3(Error in a) + 2(Error in b) + 0.5(Error in c) + 1(Error in d) = 3(1) + 2(3) + 0.5(4) + 1(2) = 3 + 6 + 2 + 2 = 13%.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following measurements is the most precise?",
+    "hi": "निम्नलिखित में से कौन सा मापन सबसे अधिक परिशुद्ध (precise) है?",
+    "oEn": ["5.00 m", "5.000 m", "5.0 m", "5 m"],
+    "oHi": ["5.00 m", "5.000 m", "5.0 m", "5 m"],
+    "c": 1,
+    "exp": "The measurement with the highest number of significant figures (5.000 m) is the most precise.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In the equation (P + a/V^2)(V - b) = RT, the dimensions of 'a' are:",
+    "hi": "समीकरण (P + a/V^2)(V - b) = RT में, 'a' की विमाएँ हैं:",
+    "oEn": [ML^5T^-2, M^-1L^5T^2, ML^5T^2, M^-1L^-5T^-2],
+    "oHi": [ML^5T^-2, M^-1L^5T^2, ML^5T^2, M^-1L^-5T^-2],
+    "c": 0,
+    "exp": "Dimensional homogeneity requires [a/V^2] = [P]. Since [P] = [ML^-1T^-2] and [V] = [L^3], [a] = [ML^-1T^-2][L^6] = [ML^5T^-2].",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A screw gauge has a pitch of 0.5 mm and 100 divisions on the circular scale. What is the least count of the instrument?",
+    "hi": "एक स्क्रू गेज का पिच 0.5 mm है और वृत्तीय पैमाने पर 100 भाग हैं। उपकरण का अल्पतमांक (least count) क्या है?",
+    "oEn": ["0.01 mm", "0.005 mm", "0.05 mm", "0.001 mm"],
+    "oHi": ["0.01 mm", "0.005 mm", "0.05 mm", "0.001 mm"],
+    "c": 1,
+    "exp": "Least Count = Pitch / Number of divisions = 0.5 mm / 100 = 0.005 mm.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The dimensional formula of permittivity of free space ($\epsilon_0$) is:",
+    "hi": "मुक्त आकाश की विद्युतशीलता ($\epsilon_0$) का विमीय सूत्र है:",
+    "oEn": [M^-1L^-3T^4A^2, ML^-3T^4A^2, M^-1L^3T^-4A^-2, ML^3T^-4A^2],
+    "oHi": [M^-1L^-3T^4A^2, ML^-3T^4A^2, M^-1L^3T^-4A^-2, ML^3T^-4A^2],
+    "c": 0,
+    "exp": "Using Coulomb's law F = (1/4πε0) * (q1q2/r^2), we get [ε0] = [q^2 / Fr^2] = [A^2T^2 / MLT^-2 * L^2] = [M^-1L^-3T^4A^2].",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A Vernier calipers has 20 divisions on the Vernier scale which coincide with 19 divisions on the main scale. If each main scale division is 1 mm, the least count is:",
+    "hi": "एक वर्नियर कैलिपर्स के वर्नियर पैमाने पर 20 भाग हैं जो मुख्य पैमाने के 19 भागों से मेल खाते हैं। यदि प्रत्येक मुख्य पैमाना भाग 1 mm का है, तो अल्पतमांक है:",
+    "oEn": ["0.02 mm", "0.05 mm", "0.1 mm", "0.01 mm"],
+    "oHi": ["0.02 mm", "0.05 mm", "0.1 mm", "0.01 mm"],
+    "c": 1,
+    "exp": "Least Count = 1 MSD - 1 VSD = 1 mm - (19/20)mm = 0.05 mm.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is dimensionless?",
+    "hi": "निम्नलिखित में से कौन सा विमाहीन (dimensionless) है?",
+    "oEn": ["Strain", "Stress", "Pressure", "Density"],
+    "oHi": ["विकृति (Strain)", "प्रतिबल (Stress)", "दाब (Pressure)", "घनत्व (Density)"],
+    "c": 0,
+    "exp": "Strain is the ratio of change in length to original length, so it is a ratio of similar quantities and is dimensionless.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The force F is given by F = at + bt^2, where t is time. What are the dimensions of a and b?",
+    "hi": "बल F को F = at + bt^2 द्वारा दिया जाता है, जहाँ t समय है। a और b की विमाएँ क्या हैं?",
+    "oEn": [[MLT^-3], [MLT^-4]], "oHi": [[MLT^-3], [MLT^-4]], "c": 0, "exp": "[at] = [F] implies a = [MLT^-2]/[T] = [MLT^-3]. [bt^2] = [F] implies b = [MLT^-2]/[T^2] = [MLT^-4].", "Pyq": "Trend_Based_2026"},
+  {
+    "en": "Significant figures in 0.005080 are:",
+    "hi": "0.005080 में सार्थक अंकों की संख्या है:",
+    "oEn": ["3", "4", "5", "6"],
+    "oHi": ["3", "4", "5", "6"],
+    "c": 1,
+    "exp": "Leading zeros are not significant. Trailing zeros after the decimal point are significant. Thus, 5, 0, 8, 0 are significant. Total = 4.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The dimensional formula of magnetic field (B) in terms of force (F), current (I), and length (L) is:",
+    "hi": "चुंबकीय क्षेत्र (B) का विमीय सूत्र बल (F), धारा (I), और लंबाई (L) के पदों में है:",
+    "oEn": [FL^-1I^-1, FLI^-1, FL^-1I, F^-1LI^-1],
+    "oHi": [FL^-1I^-1, FLI^-1, FL^-1I, F^-1LI^-1],
+    "c": 0,
+    "exp": "From Force on a conductor F = BIL, therefore B = F / IL = [F L^-1 I^-1].",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "If the value of pressure is 10^6 dyne/cm^2, the value in SI units (N/m^2) is:",
+    "hi": "यदि दाब का मान 10^6 dyne/cm^2 है, तो SI मात्रक (N/m^2) में इसका मान है:",
+    "oEn": ["10^5", "10^6", "10^4", "10^7"],
+    "oHi": ["10^5", "10^6", "10^4", "10^7"],
+    "c": 0,
+    "exp": "1 dyne = 10^-5 N, 1 cm^2 = 10^-4 m^2. 10^6 * (10^-5 / 10^-4) = 10^6 * 0.1 = 10^5.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Dimensions of resistance in an electrical circuit in terms of dimension of mass (M), length (L), time (T), and current (I) is:",
+    "hi": "विद्युत परिपथ में प्रतिरोध का विमीय सूत्र द्रव्यमान (M), लंबाई (L), समय (T), और धारा (I) के पदों में है:",
+    "oEn": [ML^2T^-3I^-2, ML^2T^-2I^-1, ML^2T^-1I^2, ML^3T^-3I^-2],
+    "oHi": [ML^2T^-3I^-2, ML^2T^-2I^-1, ML^2T^-1I^2, ML^3T^-3I^-2],
+    "c": 0,
+    "exp": "R = V/I = (Work/charge)/I = [ML^2T^-2] / [IT * I] = [ML^2T^-3I^-2].",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A student measures the distance traversed in free fall of a body, initially at rest, in a given time. He uses this data to estimate g, the acceleration due to gravity. If the percentage errors in the measurement of distance and time are e1 and e2 respectively, the percentage error in the estimation of g is:",
+    "hi": "एक छात्र स्थिर अवस्था से मुक्त रूप से गिरती हुई वस्तु द्वारा तय की गई दूरी को मापता है। वह g का अनुमान लगाने के लिए इस डेटा का उपयोग करता है। यदि दूरी और समय के मापन में प्रतिशत त्रुटियाँ क्रमशः e1 और e2 हैं, तो g के अनुमान में प्रतिशत त्रुटि है:",
+    "oEn": ["e1 + 2e2", "e1 + e2", "e1 - 2e2", "e2 - 2e1"],
+    "oHi": ["e1 + 2e2", "e1 + e2", "e1 - 2e2", "e2 - 2e1"],
+    "c": 0,
+    "exp": "S = 1/2 gt^2 -> g = 2S/t^2. Error in g = (Error in S) + 2*(Error in t) = e1 + 2e2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Dimensional formula of coefficient of viscosity is:",
+    "hi": "श्यानता गुणांक (coefficient of viscosity) का विमीय सूत्र है:",
+    "oEn": [ML^-1T^-1, ML^-1T^-2, MLT^-1, M^-1L^-1T^-1],
+    "oHi": [ML^-1T^-1, ML^-1T^-2, MLT^-1, M^-1L^-1T^-1],
+    "c": 0,
+    "exp": "F = -ηA(dv/dx). [η] = [F] / [A] [dv/dx] = [MLT^-2] / [L^2] [T^-1] = [ML^-1T^-1].",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The velocity v of a particle at time t is given by v = at^2 + bt + c. The dimensions of a, b, and c are:",
+    "hi": "समय t पर एक कण का वेग v, v = at^2 + bt + c द्वारा दिया जाता है। a, b, और c की विमाएँ हैं:",
+    "oEn": [[LT^-3, LT^-2, LT^-1], [LT^-2, LT^-1, LT^0], [LT^-3, LT^-2, L], [LT^-1, LT^-2, LT^-3]],
+    "oHi": [[LT^-3, LT^-2, LT^-1], [LT^-2, LT^-1, LT^0], [LT^-3, LT^-2, L], [LT^-1, LT^-2, LT^-3]],
+    "c": 0,
+    "exp": "Each term must have the same dimension as velocity [LT^-1]. [at^2] = [LT^-1] => a=[LT^-3]; [bt] = [LT^-1] => b=[LT^-2]; [c] = [LT^-1].",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "If error in measurement of radius of a sphere is 2%, then error in measurement of its volume is:",
+    "hi": "यदि गोले की त्रिज्या के मापन में त्रुटि 2% है, तो उसके आयतन के मापन में त्रुटि है:",
+    "oEn": ["2%", "4%", "6%", "8%"],
+    "oHi": ["2%", "4%", "6%", "8%"],
+    "c": 2,
+    "exp": "V = 4/3 π r^3. Error in Volume = 3 * (Error in radius) = 3 * 2% = 6%.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The value of 9.8 m/s^2 in km/h^2 is:",
+    "hi": "9.8 m/s^2 का मान km/h^2 में है:",
+    "oEn": ["127008", "1270.08", "127.008", "1.27008"],
+    "oHi": ["127008", "1270.08", "127.008", "1.27008"],
+    "c": 0,
+    "exp": "9.8 m/s^2 = 9.8 * (10^-3 km) / (1/3600 h)^2 = 9.8 * 10^-3 * (3600)^2 = 9.8 * 10^-3 * 12,960,000 = 127,008 km/h^2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In a Vernier caliper, 10 Vernier scale divisions are equal to 9 main scale divisions. If each main scale division is 1mm, then the least count of the vernier caliper is:",
+    "hi": "एक वर्नियर कैलिपर में, 10 वर्नियर स्केल के भाग 9 मुख्य स्केल के भागों के बराबर हैं। यदि प्रत्येक मुख्य स्केल भाग 1mm का है, तो वर्नियर कैलिपर का अल्पतमांक (least count) है:",
+    "oEn": ["0.1 mm", "0.01 mm", "0.9 mm", "0.09 mm"],
+    "oHi": ["0.1 mm", "0.01 mm", "0.9 mm", "0.09 mm"],
+    "c": 0,
+    "exp": "Least Count = 1 MSD - 1 VSD = 1 mm - (9/10)mm = 0.1 mm.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is not a unit of time?",
+    "hi": "निम्नलिखित में से कौन सा समय का मात्रक नहीं है?",
+    "oEn": ["Parsec", "Microsecond", "Leap year", "Lunar month"],
+    "oHi": ["पार्सेक (Parsec)", "माइक्रोसेकंड (Microsecond)", "लीप वर्ष (Leap year)", "चंद्र मास (Lunar month)"],
+    "c": 0,
+    "exp": "Parsec is a unit of distance, not time.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The dimensional formula of torque is:",
+    "hi": "बल आघूर्ण (torque) का विमीय सूत्र है:",
+    "oEn": [ML^2T^-2, MLT^-2, ML^2T^-1, ML^-1T^-2],
+    "oHi": [ML^2T^-2, MLT^-2, ML^2T^-1, ML^-1T^-2],
+    "c": 0,
+    "exp": "Torque = Force * distance. [MLT^-2] * [L] = [ML^2T^-2].",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A physical quantity x is represented by x = M^a L^b T^c. If the percentage errors in M, L, and T are alpha, beta, and gamma respectively, then the total percentage error in x is:",
+    "hi": "एक भौतिक राशि x को x = M^a L^b T^c द्वारा दर्शाया गया है। यदि M, L, और T में प्रतिशत त्रुटियाँ क्रमशः alpha, beta, और gamma हैं, तो x में कुल प्रतिशत त्रुटि है:",
+    "oEn": [a*alpha + b*beta + c*gamma, a*alpha - b*beta + c*gamma, (a*alpha + b*beta + c*gamma)/3, a*alpha + b*beta - c*gamma],
+    "oHi": [a*alpha + b*beta + c*gamma, a*alpha - b*beta + c*gamma, (a*alpha + b*beta + c*gamma)/3, a*alpha + b*beta - c*gamma],
+    "c": 0,
+    "exp": "Relative error (dx/x) = a(dM/M) + b(dL/L) + c(dT/T). Percentage error = a(alpha) + b(beta) + c(gamma).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The dimension of velocity gradient is:",
+    "hi": "वेग प्रवणता (velocity gradient) की विमा है:",
+    "oEn": [T^-1, LT^-1, L^-1T^-1, T],
+    "oHi": [T^-1, LT^-1, L^-1T^-1, T],
+    "c": 0,
+    "exp": "Velocity gradient = change in velocity / distance = (L/T) / L = T^-1.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The significant figures in 500.00 are:",
+    "hi": "500.00 में सार्थक अंकों की संख्या है:",
+    "oEn": ["1", "3", "5", "2"],
+    "oHi": ["1", "3", "5", "2"],
+    "c": 2,
+    "exp": "In a number with a decimal, all trailing zeros are significant. Thus, 5, 0, 0, 0, 0 are all significant.",
+    "Pyq": "Trend_Based_2026"
+  }
+]
