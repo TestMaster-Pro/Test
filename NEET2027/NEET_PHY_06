@@ -1,0 +1,227 @@
+[
+  {
+    "en": "The acceleration due to gravity at a height 'h' above the surface of the earth is (R = radius of earth, g = gravity at surface):",
+    "hi": "पृथ्वी की सतह से 'h' ऊँचाई पर गुरुत्वीय त्वरण है (R = पृथ्वी की त्रिज्या, g = सतह पर गुरुत्व):",
+    "oEn": ["Both 1 and 2", "g(1 - 2h/R)", "gR^2 / (R+h)^2", "g(1 - h/R)"],
+    "oHi": ["1 और 2 दोनों", "g(1 - 2h/R)", "gR^2 / (R+h)^2", "g(1 - h/R)"],
+    "c": 0,
+    "exp": "The exact formula is g' = gR^2/(R+h)^2, and for h << R, it approximates to g(1 - 2h/R).",
+    "Pyq": "NEET_2019"
+  },
+  {
+    "en": "If the radius of the earth were to shrink by 1%, its mass remaining the same, the acceleration due to gravity on the earth's surface would:",
+    "hi": "यदि पृथ्वी की त्रिज्या 1% कम हो जाए और उसका द्रव्यमान वही रहे, तो पृथ्वी की सतह पर गुरुत्वीय त्वरण:",
+    "oEn": ["Decrease by 2%", "Increase by 2%", "Increase by 1%", "Decrease by 1%"],
+    "oHi": ["2% घट जाएगा", "2% बढ़ जाएगा", "1% बढ़ जाएगा", "1% घट जाएगा"],
+    "c": 1,
+    "exp": "g = GM/R^2, so g ∝ R^-2. Δg/g = -2(ΔR/R) = -2(-1%) = +2%.",
+    "Pyq": "NEET_2017"
+  },
+  {
+    "en": "The escape velocity from the earth's surface is 'v'. The escape velocity from a planet whose mass and radius are twice that of earth is:",
+    "hi": "पृथ्वी की सतह से पलायन वेग 'v' है। उस ग्रह से पलायन वेग क्या होगा जिसका द्रव्यमान और त्रिज्या पृथ्वी के दोगुने हैं?",
+    "oEn": ["2v", "v/2", "v", "sqrt(2)v"],
+    "oHi": ["2v", "v/2", "v", "sqrt(2)v"],
+    "c": 2,
+    "exp": "v_esc = sqrt(2GM/R). If M'=2M and R'=2R, v' = sqrt(2G(2M)/(2R)) = v.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A body weighs 72 N on the surface of the earth. What is the gravitational force on it at a height equal to half the radius of the earth?",
+    "hi": "एक पिंड का भार पृथ्वी की सतह पर 72 N है। पृथ्वी की त्रिज्या के आधे के बराबर ऊँचाई पर उस पर गुरुत्वाकर्षण बल क्या होगा?",
+    "oEn": ["48 N", "16 N", "24 N", "32 N"],
+    "oHi": ["48 N", "16 N", "24 N", "32 N"],
+    "c": 3,
+    "exp": "F' = F * R^2 / (R+h)^2. Given h = R/2, F' = 72 * R^2 / (1.5R)^2 = 72 / 2.25 = 32 N.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Two satellites of masses m and 2m are revolving in the same circular orbit around the earth. Their speeds are in the ratio:",
+    "hi": "m और 2m द्रव्यमान के दो उपग्रह पृथ्वी के चारों ओर एक ही वृत्ताकार कक्षा में चक्कर लगा रहे हैं। उनकी चालों का अनुपात है:",
+    "oEn": ["1:1", "1:2", "2:1", "4:1"],
+    "oHi": ["1:1", "1:2", "2:1", "4:1"],
+    "c": 0,
+    "exp": "Orbital velocity v = sqrt(GM/r) is independent of the mass of the satellite.",
+    "Pyq": "NEET_2015"
+  },
+  {
+    "en": "The period of a satellite in a circular orbit of radius R is T. The period of a satellite in a circular orbit of radius 4R is:",
+    "hi": "R त्रिज्या की वृत्ताकार कक्षा में एक उपग्रह का आवर्तकाल T है। 4R त्रिज्या की वृत्ताकार कक्षा में उपग्रह का आवर्तकाल है:",
+    "oEn": ["2T", "8T", "4T", "16T"],
+    "oHi": ["2T", "8T", "4T", "16T"],
+    "c": 1,
+    "exp": "Kepler's 3rd Law: T^2 ∝ R^3. T' = T * (4R/R)^(3/2) = T * 4^(3/2) = T * 8.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "What is the gravitational potential at the center of the earth?",
+    "hi": "पृथ्वी के केंद्र पर गुरुत्वीय विभव क्या है?",
+    "oEn": ["-GM/R", "Zero", "-3GM/2R", "-GM/2R"],
+    "oHi": ["-GM/R", "शून्य", "-3GM/2R", "-GM/2R"],
+    "c": 2,
+    "exp": "Gravitational potential inside a solid sphere at center is -3GM/2R.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The distance of a geostationary satellite from the center of the earth is about:",
+    "hi": "भू-स्थिर उपग्रह की पृथ्वी के केंद्र से दूरी लगभग है:",
+    "oEn": ["2R", "4R", "8R", "6R"],
+    "oHi": ["2R", "4R", "8R", "6R"],
+    "c": 3,
+    "exp": "Geostationary orbits are at approximately 36,000 km altitude, which is about 6R from the center.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The gravitational force between two objects does not depend on:",
+    "hi": "दो वस्तुओं के बीच गुरुत्वाकर्षण बल किस पर निर्भर नहीं करता है?",
+    "oEn": ["Sum of the masses", "Product of the masses", "Distance between them", "Gravitational constant"],
+    "oHi": ["द्रव्यमानों का योग", "द्रव्यमानों का गुणनफल", "उनके बीच की दूरी", "गुरुत्वाकर्षण नियतांक"],
+    "c": 0,
+    "exp": "F = G m1 m2 / r^2. It depends on the product, not the sum.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "If the earth stops rotating, the value of 'g' at the equator will:",
+    "hi": "यदि पृथ्वी घूमना बंद कर दे, तो भूमध्य रेखा पर 'g' का मान:",
+    "oEn": ["Decrease", "Increase", "Remain same", "Become zero"],
+    "oHi": ["घट जाएगा", "बढ़ जाएगा", "वही रहेगा", "शून्य हो जाएगा"],
+    "c": 1,
+    "exp": "g_eff = g - Rω^2 cos^2(φ). Without rotation (ω=0), g_eff increases at the equator.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Kepler's second law is a consequence of:",
+    "hi": "केप्लर का दूसरा नियम किसका परिणाम है?",
+    "oEn": ["Conservation of linear momentum", "Conservation of energy", "Conservation of angular momentum", "Conservation of mass"],
+    "oHi": ["रेखीय संवेग संरक्षण", "ऊर्जा संरक्षण", "कोणीय संवेग संरक्षण", "द्रव्यमान संरक्षण"],
+    "c": 2,
+    "exp": "Kepler's second law (equal area in equal time) is directly based on the conservation of angular momentum.",
+    "Pyq": "NEET_2016"
+  },
+  {
+    "en": "A particle of mass m is moved from the center of the earth to the surface. The work done is:",
+    "hi": "m द्रव्यमान के एक कण को पृथ्वी के केंद्र से सतह तक ले जाया जाता है। किया गया कार्य है:",
+    "oEn": ["GMm/R", "2GMm/R", "Zero", "GMm/2R"],
+    "oHi": ["GMm/R", "2GMm/R", "शून्य", "GMm/2R"],
+    "c": 3,
+    "exp": "Work = m * (V_surface - V_center) = m * (-GM/R - (-3GM/2R)) = m * (GM/2R) = GMm/2R.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The value of acceleration due to gravity is maximum at:",
+    "hi": "गुरुत्वीय त्वरण का मान अधिकतम होता है:",
+    "oEn": ["Poles", "Equator", "Center of earth", "Height h"],
+    "oHi": ["ध्रुवों पर", "भूमध्य रेखा पर", "पृथ्वी के केंद्र पर", "ऊँचाई h पर"],
+    "c": 0,
+    "exp": "Due to the earth's oblate shape, the radius is smallest at the poles, making g maximum there.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The binding energy of a satellite in orbit is:",
+    "hi": "कक्षा में उपग्रह की बंधन ऊर्जा (binding energy) है:",
+    "oEn": ["Total Energy", "-Total Energy", "Kinetic Energy", "Potential Energy"],
+    "oHi": ["कुल ऊर्जा", "-कुल ऊर्जा", "गतिज ऊर्जा", "स्थितिज ऊर्जा"],
+    "c": 1,
+    "exp": "Binding Energy = -Total Energy = GMm/2r.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The time period of a simple pendulum inside a satellite orbiting the earth is:",
+    "hi": "पृथ्वी की परिक्रमा कर रहे उपग्रह के अंदर एक सरल लोलक का आवर्तकाल है:",
+    "oEn": ["Zero", "Same as on earth", "Infinite", "2 seconds"],
+    "oHi": ["शून्य", "पृथ्वी के समान", "अनंत", "2 सेकंड"],
+    "c": 2,
+    "exp": "Inside the satellite, g_eff = 0 (weightlessness). T = 2π * sqrt(l/g_eff) = infinite.",
+    "Pyq": "NEET_2014"
+  },
+  {
+    "en": "The escape velocity from a planet depends on its:",
+    "hi": "किसी ग्रह से पलायन वेग किस पर निर्भर करता है?",
+    "oEn": ["Mass and mass of the object", "Radius and mass of the object", "Only radius", "Mass and radius"],
+    "oHi": ["द्रव्यमान और वस्तु का द्रव्यमान", "त्रिज्या और वस्तु का द्रव्यमान", "केवल त्रिज्या", "द्रव्यमान और त्रिज्या"],
+    "c": 3,
+    "exp": "v_esc = sqrt(2GM/R). It depends on the planet's mass (M) and radius (R).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "If the distance between two masses is doubled, the gravitational force becomes:",
+    "hi": "यदि दो द्रव्यमानों के बीच की दूरी दोगुनी कर दी जाए, तो गुरुत्वाकर्षण बल हो जाता है:",
+    "oEn": ["1/4th", "1/2", "2 times", "4 times"],
+    "oHi": ["1/4", "1/2", "2 गुना", "4 गुना"],
+    "c": 0,
+    "exp": "F ∝ 1/r^2. If r becomes 2r, F' ∝ 1/(2r)^2 = 1/4 F.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A planet is moving in an elliptical orbit. The area swept by the radius vector in unit time is:",
+    "hi": "एक ग्रह अंडाकार कक्षा में घूम रहा है। इकाई समय में त्रिज्या सदिश (radius vector) द्वारा तय किया गया क्षेत्रफल है:",
+    "oEn": ["Increasing", "Constant", "Decreasing", "Zero"],
+    "oHi": ["बढ़ रहा है", "स्थिर", "घट रहा है", "शून्य"],
+    "c": 1,
+    "exp": "Kepler's second law states that the areal velocity (area/time) is constant.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The gravitational field inside a uniform spherical shell is:",
+    "hi": "एकसमान गोलाकार कोश (spherical shell) के अंदर गुरुत्वीय क्षेत्र है:",
+    "oEn": ["Constant", "Dependent on distance", "Zero", "Maximum"],
+    "oHi": ["स्थिर", "दूरी पर निर्भर", "शून्य", "अधिकतम"],
+    "c": 2,
+    "exp": "For a thin uniform spherical shell, the gravitational field at any point inside is zero.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Two spheres of same material and radius r are touching each other. The gravitational force between them is proportional to:",
+    "hi": "एक ही सामग्री और 'r' त्रिज्या वाले दो गोले एक-दूसरे को छू रहे हैं। उनके बीच गुरुत्वाकर्षण बल किसके समानुपाती है?",
+    "oEn": ["r^2", "r^6", "r", "r^4"],
+    "oHi": ["r^2", "r^6", "r", "r^4"],
+    "c": 3,
+    "exp": "M = density * (4/3)πr^3. F = G M^2 / (2r)^2 ∝ (r^3)^2 / r^2 = r^6 / r^2 = r^4.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The potential energy of a body of mass m at height R (radius of earth) from the surface is:",
+    "hi": "सतह से R (पृथ्वी की त्रिज्या) ऊँचाई पर 'm' द्रव्यमान के पिंड की स्थितिज ऊर्जा है:",
+    "oEn": ["-GMm/2R", "-GMm/R", "GMm/2R", "-GMm/4R"],
+    "oHi": ["-GMm/2R", "-GMm/R", "GMm/2R", "-GMm/4R"],
+    "c": 0,
+    "exp": "U = -GMm / (R+h). At h=R, U = -GMm / (R+R) = -GMm/2R.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "What is the relation between escape velocity (v) and orbital velocity (v0) for a satellite close to the earth?",
+    "hi": "पृथ्वी के निकट उपग्रह के लिए पलायन वेग (v) और कक्षीय वेग (v0) के बीच क्या संबंध है?",
+    "oEn": ["v = v0", "v = sqrt(2) * v0", "v = 2 * v0", "v = v0/sqrt(2)"],
+    "oHi": ["v = v0", "v = sqrt(2) * v0", "v = 2 * v0", "v = v0/sqrt(2)"],
+    "c": 1,
+    "exp": "v_esc = sqrt(2GM/R) and v_orb = sqrt(GM/R). So v = sqrt(2) * v_orb.",
+    "Pyq": "NEET_2013"
+  },
+  {
+    "en": "The value of G in SI units is:",
+    "hi": "SI मात्रक में G का मान है:",
+    "oEn": ["9.8 m/s^2", "6.67 x 10^-11 kg^2/N m^2", "6.67 x 10^-11 N m^2/kg^2", "8.9 x 10^9"],
+    "oHi": ["9.8 मी/से^2", "6.67 x 10^-11 किग्रा^2/N मी^2", "6.67 x 10^-11 N m^2/kg^2", "8.9 x 10^9"],
+    "c": 2,
+    "exp": "The value of the universal gravitational constant is 6.67 x 10^-11 N m^2/kg^2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The orbital velocity of an artificial satellite in a circular orbit near the earth's surface is about:",
+    "hi": "पृथ्वी की सतह के निकट वृत्ताकार कक्षा में कृत्रिम उपग्रह का कक्षीय वेग लगभग है:",
+    "oEn": ["11.2 km/s", "3 km/s", "15 km/s", "8 km/s"],
+    "oHi": ["11.2 किमी/से", "3 किमी/से", "15 किमी/से", "8 किमी/से"],
+    "c": 3,
+    "exp": "v_orb = sqrt(GM/R) ≈ 7.9 km/s ≈ 8 km/s.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The acceleration due to gravity on the moon is about ____ of that on earth.",
+    "hi": "चंद्रमा पर गुरुत्वीय त्वरण पृथ्वी का ____ है।",
+    "oEn": ["1/6", "1/2", "1/4", "1/8"],
+    "oHi": ["1/6", "1/2", "1/4", "1/8"],
+    "c": 0,
+    "exp": "The moon's mass and radius result in an acceleration due to gravity about 1/6th of earth's.",
+    "Pyq": "Trend_Based_2026"
+  }
+]
