@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Which enzyme is responsible for 'molecular gluing' in recombinant DNA technology?",
+    "hi": "पुनः संयोजक डीएनए (rDNA) तकनीक में 'आणविक गोंद' (molecular gluing) के लिए कौन सा एंजाइम जिम्मेदार है?",
+    "oEn": ["Restriction endonuclease", "DNA ligase", "DNA polymerase", "Exonuclease"],
+    "oHi": ["रिस्ट्रिक्शन एंडोन्यूक्लिएज", "डीएनए लाइगेज", "डीएनए पॉलीमरेज", "एक्सोन्यूक्लिएज"],
+    "c": 1,
+    "exp": "DNA ligase forms phosphodiester bonds between DNA fragments, acting as 'molecular glue'.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The specific recognition sequence of EcoRI is:",
+    "hi": "EcoRI का विशिष्ट पहचान अनुक्रम (recognition sequence) क्या है?",
+    "oEn": ["5'-GAATTC-3'", "5'-GATATC-3'", "5'-GCTTGC-3'", "5'-GGTACC-3'"],
+    "oHi": ["5'-GAATTC-3'", "5'-GATATC-3'", "5'-GCTTGC-3'", "5'-GGTACC-3'"],
+    "c": 0,
+    "exp": "EcoRI recognizes 5'-GAATTC-3' and cuts between G and A.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In pBR322, if a foreign gene is inserted at the BamHI site, which marker is inactivated?",
+    "hi": "pBR322 में, यदि बाहरी जीन को BamHI साइट पर डाला जाता है, तो कौन सा मार्कर निष्क्रिय हो जाता है?",
+    "oEn": ["Ampicillin resistance", "Tetracycline resistance", "Origin of replication", "ROP gene"],
+    "oHi": ["एम्पीसिलीन प्रतिरोध", "टेट्रासाइक्लिन प्रतिरोध", "प्रतिकृति की उत्पत्ति (ori)", "ROP जीन"],
+    "c": 1,
+    "exp": "BamHI site is located within the tetracycline resistance gene; insertion here inactivates it.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which method is primarily used for the transformation of animal cells?",
+    "hi": "जंतु कोशिकाओं के रूपांतरण (transformation) के लिए मुख्य रूप से किस विधि का उपयोग किया जाता है?",
+    "oEn": ["Microinjection", "Biolistics", "Heat shock", "Chemical mediated"],
+    "oHi": ["माइक्रोइंजेक्शन", "बायोलिस्टिक्स", "हीट शॉक", "रासायनिक माध्यम"],
+    "c": 0,
+    "exp": "Microinjection is a direct method of injecting rDNA into animal cells.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "What is the purpose of ethidium bromide in gel electrophoresis?",
+    "hi": "जेल इलेक्ट्रोफोरेसिस में एथिडियम ब्रोमाइड का उद्देश्य क्या है?",
+    "oEn": ["Separation of DNA", "Staining DNA for visualization", "Loading the sample", "Buffer stabilization"],
+    "oHi": ["डीएनए का पृथक्करण", "दृश्यता के लिए डीएनए को अभिरंजित करना", "नमूना लोड करना", "बफर स्थिरीकरण"],
+    "c": 1,
+    "exp": "Ethidium bromide intercalates with DNA, and under UV light, it appears orange.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The DNA polymerase enzyme used in PCR is isolated from:",
+    "hi": "पीसीआर (PCR) में उपयोग किए जाने वाले डीएनए पॉलीमरेज एंजाइम को किससे पृथक किया जाता है?",
+    "oEn": ["E. coli", "Thermus aquaticus", "Agrobacterium tumefaciens", "Bacillus thuringiensis"],
+    "oHi": ["ई. कोलाई", "थर्मस एक्वैटिकस", "एग्रोबैक्टीरियम ट्यूमेफेशियंस", "बैसिलस थुरिंजिएन्सिस"],
+    "c": 1,
+    "exp": "Taq polymerase, derived from the thermophilic bacterium Thermus aquaticus, is heat stable.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "RNA interference (RNAi) is used to control nematodes in:",
+    "hi": "आरएनए हस्तक्षेप (RNAi) का उपयोग किसमें सूत्रकृमि (nematodes) को नियंत्रित करने के लिए किया जाता है?",
+    "oEn": ["Cotton", "Tobacco", "Rice", "Wheat"],
+    "oHi": ["कपास", "तंबाकू", "चावल", "गेहूं"],
+    "c": 1,
+    "exp": "RNAi was used to develop tobacco plants resistant to the nematode Meloidogyne incognita.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is NOT a feature of a good cloning vector?",
+    "hi": "निम्नलिखित में से कौन सा एक अच्छे क्लोनिंग वेक्टर की विशेषता नहीं है?",
+    "oEn": ["Origin of replication", "Selectable marker", "Multiple restriction sites", "High copy number"],
+    "oHi": ["प्रतिकृति की उत्पत्ति (ori)", "चयनात्मक मार्कर (Selectable marker)", "कई रिस्ट्रिक्शन साइट्स", "उच्च कॉपी संख्या"],
+    "c": 2,
+    "exp": "A good vector should ideally have a single (unique) restriction site for each enzyme, not multiple.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Golden rice is enriched with:",
+    "hi": "गोल्डन राइस (Golden rice) किससे समृद्ध होता है?",
+    "oEn": ["Vitamin A", "Vitamin B12", "Iron", "Vitamin C"],
+    "oHi": ["विटामिन ए", "विटामिन बी12", "आयरन", "विटामिन सी"],
+    "c": 0,
+    "exp": "Golden rice is genetically modified to produce beta-carotene, a precursor of Vitamin A.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The first clinical gene therapy was given for treating:",
+    "hi": "पहली नैदानिक जीन थेरेपी किसके उपचार के लिए दी गई थी?",
+    "oEn": ["ADA deficiency", "Diabetes", "Cystic fibrosis", "Cancer"],
+    "oHi": ["एडीए (ADA) की कमी", "मधुमेह", "सिस्टिक फाइब्रोसिस", "कैंसर"],
+    "c": 0,
+    "exp": "In 1990, the first gene therapy was performed on a 4-year-old girl with Adenosine Deaminase (ADA) deficiency.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "What is the primary function of cryIAc genes?",
+    "hi": "cryIAc जीन का प्राथमिक कार्य क्या है?",
+    "oEn": ["Control bollworms", "Control corn borer", "Increase yield", "Enhance protein content"],
+    "oHi": ["बॉलवर्म को नियंत्रित करना", "कॉर्न बोरर को नियंत्रित करना", "पैदावार बढ़ाना", "प्रोटीन सामग्री बढ़ाना"],
+    "c": 0,
+    "exp": "CryIAc and CryIIAb control cotton bollworms.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which downstream processing step includes removing DNA, RNA, proteins, and lipids from a cell?",
+    "hi": "डाउनस्ट्रीम प्रोसेसिंग के किस चरण में कोशिका से डीएनए, आरएनए, प्रोटीन और लिपिड को हटाना शामिल है?",
+    "oEn": ["Elution", "Purification", "Isolation of genetic material", "Separation"],
+    "oHi": ["इलुशन", "शुद्धिकरण", "आनुवंशिक सामग्री का पृथक्करण", "पृथक्करण"],
+    "c": 2,
+    "exp": "The first step in DNA extraction is the removal of cellular components (proteins, lipids, etc.).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "ELISA is based on the principle of:",
+    "hi": "एलिसा (ELISA) किस सिद्धांत पर आधारित है?",
+    "oEn": ["DNA-RNA hybridization", "Antigen-Antibody interaction", "PCR amplification", "Gel electrophoresis"],
+    "oHi": ["डीएनए-आरएनए हाइब्रिडाइजेशन", "एंटीजन-एंटीबॉडी इंटरैक्शन", "पीसीआर प्रवर्धन", "जेल इलेक्ट्रोफोरेसिस"],
+    "c": 1,
+    "exp": "ELISA detects the presence of an antigen or antibody by using specific enzyme-linked antibodies.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Transgenic animals are primarily produced to:",
+    "hi": "ट्रांसजेनिक जानवरों का उत्पादन मुख्य रूप से किसके लिए किया जाता है?",
+    "oEn": ["Study gene regulation", "Test vaccine safety", "Produce biological products", "All of these"],
+    "oHi": ["जीन विनियमन का अध्ययन", "टीका सुरक्षा का परीक्षण", "जैविक उत्पादों का उत्पादन", "ये सभी"],
+    "c": 3,
+    "exp": "Transgenic animals serve all these purposes: studying gene regulation, disease models, biological product production, and vaccine testing.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Biopiracy refers to:",
+    "hi": "बायोपायरेसी (Biopiracy) से क्या तात्पर्य है?",
+    "oEn": ["Unauthorized use of biological resources", "Illegal hunting", "Plant tissue culture", "GMO development"],
+    "oHi": ["जैविक संसाधनों का अनधिकृत उपयोग", "अवैध शिकार", "पादप ऊतक संवर्धन", "जीएमओ विकास"],
+    "c": 0,
+    "exp": "Biopiracy is the unauthorized exploitation and patenting of biological resources and traditional knowledge by organizations/nations.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The C-peptide is removed from pro-insulin to form mature insulin. This was a challenge overcome by:",
+    "hi": "परिपक्व इंसुलिन बनाने के लिए प्रो-इंसुलिन से सी-पेप्टाइड (C-peptide) को हटाया जाता है। इस चुनौती को किसके द्वारा दूर किया गया?",
+    "oEn": ["Eli Lilly", "Monsanto", "Genentech", "WHO"],
+    "oHi": ["एली लिली", "मोंसांटो", "जेनेन्टेक", "डब्ल्यूएचओ"],
+    "c": 0,
+    "exp": "In 1983, Eli Lilly produced synthetic human insulin by creating separate DNA sequences for A and B chains.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which structure in a bioreactor ensures even mixing of the oxygen and nutrients?",
+    "hi": "बायोरिएक्टर में कौन सी संरचना ऑक्सीजन और पोषक तत्वों के समान मिश्रण को सुनिश्चित करती है?",
+    "oEn": ["Oxygen delivery system", "Stirrer/Agitator", "pH control system", "Foam control system"],
+    "oHi": ["ऑक्सीजन वितरण प्रणाली", "स्टिरर (आंदोलनकारी)", "पीएच नियंत्रण प्रणाली", "फोम नियंत्रण प्रणाली"],
+    "c": 1,
+    "exp": "The stirring mechanism (agitator) ensures uniform mixing and aeration in the culture.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Biolistics or gene gun method is suitable for:",
+    "hi": "बायोलिस्टिक्स या जीन गन विधि किसके लिए उपयुक्त है?",
+    "oEn": ["Bacteria", "Plant cells", "Animal cells", "Viruses"],
+    "oHi": ["बैक्टीरिया", "पादप कोशिकाएं", "जंतु कोशिकाएं", "वायरस"],
+    "c": 1,
+    "exp": "Gene gun is directly used to introduce DNA into plant cells by bombarding them with gold/tungsten particles coated with DNA.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The sequence recognized by restriction endonucleases is called a:",
+    "hi": "रिस्ट्रिक्शन एंडोन्यूक्लिएज द्वारा पहचाने जाने वाले अनुक्रम को क्या कहते हैं?",
+    "oEn": ["Promoter", "Palindrome", "Operator", "Terminator"],
+    "oHi": ["प्रमोटर", "पलिंड्रोम", "ऑपरेटर", "टर्मिनेटर"],
+    "c": 1,
+    "exp": "Restriction enzymes cut at palindromic nucleotide sequences (the same forward and backward).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "What is the role of an origin of replication (ori) in a vector?",
+    "hi": "वेक्टर में प्रतिकृति की उत्पत्ति (ori) की भूमिका क्या है?",
+    "oEn": ["Starts replication", "Controls copy number", "Antibiotic resistance", "Gene cloning"],
+    "oHi": ["प्रतिकृति शुरू करना", "कॉपी संख्या नियंत्रित करना", "एंटीबायोटिक प्रतिरोध", "जीन क्लोनिंग"],
+    "c": 0,
+    "exp": "The 'ori' is the sequence where replication starts; it also controls the copy number of the linked DNA.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which technique is used to detect HIV infection?",
+    "hi": "एचआईवी (HIV) संक्रमण का पता लगाने के लिए किस तकनीक का उपयोग किया जाता है?",
+    "oEn": ["PCR", "Western Blotting", "ELISA", "Both PCR and ELISA"],
+    "oHi": ["पीसीआर", "वेस्टर्न ब्लॉटिंग", "एलिसा", "पीसीआर और एलिसा दोनों"],
+    "c": 3,
+    "exp": "PCR is used to amplify viral DNA, and ELISA is the primary screening test for HIV antibodies.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The first transgenic cow developed was named:",
+    "hi": "विकसित की गई पहली ट्रांसजेनिक गाय का नाम क्या था?",
+    "oEn": ["Dolly", "Rosie", "Molly", "Polly"],
+    "oHi": ["डॉली", "रोजी", "मौली", "पॉली"],
+    "c": 1,
+    "exp": "Rosie was the first transgenic cow, producing human protein-enriched milk (alpha-lactalbumin).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which step in PCR requires a temperature of 94-98°C?",
+    "hi": "पीसीआर (PCR) में किस चरण के लिए 94-98°C तापमान की आवश्यकता होती है?",
+    "oEn": ["Annealing", "Denaturation", "Extension", "Initialization"],
+    "oHi": ["एनिलिंग", "विकृतीकरण (Denaturation)", "एक्सटेंशन", "प्रारंभीकरण"],
+    "c": 1,
+    "exp": "Denaturation requires high heat to separate the double-stranded DNA.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of these is a key component in the formation of recombinant DNA?",
+    "hi": "पुनः संयोजक डीएनए (recombinant DNA) के निर्माण में इनमें से कौन सा प्रमुख घटक है?",
+    "oEn": ["Vector", "Restriction enzyme", "Host cell", "All of these"],
+    "oHi": ["वेक्टर", "रिस्ट्रिक्शन एंजाइम", "मेजबान कोशिका", "ये सभी"],
+    "c": 3,
+    "exp": "A vector, restriction enzymes, and a host cell are all essential for cloning and expressing recombinant DNA.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "What is the purpose of adding cold ethanol during DNA precipitation?",
+    "hi": "डीएनए अवक्षेपण (DNA precipitation) के दौरान ठंडा इथेनॉल मिलाने का क्या उद्देश्य है?",
+    "oEn": ["To break the cell wall", "To dissolve lipids", "To precipitate DNA", "To stain DNA"],
+    "oHi": ["कोशिका भित्ति को तोड़ने के लिए", "लिपिड्स को घोलने के लिए", "डीएनए को अवक्षेपित करने के लिए", "डीएनए को रंगने के लिए"],
+    "c": 2,
+    "exp": "Cold ethanol is added to precipitate purified DNA, making it visible as fine threads.",
+    "Pyq": "Trend_Based_2026"
+  }
+]
