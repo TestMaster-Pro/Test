@@ -1,0 +1,227 @@
+[
+  {
+    "en": "The terminal velocity of a small sphere of radius r falling through a viscous liquid is proportional to:",
+    "hi": "एक श्यान द्रव में गिरते हुए r त्रिज्या वाले छोटे गोले का सीमांत वेग (terminal velocity) किसके समानुपाती होता है?",
+    "oEn": ["r", "1/r", "r^2", "r^3"],
+    "oHi": ["r", "1/r", "r^2", "r^3"],
+    "c": 2,
+    "exp": "By Stokes' Law, v_t = 2r^2(ρ-σ)g / 9η. Thus, v_t ∝ r^2.",
+    "Pyq": "NEET_2016"
+  },
+  {
+    "en": "A wire of length L and radius r is stretched by a force F. The elongation is ΔL. If the force is doubled, the elongation will be:",
+    "hi": "L लंबाई और r त्रिज्या के एक तार को F बल द्वारा खींचा जाता है। विस्तार ΔL है। यदि बल दोगुना कर दिया जाए, तो विस्तार होगा:",
+    "oEn": ["ΔL/2", "2ΔL", "ΔL", "4ΔL"],
+    "oHi": ["ΔL/2", "2ΔL", "ΔL", "4ΔL"],
+    "c": 1,
+    "exp": "From Young's modulus, Y = (F/A) / (ΔL/L) => ΔL = FL/AY. ΔL is directly proportional to F.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Excess pressure inside a soap bubble of radius R is:",
+    "hi": "R त्रिज्या वाले साबुन के बुलबुले के अंदर अतिरिक्त दबाव है:",
+    "oEn": ["2T/R", "T/R", "8T/R", "4T/R"],
+    "oHi": ["2T/R", "T/R", "8T/R", "4T/R"],
+    "c": 3,
+    "exp": "For a soap bubble (two surfaces), excess pressure is 4T/R.",
+    "Pyq": "NEET_2017"
+  },
+  {
+    "en": "The work done in blowing a soap bubble of radius R is W. The work done in blowing a bubble of radius 2R is:",
+    "hi": "R त्रिज्या का साबुन का बुलबुला फुलाने में किया गया कार्य W है। 2R त्रिज्या का बुलबुला फुलाने में किया गया कार्य है:",
+    "oEn": ["2W", "8W", "W", "4W"],
+    "oHi": ["2W", "8W", "W", "4W"],
+    "c": 3,
+    "exp": "W = Surface Tension * ΔArea. W ∝ R^2. If R becomes 2R, W becomes (2)^2 = 4W.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following substances has the highest elasticity?",
+    "hi": "निम्नलिखित में से किस पदार्थ में सबसे अधिक प्रत्यास्थता (elasticity) होती है?",
+    "oEn": ["Rubber", "Copper", "Steel", "Glass"],
+    "oHi": ["रबर", "तांबा", "स्टील", "कांच"],
+    "c": 2,
+    "exp": "Steel has a higher Young's modulus than rubber, making it more elastic in physics terminology.",
+    "Pyq": "NEET_2015"
+  },
+  {
+    "en": "The hydraulic press works on the principle of:",
+    "hi": "हाइड्रोलिक प्रेस किस सिद्धांत पर कार्य करता है?",
+    "oEn": ["Bernoulli's principle", "Archimedes' principle", "Stokes' law", "Pascal's law"],
+    "oHi": ["बरनौली का सिद्धांत", "आर्किमिडीज का सिद्धांत", "स्टोक का नियम", "पास्कल का नियम"],
+    "c": 3,
+    "exp": "Hydraulic systems operate based on Pascal's law of pressure transmission.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A capillary tube of radius r is dipped in water. The water rises to a height h. If the radius is halved, the height rises to:",
+    "hi": "r त्रिज्या की एक केशिका नली (capillary tube) को पानी में डुबोया जाता है। पानी h ऊँचाई तक ऊपर उठता है। यदि त्रिज्या आधी कर दी जाए, तो ऊँचाई कितनी होगी?",
+    "oEn": ["h/2", "4h", "h", "2h"],
+    "oHi": ["h/2", "4h", "h", "2h"],
+    "c": 3,
+    "exp": "h ∝ 1/r. If r becomes r/2, h becomes 2h.",
+    "Pyq": "NEET_2014"
+  },
+  {
+    "en": "The potential energy stored in a stretched wire is:",
+    "hi": "एक खींचे हुए तार में संचित स्थितिज ऊर्जा है:",
+    "oEn": ["Force * Extension", "2 * Force * Extension", "Force / Extension", "0.5 * Force * Extension"],
+    "oHi": ["बल * विस्तार", "2 * बल * विस्तार", "बल / विस्तार", "0.5 * बल * विस्तार"],
+    "c": 3,
+    "exp": "U = 0.5 * F * ΔL.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Bernoulli's equation is based on the principle of:",
+    "hi": "बरनौली का समीकरण किस सिद्धांत पर आधारित है?",
+    "oEn": ["Conservation of mass", "Conservation of momentum", "Conservation of charge", "Conservation of energy"],
+    "oHi": ["द्रव्यमान संरक्षण", "संवेग संरक्षण", "आवेश संरक्षण", "ऊर्जा संरक्षण"],
+    "c": 3,
+    "exp": "Bernoulli's principle is a statement of the principle of conservation of energy for flowing fluids.",
+    "Pyq": "NEET_2018"
+  },
+  {
+    "en": "If the temperature of a liquid increases, its surface tension:",
+    "hi": "यदि किसी द्रव का तापमान बढ़ता है, तो उसका पृष्ठ तनाव (surface tension):",
+    "oEn": ["Increases", "Remains same", "Becomes zero", "Decreases"],
+    "oHi": ["बढ़ जाता है", "समान रहता है", "शून्य हो जाता है", "घट जाता है"],
+    "c": 3,
+    "exp": "Surface tension generally decreases as temperature increases.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Bulk modulus of a perfectly rigid body is:",
+    "hi": "एक पूर्णतः दृढ़ पिंड (perfectly rigid body) का आयतन प्रत्यास्थता गुणांक (Bulk modulus) है:",
+    "oEn": ["Zero", "One", "Negative", "Infinite"],
+    "oHi": ["शून्य", "एक", "ऋणात्मक", "अनंत"],
+    "c": 3,
+    "exp": "For a perfectly rigid body, ΔV = 0, so Bulk Modulus B = -ΔP / (ΔV/V) = infinite.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The Reynolds number for laminar flow is:",
+    "hi": "प्रवाही (laminar) प्रवाह के लिए रेनॉल्ड्स संख्या है:",
+    "oEn": ["Greater than 3000", "Between 2000 and 3000", "Equal to 10000", "Less than 2000"],
+    "oHi": ["3000 से अधिक", "2000 और 3000 के बीच", "10000 के बराबर", "2000 से कम"],
+    "c": 3,
+    "exp": "Reynolds number below 2000 typically signifies laminar flow.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Poiseuille's law relates to:",
+    "hi": "पॉइसुइल (Poiseuille) का नियम किससे संबंधित है?",
+    "oEn": ["Surface tension", "Elasticity", "Thermal expansion", "Viscous flow through a pipe"],
+    "oHi": ["पृष्ठ तनाव", "प्रत्यास्थता", "तापीय विस्तार", "पाइप के माध्यम से श्यान प्रवाह"],
+    "c": 3,
+    "exp": "Poiseuille's Law describes the flow of viscous fluid through a cylindrical pipe.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Young's modulus is a property of:",
+    "hi": "यंग का प्रत्यास्थता गुणांक किसकी विशेषता है?",
+    "oEn": ["Liquids only", "Gases only", "All of these", "Solids only"],
+    "oHi": ["केवल तरल", "केवल गैस", "इनमें से सभी", "केवल ठोस"],
+    "c": 3,
+    "exp": "Young's modulus is defined for solids that undergo tensile/compressive strain.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The angle of contact for water on glass is:",
+    "hi": "कांच पर पानी के लिए स्पर्श कोण (angle of contact) है:",
+    "oEn": ["Obtuse (more than 90°)", "90°", "180°", "Acute (less than 90°)"],
+    "oHi": ["अधिक कोण (90° से अधिक)", "90°", "180°", "न्यून कोण (90° से कम)"],
+    "c": 3,
+    "exp": "Water wets glass, so the angle of contact is acute.",
+    "Pyq": "NEET_2013"
+  },
+  {
+    "en": "An object sinks in water if its density is:",
+    "hi": "कोई वस्तु पानी में डूब जाती है यदि उसका घनत्व:",
+    "oEn": ["Less than density of water", "Equal to density of water", "Zero", "Greater than density of water"],
+    "oHi": ["पानी के घनत्व से कम", "पानी के घनत्व के बराबर", "शून्य", "पानी के घनत्व से अधिक"],
+    "c": 3,
+    "exp": "An object sinks if its density is greater than the fluid it is in.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The viscosity of a fluid is due to:",
+    "hi": "तरल की श्यानता किसके कारण होती है?",
+    "oEn": ["Surface tension", "Pressure", "None", "Internal friction between fluid layers"],
+    "oHi": ["पृष्ठ तनाव", "दबाव", "कोई नहीं", "तरल परतों के बीच आंतरिक घर्षण"],
+    "c": 3,
+    "exp": "Viscosity is the measure of internal resistance to flow, caused by friction between layers.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Torricelli's law is used to find:",
+    "hi": "टोरिसेली (Torricelli) के नियम का उपयोग क्या खोजने के लिए किया जाता है?",
+    "oEn": ["Pressure", "Volume", "Mass", "Efflux velocity"],
+    "oHi": ["दबाव", "आयतन", "द्रव्यमान", "बाहर निकलने का वेग (Efflux velocity)"],
+    "c": 3,
+    "exp": "Torricelli's Law gives the speed of efflux of a fluid from an orifice.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The ratio of lateral strain to longitudinal strain is:",
+    "hi": "पार्श्व विकृति (lateral strain) और अनुदैर्ध्य विकृति (longitudinal strain) का अनुपात है:",
+    "oEn": ["Young's modulus", "Bulk modulus", "Rigidity modulus", "Poisson's ratio"],
+    "oHi": ["यंग का मापांक", "आयतन मापांक", "दृढ़ता मापांक", "प्वासों अनुपात (Poisson's ratio)"],
+    "c": 3,
+    "exp": "Poisson's ratio is defined as the negative ratio of lateral to longitudinal strain.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "When a solid is heated, it expands. This is due to:",
+    "hi": "जब किसी ठोस को गर्म किया जाता है, तो वह फैलता है। इसका कारण है:",
+    "oEn": ["Decreased density", "Increased mass", "None", "Increased vibrations of atoms"],
+    "oHi": ["कम घनत्व", "बढ़ा हुआ द्रव्यमान", "कोई नहीं", "परमाणुओं के बढ़े हुए कंपन"],
+    "c": 3,
+    "exp": "Increased thermal energy increases the amplitude of atomic vibrations, causing expansion.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Surface tension is measured in:",
+    "hi": "पृष्ठ तनाव को किसमें मापा जाता है?",
+    "oEn": ["N/m^2", "J", "m/s", "N/m"],
+    "oHi": ["N/m^2", "J", "m/s", "N/m"],
+    "c": 3,
+    "exp": "Surface tension is Force per unit length (N/m).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Hooke's law is valid up to:",
+    "hi": "हुक का नियम कब तक मान्य है?",
+    "oEn": ["Elastic limit", "Breaking point", "Yield point", "Proportionality limit"],
+    "oHi": ["प्रत्यास्थ सीमा", "विखंडन बिंदु", "उपज बिंदु", "समानुपातिकता सीमा"],
+    "c": 3,
+    "exp": "Hooke's Law states stress is proportional to strain within the proportionality limit.",
+    "Pyq": "NEET_2019"
+  },
+  {
+    "en": "Pressure at a depth h in a liquid of density ρ is:",
+    "hi": "ρ घनत्व वाले द्रव में h गहराई पर दबाव है:",
+    "oEn": ["ρg/h", "gh/ρ", "h/ρg", "ρgh"],
+    "oHi": ["ρg/h", "gh/ρ", "h/ρg", "ρgh"],
+    "c": 3,
+    "exp": "Hydrostatic pressure at depth h is P = ρgh.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In streamlined flow, the velocity of fluid particles at a given point:",
+    "hi": "धारा रेखीय प्रवाह (streamlined flow) में, किसी दिए गए बिंदु पर द्रव कणों का वेग:",
+    "oEn": ["Changes randomly", "Increases", "Decreases", "Remains constant"],
+    "oHi": ["बेतरतीब ढंग से बदलता है", "बढ़ता है", "घटता है", "स्थिर रहता है"],
+    "c": 3,
+    "exp": "In steady/streamlined flow, velocity at any given point is constant over time.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The value of Poisson's ratio for most materials is:",
+    "hi": "अधिकांश सामग्रियों के लिए प्वासों अनुपात का मान है:",
+    "oEn": ["Greater than 1", "Negative", "Equal to 1", "Between 0 and 0.5"],
+    "oHi": ["1 से अधिक", "ऋणात्मक", "1 के बराबर", "0 और 0.5 के बीच"],
+    "c": 3,
+    "exp": "For most stable, isotropic materials, Poisson's ratio lies between 0 and 0.5.",
+    "Pyq": "Trend_Based_2026"
+  }
+]
