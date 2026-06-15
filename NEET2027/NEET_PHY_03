@@ -1,0 +1,227 @@
+[
+  {
+    "en": "A cricket ball of mass 150g is moving with a velocity of 12 m/s and is hit by a bat so that it turns back at a velocity of 20 m/s. The impulse on the ball is:",
+    "hi": "150 ग्राम द्रव्यमान की एक क्रिकेट गेंद 12 मी/से के वेग से चल रही है और एक बल्ले से टकराकर 20 मी/से के वेग से वापस लौटती है। गेंद पर लगा आवेग है:",
+    "oEn": ["4.8 Ns", "1.2 Ns", "0.8 Ns", "3.2 Ns"],
+    "oHi": ["4.8 Ns", "1.2 Ns", "0.8 Ns", "3.2 Ns"],
+    "c": 0,
+    "exp": "Impulse = Change in momentum = m(v - u). Taking direction of return as positive: J = 0.150 * (20 - (-12)) = 0.150 * 32 = 4.8 Ns.",
+    "Pyq": "NEET_2016"
+  },
+  {
+    "en": "A block of mass 10 kg is placed on a rough horizontal surface having coefficient of friction μ = 0.5. If a horizontal force of 100 N is applied, the acceleration of the block is (g = 10 m/s^2):",
+    "hi": "10 किलोग्राम द्रव्यमान का एक ब्लॉक 0.5 घर्षण गुणांक μ वाली खुरदरी क्षैतिज सतह पर रखा गया है। यदि 100 N का क्षैतिज बल लगाया जाता है, तो ब्लॉक का त्वरण है (g = 10 मी/से^2):",
+    "oEn": ["5 m/s^2", "10 m/s^2", "15 m/s^2", "2.5 m/s^2"],
+    "oHi": ["5 मी/से^2", "10 मी/से^2", "15 मी/से^2", "2.5 मी/से^2"],
+    "c": 0,
+    "exp": "F_friction = μmg = 0.5 * 10 * 10 = 50 N. Net force = Applied - Friction = 100 - 50 = 50 N. a = F/m = 50/10 = 5 m/s^2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A person of mass 60 kg is inside a lift which is accelerating upwards with an acceleration of 4 m/s^2. The apparent weight of the person is (g = 10 m/s^2):",
+    "hi": "60 किलोग्राम द्रव्यमान का एक व्यक्ति एक लिफ्ट के अंदर है जो 4 मी/से^2 के त्वरण के साथ ऊपर की ओर जा रही है। व्यक्ति का आभासी भार है (g = 10 मी/से^2):",
+    "oEn": ["600 N", "840 N", "360 N", "240 N"],
+    "oHi": ["600 N", "840 N", "360 N", "240 N"],
+    "c": 1,
+    "exp": "Apparent weight = m(g + a) = 60(10 + 4) = 60 * 14 = 840 N.",
+    "Pyq": "NEET_2019"
+  },
+  {
+    "en": "A force F = (6i + 8j) N acts on a body of mass 2 kg. The acceleration of the body is:",
+    "hi": "2 किलोग्राम द्रव्यमान की एक वस्तु पर बल F = (6i + 8j) N कार्य करता है। वस्तु का त्वरण है:",
+    "oEn": ["3i + 4j", "4i + 3j", "6i + 8j", "12i + 16j"],
+    "oHi": ["3i + 4j", "4i + 3j", "6i + 8j", "12i + 16j"],
+    "c": 0,
+    "exp": "a = F/m = (6i + 8j) / 2 = 3i + 4j m/s^2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A circular road is banked at an angle of 30° with a radius of 100 m. The maximum safe speed on the road is (g = 10 m/s^2):",
+    "hi": "100 मीटर की त्रिज्या वाली एक वृत्ताकार सड़क 30° के कोण पर झुकी (banked) है। सड़क पर अधिकतम सुरक्षित गति है (g = 10 मी/से^2):",
+    "oEn": ["10√3 m/s", "20√3 m/s", "10 m/s", "50 m/s"],
+    "oHi": ["10√3 मी/से", "20√3 मी/से", "10 मी/से", "50 मी/से"],
+    "c": 0,
+    "exp": "v = sqrt(rg tan θ) = sqrt(100 * 10 * tan 30°) = sqrt(1000 * 1/√3) ≈ 10√3 m/s.",
+    "Pyq": "NEET_2017"
+  },
+  {
+    "en": "Three blocks of masses m1, m2, and m3 are connected as shown in a string and pulled by a force F. The acceleration of the system is:",
+    "hi": "m1, m2, और m3 द्रव्यमान के तीन ब्लॉक एक डोरी से जुड़े हैं और F बल द्वारा खींचे जाते हैं। निकाय का त्वरण है:",
+    "oEn": ["F / (m1+m2+m3)", "F / (m1-m2-m3)", "(m1+m2+m3) / F", "F * (m1+m2+m3)"],
+    "oHi": ["F / (m1+m2+m3)", "F / (m1-m2-m3)", "(m1+m2+m3) / F", "F * (m1+m2+m3)"],
+    "c": 0,
+    "exp": "By Newton's 2nd law for the whole system: F = (Total Mass) * a. So, a = F / (m1 + m2 + m3).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A gun of mass M fires a bullet of mass m with a horizontal velocity v. The recoil velocity of the gun is:",
+    "hi": "M द्रव्यमान की एक बंदूक m द्रव्यमान की गोली v क्षैतिज वेग से चलाती है। बंदूक का प्रतिक्षेप (recoil) वेग है:",
+    "oEn": ["mv / M", "-mv / M", "MV / m", "v / M"],
+    "oHi": ["mv / M", "-mv / M", "MV / m", "v / M"],
+    "c": 1,
+    "exp": "By conservation of momentum: MV + mv = 0. Therefore, V = -mv / M.",
+    "Pyq": "NEET_2015"
+  },
+  {
+    "en": "A block of mass m is sliding down an inclined plane of angle θ with constant velocity. The coefficient of kinetic friction is:",
+    "hi": "m द्रव्यमान का एक ब्लॉक θ कोण वाले नत समतल (inclined plane) पर नियत वेग से नीचे फिसल रहा है। गतिज घर्षण गुणांक है:",
+    "oEn": ["sin θ", "cos θ", "tan θ", "cot θ"],
+    "oHi": ["sin θ", "cos θ", "tan θ", "cot θ"],
+    "c": 2,
+    "exp": "For constant velocity, force down incline (mg sin θ) = frictional force (μ mg cos θ). So μ = tan θ.",
+    "Pyq": "NEET_2014"
+  },
+  {
+    "en": "A body of mass 5 kg is moving with a velocity of 2 m/s. A force acts on it for 3 seconds such that its velocity becomes 8 m/s. The force applied is:",
+    "hi": "5 किलोग्राम द्रव्यमान की एक वस्तु 2 मी/से के वेग से चल रही है। उस पर 3 सेकंड तक एक बल कार्य करता है जिससे उसका वेग 8 मी/से हो जाता है। लगाया गया बल है:",
+    "oEn": ["10 N", "5 N", "15 N", "20 N"],
+    "oHi": ["10 N", "5 N", "15 N", "20 N"],
+    "c": 0,
+    "exp": "F = m * (dv/dt) = m * (v-u)/t = 5 * (8-2)/3 = 5 * 2 = 10 N.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A pendulum bob in a car accelerating with 'a' will make an angle θ with the vertical. The value of θ is:",
+    "hi": "त्वरण 'a' के साथ चल रही कार में पेंडुलम का लोलक (bob) ऊर्ध्वाधर के साथ θ कोण बनाता है। θ का मान है:",
+    "oEn": ["tan^-1(a/g)", "tan^-1(g/a)", "sin^-1(a/g)", "cos^-1(a/g)"],
+    "oHi": ["tan^-1(a/g)", "tan^-1(g/a)", "sin^-1(a/g)", "cos^-1(a/g)"],
+    "c": 0,
+    "exp": "Effective g is sqrt(g^2 + a^2). Tan θ = Pseudo force / Weight = ma / mg = a/g.",
+    "Pyq": "NEET_2020"
+  },
+  {
+    "en": "A stone of mass 1 kg tied to a string is rotated in a vertical circle of radius 1 m. The minimum speed at the highest point for it to complete the circle is:",
+    "hi": "एक डोरी से बंधा 1 किलोग्राम का पत्थर 1 मीटर त्रिज्या के ऊर्ध्वाधर वृत्त में घुमाया जाता है। वृत्त को पूरा करने के लिए उच्चतम बिंदु पर न्यूनतम गति है:",
+    "oEn": ["sqrt(g) m/s", "sqrt(10) m/s", "sqrt(20) m/s", "5 m/s"],
+    "oHi": ["sqrt(g) मी/से", "sqrt(10) मी/से", "sqrt(20) मी/से", "5 मी/से"],
+    "c": 1,
+    "exp": "Minimum velocity at the top of a vertical circle is sqrt(gr) = sqrt(10 * 1) = sqrt(10) m/s.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which of the following is not a contact force?",
+    "hi": "निम्नलिखित में से कौन सा संपर्क बल (contact force) नहीं है?",
+    "oEn": ["Friction", "Tension", "Gravitational force", "Normal reaction"],
+    "oHi": ["घर्षण", "तनाव", "गुरुत्वाकर्षण बल", "अभिलंब बल"],
+    "c": 2,
+    "exp": "Gravitational force acts at a distance (field force), whereas friction, tension, and normal reaction require physical contact.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A force-time graph of a linear motion is given. The area under the graph represents:",
+    "hi": "रेखीय गति का बल-समय ग्राफ दिया गया है। ग्राफ के अंतर्गत का क्षेत्रफल दर्शाता है:",
+    "oEn": ["Impulse", "Acceleration", "Momentum", "Work"],
+    "oHi": ["आवेग", "त्वरण", "संवेग", "कार्य"],
+    "c": 0,
+    "exp": "Impulse = ∫F dt. The area under the Force-Time graph is the impulse.",
+    "Pyq": "NEET_2018"
+  },
+  {
+    "en": "Two blocks A (5 kg) and B (10 kg) are connected by a string and pulled by a force of 60 N on a smooth surface. The tension in the string is:",
+    "hi": "दो ब्लॉक A (5 kg) और B (10 kg) एक डोरी से जुड़े हैं और एक चिकनी सतह पर 60 N के बल से खींचे जाते हैं। डोरी में तनाव है:",
+    "oEn": ["20 N", "40 N", "30 N", "60 N"],
+    "oHi": ["20 N", "40 N", "30 N", "60 N"],
+    "c": 0,
+    "exp": "Total mass = 15 kg. Acceleration = F/m_total = 60/15 = 4 m/s^2. Tension pulling block A = m_A * a = 5 * 4 = 20 N.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A body is projected at an angle of 45° with the horizontal. The magnitude of change in momentum at the highest point is:",
+    "hi": "एक पिंड को क्षैतिज के साथ 45° के कोण पर प्रक्षेपित किया जाता है। उच्चतम बिंदु पर संवेग में परिवर्तन का परिमाण है:",
+    "oEn": ["mv(1 - 1/√2)", "mv/√2", "mv", "zero"],
+    "oHi": ["mv(1 - 1/√2)", "mv/√2", "mv", "शून्य"],
+    "c": 1,
+    "exp": "Initial velocity = v cos 45° i + v sin 45° j. At highest point, v = v cos 45° i. Change in velocity is v sin 45° j. Change in momentum = m * v sin 45° = mv/√2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A rocket burns fuel at a rate of 1 kg/s. The exhaust velocity is 500 m/s. The thrust force on the rocket is:",
+    "hi": "एक रॉकेट 1 किग्रा/से की दर से ईंधन जलाता है। निकास वेग 500 मी/से है। रॉकेट पर थ्रस्ट बल है:",
+    "oEn": ["500 N", "250 N", "1000 N", "50 N"],
+    "oHi": ["500 N", "250 N", "1000 N", "50 N"],
+    "c": 0,
+    "exp": "Thrust force F = v_ex * (dm/dt) = 500 * 1 = 500 N.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Newton's first law of motion defines:",
+    "hi": "न्यूटन का गति का पहला नियम परिभाषित करता है:",
+    "oEn": ["Inertia", "Force", "Momentum", "Energy"],
+    "oHi": ["जड़त्व (Inertia)", "बल", "संवेग", "ऊर्जा"],
+    "c": 0,
+    "exp": "Newton's first law is the law of inertia, which defines inertia.",
+    "Pyq": "NEET_2013"
+  },
+  {
+    "en": "A block is resting on a rough incline. The force of friction is equal to:",
+    "hi": "एक ब्लॉक खुरदरे नत समतल पर विश्राम की स्थिति में है। घर्षण बल किसके बराबर है?",
+    "oEn": ["μN", "mg sin θ", "mg cos θ", "Zero"],
+    "oHi": ["μN", "mg sin θ", "mg cos θ", "शून्य"],
+    "c": 1,
+    "exp": "If the block is at rest, static friction balances the component of gravity down the plane: f = mg sin θ.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In a lift moving down with acceleration 'a', the apparent weight of a person of mass 'm' is:",
+    "hi": "त्वरण 'a' के साथ नीचे जा रही लिफ्ट में, 'm' द्रव्यमान के व्यक्ति का आभासी भार है:",
+    "oEn": ["m(g+a)", "m(g-a)", "mg", "Zero"],
+    "oHi": ["m(g+a)", "m(g-a)", "mg", "शून्य"],
+    "c": 1,
+    "exp": "Apparent weight in a lift accelerating down is W = m(g-a).",
+    "Pyq": "NEET_2016"
+  },
+  {
+    "en": "A car is moving on a circular road of radius 50m with a speed of 10 m/s. The coefficient of friction required to prevent skidding is (g = 10 m/s^2):",
+    "hi": "एक कार 10 मी/से की गति से 50 मीटर त्रिज्या की वृत्ताकार सड़क पर चल रही है। स्किडिंग को रोकने के लिए आवश्यक घर्षण गुणांक है (g = 10 मी/से^2):",
+    "oEn": ["0.2", "0.5", "0.1", "1.0"],
+    "oHi": ["0.2", "0.5", "0.1", "1.0"],
+    "c": 0,
+    "exp": "v^2/rg = μ. μ = 100 / (50 * 10) = 100 / 500 = 0.2.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "According to Newton's third law, action and reaction:",
+    "hi": "न्यूटन के तीसरे नियम के अनुसार, क्रिया और प्रतिक्रिया:",
+    "oEn": ["Always act on the same body", "Act on different bodies", "Cancel each other", "Have different magnitudes"],
+    "oHi": ["हमेशा एक ही वस्तु पर कार्य करते हैं", "विभिन्न वस्तुओं पर कार्य करते हैं", "एक दूसरे को रद्द करते हैं", "विभिन्न परिमाण होते हैं"],
+    "c": 1,
+    "exp": "Action and reaction forces act on different bodies and cannot cancel each other.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A block of mass 2 kg is suspended by two light strings as shown (angles 30° and 60° to horizontal). The tension T1 is:",
+    "hi": "2 किलोग्राम द्रव्यमान का एक ब्लॉक दो हल्की डोरियों द्वारा लटकाया गया है (क्षैतिज से कोण 30° और 60° हैं)। तनाव T1 है:",
+    "oEn": ["10 N", "10√3 N", "20 N", "5 N"],
+    "oHi": ["10 N", "10√3 N", "20 N", "5 N"],
+    "c": 0,
+    "exp": "Resolving forces: T1 sin 30° + T2 sin 60° = mg = 20. Solving systems with T1 cos 30° = T2 cos 60° results in T1 = 10 N.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The minimum force required to move a block of mass m up an inclined plane of angle θ is (μ = coeff of friction):",
+    "hi": "θ कोण वाले नत समतल पर m द्रव्यमान के ब्लॉक को ऊपर ले जाने के लिए आवश्यक न्यूनतम बल है (μ = घर्षण गुणांक):",
+    "oEn": ["mg(sin θ + μ cos θ)", "mg(sin θ - μ cos θ)", "mg cos θ", "mg sin θ"],
+    "oHi": ["mg(sin θ + μ cos θ)", "mg(sin θ - μ cos θ)", "mg cos θ", "mg sin θ"],
+    "c": 0,
+    "exp": "Force needed to overcome gravity component (mg sin θ) + friction (μ mg cos θ) is F = mg(sin θ + μ cos θ).",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "A body of mass 10 kg is moving with a constant velocity of 5 m/s. The net force on the body is:",
+    "hi": "10 किलोग्राम द्रव्यमान की एक वस्तु 5 मी/से के नियत वेग से चल रही है। वस्तु पर कुल बल है:",
+    "oEn": ["50 N", "0 N", "2 N", "10 N"],
+    "oHi": ["50 N", "0 N", "2 N", "10 N"],
+    "c": 1,
+    "exp": "Since velocity is constant, acceleration is zero. F = ma = 10 * 0 = 0 N.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Two particles of mass 1 kg and 3 kg are moving towards each other with speeds 2 m/s and 4 m/s respectively. The velocity of their center of mass is:",
+    "hi": "1 किग्रा और 3 किग्रा द्रव्यमान के दो कण क्रमशः 2 मी/से और 4 मी/से की गति से एक-दूसरे की ओर बढ़ रहे हैं। उनके द्रव्यमान केंद्र का वेग है:",
+    "oEn": ["2.5 m/s", "1 m/s", "0.5 m/s", "1.5 m/s"],
+    "oHi": ["2.5 मी/से", "1 मी/से", "0.5 मी/से", "1.5 मी/से"],
+    "c": 0,
+    "exp": "v_cm = (m1v1 + m2v2) / (m1+m2). Taking one direction positive: (1*2 + 3*(-4)) / 4 = (2-12)/4 = -10/4 = -2.5 m/s (magnitude 2.5).",
+    "Pyq": "Trend_Based_2026"
+  }
+]
