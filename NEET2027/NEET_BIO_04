@@ -1,0 +1,227 @@
+[
+{
+"en": "Which of the following is the primary electron acceptor in Photosystem II?",
+"hi": "फोटोसिस्टम II में प्राथमिक इलेक्ट्रॉन स्वीकर्ता कौन है?",
+"oEn": ["Pheophytin", "Plastoquinone", "Cytochrome b6f", "Ferredoxin"],
+"oHi": ["फियोफाइटिन", "प्लास्टोक्विनोन", "साइटोक्रोम b6f", "फेरेडॉक्सिन"],
+"c": 0,
+"exp": "Pheophytin is the primary electron acceptor in Photosystem II (PS II).",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The C4 pathway of photosynthesis is also known as:",
+"hi": "प्रकाश संश्लेषण के C4 पथ को किस नाम से भी जाना जाता है?",
+"oEn": ["Calvin Cycle", "Hatch and Slack pathway", "Glycolate pathway", "Kreb's cycle"],
+"oHi": ["केल्विन चक्र", "हैक और स्लैक पथ", "ग्लाइकोलेट पथ", "क्रेब्स चक्र"],
+"c": 1,
+"exp": "The C4 pathway, identified by Hatch and Slack, occurs in plants adapted to dry tropical regions.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which plant hormone is responsible for 'bolting' (internode elongation) in rosetted plants?",
+"hi": "कौन सा पादप हार्मोन रोसेट (rosetted) पौधों में 'बोल्टिंग' (पर्व का लंबा होना) के लिए जिम्मेदार है?",
+"oEn": ["Auxin", "Gibberellin", "Cytokinin", "Abscisic acid"],
+"oHi": ["ऑक्सिन", "जिब्बेरेलिन", "साइटोकिनिन", "एब्सिसिक एसिड"],
+"c": 1,
+"exp": "Gibberellins are responsible for internode elongation, especially in genetically dwarf plants and rosette plants like cabbage.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "What is the primary acceptor of CO2 in C3 plants?",
+"hi": "C3 पौधों में CO2 का प्राथमिक स्वीकर्ता (acceptor) कौन है?",
+"oEn": ["RuBP", "PEP", "PGA", "OAA"],
+"oHi": ["RuBP", "PEP", "PGA", "OAA"],
+"c": 0,
+"exp": "Ribulose-1,5-bisphosphate (RuBP) is the primary acceptor of CO2 in C3 plants, catalyzed by the enzyme RuBisCO.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which ion is essential for the photolysis of water in photosynthesis?",
+"hi": "प्रकाश संश्लेषण में जल के प्रकाश-अपघटन (photolysis) के लिए कौन सा आयन आवश्यक है?",
+"oEn": ["Mg2+", "Mn2+ and Cl-", "Fe2+", "Cu2+"],
+"oHi": ["Mg2+", "Mn2+ और Cl-", "Fe2+", "Cu2+"],
+"c": 1,
+"exp": "Manganese and Chloride ions are essential for the splitting of water molecules in PS II.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The enzyme responsible for CO2 fixation in C4 plants is:",
+"hi": "C4 पौधों में CO2 स्थिरीकरण के लिए जिम्मेदार एंजाइम है:",
+"oEn": ["RuBisCO", "PEP carboxylase", "Pyruvate kinase", "Hexokinase"],
+"oHi": ["RuBisCO", "PEP कार्बोक्सिलेज", "पाइरूवेट काइनेज", "हेक्सोकाइनेज"],
+"c": 1,
+"exp": "In C4 plants, the initial fixation of CO2 occurs in mesophyll cells via PEP carboxylase, forming OAA.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which hormone promotes senescence and abscission of plant organs?",
+"hi": "कौन सा हार्मोन पादप अंगों के जीर्णता (senescence) और विलगन (abscission) को बढ़ावा देता है?",
+"oEn": ["Auxin", "Gibberellin", "Ethylene", "Cytokinin"],
+"oHi": ["ऑक्सिन", "जिब्बेरेलिन", "एथिलीन", "साइटोकिनिन"],
+"c": 2,
+"exp": "Ethylene is a gaseous plant hormone that promotes senescence and abscission, particularly of leaves and flowers.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The 'Crassulacean Acid Metabolism' (CAM) is an adaptation to:",
+"hi": "'क्रेसुलेसियन एसिड मेटाबॉलिज्म' (CAM) किसके लिए एक अनुकूलन है?",
+"oEn": ["High humidity", "Xeric (dry) conditions", "High salinity", "Low light intensity"],
+"oHi": ["उच्च आर्द्रता", "शुष्क (Xeric) स्थितियां", "उच्च लवणता", "कम प्रकाश तीव्रता"],
+"c": 1,
+"exp": "CAM plants fix CO2 at night to minimize water loss, an adaptation to arid or xeric environments.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Transpiration pull is maintained by:",
+"hi": "वाष्पोत्सर्जन खिंचाव (transpiration pull) किसके द्वारा बनाए रखा जाता है?",
+"oEn": ["Root pressure", "Cohesion, adhesion, and surface tension", "Active transport of sugars", "Capillarity"],
+"oHi": ["मूल दबाव (root pressure)", "संसंजन, आसंजन, और पृष्ठ तनाव", "शर्करा का सक्रिय परिवहन", "केशिकात्व"],
+"c": 1,
+"exp": "The cohesion-tension theory explains water movement due to cohesion between water molecules, adhesion to vessel walls, and transpiration pull.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which element is crucial for the structural component of chlorophyll?",
+"hi": "क्लोरोफिल के संरचनात्मक घटक के लिए कौन सा तत्व महत्वपूर्ण है?",
+"oEn": ["Iron", "Magnesium", "Manganese", "Zinc"],
+"oHi": ["आयरन", "मैग्नीशियम", "मैंगनीज", "जिंक"],
+"c": 1,
+"exp": "Magnesium is the central metal atom in the porphyrin ring of the chlorophyll molecule.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Auxin was first isolated from:",
+"hi": "ऑक्सिन को सबसे पहले किससे अलग किया गया था?",
+"oEn": ["Human urine", "Corn germ oil", "Coconut milk", "Gibberella fujikuroi"],
+"oHi": ["मानव मूत्र", "मक्के का भ्रूण तेल", "नारियल का दूध", "जिब्बेरेला फुजिकुरोई"],
+"c": 0,
+"exp": "Indole-3-acetic acid (IAA) or natural auxin was first isolated from human urine.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "During the Calvin cycle, the number of ATP and NADPH required for the fixation of one molecule of CO2 are:",
+"hi": "केल्विन चक्र के दौरान, CO2 के एक अणु के स्थिरीकरण के लिए आवश्यक ATP और NADPH की संख्या है:",
+"oEn": ["3 ATP, 2 NADPH", "2 ATP, 3 NADPH", "6 ATP, 6 NADPH", "9 ATP, 6 NADPH"],
+"oHi": ["3 ATP, 2 NADPH", "2 ATP, 3 NADPH", "6 ATP, 6 NADPH", "9 ATP, 6 NADPH"],
+"c": 0,
+"exp": "Each CO2 fixed requires 3 ATP and 2 NADPH in the Calvin cycle.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The process of 'Guttation' is best described as:",
+"hi": "'बिंदु स्रवण' (Guttation) की प्रक्रिया का सबसे अच्छा वर्णन है:",
+"oEn": ["Loss of water as vapor", "Loss of water as liquid droplets from hydathodes", "Loss of water through stomata", "Loss of water by evaporation"],
+"oHi": ["वाष्प के रूप में जल की हानि", "हाइड्रैथोड्स से तरल बूंदों के रूप में जल की हानि", "स्टोमेटा के माध्यम से जल की हानि", "वाष्पीकरण द्वारा जल की हानि"],
+"c": 1,
+"exp": "Guttation is the exudation of water in the form of liquid droplets from the margins of leaves through specialized structures called hydathodes.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which deficiency symptom appears first in younger leaves?",
+"hi": "कौन सा कमी का लक्षण सबसे पहले नई पत्तियों में दिखाई देता है?",
+"oEn": ["Nitrogen", "Magnesium", "Potassium", "Sulfur"],
+"oHi": ["नाइट्रोजन", "मैग्नीशियम", "पोटेशियम", "सल्फर"],
+"c": 3,
+"exp": "Immobile elements like Sulfur and Calcium show deficiency symptoms in younger leaves, whereas mobile elements show them in older leaves.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Root pressure is maximum when:",
+"hi": "मूल दबाव (root pressure) कब अधिकतम होता है?",
+"oEn": ["Transpiration is high", "Transpiration is very low", "Soil is dry", "Stomata are fully open"],
+"oHi": ["वाष्पोत्सर्जन अधिक हो", "वाष्पोत्सर्जन बहुत कम हो", "मिट्टी सूखी हो", "स्टोमेटा पूरी तरह खुले हों"],
+"c": 1,
+"exp": "Root pressure is highest when transpiration is low and water absorption is high, typically at night or early morning.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "In the electron transport system, which complex is responsible for the formation of ATP?",
+"hi": "इलेक्ट्रॉन परिवहन प्रणाली (ETS) में, कौन सा कॉम्प्लेक्स ATP के निर्माण के लिए जिम्मेदार है?",
+"oEn": ["Complex I", "Complex II", "Complex III", "Complex V"],
+"oHi": ["कॉम्प्लेक्स I", "कॉम्प्लेक्स II", "कॉम्प्लेक्स III", "कॉम्प्लेक्स V"],
+"c": 3,
+"exp": "Complex V (ATP synthase) is responsible for the synthesis of ATP during oxidative phosphorylation.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The effect of light on the opening of stomata is primarily due to:",
+"hi": "स्टोमेटा के खुलने पर प्रकाश का प्रभाव मुख्य रूप से किसके कारण होता है?",
+"oEn": ["Increased turgor pressure of guard cells", "Decreased CO2 concentration", "Increased pH", "All of the above"],
+"oHi": ["द्वार कोशिकाओं का बढ़ा हुआ टर्गर दबाव", "घटी हुई CO2 सांद्रता", "बढ़ा हुआ pH", "उपरोक्त सभी"],
+"c": 3,
+"exp": "Light promotes opening of stomata through mechanisms like potassium ion uptake, lowered CO2, and subsequent increase in turgor pressure.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which plant hormone is synthetic?",
+"hi": "कौन सा पादप हार्मोन कृत्रिम (synthetic) है?",
+"oEn": ["IAA", "IBA", "NAA", "GA3"],
+"oHi": ["IAA", "IBA", "NAA", "GA3"],
+"c": 2,
+"exp": "NAA (Naphthalene Acetic Acid) and 2,4-D are synthetic auxins, while IAA and IBA are natural.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Photorespiration occurs in which organelle?",
+"hi": "प्रकाश-श्वसन (Photorespiration) किस कोशिकांग में होता है?",
+"oEn": ["Chloroplast only", "Chloroplast, Peroxisome, and Mitochondria", "Mitochondria only", "Golgi body"],
+"oHi": ["केवल क्लोरोप्लास्ट", "क्लोरोप्लास्ट, पेरोक्सीसोम और माइटोकॉन्ड्रिया", "केवल माइटोकॉन्ड्रिया", "गोल्जी बॉडी"],
+"c": 1,
+"exp": "Photorespiration is a complex metabolic pathway involving the interaction of chloroplasts, peroxisomes, and mitochondria.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The 'Law of Limiting Factors' for photosynthesis was proposed by:",
+"hi": "प्रकाश संश्लेषण के लिए 'सीमाकारी कारकों का नियम' (Law of Limiting Factors) किसके द्वारा प्रस्तावित किया गया था?",
+"oEn": ["Blackman", "Hill", "Arnon", "Calvin"],
+"oHi": ["ब्लैकमैन", "हिल", "आर्नोन", "केल्विन"],
+"c": 0,
+"exp": "F.F. Blackman proposed the Law of Limiting Factors in 1905, stating that the rate of photosynthesis is determined by the factor in shortest supply.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which element is involved in the maintenance of ribosome structure?",
+"hi": "कौन सा तत्व राइबोसोम संरचना के रखरखाव में शामिल है?",
+"oEn": ["Calcium", "Magnesium", "Potassium", "Molybdenum"],
+"oHi": ["कैल्शियम", "मैग्नीशियम", "पोटेशियम", "मोलिब्डेनम"],
+"c": 1,
+"exp": "Magnesium is critical for maintaining the structural integrity of ribosomes.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "What is the role of cytokinin in plants?",
+"hi": "पौधों में साइटोकिनिन (cytokinin) की क्या भूमिका है?",
+"oEn": ["Cell division", "Apical dominance", "Fruit ripening", "Inhibition of growth"],
+"oHi": ["कोशिका विभाजन", "शीर्ष प्रमुखता", "फल पकना", "वृद्धि का निषेध"],
+"c": 0,
+"exp": "Cytokinins promote cell division (cytokinesis) and delay leaf senescence.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following is an example of an 'essential' mineral element but not a structural component of biomolecules?",
+"hi": "निम्नलिखित में से कौन सा एक 'आवश्यक' खनिज तत्व का उदाहरण है, लेकिन जैव-अणुओं का संरचनात्मक घटक नहीं है?",
+"oEn": ["Magnesium", "Potassium", "Nitrogen", "Carbon"],
+"oHi": ["मैग्नीशियम", "पोटेशियम", "नाइट्रोजन", "कार्बन"],
+"c": 1,
+"exp": "Potassium is essential for activating enzymes and maintaining turgidity but is not a structural part of organic compounds like proteins or chlorophyll.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which hormone is known as the 'stress hormone'?",
+"hi": "किस हार्मोन को 'तनाव हार्मोन' (stress hormone) के रूप में जाना जाता है?",
+"oEn": ["Auxin", "Gibberellin", "Abscisic acid", "Cytokinin"],
+"oHi": ["ऑक्सिन", "जिब्बेरेलिन", "एब्सिसिक एसिड", "साइटोकिनिन"],
+"c": 2,
+"exp": "Abscisic acid (ABA) is called the stress hormone because it increases plant tolerance to various stresses, mainly by closing stomata.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Long day plants flower when:",
+"hi": "दीप्तिकाल (Long day) वाले पौधे कब फूलते हैं?",
+"oEn": ["Light period is longer than critical duration", "Light period is shorter than critical duration", "Dark period is longer than critical duration", "Light does not affect them"],
+"oHi": ["प्रकाश अवधि महत्वपूर्ण अवधि से लंबी हो", "प्रकाश अवधि महत्वपूर्ण अवधि से कम हो", "अंधेरे की अवधि महत्वपूर्ण अवधि से लंबी हो", "प्रकाश उन्हें प्रभावित नहीं करता"],
+"c": 0,
+"exp": "Long day plants require exposure to light for a period longer than a critical day length to flower.",
+"Pyq": "Trend_Based_2026"
+}
+]
