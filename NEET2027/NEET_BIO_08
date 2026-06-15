@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Which of the following tests is used to confirm the diagnosis of typhoid fever?",
+    "hi": "टायफाइड बुखार के निदान की पुष्टि के लिए निम्नलिखित में से किस परीक्षण का उपयोग किया जाता है?",
+    "oEn": ["ELISA", "Widal test", "PCR", "Western Blot"],
+    "oHi": ["एलिसा (ELISA)", "विडाल टेस्ट (Widal test)", "पीसीआर (PCR)", "वेस्टर्न ब्लॉट (Western Blot)"],
+    "c": 1,
+    "exp": "The Widal test is a serological test used for the diagnosis of typhoid fever caused by Salmonella typhi.",
+    "Pyq": "NEET_2024_Trend"
+  },
+  {
+    "en": "Which cell organelles are associated with the production of interferons?",
+    "hi": "कौन से कोशिकांग इंटरफेरॉन (interferons) के उत्पादन से जुड़े हैं?",
+    "oEn": ["Lysosomes", "Ribosomes", "Mitochondria", "Golgi apparatus"],
+    "oHi": ["लाइसोसोम", "राइबोसोम", "माइटोकॉन्ड्रिया", "गॉल्जीकाय"],
+    "c": 1,
+    "exp": "Interferons are proteins, and their synthesis involves the protein synthesis machinery, primarily ribosomes.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "In the life cycle of Plasmodium, which stage is infectious to humans?",
+    "hi": "प्लाज्मोडियम के जीवन चक्र में, मनुष्य के लिए कौन सी अवस्था संक्रामक है?",
+    "oEn": ["Sporozoite", "Trophozoite", "Gametocyte", "Merozoite"],
+    "oHi": ["स्पोरोजोइट", "ट्रोफोजोइट", "गैमेटोसाइट", "मीरोजोइट"],
+    "c": 0,
+    "exp": "The sporozoite is the infective stage of Plasmodium that enters the human body through the bite of an infected female Anopheles mosquito.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "Which of the following is a primary lymphoid organ?",
+    "hi": "निम्नलिखित में से कौन सा प्राथमिक लिम्फोइड अंग (primary lymphoid organ) है?",
+    "oEn": ["Spleen", "Tonsils", "Bone marrow", "Lymph nodes"],
+    "oHi": ["प्लीहा (Spleen)", "टॉन्सिल", "अस्थि मज्जा (Bone marrow)", "लसीका ग्रंथियां (Lymph nodes)"],
+    "c": 2,
+    "exp": "Bone marrow and thymus are primary lymphoid organs where lymphocytes mature and differentiate into antigen-sensitive lymphocytes.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "Cannabinoids are known to affect which system of the human body?",
+    "hi": "कैनबिनोइड्स (Cannabinoids) मानव शरीर के किस तंत्र को प्रभावित करने के लिए जाने जाते हैं?",
+    "oEn": ["Respiratory system", "Cardiovascular system", "Digestive system", "Excretory system"],
+    "oHi": ["श्वसन तंत्र", "हृदय-वाहिका तंत्र (Cardiovascular system)", "पाचन तंत्र", "उत्सर्जन तंत्र"],
+    "c": 1,
+    "exp": "Cannabinoids interact with specific cannabinoid receptors primarily present in the brain and also affect the cardiovascular system.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "Which microbe is used for the production of Cyclosporin A?",
+    "hi": "साइक्लोस्पोरिन ए (Cyclosporin A) के उत्पादन के लिए किस सूक्ष्मजीव का उपयोग किया जाता है?",
+    "oEn": ["Trichoderma polysporum", "Monascus purpureus", "Aspergillus niger", "Streptococcus"],
+    "oHi": ["ट्राइकोडर्मा पॉलोस्पोरम", "मोनास्कस परप्यूरीयस", "एस्परगिलस नाइजर", "स्ट्रेप्टोकोकस"],
+    "c": 0,
+    "exp": "Cyclosporin A, an immunosuppressive agent, is produced by the fungus Trichoderma polysporum.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "High value of Biochemical Oxygen Demand (BOD) in a water body indicates:",
+    "hi": "किसी जल निकाय में जैव रासायनिक ऑक्सीजन मांग (BOD) का उच्च मान क्या दर्शाता है?",
+    "oEn": ["High pollution", "Low pollution", "High dissolved oxygen", "Pure water"],
+    "oHi": ["उच्च प्रदूषण", "कम प्रदूषण", "उच्च घुलित ऑक्सीजन", "शुद्ध जल"],
+    "c": 0,
+    "exp": "BOD measures the amount of oxygen required by bacteria to decompose organic matter. Higher BOD means higher organic pollution.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "Which insect is used as a biocontrol agent against aphids and mosquitoes?",
+    "hi": "एफिड्स (aphids) और मच्छरों के खिलाफ जैव नियंत्रण एजेंट के रूप में किस कीट का उपयोग किया जाता है?",
+    "oEn": ["Dragonfly", "Ladybird", "Bacillus thuringiensis", "Trichoderma"],
+    "oHi": ["ड्रैगनफ्लाई", "लेडीबर्ड", "बैसिलस थुरिंगिएंसिस", "ट्राइकोडर्मा"],
+    "c": 1,
+    "exp": "Ladybird beetle is used to control aphids, and dragonflies are used to control mosquitoes.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The technique of Micro-propagation is based on:",
+    "hi": "माइक्रो-प्रोपैगेशन (सूक्ष्म प्रवर्धन) की तकनीक किस पर आधारित है?",
+    "oEn": ["Totipotency", "Sexual reproduction", "Mutation", "Inbreeding"],
+    "oHi": ["पूर्णशक्तता (Totipotency)", "लैंगिक प्रजनन", "उत्परिवर्तन", "अंतःप्रजनन (Inbreeding)"],
+    "c": 0,
+    "exp": "Micro-propagation relies on the concept of cellular totipotency, where a single cell can develop into a complete plant.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "What is the function of the 'statin' produced by Monascus purpureus?",
+    "hi": "मोनास्कस परप्यूरीयस द्वारा उत्पादित 'स्टैटिन' (statin) का क्या कार्य है?",
+    "oEn": ["Blood clotting", "Lowering blood cholesterol", "Antibiotic action", "Immune stimulation"],
+    "oHi": ["रक्त का थक्का जमना", "रक्त कोलेस्ट्रॉल कम करना", "एंटीबायोटिक क्रिया", "प्रतिरक्षा उत्तेजना"],
+    "c": 1,
+    "exp": "Statins act as competitive inhibitors of the enzyme responsible for cholesterol synthesis, thereby lowering blood cholesterol levels.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "Inbreeding depression is a concern in which of the following practices?",
+    "hi": "अंतःप्रजनन अवसाद (Inbreeding depression) निम्नलिखित में से किस अभ्यास में चिंता का विषय है?",
+    "oEn": ["Out-crossing", "Inbreeding", "Cross-breeding", "Interspecific hybridization"],
+    "oHi": ["आउट-क्रॉसिंग", "अंतःप्रजनन (Inbreeding)", "क्रॉस-ब्रीडिंग", "अंतरजातीय संकरण"],
+    "c": 1,
+    "exp": "Continuous inbreeding reduces fertility and productivity, a phenomenon known as inbreeding depression.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "Which type of immunity is provided by vaccination?",
+    "hi": "टीकाकरण (vaccination) द्वारा किस प्रकार की प्रतिरक्षा प्रदान की जाती है?",
+    "oEn": ["Natural active immunity", "Artificial passive immunity", "Artificial active immunity", "Natural passive immunity"],
+    "oHi": ["प्राकृतिक सक्रिय प्रतिरक्षा", "कृत्रिम निष्क्रिय प्रतिरक्षा", "कृत्रिम सक्रिय प्रतिरक्षा", "प्राकृतिक निष्क्रिय प्रतिरक्षा"],
+    "c": 2,
+    "exp": "Vaccination introduces antigens into the body, stimulating the immune system to produce memory cells; this is artificial active immunity.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The virus responsible for AIDS targets which cells in the human body?",
+    "hi": "एड्स (AIDS) के लिए जिम्मेदार वायरस मानव शरीर में किन कोशिकाओं को लक्षित करता है?",
+    "oEn": ["B-lymphocytes", "Helper T-lymphocytes", "Cytotoxic T-cells", "Macrophages"],
+    "oHi": ["बी-लिम्फोसाइट्स", "हेल्पर टी-लिम्फोसाइट्स", "साइटोटॉक्सिक टी-कोशिकाएं", "मैक्रोफेज"],
+    "c": 1,
+    "exp": "The HIV virus targets and destroys Helper T-lymphocytes (CD4+ cells), weakening the immune system.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "Which component of the sewage treatment plant involves the role of anaerobic bacteria?",
+    "hi": "सीवेज उपचार संयंत्र (sewage treatment plant) के किस घटक में अवायवीय बैक्टीरिया (anaerobic bacteria) की भूमिका होती है?",
+    "oEn": ["Primary treatment", "Aeration tank", "Anaerobic sludge digester", "Trickling filter"],
+    "oHi": ["प्राथमिक उपचार", "वायवीय टैंक (Aeration tank)", "अवायवीय स्लज डाइजेस्टर", "ट्रिकलिंग फिल्टर"],
+    "c": 2,
+    "exp": "In the anaerobic sludge digester, bacteria are used to break down the anaerobic sludge, producing gases like methane, hydrogen sulfide, and CO2.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "Which of the following is an example of an autoimmune disease?",
+    "hi": "निम्नलिखित में से कौन सा स्वप्रतिरक्षित रोग (autoimmune disease) का उदाहरण है?",
+    "oEn": ["Rheumatoid arthritis", "Cancer", "AIDS", "Malaria"],
+    "oHi": ["रुमेटॉइड अर्थराइटिस", "कैंसर", "एड्स", "मलेरिया"],
+    "c": 0,
+    "exp": "Rheumatoid arthritis is an autoimmune disorder where the immune system attacks the body's own tissues.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "MOET technology is used for:",
+    "hi": "MOET तकनीक का उपयोग किसके लिए किया जाता है?",
+    "oEn": ["Plant tissue culture", "Herd improvement", "Viral diagnosis", "Antibiotic production"],
+    "oHi": ["पादप ऊतक संवर्धन", "पशुधन सुधार", "वायरल निदान", "एंटीबायोटिक उत्पादन"],
+    "c": 1,
+    "exp": "Multiple Ovulation Embryo Transfer (MOET) is a program for herd improvement in animals like cattle.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "Which part of the antibody molecule binds to the antigen?",
+    "hi": "एंटीबॉडी अणु का कौन सा भाग एंटीजन से जुड़ता है?",
+    "oEn": ["Constant region", "Variable region", "Hinge region", "Fc region"],
+    "oHi": ["स्थिर क्षेत्र (Constant region)", "परिवर्तनीय क्षेत्र (Variable region)", "हिंग क्षेत्र", "Fc क्षेत्र"],
+    "c": 1,
+    "exp": "The variable region of the light and heavy chains forms the antigen-binding site (paratope).",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "What is the primary role of Methanogens in biogas production?",
+    "hi": "बायोगैस उत्पादन में मेथनोजन (Methanogens) की प्राथमिक भूमिका क्या है?",
+    "oEn": ["Producing oxygen", "Consuming methane", "Producing methane", "Fixing nitrogen"],
+    "oHi": ["ऑक्सीजन का उत्पादन करना", "मीथेन का उपभोग करना", "मीथेन का उत्पादन करना", "नाइट्रोजन का स्थिरीकरण करना"],
+    "c": 2,
+    "exp": "Methanogens are bacteria that grow anaerobically on cellulosic material and produce large amounts of methane.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "Which organism is commonly used as a biofertilizer in paddy fields?",
+    "hi": "धान के खेतों में जैव उर्वरक (biofertilizer) के रूप में किस जीव का सामान्यतः उपयोग किया जाता है?",
+    "oEn": ["Rhizobium", "Azospirillum", "Anabaena", "Glomus"],
+    "oHi": ["राइजोबियम", "एज़ोस्पिरिलम", "एनाबीना", "ग्लोमस"],
+    "c": 2,
+    "exp": "Blue-green algae like Anabaena (present in Azolla) are widely used as biofertilizers in paddy fields for nitrogen fixation.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "Metastasis is most commonly associated with:",
+    "hi": "मेटास्टेसिस (Metastasis) सबसे सामान्य रूप से किससे संबंधित है?",
+    "oEn": ["Benign tumors", "Malignant tumors", "Infectious diseases", "Autoimmunity"],
+    "oHi": ["सौम्य ट्यूमर (Benign tumors)", "घातक ट्यूमर (Malignant tumors)", "संक्रामक रोग", "स्वप्रतिरक्षिता"],
+    "c": 1,
+    "exp": "Metastasis is the process by which cancer cells spread from the primary site to other parts of the body, characteristic of malignant tumors.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "Which of the following is considered an 'Allergen'?",
+    "hi": "निम्नलिखित में से किसे 'एलर्जन' (Allergen) माना जाता है?",
+    "oEn": ["Pollen", "Dust mites", "Animal dander", "All of the above"],
+    "oHi": ["परागकण (Pollen)", "धूल के कण (Dust mites)", "जानवरों की रूसी (Animal dander)", "उपरोक्त सभी"],
+    "c": 3,
+    "exp": "Allergens are substances that cause an allergic response; pollen, dust mites, and dander are common examples.",
+    "Pyq": "Trend_Based_2026"
+  },
+  {
+    "en": "The 'flock' used in biological sewage treatment consists of:",
+    "hi": "जैविक सीवेज उपचार में उपयोग किए जाने वाले 'फ्लॉक्स' (flocs) में क्या शामिल है?",
+    "oEn": ["Bacteria and Fungi", "Bacteria and Algae", "Fungi and Protozoa", "Bacteria and Viruses"],
+    "oHi": ["बैक्टीरिया और कवक", "बैक्टीरिया और शैवाल", "कवक और प्रोटोजोआ", "बैक्टीरिया और वायरस"],
+    "c": 0,
+    "exp": "Flocs are masses of bacteria associated with fungal filaments to form mesh-like structures.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "Which of the following is a Single Cell Protein (SCP)?",
+    "hi": "निम्नलिखित में से कौन सा एकल कोशिका प्रोटीन (Single Cell Protein - SCP) है?",
+    "oEn": ["Spirulina", "Yeast", "Methylophilus methylotrophus", "All of the above"],
+    "oHi": ["स्पिरुलिना", "यीस्ट", "मिथाइलोफिलस मिथाइलोट्रोफस", "उपरोक्त सभी"],
+    "c": 3,
+    "exp": "Spirulina, yeasts, and bacteria like Methylophilus methylotrophus are examples of microorganisms used as sources of SCP.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "Which technique is used to detect cancer in internal organs without using X-rays?",
+    "hi": "बिना एक्स-रे का उपयोग किए आंतरिक अंगों में कैंसर का पता लगाने के लिए किस तकनीक का उपयोग किया जाता है?",
+    "oEn": ["CT scan", "MRI", "Radiography", "Biopsy"],
+    "oHi": ["सीटी स्कैन (CT scan)", "एमआरआई (MRI)", "रेडियोग्राफी", "बायोप्सी"],
+    "c": 1,
+    "exp": "Magnetic Resonance Imaging (MRI) uses strong magnetic fields and non-ionizing radiations to detect pathological and physiological changes in living tissue.",
+    "Pyq": "NEET_PYQ"
+  },
+  {
+    "en": "Opioids bind to specific receptors in the:",
+    "hi": "ओपिओइड्स (Opioids) विशिष्ट रिसेप्टर्स से जुड़ते हैं जो कहाँ स्थित होते हैं?",
+    "oEn": ["Central nervous system", "Gastrointestinal tract", "Both A and B", "None of these"],
+    "oHi": ["केंद्रीय तंत्रिका तंत्र", "जठरांत्र संबंधी मार्ग (Gastrointestinal tract)", "A और B दोनों", "इनमें से कोई नहीं"],
+    "c": 2,
+    "exp": "Opioid receptors are present in the central nervous system and the gastrointestinal tract.",
+    "Pyq": "NEET_PYQ"
+  }
+]
