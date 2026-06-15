@@ -1,0 +1,227 @@
+[
+{
+"en": "The Fluid Mosaic Model of the plasma membrane was proposed by:",
+"hi": "प्लाज्मा झिल्ली का फ्लूइड मोज़ेक मॉडल किसके द्वारा प्रस्तावित किया गया था?",
+"oEn": ["Singer and Nicolson", "Schleiden and Schwann", "Camillo Golgi", "Robert Brown"],
+"oHi": ["सिंगर और निकोलसन", "श्लीडेन और श्वान", "कैमिलो गोल्जी", "रॉबर्ट ब्राउन"],
+"c": 0,
+"exp": "S.J. Singer and G.L. Nicolson proposed the fluid mosaic model in 1972, explaining the structure of the cell membrane.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following cell organelles is not considered a part of the endomembrane system?",
+"hi": "निम्नलिखित में से किस कोशिकांग को एंडोमेम्ब्रेन सिस्टम (endomembrane system) का हिस्सा नहीं माना जाता है?",
+"oEn": ["Endoplasmic Reticulum", "Golgi complex", "Lysosome", "Mitochondria"],
+"oHi": ["एंडोप्लाज्मिक रेटिकुलम", "गोल्जी कॉम्प्लेक्स", "लाइसोसोम", "माइटोकॉन्ड्रिया"],
+"c": 3,
+"exp": "The endomembrane system includes the endoplasmic reticulum, Golgi complex, lysosomes, and vacuoles. Mitochondria and chloroplasts are not part of it.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The structural arrangement of axoneme in cilia and flagella is:",
+"hi": "सिलिया और फ्लैगेला में एक्सोनम (axoneme) की संरचनात्मक व्यवस्था क्या है?",
+"oEn": ["9+0", "9+2", "8+1", "7+2"],
+"oHi": ["9+0", "9+2", "8+1", "7+2"],
+"c": 1,
+"exp": "Cilia and flagella have a core called the axoneme, which possesses a 9+2 arrangement of microtubules.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which organelle is referred to as the 'powerhouse of the cell'?",
+"hi": "किस कोशिकांग को 'कोशिका का ऊर्जा गृह' (powerhouse of the cell) कहा जाता है?",
+"oEn": ["Chloroplast", "Mitochondria", "Ribosome", "Lysosome"],
+"oHi": ["क्लोरोप्लास्ट", "माइटोकॉन्ड्रिया", "राइबोसोम", "लाइसोसोम"],
+"c": 1,
+"exp": "Mitochondria are sites of aerobic respiration and produce cellular energy in the form of ATP.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Ribosomes of prokaryotes are of which type?",
+"hi": "प्रोकैरियोट्स के राइबोसोम किस प्रकार के होते हैं?",
+"oEn": ["70S", "80S", "60S", "50S"],
+"oHi": ["70S", "80S", "60S", "50S"],
+"c": 0,
+"exp": "Prokaryotic ribosomes are of the 70S type (composed of 50S and 30S subunits), whereas eukaryotic cytosolic ribosomes are 80S.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The function of the 'tonoplast' is to:",
+"hi": "'टोनोप्लास्ट' (tonoplast) का कार्य क्या है?",
+"oEn": ["Facilitate transport of ions against concentration gradient", "Break down proteins", "Synthesize lipids", "Provide energy"],
+"oHi": ["सांद्रता प्रवणता के विरुद्ध आयनों के परिवहन को सुगम बनाना", "प्रोटीन को तोड़ना", "लिपिड का संश्लेषण करना", "ऊर्जा प्रदान करना"],
+"c": 0,
+"exp": "The tonoplast is the membrane of the vacuole. It facilitates the transport of a number of ions and other materials against concentration gradients into the vacuole.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which organelle is responsible for the synthesis of steroids and lipids?",
+"hi": "स्टेरॉयड और लिपिड के संश्लेषण के लिए कौन सा कोशिकांग जिम्मेदार है?",
+"oEn": ["Rough Endoplasmic Reticulum", "Smooth Endoplasmic Reticulum", "Golgi Apparatus", "Lysosome"],
+"oHi": ["रफ एंडोप्लाज्मिक रेटिकुलम", "स्मूथ एंडोप्लाज्मिक रेटिकुलम", "गोल्जी उपकरण", "लाइसोसोम"],
+"c": 1,
+"exp": "Smooth Endoplasmic Reticulum (SER) is the major site for synthesis of lipid and steroid hormones.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following structures contains its own DNA and ribosomes?",
+"hi": "निम्नलिखित में से किस संरचना में अपना डीएनए और राइबोसोम होता है?",
+"oEn": ["Lysosomes", "Vacuoles", "Mitochondria", "Golgi body"],
+"oHi": ["लाइसोसोम", "वैक्यूल्स", "माइटोकॉन्ड्रिया", "गोल्जी बॉडी"],
+"c": 2,
+"exp": "Mitochondria and chloroplasts are semi-autonomous organelles containing their own DNA and 70S ribosomes.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The 'hydrolytic enzymes' found in lysosomes are active at what pH?",
+"hi": "लाइसोसोम में पाए जाने वाले 'हाइड्रोलिटिक एंजाइम' किस pH पर सक्रिय होते हैं?",
+"oEn": ["Neutral pH", "Acidic pH", "Alkaline pH", "Variable pH"],
+"oHi": ["तटस्थ pH", "अम्लीय pH", "क्षारीय pH", "परिवर्तनीय pH"],
+"c": 1,
+"exp": "Lysosomal enzymes (acid hydrolases) are optimally active at an acidic pH.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The secondary constriction point on a chromosome is called:",
+"hi": "गुणसूत्र (chromosome) पर द्वितीयक संकुचन बिंदु को क्या कहा जाता है?",
+"oEn": ["Centromere", "Satellite", "Kinetochore", "Telomere"],
+"oHi": ["सेंट्रोमेरे", "सैटेलाइट", "काइनेटोकोर", "टेलोमेरे"],
+"c": 1,
+"exp": "A non-staining secondary constriction at a constant location on some chromosomes is called the satellite.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Mesosomes in prokaryotes are functionally similar to:",
+"hi": "प्रोकैरियोट्स में मिसोसोम (mesosomes) कार्यात्मक रूप से किसके समान होते हैं?",
+"oEn": ["Golgi bodies", "Mitochondria", "Lysosomes", "Ribosomes"],
+"oHi": ["गोल्जी बॉडीज", "माइटोकॉन्ड्रिया", "लाइसोसोम", "राइबोसोम"],
+"c": 1,
+"exp": "Mesosomes help in respiration, secretion processes, and increase the surface area of the plasma membrane, similar to mitochondrial cristae.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which organelle is known as the 'traffic police' of the cell?",
+"hi": "किस कोशिकांग को कोशिका का 'ट्रैफिक पुलिस' कहा जाता है?",
+"oEn": ["Nucleus", "Golgi apparatus", "Ribosome", "Vacuole"],
+"oHi": ["केंद्रक", "गोल्जी उपकरण", "राइबोसोम", "वैक्यूल"],
+"c": 1,
+"exp": "The Golgi apparatus modifies, sorts, and packages proteins and lipids, earning it the title 'traffic police of the cell'.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following is true for the Nucleolus?",
+"hi": "न्यूक्लियोलस (Nucleolus) के लिए निम्नलिखित में से कौन सा सत्य है?",
+"oEn": ["It is a membrane-bound structure", "It is the site for rRNA synthesis", "It contains DNA only", "It is found in the cytoplasm"],
+"oHi": ["यह एक झिल्ली-बद्ध संरचना है", "यह rRNA संश्लेषण का स्थल है", "इसमें केवल डीएनए होता है", "यह साइटोप्लाज्म में पाया जाता है"],
+"c": 1,
+"exp": "The nucleolus is a non-membrane-bound spherical structure inside the nucleus and is the site for active ribosomal RNA (rRNA) synthesis.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The cell wall of fungi is primarily composed of:",
+"hi": "कवक (fungi) की कोशिका भित्ति मुख्य रूप से किसकी बनी होती है?",
+"oEn": ["Cellulose", "Chitin", "Peptidoglycan", "Pectin"],
+"oHi": ["सेलुलोज", "काइटिन", "पेप्टिडोग्लाइकन", "पेक्टिन"],
+"c": 1,
+"exp": "Fungal cell walls are composed of chitin, a polymer of N-acetylglucosamine.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which phase of the cell cycle is considered the 'resting phase' but is actually metabolically active?",
+"hi": "कोशिका चक्र के किस चरण को 'आराम चरण' माना जाता है लेकिन वास्तव में यह चयापचय रूप से सक्रिय होता है?",
+"oEn": ["G1 Phase", "S Phase", "G2 Phase", "G0 Phase"],
+"oHi": ["G1 चरण", "S चरण", "G2 चरण", "G0 चरण"],
+"c": 3,
+"exp": "G0 phase (quiescent stage) is the inactive stage where cells remain metabolically active but do not proliferate unless called upon.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "What does 'S' in 70S and 80S ribosomes stand for?",
+"hi": "70S और 80S राइबोसोम में 'S' का क्या अर्थ है?",
+"oEn": ["Svedberg unit", "Sedimentation coefficient", "Both A and B", "Size unit"],
+"oHi": ["स्वेडबर्ग इकाई", "अवसादन गुणांक (Sedimentation coefficient)", "A और B दोनों", "आकार इकाई"],
+"c": 2,
+"exp": "S refers to Svedberg's unit (or sedimentation coefficient); it stands for sedimentation rate/density indirectly.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The central part of the proximal region of the centriole is called:",
+"hi": "सेंट्रियोल (centriole) के समीपस्थ क्षेत्र के केंद्रीय भाग को क्या कहा जाता है?",
+"oEn": ["Hub", "Spoke", "Triplet", "Peripheral microtubules"],
+"oHi": ["हब (Hub)", "स्पोक", "ट्रिपलेट", "पेरिफेरल माइक्रो-ट्यूब्यूल्स"],
+"c": 0,
+"exp": "Centrioles form the basal body of cilia or flagella. The central part is the proteinaceous hub, connected to triplets by radial spokes.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which organelle contains enzymes that convert fatty acids to sugars in germinating seeds?",
+"hi": "कौन सा कोशिकांग उन एंजाइमों को रखता है जो अंकुरित बीजों में फैटी एसिड को शर्करा में परिवर्तित करते हैं?",
+"oEn": ["Peroxisomes", "Glyoxysomes", "Lysosomes", "Vacuoles"],
+"oHi": ["पेरोक्सीसोम", "ग्लाइऑक्सीसोम", "लाइसोसोम", "वैक्यूल्स"],
+"c": 1,
+"exp": "Glyoxysomes are specialized peroxisomes found in germinating seeds that contain enzymes for the glyoxylate cycle, converting fats to sugars.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The plant cell wall provides:",
+"hi": "पादप कोशिका भित्ति प्रदान करती है:",
+"oEn": ["Protection", "Structural support", "Direction to cell growth", "All of the above"],
+"oHi": ["संरक्षण", "संरचनात्मक सहायता", "कोशिका वृद्धि को दिशा", "उपरोक्त सभी"],
+"c": 3,
+"exp": "The cell wall gives shape to the cell, protects from mechanical damage and infection, and provides structural support.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following is a non-membrane-bound organelle?",
+"hi": "निम्नलिखित में से कौन सा झिल्ली-बद्ध नहीं होने वाला कोशिकांग है?",
+"oEn": ["Endoplasmic Reticulum", "Ribosome", "Mitochondria", "Lysosome"],
+"oHi": ["एंडोप्लाज्मिक रेटिकुलम", "राइबोसोम", "माइटोकॉन्ड्रिया", "लाइसोसोम"],
+"c": 1,
+"exp": "Ribosomes are non-membrane-bound organelles found in both prokaryotic and eukaryotic cells.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Chromatin contains DNA, basic proteins called ______, and some RNA.",
+"hi": "क्रोमैटिन में डीएनए, ______ नामक क्षारीय प्रोटीन और कुछ आरएनए होते हैं।",
+"oEn": ["Histones", "Tubulins", "Actins", "Myosins"],
+"oHi": ["हिस्टोन", "ट्यूलिन", "एक्टिन", "मायोसिन"],
+"c": 0,
+"exp": "Chromatin is organized DNA with histone proteins and non-histone proteins.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The peroxisome is involved in:",
+"hi": "पेरोक्सीसोम (Peroxisome) किसमें शामिल होता है?",
+"oEn": ["Photorespiration", "Oxidative reactions", "Protein synthesis", "DNA replication"],
+"oHi": ["फोटोरेस्पिरेशन", "ऑक्सीडेटिव प्रतिक्रियाएं", "प्रोटीन संश्लेषण", "डीएनए प्रतिकृति"],
+"c": 1,
+"exp": "Peroxisomes contain enzymes for oxidative reactions, such as the breakdown of hydrogen peroxide.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "The 'dictyosomes' are related to:",
+"hi": "'डिक्टियोसोम' (dictyosomes) किससे संबंधित हैं?",
+"oEn": ["Endoplasmic reticulum", "Golgi apparatus in plants", "Ribosomes", "Vacuoles"],
+"oHi": ["एंडोप्लाज्मिक रेटिकुलम", "पौधों में गोल्जी उपकरण", "राइबोसोम", "वैक्यूल्स"],
+"c": 1,
+"exp": "In plants, the Golgi apparatus is often referred to as dictyosomes.",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following lipids are found in the plasma membrane?",
+"hi": "प्लाज्मा झिल्ली में निम्नलिखित में से कौन सा लिपिड पाया जाता है?",
+"oEn": ["Phosphoglycerides", "Triglycerides", "Starch", "Glycogen"],
+"oHi": ["फॉस्फोग्लिसराइड्स", "ट्राइग्लिसराइड्स", "स्टार्च", "ग्लाइकोजन"],
+"c": 0,
+"exp": "The cell membrane is composed of lipids, primarily phosphoglycerides (phospholipids).",
+"Pyq": "Trend_Based_2026"
+},
+{
+"en": "Which of the following is the largest organelle in a plant cell?",
+"hi": "पादप कोशिका में निम्नलिखित में से कौन सा सबसे बड़ा कोशिकांग है?",
+"oEn": ["Mitochondria", "Nucleus", "Vacuole", "Chloroplast"],
+"oHi": ["माइटोकॉन्ड्रिया", "केंद्रक", "वैक्यूल", "क्लोरोप्लास्ट"],
+"c": 2,
+"exp": "In plant cells, the central vacuole can occupy up to 90% of the volume of the cell, making it the largest organelle.",
+"Pyq": "Trend_Based_2026"
+}
+]
