@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Pipe A fills a tank in 12h, Pipe B in 15h. If opened together, how long to fill?",
+    "hi": "पाइप A 12 घंटे में, पाइप B 15 घंटे में टैंक भरता है। एक साथ खोलने पर कितना समय लगेगा?",
+    "oEn": ["6.66h", "7h", "6h", "7.5h"],
+    "oHi": ["6.66 घंटे", "7 घंटे", "6 घंटे", "7.5 घंटे"],
+    "c": 0,
+    "exp": "Eff: A=5, B=4. Total=60. Time=60/9 = 6.66h.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "Pipe A fills in 20h, B empties in 30h. How long to fill if both open?",
+    "hi": "पाइप A 20 घंटे में भरता है, B 30 घंटे में खाली करता है। दोनों खोलने पर कितना समय लगेगा?",
+    "oEn": ["60h", "50h", "40h", "30h"],
+    "oHi": ["60 घंटे", "50 घंटे", "40 घंटे", "30 घंटे"],
+    "c": 0,
+    "exp": "Eff: A=3, B=-2. Net=1. Time=60/1=60h.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "A fills in 10h, B in 15h, C in 30h. Time to fill all together?",
+    "hi": "A 10 घंटे में, B 15 घंटे में, C 30 घंटे में भरता है। सब एक साथ कितने समय में भरेंगे?",
+    "oEn": ["5h", "6h", "7h", "4h"],
+    "oHi": ["5 घंटे", "6 घंटे", "7 घंटे", "4 घंटे"],
+    "c": 0,
+    "exp": "Eff: A=3, B=2, C=1. Total=30. Time=30/6=5h.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "Pipe A fills in 12 min, B in 15 min, C empties in 20 min. Time to fill all together?",
+    "hi": "पाइप A 12 मिनट में, B 15 मिनट में भरता है, C 20 मिनट में खाली करता है। सब एक साथ?",
+    "oEn": ["10 min", "12 min", "15 min", "8 min"],
+    "oHi": ["10 मिनट", "12 मिनट", "15 मिनट", "8 मिनट"],
+    "c": 0,
+    "exp": "Eff: A=5, B=4, C=-3. Net=6. Total=60. Time=10 min.",
+    "Pyq": "SSC CGL 2025"
+  },
+  {
+    "en": "Pipe A fills in 20 min, Pipe B in 30 min. If B is closed after 5 min, time to fill?",
+    "hi": "पाइप A 20 मिनट में, पाइप B 30 मिनट में। 5 मिनट बाद B बंद, तो टैंक कितने समय में भरा?",
+    "oEn": ["15 min", "16.66 min", "12 min", "18 min"],
+    "oHi": ["15 मिनट", "16.66 मिनट", "12 मिनट", "18 मिनट"],
+    "c": 1,
+    "exp": "Eff: A=3, B=2. Both work for 5 min = 25 units. Remaining = 35. A time = 35/3 = 11.66 min. Total = 5+11.66 = 16.66 min.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "Two pipes fill in 15 and 20 min. If both opened but first closed after 5 min, total time?",
+    "hi": "दो पाइप 15 और 20 मिनट में भरते हैं। दोनों खुले लेकिन पहला 5 मिनट बाद बंद, तो कुल समय?",
+    "oEn": ["15 min", "12.5 min", "13.33 min", "14 min"],
+    "oHi": ["15 मिनट", "12.5 मिनट", "13.33 मिनट", "14 मिनट"],
+    "c": 2,
+    "exp": "Eff: A=4, B=3. Both for 5 min = 35 units. Remaining = 25. B fills 25/3 = 8.33 min. Total = 5+8.33 = 13.33 min.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "Pipe A and B fill in 20, 30 min. How long will B take to fill if A closed 5 min before?",
+    "hi": "A और B 20, 30 मिनट में भरते हैं। अगर A 5 मिनट पहले बंद हो जाए, तो B को कितना समय लगेगा?",
+    "oEn": ["18 min", "15 min", "20 min", "16 min"],
+    "oHi": ["18 मिनट", "15 मिनट", "20 मिनट", "16 मिनट"],
+    "c": 1,
+    "exp": "Eff: A=3, B=2. 3(t-5)+2t=60 => t=15 min. Total time = 15 min.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "Pipe A fills in 10h, B in 12h, C in 15h. If A, B, C open alternatively each hour, time?",
+    "hi": "A 10, B 12, C 15 घंटे में भरते हैं। अगर बारी-बारी से खोलें, तो कितना समय?",
+    "oEn": ["12h", "15h", "13h", "14h"],
+    "oHi": ["12 घंटे", "15 घंटे", "13 घंटे", "14 घंटे"],
+    "c": 0,
+    "exp": "3hr cycle work=6+5+4=15. Total=60. 4 cycles=12 hours.",
+    "Pyq": "SSC CGL 2025"
+  },
+  {
+    "en": "A fills in 20 min, B in 30 min. If B works alone for first 10 min, then A starts, total time?",
+    "hi": "A 20, B 30 मिनट में। B पहले 10 मिनट अकेले, फिर A, तो कुल समय?",
+    "oEn": ["15 min", "20 min", "18 min", "16 min"],
+    "oHi": ["15 मिनट", "20 मिनट", "18 मिनट", "16 मिनट"],
+    "c": 2,
+    "exp": "B work=20 units (out of 60). Rem=40. A+B=5. Time=40/5=8. Total=10+8=18 min.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "Pipe A fills 3 times faster than B. If both fill in 36 min, time taken by A?",
+    "hi": "A, B से 3 गुना तेज़ भरता है। दोनों 36 मिनट में भरते हैं, तो A का समय?",
+    "oEn": ["48 min", "36 min", "72 min", "54 min"],
+    "oHi": ["48 मिनट", "36 मिनट", "72 मिनट", "54 मिनट"],
+    "c": 0,
+    "exp": "Ratio eff=3:1. Time=x, 3x. 1/x+1/3x=1/36 => 4/3x=1/36 => x=48.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "A fills in 15h, B in 20h. If both opened and leak empties in 30h, time to fill?",
+    "hi": "A 15, B 20, leak 30 घंटे में खाली। सब खुले तो टैंक भरने का समय?",
+    "oEn": ["10h", "12h", "15h", "8h"],
+    "oHi": ["10 घंटे", "12 घंटे", "15 घंटे", "8 घंटे"],
+    "c": 1,
+    "exp": "Eff: A=4, B=3, L=-2. Net=5. Total=60/5=12h.",
+    "Pyq": "SSC CGL 2025"
+  },
+  {
+    "en": "A fills tank in 25 min, B in 50 min. If A is open for 5 min, then B is opened, total time?",
+    "hi": "A 25, B 50 मिनट। A, 5 मिनट खुला, फिर B, तो कुल समय?",
+    "oEn": ["18.33 min", "25 min", "30 min", "18 min"],
+    "oHi": ["18.33 मिनट", "25 मिनट", "30 मिनट", "18 मिनट"],
+    "c": 0,
+    "exp": "LCM=50. A=2, B=1. A alone 5 min =10 units. Rem=40. A+B=3. Time=40/3=13.33. Total=5+13.33=18.33 min.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "Pipe A fills in 10h, B in 15h. When will the tank be full if opened at 8 AM?",
+    "hi": "A 10, B 15 घंटे। सुबह 8 बजे खोलने पर टैंक कब भरेगा?",
+    "oEn": ["2 PM", "1 PM", "12 PM", "3 PM"],
+    "oHi": ["दोपहर 2 बजे", "दोपहर 1 बजे", "दोपहर 12 बजे", "दोपहर 3 बजे"],
+    "c": 0,
+    "exp": "Eff: A=3, B=2. Net=5. Total=30. Time=30/5=6h. 8 AM +6h = 2 PM.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "A leak empties a full tank in 20 hours. An inlet fills 4 liters/min. If both open, tank empties in 30h. Capacity?",
+    "hi": "रिसाव 20 घंटे में खाली करता है। इनलेट 4 लीटर/मिनट भरता है। दोनों खुले तो 30 घंटे में खाली। क्षमता?",
+    "oEn": ["14400 L", "12000 L", "10000 L", "15000 L"],
+    "oHi": ["14400 लीटर", "12000 लीटर", "10000 लीटर", "15000 लीटर"],
+    "c": 0,
+    "exp": "1/30 = 1/20 - 1/I => 1/I=1/60. Inlet fills in 60h. Rate = 4*60=240 L/h. Capacity = 240*60 = 14400 L.",
+    "Pyq": "SSC CGL 2025"
+  },
+  {
+    "en": "A fills in 10h, B in 12h, C in 15h. A, B, C open sequentially, total time?",
+    "hi": "A 10, B 12, C 15 घंटे। क्रमिक रूप से खोलने पर कुल समय?",
+    "oEn": ["12h", "15h", "13h", "14h"],
+    "oHi": ["12 घंटे", "15 घंटे", "13 घंटे", "14 घंटे"],
+    "c": 0,
+    "exp": "3hr cycle work=6+5+4=15. 60/15=4 cycles =12h.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "A fills in 24 min, B in 32 min. If both opened, when should B be closed to fill in 18 min?",
+    "hi": "A 24, B 32 मिनट। दोनों खुले, B को कब बंद करें कि 18 मिनट में भर जाए?",
+    "oEn": ["8 min", "10 min", "12 min", "9 min"],
+    "oHi": ["8 मिनट", "10 मिनट", "12 मिनट", "9 मिनट"],
+    "c": 0,
+    "exp": "LCM=96. A=4, B=3. A works 18 min =72. B works x min =3x. 72+3x=96 => x=8 min.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "Pipe A fills 30 liters/min. Pipe B fills in 20 min. Total capacity?",
+    "hi": "पाइप A 30 लीटर/मिनट भरता है। पाइप B 20 मिनट में भरता है। कुल क्षमता?",
+    "oEn": ["600 L", "500 L", "800 L", "400 L"],
+    "oHi": ["600 लीटर", "500 लीटर", "800 लीटर", "400 लीटर"],
+    "c": 0,
+    "exp": "Assuming A also takes 20 min? Capacity = Rate × Time = 30 × 20 = 600 L.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "A fills in 15h, B in 20h. If they open 1h each alternatively, time?",
+    "hi": "A 15, B 20 घंटे। 1-1 घंटे बारी-बारी से खोलने पर समय?",
+    "oEn": ["17h", "17.14h", "18h", "16h"],
+    "oHi": ["17 घंटे", "17.14 घंटे", "18 घंटे", "16 घंटे"],
+    "c": 0,
+    "exp": "2hr cycle=7. 8 cycles (16h)=56. 9th hr A=4, total 60. Time=17h.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "A, B, C fill in 10, 15, 20h. If A, B open for 1h, then C added, time?",
+    "hi": "A, B, C 10, 15, 20 घंटे। A, B 1 घंटे खुले, फिर C, तो समय?",
+    "oEn": ["5.5h", "6h", "4.85h", "7h"],
+    "oHi": ["5.5 घंटे", "6 घंटे", "4.85 घंटे", "7 घंटे"],
+    "c": 2,
+    "exp": "LCM=60. A=6, B=4, C=3. 1st hr A+B=10. Rem=50. A+B+C=13. Time=50/13≈3.846h. Total=1+3.846=4.85h.",
+    "Pyq": "SSC CGL 2025"
+  },
+  {
+    "en": "Two pipes fill in 20 and 25 min. If both empty pipes opened, time?",
+    "hi": "दो पाइप 20 और 25 मिनट में भरते हैं। दोनों खुले हों तो समय?",
+    "oEn": ["11.11 min", "12 min", "10 min", "15 min"],
+    "oHi": ["11.11 मिनट", "12 मिनट", "10 मिनट", "15 मिनट"],
+    "c": 0,
+    "exp": "Eff: 5+4=9. Total=100. 100/9=11.11.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "Pipe A fills 5 times faster than B. Time diff is 40 min. Time taken by A?",
+    "hi": "A, B से 5 गुना तेज़। समय का अंतर 40 मिनट। A का समय?",
+    "oEn": ["10 min", "8 min", "12 min", "15 min"],
+    "oHi": ["10 मिनट", "8 मिनट", "12 मिनट", "15 मिनट"],
+    "c": 0,
+    "exp": "Eff 5:1 => Time 1:5. 4u=40 => 1u=10 min.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "Two pipes fill in 10, 12h. Third empties in 20h. If all open, time?",
+    "hi": "दो पाइप 10, 12 घंटे में भरते हैं। तीसरा 20 घंटे में खाली। सब खुले तो समय?",
+    "oEn": ["7.5h", "8h", "6h", "9h"],
+    "oHi": ["7.5 घंटे", "8 घंटे", "6 घंटे", "9 घंटे"],
+    "c": 0,
+    "exp": "Eff: 6+5-3=8. Total=60/8=7.5h.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "Pipe A fills in 10h, B in 15h. When will the tank be half full?",
+    "hi": "A 10, B 15 घंटे। टैंक आधा कब भरेगा?",
+    "oEn": ["3h", "2h", "4h", "2.5h"],
+    "oHi": ["3 घंटे", "2 घंटे", "4 घंटे", "2.5 घंटे"],
+    "c": 0,
+    "exp": "Eff: 3+2=5. Half=15. Time=15/5=3h.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "A fills in 20h, B in 30h. If they work for 2h and stop, how much empty?",
+    "hi": "A 20, B 30 घंटे। 2 घंटे काम करके रुके, कितना खाली रहेगा?",
+    "oEn": ["5/6", "1/6", "2/3", "1/3"],
+    "oHi": ["5/6", "1/6", "2/3", "1/3"],
+    "c": 0,
+    "exp": "Eff: 3+2=5. Work=10. Left=50/60=5/6.",
+    "Pyq": "SSC CGL 2025"
+  },
+  {
+    "en": "If 3 pipes fill in 10, 12, 15h. All open, time to fill?",
+    "hi": "3 पाइप 10, 12, 15 घंटे में भरते हैं। सब खुले तो समय?",
+    "oEn": ["4h", "5h", "6h", "3h"],
+    "oHi": ["4 घंटे", "5 घंटे", "6 घंटे", "3 घंटे"],
+    "c": 0,
+    "exp": "Eff: 6+5+4=15. Total=60. Time=4h.",
+    "Pyq": "SSC CGL 2023"
+  }
+]
