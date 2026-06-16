@@ -1,0 +1,227 @@
+[
+  {
+    "en": "In an election between two candidates, 15% of voters did not vote, and 10% of the polled votes were invalid. The winner secured 60% of the valid votes and won by a majority of 6120 votes. Find the total number of enrolled voters.",
+    "hi": "दो उम्मीदवारों के बीच एक चुनाव में, 15% मतदाताओं ने वोट नहीं डाला और डाले गए मतों का 10% अवैध था। विजेता ने वैध मतों का 60% प्राप्त किया और 6120 मतों के बहुमत से जीता। कुल पंजीकृत मतदाताओं की संख्या ज्ञात कीजिए।",
+    "oEn": ["40000", "45000", "50000", "60000"],
+    "oHi": ["40000", "45000", "50000", "60000"],
+    "c": 0,
+    "exp": "Let enrolled = \\(x\\). Voted = \\(0.85x\\). Valid votes = \\(0.9 \\times 0.85x = 0.765x\\). Winner = \\(0.6 \\times 0.765x = 0.459x\\), Loser = \\(0.4 \\times 0.765x = 0.306x\\). Majority = \\(0.459x - 0.306x = 0.153x = 6120 \\Rightarrow x = \\frac{6120}{0.153} = 40000\\).",
+    "Pyq": "SSC CGL Mains 2026_Hard"
+  },
+  {
+    "en": "A's income is 40% more than B's. C's income is 20% less than A's. If D's income is 25% more than C's, then D's income is what percentage more than B's?",
+    "hi": "A की आय B से 40% अधिक है। C की आय A से 20% कम है। यदि D की आय C से 25% अधिक है, तो D की आय B से कितने प्रतिशत अधिक है?",
+    "oEn": ["60%", "40%", "72%", "75%"],
+    "oHi": ["60%", "40%", "72%", "75%"],
+    "c": 1,
+    "exp": "Let B = 100. Then A = 140. C = \\(140 \\times 0.8 = 112\\). D = \\(112 \\times 1.25 = 140\\). D is \\(140 - 100 = 40\\) more than B, i.e., 40%.",
+    "Pyq": "SSC CGL Mains 2025"
+  },
+  {
+    "en": "The price of wheat increases by 30%. By what percentage should a family reduce their consumption to keep the expenditure increase limited to only 4%?",
+    "hi": "गेहूं की कीमत में 30% की वृद्धि होती है। एक परिवार को अपनी खपत में कितने प्रतिशत की कमी करनी चाहिए ताकि खर्च में वृद्धि केवल 4% तक सीमित रहे?",
+    "oEn": ["22%", "18%", "20%", "25%"],
+    "oHi": ["22%", "18%", "20%", "25%"],
+    "c": 2,
+    "exp": "Let initial price = 100, consumption = 100. New price = 130. Let new consumption = \\(100 - r\\). New expenditure = \\(130 \\times (1 - \\frac{r}{100})\\). Allowed expenditure = 104. So \\(130(1 - \\frac{r}{100}) = 104 \\Rightarrow 1 - \\frac{r}{100} = \\frac{104}{130} = 0.8 \\Rightarrow r = 20\\%\\).",
+    "Pyq": "SSC CGL Mains 2026"
+  },
+  {
+    "en": "In a school, 70% of the students are boys and the rest are girls. If 60% of the boys and 70% of the girls passed the exam, what is the percentage of students who failed?",
+    "hi": "एक स्कूल में 70% छात्र लड़के हैं और बाकी लड़कियां हैं। यदि 60% लड़के और 70% लड़कियां परीक्षा में उत्तीर्ण हुए, तो अनुत्तीर्ण होने वाले छात्रों का प्रतिशत क्या है?",
+    "oEn": ["40%", "35%", "33%", "37%"],
+    "oHi": ["40%", "35%", "33%", "37%"],
+    "c": 3,
+    "exp": "Let total = 100. Boys = 70, Girls = 30. Passed boys = \\(0.6 \\times 70 = 42\\), girls = \\(0.7 \\times 30 = 21\\). Total passed = 63. Failed = \\(100 - 63 = 37\\%\\).",
+    "Pyq": "SSC CGL Mains 2025"
+  },
+  {
+    "en": "A student secures 32% of the maximum marks and fails by 18 marks. Another student secures 45% and gets 34 marks more than the passing marks. What is the passing percentage?",
+    "hi": "एक छात्र अधिकतम अंकों का 32% प्राप्त करता है और 18 अंकों से फेल हो जाता है। दूसरा छात्र 45% प्राप्त करता है और उत्तीर्ण अंकों से 34 अंक अधिक प्राप्त करता है। उत्तीर्ण प्रतिशत क्या है?",
+    "oEn": ["36.5%", "35%", "37%", "38%"],
+    "oHi": ["36.5%", "35%", "37%", "38%"],
+    "c": 0,
+    "exp": "Let max marks = \\(T\\). \\(0.45T - \\text{pass} = 34\\) and \\( \\text{pass} - 0.32T = 18\\). Equate: \\(0.45T - 34 = 0.32T + 18 \\Rightarrow 0.13T = 52 \\Rightarrow T = 400\\). Pass marks = \\(0.32 \\times 400 + 18 = 146\\). Passing % = \\(\\frac{146}{400} \\times 100 = 36.5\\%\\).",
+    "Pyq": "SSC CGL Mains 2026"
+  },
+  {
+    "en": "The value of a machine depreciates at 10% per year for the first two years and at 20% in the third year. If the current value is ₹38880, what was its value 3 years ago?",
+    "hi": "एक मशीन का मूल्य पहले दो वर्षों के लिए 10% प्रति वर्ष और तीसरे वर्ष में 20% की दर से घटता है। यदि वर्तमान मूल्य ₹38880 है, तो 3 वर्ष पहले इसका मूल्य क्या था?",
+    "oEn": ["65000", "60000", "70000", "75000"],
+    "oHi": ["65000", "60000", "70000", "75000"],
+    "c": 1,
+    "exp": "Let initial value = \\(x\\). After 3 years: \\(x \\times 0.9 \\times 0.9 \\times 0.8 = 38880 \\Rightarrow x \\times 0.648 = 38880 \\Rightarrow x = \\frac{38880}{0.648} = 60000\\).",
+    "Pyq": "SSC CGL Mains 2025"
+  },
+  {
+    "en": "A person spends 65% of his income. When his income increases by 20%, his expenditure increases by 10%. By what percent do his savings increase?",
+    "hi": "एक व्यक्ति अपनी आय का 65% खर्च करता है। जब उसकी आय 20% बढ़ती है, तो उसका खर्च 10% बढ़ जाता है। उसकी बचत में कितने प्रतिशत की वृद्धि होती है?",
+    "oEn": ["42.85%", "45%", "38.57%", "40%"],
+    "oHi": ["42.85%", "45%", "38.57%", "40%"],
+    "c": 2,
+    "exp": "Let income = 100, exp = 65, saving = 35. New income = 120, new exp = \\(65 \\times 1.1 = 71.5\\), new saving = 48.5. Increase = \\(\\frac{48.5 - 35}{35} \\times 100 = \\frac{13.5}{35} \\times 100 \\approx 38.57\\%\\).",
+    "Pyq": "SSC CGL Mains 2026"
+  },
+  {
+    "en": "If 75% of a number is added to 75, the result is the number itself. What is the number?",
+    "hi": "यदि किसी संख्या का 75% 75 में जोड़ा जाता है, तो परिणाम संख्या स्वयं होती है। संख्या क्या है?",
+    "oEn": ["200", "400", "500", "300"],
+    "oHi": ["200", "400", "500", "300"],
+    "c": 3,
+    "exp": "\\(0.75x + 75 = x \\Rightarrow 0.25x = 75 \\Rightarrow x = \\frac{75}{0.25} = 300\\).",
+    "Pyq": "SSC CGL Mains 2025"
+  },
+  {
+    "en": "A rectangle's length is increased by 25% and breadth is decreased by 20%. What is the percentage change in area?",
+    "hi": "एक आयत की लंबाई में 25% की वृद्धि और चौड़ाई में 20% की कमी की जाती है। क्षेत्रफल में प्रतिशत परिवर्तन क्या है?",
+    "oEn": ["0%", "5% increase", "5% decrease", "2% increase"],
+    "oHi": ["0%", "5% वृद्धि", "5% कमी", "2% वृद्धि"],
+    "c": 0,
+    "exp": "Successive change formula: \\(25 - 20 - \\frac{25 \\times 20}{100} = 5 - 5 = 0\\%\\).",
+    "Pyq": "SSC CGL Mains 2026"
+  },
+  {
+    "en": "Two numbers are 40% and 60% less than a third number. By what percent is the second number less than the first?",
+    "hi": "दो संख्याएँ तीसरी संख्या से 40% और 60% कम हैं। दूसरी संख्या पहली से कितने प्रतिशत कम है?",
+    "oEn": ["25%", "33.33%", "20%", "40%"],
+    "oHi": ["25%", "33.33%", "20%", "40%"],
+    "c": 1,
+    "exp": "Let third = 100. First = 60, second = 40. Difference = 20. Required % = \\(\\frac{20}{60} \\times 100 = 33.33\\%\\).",
+    "Pyq": "SSC CGL Mains 2025"
+  },
+  {
+    "en": "If A's salary is 25% less than B's and B's salary is 20% less than C's, what is the ratio of A:B:C?",
+    "hi": "यदि A का वेतन B से 25% कम है और B का वेतन C से 20% कम है, तो A:B:C का अनुपात क्या है?",
+    "oEn": ["9:12:15", "6:8:10", "3:4:5", "3:5:8"],
+    "oHi": ["9:12:15", "6:8:10", "3:4:5", "3:5:8"],
+    "c": 2,
+    "exp": "C = 100, B = 80, A = \\(80 \\times 0.75 = 60\\). Ratio 60:80:100 = 3:4:5.",
+    "Pyq": "SSC CGL Mains 2026"
+  },
+  {
+    "en": "The price of petrol increased by 20%. By what percentage should a driver reduce consumption to keep the total expenditure constant?",
+    "hi": "पेट्रोल की कीमत में 20% की वृद्धि हुई। कुल खर्च को स्थिर रखने के लिए ड्राइवर को खपत में कितने प्रतिशत की कमी करनी चाहिए?",
+    "oEn": ["15%", "14.28%", "20%", "16.66%"],
+    "oHi": ["15%", "14.28%", "20%", "16.66%"],
+    "c": 3,
+    "exp": "Reduction % = \\(\\frac{20}{120} \\times 100 = \\frac{1}{6} \\times 100 = 16.66\\%\\).",
+    "Pyq": "SSC CGL Mains 2025"
+  },
+  {
+    "en": "A student must score 35% to pass. He gets 140 marks and fails by 35 marks. What are the maximum marks?",
+    "hi": "एक छात्र को पास होने के लिए 35% अंक प्राप्त करने होंगे। उसे 140 अंक मिलते हैं और वह 35 अंकों से फेल हो जाता है। अधिकतम अंक क्या हैं?",
+    "oEn": ["500", "600", "400", "700"],
+    "oHi": ["500", "600", "400", "700"],
+    "c": 0,
+    "exp": "Pass marks = 140 + 35 = 175. \\(0.35 \\times \\text{Max} = 175 \\Rightarrow \\text{Max} = \\frac{175}{0.35} = 500\\).",
+    "Pyq": "SSC CGL Mains 2026"
+  },
+  {
+    "en": "A person gives 30% of his money to his wife and 25% of the remainder to his son. If he has ₹8400 left, what was his initial amount?",
+    "hi": "एक व्यक्ति अपने पैसे का 30% अपनी पत्नी को और शेष का 25% अपने बेटे को देता है। यदि उसके पास ₹8400 बचे हैं, तो उसकी प्रारंभिक राशि क्या थी?",
+    "oEn": ["18000", "16000", "15000", "20000"],
+    "oHi": ["18000", "16000", "15000", "20000"],
+    "c": 1,
+    "exp": "After wife: 70% left. After son: \\(0.75 \\times 0.7x = 0.525x = 8400 \\Rightarrow x = \\frac{8400}{0.525} = 16000\\).",
+    "Pyq": "SSC CGL Mains 2025"
+  },
+  {
+    "en": "If 60% of a number is 240, what is 40% of the same number?",
+    "hi": "यदि किसी संख्या का 60% 240 है, तो उसी संख्या का 40% क्या होगा?",
+    "oEn": ["170", "150", "160", "180"],
+    "oHi": ["170", "150", "160", "180"],
+    "c": 2,
+    "exp": "\\(0.6x = 240 \\Rightarrow x = 400\\). 40% of 400 = \\(0.4 \\times 400 = 160\\).",
+    "Pyq": "SSC CGL Mains 2026"
+  },
+  {
+    "en": "A city's population is 50,000. It increases by 10% in the first year and by 20% in the second year. What is the population after 2 years?",
+    "hi": "एक शहर की जनसंख्या 50,000 है। यह पहले वर्ष में 10% और दूसरे वर्ष में 20% बढ़ती है। 2 वर्ष बाद जनसंख्या क्या है?",
+    "oEn": ["67000", "65000", "68000", "66000"],
+    "oHi": ["67000", "65000", "68000", "66000"],
+    "c": 3,
+    "exp": "Population = \\(50000 \\times 1.1 \\times 1.2 = 50000 \\times 1.32 = 66000\\).",
+    "Pyq": "SSC CGL Mains 2025"
+  },
+  {
+    "en": "If A is 50% more than B and B is 25% more than C, by what percent is A more than C?",
+    "hi": "यदि A, B से 50% अधिक है और B, C से 25% अधिक है, तो A, C से कितने प्रतिशत अधिक है?",
+    "oEn": ["87.5%", "75%", "80%", "90%"],
+    "oHi": ["87.5%", "75%", "80%", "90%"],
+    "c": 0,
+    "exp": "C = 100, B = 125, A = \\(125 \\times 1.5 = 187.5\\). A is \\(187.5 - 100 = 87.5\\%\\).",
+    "Pyq": "SSC CGL Mains 2026"
+  },
+  {
+    "en": "A's income is 20% less than B's. By what percent is B's income more than A's?",
+    "hi": "A की आय B से 20% कम है। B की आय A से कितने प्रतिशत अधिक है?",
+    "oEn": ["30%", "25%", "20%", "40%"],
+    "oHi": ["30%", "25%", "20%", "40%"],
+    "c": 1,
+    "exp": "\\( \\frac{20}{100-20} \\times 100 = \\frac{20}{80} \\times 100 = 25\\%\\).",
+    "Pyq": "SSC CGL Mains 2025"
+  },
+  {
+    "en": "If the price of an article increases by 25%, by what percent must sales decrease to keep revenue constant?",
+    "hi": "यदि किसी वस्तु की कीमत में 25% की वृद्धि होती है, तो राजस्व स्थिर रखने के लिए बिक्री में कितने प्रतिशत की कमी होनी चाहिए?",
+    "oEn": ["25%", "15%", "20%", "10%"],
+    "oHi": ["25%", "15%", "20%", "10%"],
+    "c": 2,
+    "exp": "Reduction % = \\(\\frac{25}{125} \\times 100 = 20\\%\\).",
+    "Pyq": "SSC CGL Mains 2026"
+  },
+  {
+    "en": "A student secures 40% of max marks and fails by 10 marks. Another secures 50% and gets 10 marks more than pass. Maximum marks?",
+    "hi": "छात्र 40% लाकर 10 से फेल। दूसरा 50% लाकर 10 ज्यादा। अधिकतम अंक?",
+    "oEn": ["300", "100", "400", "200"],
+    "oHi": ["300", "100", "400", "200"],
+    "c": 3,
+    "exp": "Difference = \\(10\\%\\) of max = 20 marks → max = \\(20 / 0.1 = 200\\).",
+    "Pyq": "SSC CGL Mains 2025"
+  },
+  {
+    "en": "In a library, 30% of books are English, 40% of the remainder are Hindi, and the rest are Science. If there are 8400 Science books, total books are:",
+    "hi": "एक पुस्तकालय में, 30% पुस्तकें अंग्रेजी में हैं, शेष का 40% हिंदी में हैं, और बाकी विज्ञान की हैं। यदि 8400 विज्ञान की पुस्तकें हैं, तो कुल पुस्तकें हैं:",
+    "oEn": ["20000", "22000", "18000", "15000"],
+    "oHi": ["20000", "22000", "18000", "15000"],
+    "c": 0,
+    "exp": "After English, 70% remain. Hindi = \\(0.4 \\times 0.7x = 0.28x\\). Science = \\(0.6 \\times 0.7x = 0.42x = 8400 \\Rightarrow x = 20000\\).",
+    "Pyq": "SSC CGL Mains 2026"
+  },
+  {
+    "en": "A's income is 10% more than B's. B's income is 20% less than C's. C's income is 10% more than D's. What is the ratio A:D?",
+    "hi": "A की आय B से 10% अधिक है। B की आय C से 20% कम है। C की आय D से 10% अधिक है। A:D का अनुपात क्या है?",
+    "oEn": ["90:100", "96.8:100", "95:100", "88:100"],
+    "oHi": ["90:100", "96.8:100", "95:100", "88:100"],
+    "c": 1,
+    "exp": "D = 100, C = 110, B = \\(0.8 \\times 110 = 88\\), A = \\(1.1 \\times 88 = 96.8\\). Ratio = 96.8 : 100.",
+    "Pyq": "SSC CGL Mains 2025"
+  },
+  {
+    "en": "If X% of 400 + 10% of 250 = 205, find X.",
+    "hi": "यदि 400 का X% + 250 का 10% = 205 है, तो X ज्ञात कीजिए।",
+    "oEn": ["50", "40", "45", "35"],
+    "oHi": ["50", "40", "45", "35"],
+    "c": 2,
+    "exp": "\\( \\frac{X}{100} \\times 400 + 25 = 205 \\Rightarrow 4X = 180 \\Rightarrow X = 45\\).",
+    "Pyq": "SSC CGL Mains 2026"
+  },
+  {
+    "en": "Two candidates A and B contested an election. 10% of voters did not vote. The winner got 55% of the total enrolled voters and won by 4000 votes. Find total enrolled voters.",
+    "hi": "दो उम्मीदवारों A और B ने चुनाव लड़ा। 10% मतदाताओं ने वोट नहीं डाला। विजेता को कुल पंजीकृत मतदाताओं का 55% मिला और वह 4000 मतों से जीता। कुल पंजीकृत मतदाता ज्ञात कीजिए।",
+    "oEn": ["25000", "30000", "40000", "20000"],
+    "oHi": ["25000", "30000", "40000", "20000"],
+    "c": 3,
+    "exp": "Let total enrolled = \\(x\\). Winner = \\(0.55x\\). Loser = \\(0.9x - 0.55x = 0.35x\\). Majority = \\(0.55x - 0.35x = 0.2x = 4000 \\Rightarrow x = 20000\\).",
+    "Pyq": "SSC CGL Mains 2025"
+  },
+  {
+    "en": "Price of an item reduced by 30%. To restore original price, the new price must be increased by:",
+    "hi": "एक वस्तु की कीमत में 30% की कमी की गई। मूल कीमत बहाल करने के लिए, नई कीमत में कितनी वृद्धि की जानी चाहिए?",
+    "oEn": ["42.85%", "30%", "35%", "40%"],
+    "oHi": ["42.85%", "30%", "35%", "40%"],
+    "c": 0,
+    "exp": "Increase % = \\(\\frac{30}{70} \\times 100 = \\frac{3}{7} \\times 100 \\approx 42.85\\%\\).",
+    "Pyq": "SSC CGL Mains 2026"
+  }
+]
