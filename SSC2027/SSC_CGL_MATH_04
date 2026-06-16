@@ -1,0 +1,227 @@
+[
+  {
+    "en": "The speed of a boat in still water is 10 km/h and the speed of the stream is 2 km/h. How much time will it take to travel 24 km downstream?",
+    "hi": "शांत जल में नाव की गति 10 किमी/घंटा और धारा की गति 2 किमी/घंटा है। धारा के अनुकूल 24 किमी जाने में कितना समय लगेगा?",
+    "oEn": ["2.5 hours", "3 hours", "2 hours", "4 hours"],
+    "oHi": ["2.5 घंटे", "3 घंटे", "2 घंटे", "4 घंटे"],
+    "c": 2,
+    "exp": "Downstream speed = \\(10 + 2 = 12\\) km/h. Time = \\(\\frac{24}{12} = 2\\) hours.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "A boat goes 15 km upstream in 3 hours. If the speed of the stream is 2 km/h, what is the speed of the boat in still water?",
+    "hi": "एक नाव 3 घंटे में 15 किमी धारा के प्रतिकूल जाती है। यदि धारा की गति 2 किमी/घंटा है, तो शांत जल में नाव की गति क्या है?",
+    "oEn": ["5 km/h", "8 km/h", "3 km/h", "7 km/h"],
+    "oHi": ["5 किमी/घंटा", "8 किमी/घंटा", "3 किमी/घंटा", "7 किमी/घंटा"],
+    "c": 3,
+    "exp": "Upstream speed = \\(\\frac{15}{3} = 5\\) km/h. Boat speed in still water = Upstream speed + Stream speed = \\(5 + 2 = 7\\) km/h.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "A man can row at 5 km/h in still water and the speed of the stream is 1 km/h. If it takes 1 hour to row to a place and come back, how far is the place?",
+    "hi": "एक आदमी शांत जल में 5 किमी/घंटा की गति से नाव चला सकता है और धारा की गति 1 किमी/घंटा है। यदि किसी स्थान तक जाने और वापस आने में 1 घंटा लगता है, तो स्थान कितनी दूर है?",
+    "oEn": ["2 km", "2.4 km", "3 km", "2.5 km"],
+    "oHi": ["2 किमी", "2.4 किमी", "3 किमी", "2.5 किमी"],
+    "c": 1,
+    "exp": "Downstream speed = \\(5+1=6\\) km/h, Upstream speed = \\(5-1=4\\) km/h. Total time = \\(\\frac{d}{6} + \\frac{d}{4} = 1 \\Rightarrow \\frac{5d}{12}=1 \\Rightarrow d = \\frac{12}{5}=2.4\\) km.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "A boat covers 20 km in 2 hours downstream. If speed of stream is 2 km/h, find speed of boat in still water.",
+    "hi": "एक नाव धारा के अनुकूल 2 घंटे में 20 किमी की दूरी तय करती है। यदि धारा की गति 2 किमी/घंटा है, तो शांत जल में नाव की गति ज्ञात कीजिए।",
+    "oEn": ["12 km/h", "10 km/h", "8 km/h", "6 km/h"],
+    "oHi": ["12 किमी/घंटा", "10 किमी/घंटा", "8 किमी/घंटा", "6 किमी/घंटा"],
+    "c": 2,
+    "exp": "Downstream speed = \\(\\frac{20}{2} = 10\\) km/h. Boat speed in still water = Downstream speed − Stream speed = \\(10 - 2 = 8\\) km/h.",
+    "Pyq": "SSC CGL 2025"
+  },
+  {
+    "en": "A boat travels 12 km upstream in 4 hours and 20 km downstream in 2 hours. What is the speed of the stream?",
+    "hi": "एक नाव 4 घंटे में 12 किमी धारा के प्रतिकूल और 2 घंटे में 20 किमी धारा के अनुकूल चलती है। धारा की गति क्या है?",
+    "oEn": ["3.5 km/h", "2 km/h", "1 km/h", "4 km/h"],
+    "oHi": ["3.5 किमी/घंटा", "2 किमी/घंटा", "1 किमी/घंटा", "4 किमी/घंटा"],
+    "c": 0,
+    "exp": "Upstream speed = \\(\\frac{12}{4}=3\\) km/h. Downstream speed = \\(\\frac{20}{2}=10\\) km/h. Stream speed = \\(\\frac{10-3}{2}=3.5\\) km/h.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "A man rows 10 km upstream and 18 km downstream in 3 hours each. What is the speed of the current?",
+    "hi": "एक आदमी 10 किमी धारा के प्रतिकूल और 18 किमी धारा के अनुकूल 3 घंटे में तय करता है। धारा की गति क्या है?",
+    "oEn": ["2.5 km/h", "2 km/h", "1.5 km/h", "1.33 km/h"],
+    "oHi": ["2.5 किमी/घंटा", "2 किमी/घंटा", "1.5 किमी/घंटा", "1.33 किमी/घंटा"],
+    "c": 3,
+    "exp": "Upstream speed = \\(\\frac{10}{3}\\) km/h. Downstream speed = \\(\\frac{18}{3}=6\\) km/h. Current = \\(\\frac{6 - 10/3}{2} = \\frac{8/3}{2} = \\frac{4}{3} \\approx 1.33\\) km/h.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "Speed of boat in still water is 8 km/h and speed of stream is 2 km/h. Time taken to go 30 km against the stream?",
+    "hi": "शांत जल में नाव की गति 8 किमी/घंटा और धारा की गति 2 किमी/घंटा है। धारा के प्रतिकूल 30 किमी जाने में लगा समय?",
+    "oEn": ["6 hours", "5 hours", "4 hours", "3 hours"],
+    "oHi": ["6 घंटे", "5 घंटे", "4 घंटे", "3 घंटे"],
+    "c": 1,
+    "exp": "Upstream speed = \\(8-2=6\\) km/h. Time = \\(\\frac{30}{6}=5\\) hours.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "A boat takes twice as long to row a distance upstream as it does to row the same distance downstream. Ratio of boat speed to stream speed?",
+    "hi": "एक नाव को धारा के प्रतिकूल समान दूरी तय करने में धारा के अनुकूल की तुलना में दोगुना समय लगता है। नाव की गति और धारा की गति का अनुपात क्या है?",
+    "oEn": ["1:2", "2:1", "3:1", "4:1"],
+    "oHi": ["1:2", "2:1", "3:1", "4:1"],
+    "c": 2,
+    "exp": "Let downstream time = \\(t\\), upstream time = \\(2t\\). Speed ratio: \\(\\frac{v_d}{v_u} = \\frac{2t}{t} = 2\\). So \\(\\frac{B+S}{B-S}=2 \\Rightarrow B+S = 2B-2S \\Rightarrow B=3S\\). Ratio \\(B:S = 3:1\\).",
+    "Pyq": "SSC CGL 2025"
+  },
+  {
+    "en": "A boat moves at 12 km/h downstream and 8 km/h upstream. Speed of boat in still water?",
+    "hi": "एक नाव धारा के अनुकूल 12 किमी/घंटा और धारा के प्रतिकूल 8 किमी/घंटा चलती है। शांत जल में नाव की गति?",
+    "oEn": ["2 km/h", "11 km/h", "9 km/h", "10 km/h"],
+    "oHi": ["2 किमी/घंटा", "11 किमी/घंटा", "9 किमी/घंटा", "10 किमी/घंटा"],
+    "c": 3,
+    "exp": "Speed in still water = \\(\\frac{12+8}{2}=10\\) km/h.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "A boat travels 24 km downstream in 2 hours and 16 km upstream in 4 hours. Speed of boat in still water?",
+    "hi": "एक नाव 2 घंटे में 24 किमी धारा के अनुकूल और 4 घंटे में 16 किमी धारा के प्रतिकूल चलती है। शांत जल में नाव की गति?",
+    "oEn": ["7 km/h", "8 km/h", "6 km/h", "5 km/h"],
+    "oHi": ["7 किमी/घंटा", "8 किमी/घंटा", "6 किमी/घंटा", "5 किमी/घंटा"],
+    "c": 1,
+    "exp": "Downstream speed = \\(\\frac{24}{2}=12\\) km/h, upstream speed = \\(\\frac{16}{4}=4\\) km/h. Still water speed = \\(\\frac{12+4}{2}=8\\) km/h.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "Speed of a boat in still water is 6 km/h. If stream speed is 2 km/h, time to cover 16 km upstream?",
+    "hi": "शांत जल में नाव की गति 6 किमी/घंटा है। यदि धारा की गति 2 किमी/घंटा है, तो 16 किमी धारा के प्रतिकूल जाने में समय?",
+    "oEn": ["8 hours", "5 hours", "4 hours", "2 hours"],
+    "oHi": ["8 घंटे", "5 घंटे", "4 घंटे", "2 घंटे"],
+    "c": 2,
+    "exp": "Upstream speed = \\(6-2=4\\) km/h. Time = \\(\\frac{16}{4}=4\\) hours.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "A man rows 15 km upstream and 21 km downstream in 3 hours each. Speed of current?",
+    "hi": "एक आदमी 3 घंटे में 15 किमी धारा के प्रतिकूल और 21 किमी धारा के अनुकूल जाता है। धारा की गति?",
+    "oEn": ["4 km/h", "2 km/h", "3 km/h", "1 km/h"],
+    "oHi": ["4 किमी/घंटा", "2 किमी/घंटा", "3 किमी/घंटा", "1 किमी/घंटा"],
+    "c": 3,
+    "exp": "Upstream speed = \\(\\frac{15}{3}=5\\) km/h, downstream speed = \\(\\frac{21}{3}=7\\) km/h. Stream speed = \\(\\frac{7-5}{2}=1\\) km/h.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "If boat speed is 10 km/h and stream speed is 4 km/h, time for 42 km downstream?",
+    "hi": "यदि नाव की गति 10 किमी/घंटा और धारा की गति 4 किमी/घंटा है, तो 42 किमी धारा के अनुकूल समय?",
+    "oEn": ["4 hours", "3 hours", "2 hours", "5 hours"],
+    "oHi": ["4 घंटे", "3 घंटे", "2 घंटे", "5 घंटे"],
+    "c": 1,
+    "exp": "Downstream speed = \\(10+4=14\\) km/h. Time = \\(\\frac{42}{14}=3\\) hours.",
+    "Pyq": "SSC CGL 2025"
+  },
+  {
+    "en": "A boat can go 10 km upstream in 2 hours and 20 km downstream in 2 hours. Find speed of stream.",
+    "hi": "एक नाव 2 घंटे में 10 किमी धारा के प्रतिकूल और 2 घंटे में 20 किमी धारा के अनुकूल जा सकती है। धारा की गति ज्ञात कीजिए।",
+    "oEn": ["7.5 km/h", "5 km/h", "2.5 km/h", "3 km/h"],
+    "oHi": ["7.5 किमी/घंटा", "5 किमी/घंटा", "2.5 किमी/घंटा", "3 किमी/घंटा"],
+    "c": 2,
+    "exp": "Upstream speed = \\(\\frac{10}{2}=5\\) km/h, downstream speed = \\(\\frac{20}{2}=10\\) km/h. Stream speed = \\(\\frac{10-5}{2}=2.5\\) km/h.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "A boat covers a distance in 4 hours downstream and 6 hours upstream. Ratio of boat speed to stream speed?",
+    "hi": "एक नाव धारा के अनुकूल 4 घंटे और धारा के प्रतिकूल 6 घंटे में दूरी तय करती है। नाव की गति और धारा की गति का अनुपात?",
+    "oEn": ["2:1", "4:1", "3:1", "5:1"],
+    "oHi": ["2:1", "4:1", "3:1", "5:1"],
+    "c": 3,
+    "exp": "For equal distance, speed ratio (downstream:upstream) = time ratio (upstream:downstream) = \\(6:4 = 3:2\\). So \\(\\frac{B+S}{B-S}=\\frac{3}{2} \\Rightarrow 2B+2S=3B-3S \\Rightarrow B=5S\\). Ratio = \\(5:1\\).",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "Speed of boat = 12 km/h, Stream speed = 3 km/h. Distance covered in 2 hours downstream?",
+    "hi": "नाव की गति = 12 किमी/घंटा, धारा की गति = 3 किमी/घंटा। धारा के अनुकूल 2 घंटे में तय दूरी?",
+    "oEn": ["27 km", "30 km", "18 km", "24 km"],
+    "oHi": ["27 किमी", "30 किमी", "18 किमी", "24 किमी"],
+    "c": 1,
+    "exp": "Downstream speed = \\(12+3=15\\) km/h. Distance = \\(15 \\times 2 = 30\\) km.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "A boat goes 16 km downstream and 8 km upstream in 4 hours total. If downstream speed is 8 km/h, find stream speed.",
+    "hi": "एक नाव 4 घंटे में 16 किमी धारा के अनुकूल और 8 किमी धारा के प्रतिकूल जाती है। यदि अनुकूल गति 8 किमी/घंटा है, तो धारा की गति क्या है?",
+    "oEn": ["3 km/h", "4 km/h", "2 km/h", "5 km/h"],
+    "oHi": ["3 किमी/घंटा", "4 किमी/घंटा", "2 किमी/घंटा", "5 किमी/घंटा"],
+    "c": 2,
+    "exp": "Downstream time = \\(\\frac{16}{8}=2\\) h, so upstream time = \\(4-2=2\\) h. Upstream speed = \\(\\frac{8}{2}=4\\) km/h. Stream speed = \\(\\frac{8-4}{2}=2\\) km/h.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "Speed of boat is 5 times speed of stream. If time taken downstream is 1 hour, time taken upstream?",
+    "hi": "नाव की गति धारा की गति की 5 गुना है। यदि धारा के अनुकूल 1 घंटा लगता है, तो धारा के प्रतिकूल कितना समय लगेगा?",
+    "oEn": ["2 hours", "1.2 hours", "1.8 hours", "1.5 hours"],
+    "oHi": ["2 घंटे", "1.2 घंटे", "1.8 घंटे", "1.5 घंटे"],
+    "c": 3,
+    "exp": "Let stream speed = \\(S\\), boat speed = \\(5S\\). Downstream = \\(6S\\), upstream = \\(4S\\). Distance = \\(6S \\times 1 = 6S\\). Upstream time = \\(\\frac{6S}{4S} = 1.5\\) hours.",
+    "Pyq": "SSC CGL 2025"
+  },
+  {
+    "en": "Speed of boat in still water = 15 km/h, Stream speed = 5 km/h. Total time to go 20 km each way?",
+    "hi": "शांत जल में नाव = 15 किमी/घंटा, धारा = 5 किमी/घंटा। दोनों दिशाओं में 20 किमी जाने में कुल समय?",
+    "oEn": ["4 hours", "3 hours", "2.5 hours", "2 hours"],
+    "oHi": ["4 घंटे", "3 घंटे", "2.5 घंटे", "2 घंटे"],
+    "c": 1,
+    "exp": "Downstream = \\(15+5=20\\) km/h, upstream = \\(15-5=10\\) km/h. Total time = \\(\\frac{20}{20} + \\frac{20}{10} = 1+2 = 3\\) hours.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "A boat goes 18 km downstream in 2 hours and returns in 6 hours. Find speed of boat.",
+    "hi": "एक नाव धारा के अनुकूल 18 किमी 2 घंटे में और वापस 6 घंटे में आती है। नाव की गति ज्ञात कीजिए।",
+    "oEn": ["8 km/h", "7 km/h", "6 km/h", "9 km/h"],
+    "oHi": ["8 किमी/घंटा", "7 किमी/घंटा", "6 किमी/घंटा", "9 किमी/घंटा"],
+    "c": 2,
+    "exp": "Downstream speed = \\(\\frac{18}{2}=9\\) km/h, upstream speed = \\(\\frac{18}{6}=3\\) km/h. Boat speed = \\(\\frac{9+3}{2}=6\\) km/h.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "A boat can row at 8 km/h. If stream is 2 km/h, time to cover 24 km downstream?",
+    "hi": "एक नाव 8 किमी/घंटा की गति से चल सकती है। यदि धारा 2 किमी/घंटा है, तो 24 किमी धारा के अनुकूल समय?",
+    "oEn": ["3 hours", "2.4 hours", "2 hours", "2.5 hours"],
+    "oHi": ["3 घंटे", "2.4 घंटे", "2 घंटे", "2.5 घंटे"],
+    "c": 1,
+    "exp": "Downstream speed = \\(8+2=10\\) km/h. Time = \\(\\frac{24}{10}=2.4\\) hours.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "A man rows 20 km upstream and 30 km downstream in 5 hours each. Boat speed?",
+    "hi": "एक आदमी 5 घंटे में 20 किमी धारा के प्रतिकूल और 30 किमी धारा के अनुकूल जाता है। नाव की गति?",
+    "oEn": ["7 km/h", "6 km/h", "4 km/h", "5 km/h"],
+    "oHi": ["7 किमी/घंटा", "6 किमी/घंटा", "4 किमी/घंटा", "5 किमी/घंटा"],
+    "c": 3,
+    "exp": "Upstream speed = \\(\\frac{20}{5}=4\\) km/h, downstream speed = \\(\\frac{30}{5}=6\\) km/h. Boat speed = \\(\\frac{4+6}{2}=5\\) km/h.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "Stream speed = 2 km/h, Boat speed = 6 km/h. Time to cover 16 km upstream?",
+    "hi": "धारा = 2 किमी/घंटा, नाव = 6 किमी/घंटा। 16 किमी धारा के प्रतिकूल समय?",
+    "oEn": ["4 hours", "3 hours", "2 hours", "5 hours"],
+    "oHi": ["4 घंटे", "3 घंटे", "2 घंटे", "5 घंटे"],
+    "c": 0,
+    "exp": "Upstream speed = \\(6-2=4\\) km/h. Time = \\(\\frac{16}{4}=4\\) hours.",
+    "Pyq": "SSC CGL 2023"
+  },
+  {
+    "en": "A boat goes 24 km downstream in 3 hours and 12 km upstream in 4 hours. Boat speed?",
+    "hi": "एक नाव 3 घंटे में 24 किमी धारा के अनुकूल और 4 घंटे में 12 किमी धारा के प्रतिकूल जाती है। नाव की गति?",
+    "oEn": ["6 km/h", "5 km/h", "5.5 km/h", "4.5 km/h"],
+    "oHi": ["6 किमी/घंटा", "5 किमी/घंटा", "5.5 किमी/घंटा", "4.5 किमी/घंटा"],
+    "c": 2,
+    "exp": "Downstream speed = \\(\\frac{24}{3}=8\\) km/h, upstream speed = \\(\\frac{12}{4}=3\\) km/h. Boat speed = \\(\\frac{8+3}{2}=5.5\\) km/h.",
+    "Pyq": "SSC CGL 2024"
+  },
+  {
+    "en": "Speed of boat is 10 km/h, Stream speed is 2 km/h. How much further in 2h downstream than upstream?",
+    "hi": "नाव 10 किमी/घंटा, धारा 2 किमी/घंटा। 2 घंटे में धारा के अनुकूल और प्रतिकूल की दूरी में अंतर?",
+    "oEn": ["8 km", "10 km", "6 km", "4 km"],
+    "oHi": ["8 किमी", "10 किमी", "6 किमी", "4 किमी"],
+    "c": 0,
+    "exp": "Downstream speed = \\(12\\) km/h, upstream speed = \\(8\\) km/h. Difference in 2h = \\( (12-8)\\times 2 = 8\\) km.",
+    "Pyq": "SSC CGL 2023"
+  }
+]
