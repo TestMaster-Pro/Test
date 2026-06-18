@@ -313,7 +313,10 @@
   "oEn": ["Grandson/Granddaughter", "Son", "Brother-in-law", "Nephew"],
   "oHi": ["पौत्र/पौत्री", "पुत्र", "जीजा/साला", "भतीजा/भांजा"],
   "c": 0,
-  "exp": "B is the father of D. D is the parent of E. Therefore, E is the grandchild (grandson or granddaughter) of B."
+  "exp": "B is the father of D. D is the parent of E. Therefore, E is the grandchild (grandson or granddaughter) of B.",
+      "Pyq": "",
+    "Sub": "Reasoning",
+    "Chap": "Blood relation"
 },
  {
   "en": "If 'P $\\$$ Q' means 'P is the husband of Q', 'P $\\#$ Q' means 'P is the daughter of Q', and 'P $*$ Q' means 'P is the mother of Q', then which of the following expressions represents that 'A is the maternal grandmother of D'?",
@@ -331,7 +334,10 @@
     "A $*$ B $\\$$ C $*$ D"
   ],
   "c": 0,
-  "exp": "A $*$ B means A is the mother of B. B $*$ C means B is the mother of C. C $*$ D means C is the mother of D. Therefore, A is the mother of D's mother, i.e., the maternal grandmother of D."
+  "exp": "A $*$ B means A is the mother of B. B $*$ C means B is the mother of C. C $*$ D means C is the mother of D. Therefore, A is the mother of D's mother, i.e., the maternal grandmother of D.",
+      "Pyq": "",
+    "Sub": "Reasoning",
+    "Chap": "Blood relation"
 },
   {
     "en": "What was the day of the week on 26th January 1950?",
