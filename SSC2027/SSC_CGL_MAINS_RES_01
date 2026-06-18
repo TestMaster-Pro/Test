@@ -198,16 +198,16 @@
     "Chap": "Blood relation"
   },
   {
-    "en": "Read the following information carefully: 'P $\\$$ Q' means 'P is the father of Q'; 'P $@$ Q' means 'P is the sister of Q'; 'P $H$ Q' means 'P is the brother of Q'; 'P $\\%$ Q' means 'P is the wife of Q'. Which operations should replace the question marks respectively in 'A $\\$$ B ? C $@$ D ? E' to establish that A is the grandfather of E?",
-    "hi": "निम्नलिखित जानकारी को ध्यानपूर्वक पढ़ें: 'P $\\$$ Q' का अर्थ 'P, Q का पिता है'; 'P $@$ Q' का अर्थ 'P, Q की बहन है'; 'P $H$ Q' का अर्थ 'P, Q का भाई है'; 'P $\\%$ Q' का अर्थ 'P, Q की पत्नी है'। यह स्थापित करने के लिए कि 'A, E का दादा है', व्यंजक 'A $\\$$ B ? C $@$ D ? E' में प्रश्न चिह्नों के स्थान पर क्रमशः कौन से चिह्न आने चाहिए?",
-    "oEn": ["%, H", "H, $", "$, H", "%, @"],
-    "oHi": ["%, H", "H, $", "$, H", "%, @"],
-    "c": 1,
-    "exp": "A $\\$$ B means A is the father of B. If we use H, $\\$$ : B H C means B is the brother of C (so C is sibling of B). C $@$ D means C is the sister of D. D $\\$$ E means D is the father of E. Thus A is father of B, and B, C, D are siblings (children of A), and D is father of E. Hence A is the grandfather of E. The correct symbols are H and $\\$$.",
-    "Pyq": "2024_Trend_Based",
-    "Sub": "Reasoning",
-    "Chap": "Blood relation"
-  },
+  "en": "Read the following information carefully: 'P $\\$$ Q' means 'P is the father of Q'; 'P $@$ Q' means 'P is the sister of Q'; 'P $H$ Q' means 'P is the brother of Q'; 'P $\\%$ Q' means 'P is the wife of Q'. Which operations should replace the question marks respectively in 'A $\\$$ B ? C $\\$$ D ? E' to establish that A is the grandfather of E?",
+  "hi": "निम्नलिखित जानकारी को ध्यानपूर्वक पढ़ें: 'P $\\$$ Q' का अर्थ 'P, Q का पिता है'; 'P $@$ Q' का अर्थ 'P, Q की बहन है'; 'P $H$ Q' का अर्थ 'P, Q का भाई है'; 'P $\\%$ Q' का अर्थ 'P, Q की पत्नी है'। यह स्थापित करने के लिए कि 'A, E का दादा है', व्यंजक 'A $\\$$ B ? C $\\$$ D ? E' में प्रश्न चिह्नों के स्थान पर क्रमशः कौन से चिह्न आने चाहिए?",
+  "oEn": ["%, H", "H, $@", "$, H", "%, @"],
+  "oHi": ["%, H", "H, @", "$, H", "%, @"],
+  "c": 2,
+  "exp": "A $\\$$ B means A is the father of B. B $\\$$ C means B is the father of C. C $\\$$ D means C is the father of D. D H E means D is the brother of E, so E is also a child of C. Therefore, B is the father of E and A is the father of B. Hence, A is the grandfather of E.",
+  "Pyq": "2024_Trend_Based",
+  "Sub": "Reasoning",
+  "Chap": "Blood relation"
+},
   {
     "en": "Pointing to a lady, Raman said, \\\"She is the only daughter-in-law of the grandmother of my father's only son.\\\" How is the lady related to Raman?",
     "hi": "एक महिला की ओर इशारा करते हुए, रमन ने कहा, \\\"वह मेरे पिता के इकलौते पुत्र की ग्रैंडमदर की इकलौती पुत्रवधू है।\\\" वह महिला रमन से किस प्रकार संबंधित है?",
@@ -307,28 +307,32 @@
     "Sub": "Reasoning",
     "Chap": "Blood relation"
   },
-  {
-    "en": "In a family of 7 persons (A, B, C, D, E, F, and G), there are 3 generations. G is the daughter-in-law of C. B is the father of D. F is the maternal grandfather of E. C is the mother of D. A is married to F. If D is married to G, how is E related to B?",
-    "hi": "7 व्यक्तियों (A, B, C, D, E, F और G) के एक परिवार में 3 पीढ़ियां हैं। G, C की पुत्रवधू है। B, D का पिता है। F, E का नाना (maternal grandfather) है। C, D की माता है। A का विवाह F से हुआ है। यदि D का विवाह G से हुआ है, तो E, B से किस प्रकार संबंधित है?",
-    "oEn": ["Grandson/Granddaughter", "Son", "Brother-in-law", "Nephew"],
-    "oHi": ["पौत्र/पौत्री (Grandchild)", "पुत्र", "जीजा/साला", "भतीजा/भांजा"],
-    "c": 0,
-    "exp": "B and C are married (parents of D). D is married to G. F is married to A and F is the maternal grandfather of E. For F to be the maternal grandfather of E, E must be the child of a daughter. G is the daughter-in-law of C, married to D (son). This means G and D are the parents of E, and G is the daughter of F and A. Thus, E is the grandchild (grandson/granddaughter) of B.",
-    "Pyq": "2025_Trend_Based",
-    "Sub": "Reasoning",
-    "Chap": "Blood relation"
-  },
-  {
-    "en": "If 'P $\\$$ Q' means 'P is the husband of Q', 'P $\\#$ Q' means 'P is the sister of Q', and 'P $*$ Q' means 'P is the mother of Q', then which of the following expressions represents that 'A is the maternal grandmother of D'?",
-    "hi": "यदि 'P $\\$$ Q' का अर्थ 'P, Q का पति है', 'P $\\#$ Q' का अर्थ 'P, Q की बहन है', और 'P $*$ Q' का अर्थ 'P, Q की माता है', तो निम्नलिखित में से कौन सा व्यंजक यह दर्शाता है कि 'A, D की नानी (maternal grandmother) है'?",
-    "oEn": ["A $*$ B $\\#$ C $\\$$ D", "A $*$ B $\\#$ C $*$ D", "A $\\#$ B $*$ C $\\$$ D", "A $*$ B $\\$$ C $*$ D"],
-    "oHi": ["A $*$ B $\\#$ C $\\$$ D", "A $*$ B $\\#$ C $*$ D", "A $\\#$ B $*$ C $\\$$ D", "A $*$ B $\\$$ C $*$ D"],
-    "c": 1,
-    "exp": "In A $*$ B $\\#$ C $*$ D: C $*$ D means C is the mother of D. B $\\#$ C means B is the sister of C (so B is also a female sibling). A $*$ B means A is the mother of B (and therefore mother of C). Since A is the mother of D's mother (C), A is the maternal grandmother of D.",
-    "Pyq": "2023_CGL_Mains",
-    "Sub": "Reasoning",
-    "Chap": "Blood relation"
-  },
+{
+  "en": "In a family of 7 persons (A, B, C, D, E, F and G), there are 3 generations. B is the father of D. C is the mother of D. D is married to G. F is the father of G. A is married to F. E is the child of D and G. How is E related to B?",
+  "hi": "7 व्यक्तियों (A, B, C, D, E, F और G) के एक परिवार में 3 पीढ़ियां हैं। B, D का पिता है। C, D की माता है। D का विवाह G से हुआ है। F, G का पिता है। A का विवाह F से हुआ है। E, D और G की संतान है। E, B से किस प्रकार संबंधित है?",
+  "oEn": ["Grandson/Granddaughter", "Son", "Brother-in-law", "Nephew"],
+  "oHi": ["पौत्र/पौत्री", "पुत्र", "जीजा/साला", "भतीजा/भांजा"],
+  "c": 0,
+  "exp": "B is the father of D. D is the parent of E. Therefore, E is the grandchild (grandson or granddaughter) of B."
+},
+ {
+  "en": "If 'P $\\$$ Q' means 'P is the husband of Q', 'P $\\#$ Q' means 'P is the daughter of Q', and 'P $*$ Q' means 'P is the mother of Q', then which of the following expressions represents that 'A is the maternal grandmother of D'?",
+  "hi": "यदि 'P $\\$$ Q' का अर्थ 'P, Q का पति है', 'P $\\#$ Q' का अर्थ 'P, Q की पुत्री है', और 'P $*$ Q' का अर्थ 'P, Q की माता है', तो निम्नलिखित में से कौन सा व्यंजक यह दर्शाता है कि 'A, D की नानी है'?",
+  "oEn": [
+    "A $*$ B $*$ C $*$ D",
+    "A $*$ B $\\#$ C $*$ D",
+    "A $\\#$ B $*$ C $\\$$ D",
+    "A $*$ B $\\$$ C $*$ D"
+  ],
+  "oHi": [
+    "A $*$ B $*$ C $*$ D",
+    "A $*$ B $\\#$ C $*$ D",
+    "A $\\#$ B $*$ C $\\$$ D",
+    "A $*$ B $\\$$ C $*$ D"
+  ],
+  "c": 0,
+  "exp": "A $*$ B means A is the mother of B. B $*$ C means B is the mother of C. C $*$ D means C is the mother of D. Therefore, A is the mother of D's mother, i.e., the maternal grandmother of D."
+},
   {
     "en": "What was the day of the week on 26th January 1950?",
     "hi": "26 जनवरी 1950 को सप्ताह का कौन सा दिन था?",
@@ -766,7 +770,7 @@
   },
   {
   "en": "Statements:\nNo blue is black.\nAll black are pink.\nOnly a few pink are yellow.\n\nConclusions:\nI. Some blue being pink is a possibility.\nII. All yellow can be black.",
-  "hi": "कथन:\nकोई नीला, काला नहीं है।\nसभी काले, गुलाबी हैं।\nकेवल कुछ गुलाबी, पीले हैं।\n\nनिष्कर्ष:\nI. कुछ नीले के गुलाबी होने की संभावना है।\nII. सभी पीले, काले हो सकते हैं।",
+  "hi": "कथन:\nकोई नीला, काला नहीं है।\nसभी काले, गुलाबी हैं।\nकेवल कुछ गुलाबी, पीले हैं।\n\nनिष्कर्ष:\nI. कुछ नीले के गुलाबी होने की एक संभावना है।\nII. सभी पीले, काले हो सकते हैं।",
   "oEn": [
     "Only conclusion I follows",
     "Only conclusion II follows",
@@ -779,12 +783,12 @@
     "निष्कर्ष I और II दोनों अनुसरण करते हैं",
     "न तो निष्कर्ष I और न ही II अनुसरण करता है"
   ],
-  "c": 2,
-  "exp": "Conclusion I: Blue and Pink have no negative relationship. Since Blue is only restricted from Black and all Blacks are Pink, some Blue being Pink is possible. Hence, Conclusion I follows. Conclusion II: Yellow and Black have no negative relationship. Black is a subset of Pink and the statement 'Only a few Pink are Yellow' does not prevent all Yellow from being included within Black. Therefore, all Yellow can be Black. Hence, Conclusion II also follows.",
+  "c": 0,
+  "exp": "Conclusion I: Blue and Pink have no negative relationship. The only restriction is that Blue cannot be Black. Since Black is a subset of Pink, some Blue being Pink is possible. Hence, Conclusion I follows. Conclusion II: 'Only a few Pink are Yellow' implies that some Pink are Yellow and some Pink are not Yellow. Therefore, Yellow cannot be assumed to lie completely within the Black part of Pink. Hence, the possibility that all Yellow are Black does not follow.",
   "Pyq": "2023_CGL_Tier2",
   "Sub": "Reasoning",
   "Chap": "Syllogism"
-}, 
+},
   {
     "en": "Statements:\nOnly a few tables are chairs.\nNo chair is a bench.\nAll benches are desks.\n\nConclusions:\nI. All tables can never be benches.\nII. Some desks are not chairs.",
     "hi": "कथन:\nकेवल कुछ मेज, कुर्सियां हैं।\nकोई कुर्सी, बेंच नहीं है।\nसभी बेंच, डेस्क हैं।\n\nनिष्कर्ष:\nI. सभी मेज कभी भी बेंच नहीं हो सकते।\nII. कुछ डेस्क, कुर्सियां नहीं हैं।",
@@ -812,8 +816,8 @@
     "hi": "कथन:\nकुछ सेब, आम हैं।\nकोई आम, केला नहीं है।\nकुछ केले, अंगूर हैं।\n\nनिष्कर्ष:\nI. कुछ सेब, अंगूर हैं।\nII. कोई सेब, अंगूर नहीं है।",
     "oEn": ["Only conclusion I follows", "Only conclusion II follows", "Either conclusion I or II follows", "Neither conclusion I nor II follows"],
     "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल निष्कर्ष II अनुसरण करता है", "या तो निष्कर्ष I या II अनुसरण करता है", "न तो निष्कर्ष I और न ही II अनुसरण करता है"],
-    "c": 2,
-    "exp": "No definite relation exists between apples and grapes. The pair (Some, No) with the same subject-predicate is complementary; one must be true. Hence Either I or II follows.",
+    "c": 3,
+    "exp": "There is no definite relationship between Apples and Grapes. Conclusion I (Some Apples are Grapes) is not definite. Conclusion II (No Apple is a Grape) is also not definite. Since both can be false simultaneously, 'Either I or II' does not follow. Hence, neither conclusion follows",
     "Pyq": "2020_CGL_Mains",
     "Sub": "Reasoning",
     "Chap": "Syllogism"
@@ -823,8 +827,8 @@
     "hi": "कथन:\nकेवल कुछ तकिए, कुशन हैं।\nकेवल कुछ कुशन, चादरें हैं।\nसभी चादरें, कंबल हैं।\n\nनिष्कर्ष:\nI. कुछ तकिए, कंबल हैं।\nII. कोई तकिया, कंबल नहीं है।",
     "oEn": ["Only conclusion I follows", "Only conclusion II follows", "Either conclusion I or II follows", "Neither conclusion I nor II follows"],
     "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल निष्कर्ष II अनुसरण करता है", "या तो निष्कर्ष I या II अनुसरण करता है", "न तो निष्कर्ष I और न ही II अनुसरण करता है"],
-    "c": 2,
-    "exp": "No definite link between pillows and blankets. Both 'some' and 'no' are possible, forming a complementary pair. Either I or II follows.",
+    "c": 3,
+    "exp": "Only a few Pillows are Cushions means some Pillows are Cushions and some are not. Only a few Cushions are Bedsheets and all Bedsheets are Blankets. No definite relationship can be established between Pillows and Blankets. Therefore, neither 'Some Pillows are Blankets' nor 'No Pillow is a Blanket' follows.",
     "Pyq": "2023_CGL_Mains",
     "Sub": "Reasoning",
     "Chap": "Syllogism"
@@ -918,56 +922,106 @@
     "Chap": "Syllogism"
   },
   {
-    "en": "If 'A $ B' means 'A is 5m North of B', 'A # B' means 'A is 12m East of B', 'A % B' means 'A is 29m South of B', and 'A @ B' means 'A is 5m West of B', then what is the shortest distance and direction of A with respect to E in the expression: A $ B # C % D @ E?",
-    "hi": "यदि 'A $ B' का अर्थ 'A, B के 5 मीटर उत्तर में है', 'A # B' का अर्थ 'A, B के 12 मीटर पूर्व में है', 'A % B' का अर्थ 'A, B के 29 मीटर दक्षिण में है', और 'A @ B' का अर्थ 'A, B के 5 मीटर पश्चिम में है', तो व्यंजक A $ B # C % D @ E में E के संदर्भ में A की न्यूनतम दूरी और दिशा क्या है?",
-    "oEn": ["25m, South-East", "25m, South-West", "13m, South-East", "13m, South-West"],
-    "oHi": ["25 मीटर, दक्षिण-पूर्व", "25 मीटर, दक्षिण-पश्चिम", "13 मीटर, दक्षिण-पूर्व", "13 मीटर, दक्षिण-पश्चिम"],
-    "c": 0,
-    "exp": "Let E be (0,0). D @ E → D = (-5,0). C % D → C = (-5,-29). B # C → B = (7,-29). A $ B → A = (7,-24). A is 7m East, 24m South of E. Distance = √(7²+24²) = 25m, direction South-East.",
+    "en": "If 'A $\\$$ B' means 'A is 5 m North of B', 'A $\\#$ B' means 'A is 12 m East of B', 'A $\\%$ B' means 'A is 29 m South of B', and 'A $@$ B' means 'A is 5 m West of B', then what is the shortest distance and direction of A with respect to E in the expression: A $\\$$ B $\\#$ C $\\%$ D $@$ E?",
+    "hi": "यदि 'A $\\$$ B' का अर्थ 'A, B के 5 मीटर उत्तर में है', 'A $\\#$ B' का अर्थ 'A, B के 12 मीटर पूर्व में है', 'A $\\%$ B' का अर्थ 'A, B के 29 मीटर दक्षिण में है', और 'A $@$ B' का अर्थ 'A, B के 5 मीटर पश्चिम में है', तो व्यंजक A $\\$$ B $\\#$ C $\\%$ D $@$ E में E के संदर्भ में A की न्यूनतम दूरी और दिशा क्या है?",
+    "oEn": [
+      "13 m, South-East",
+      "25 m, South-East",
+      "25 m, South-West",
+      "13 m, South-West"
+    ],
+    "oHi": [
+      "13 मीटर, दक्षिण-पूर्व",
+      "25 मीटर, दक्षिण-पूर्व",
+      "25 मीटर, दक्षिण-पश्चिम",
+      "13 मीटर, दक्षिण-पश्चिम"
+    ],
+    "c": 1,
+    "exp": "Let E be (0,0). D $@$ E $\\to$ D = (-5,0). C $\\%$ D $\\to$ C = (-5,-29). B $\\#$ C $\\to$ B = (7,-29). A $\\$$ B $\\to$ A = (7,-24). A is 7 m East, 24 m South of E. Distance = $\\sqrt{7^2+24^2}$ = 25 m, direction South-East.",
     "Pyq": "2023_CGL_Mains",
     "Sub": "Reasoning",
     "Chap": "Distance and direction"
   },
   {
-    "en": "A man is facing North-West. He turns 90° clockwise, then 180° counter-clockwise, and then another 135° clockwise. After this, he walks 10m straight, turns to his left and walks 24m. What is the shortest distance from his starting point?",
+    "en": "A man is facing North-West. He turns 90° clockwise, then 180° counter-clockwise, and then another 135° clockwise. After this, he walks 10 m straight, turns to his left and walks 24 m. What is the shortest distance from his starting point?",
     "hi": "एक व्यक्ति का मुख उत्तर-पश्चिम की ओर है। वह 90° दक्षिणावर्त (clockwise) मुड़ता है, फिर 180° वामावर्त (counter-clockwise) मुड़ता है, और फिर 135° दक्षिणावर्त मुड़ता है। इसके बाद, वह 10 मीटर सीधा चलता है, अपने बाईं ओर मुड़ता है और 24 मीटर चलता है। उसके प्रारंभिक बिंदु से न्यूनतम दूरी क्या है?",
-    "oEn": ["26m", "34m", "14m", "25m"],
-    "oHi": ["26 मीटर", "34 मीटर", "14 मीटर", "25 मीटर"],
-    "c": 0,
-    "exp": "Net turn = +90° -180° +135° = +45° (clockwise). Initial NW +45° = North. Walks 10m North, turns left (West) 24m. Distance = √(10²+24²) = 26m.",
+    "oEn": [
+      "34 m",
+      "14 m",
+      "26 m",
+      "25 m"
+    ],
+    "oHi": [
+      "34 मीटर",
+      "14 मीटर",
+      "26 मीटर",
+      "25 मीटर"
+    ],
+    "c": 2,
+    "exp": "Net turn = +90° $-$180° +135° = +45° (clockwise). Initial NW +45° = North. Walks 10 m North, turns left (West) 24 m. Distance = $\\sqrt{10^2+24^2}$ = 26 m.",
     "Pyq": "2022_CGL_Mains",
     "Sub": "Reasoning",
     "Chap": "Distance and direction"
   },
   {
-    "en": "Point X is 20m North of Point Y. Point Z is 15m East of Point Y. A starts from X, walks 5m South, turns right and walks 7m to stop at point A'. B starts from Z, walks 10m North, turns left and walks 10m to stop at point B'. What is the shortest distance between A' and B'?",
+    "en": "Point X is 20 m North of Point Y. Point Z is 15 m East of Point Y. A starts from X, walks 5 m South, turns right and walks 7 m to stop at point A'. B starts from Z, walks 10 m North, turns left and walks 10 m to stop at point B'. What is the shortest distance between A' and B'?",
     "hi": "बिंदु X, बिंदु Y के 20 मीटर उत्तर में है। बिंदु Z, बिंदु Y के 15 मीटर पूर्व में है। A, X से चलना शुरू करता है, 5 मीटर दक्षिण की ओर चलता है, दाईं ओर मुड़ता है और बिंदु A' पर रुकने के लिए 7 मीटर चलता है। B, Z से चलना शुरू करता है, 10 मीटर उत्तर की ओर चलता है, बाईं ओर मुड़ता है और बिंदु B' पर रुकने के लिए 10 मीटर चलता है। A' और B' के बीच की न्यूनतम दूरी क्या है?",
-    "oEn": ["12m", "13m", "15m", "17m"],
-    "oHi": ["12 मीटर", "13 मीटर", "15 मीटर", "17 मीटर"],
-    "c": 1,
-    "exp": "Y(0,0): X(0,20), Z(15,0). A'( -7,15); B'(5,10). Δx=12, Δy=5 → distance=13m.",
+    "oEn": [
+      "15 m",
+      "12 m",
+      "17 m",
+      "13 m"
+    ],
+    "oHi": [
+      "15 मीटर",
+      "12 मीटर",
+      "17 मीटर",
+      "13 मीटर"
+    ],
+    "c": 3,
+    "exp": "Y(0,0): X(0,20), Z(15,0). A'($-$7,15); B'(5,10). $\\Delta$x=12, $\\Delta$y=5 $\\to$ distance=13 m.",
     "Pyq": "2023_CGL_Tier2",
     "Sub": "Reasoning",
     "Chap": "Distance and direction"
   },
   {
-    "en": "One morning after sunrise, Amit and Deepak were standing facing each other. Amit's shadow fell exactly to his right side. Amit then walks 12m forward, turns 90° counter-clockwise, and walks 5m. How far and in which direction is Amit from his starting point?",
+    "en": "One morning after sunrise, Amit and Deepak were standing facing each other. Amit's shadow fell exactly to his right side. Amit then walks 12 m forward, turns 90° counter-clockwise, and walks 5 m. How far and in which direction is Amit from his starting point?",
     "hi": "एक सुबह सूर्योदय के बाद, अमित और दीपक एक-दूसरे के सम्मुख खड़े थे। अमित की परछाई ठीक उसके दाईं ओर गिर रही थी। अमित फिर 12 मीटर आगे चलता है, 90° वामावर्त (counter-clockwise) मुड़ता है, और 5 मीटर चलता है। अमित अपने प्रारंभिक बिंदु से कितनी दूर और किस दिशा में है?",
-    "oEn": ["13m, South-East", "13m, South-West", "17m, North-East", "15m, North-West"],
-    "oHi": ["13 मीटर, दक्षिण-पूर्व", "13 मीटर, दक्षिण-पश्चिम", "17 मीटर, उत्तर-पूर्व", "15 मीटर, उत्तर-पश्चिम"],
+    "oEn": [
+      "13 m, South-East",
+      "13 m, South-West",
+      "17 m, North-East",
+      "15 m, North-West"
+    ],
+    "oHi": [
+      "13 मीटर, दक्षिण-पूर्व",
+      "13 मीटर, दक्षिण-पश्चिम",
+      "17 मीटर, उत्तर-पूर्व",
+      "15 मीटर, उत्तर-पश्चिम"
+    ],
     "c": 0,
-    "exp": "Morning shadow West, so Amit's right is West → Amit faces South. 12m South, CCW (left) → East 5m. Distance = √(12²+5²)=13m, South-East.",
+    "exp": "Morning shadow West, so Amit's right is West $\\to$ Amit faces South. 12 m South, CCW (left) $\\to$ East 5 m. Distance = $\\sqrt{12^2+5^2}$ = 13 m, South-East.",
     "Pyq": "2024_Trend_Based",
     "Sub": "Reasoning",
     "Chap": "Distance and direction"
   },
   {
-    "en": "If 'P * Q' means 'P is 6m North of Q', 'P # Q' means 'P is 8m East of Q', 'P $ Q' means 'P is 6m South of Q', and 'P % Q' means 'P is 8m West of Q', which of the following expressions correctly establishes that 'M is North-West of N and at a shortest distance of 10m'?",
-    "hi": "यदि 'P * Q' का अर्थ 'P, Q के 6 मीटर उत्तर में है', 'P # Q' का अर्थ 'P, Q के 8 मीटर पूर्व में है', 'P $ Q' का अर्थ 'P, Q के 6 मीटर दक्षिण में है', और 'P % Q' का अर्थ 'P, Q के 8 मीटर पश्चिम में है', तो निम्नलिखित में से कौन सा व्यंजक सही ढंग से स्थापित करता है कि 'M, N के उत्तर-पश्चिम में है और उनकी न्यूनतम दूरी 10 मीटर है'?",
-    "oEn": ["M * X % N", "M % X * N", "N * X % M", "M # X $ N"],
-    "oHi": ["M * X % N", "M % X * N", "N * X % M", "M # X $ N"],
-    "c": 0,
-    "exp": "M * X → M 6m N of X. X % N → X 8m W of N. So M is 6N, 8W of N → distance 10m, North-West.",
+    "en": "If 'P $*$ Q' means 'P is 6 m North of Q', 'P $\\#$ Q' means 'P is 8 m East of Q', 'P $\\$$ Q' means 'P is 6 m South of Q', and 'P $\\%$ Q' means 'P is 8 m West of Q', which of the following expressions correctly establishes that 'M is North-West of N and at a shortest distance of 10 m'?",
+    "hi": "यदि 'P $*$ Q' का अर्थ 'P, Q के 6 मीटर उत्तर में है', 'P $\\#$ Q' का अर्थ 'P, Q के 8 मीटर पूर्व में है', 'P $\\$$ Q' का अर्थ 'P, Q के 6 मीटर दक्षिण में है', और 'P $\\%$ Q' का अर्थ 'P, Q के 8 मीटर पश्चिम में है', तो निम्नलिखित में से कौन सा व्यंजक सही ढंग से स्थापित करता है कि 'M, N के उत्तर-पश्चिम में है और उनकी न्यूनतम दूरी 10 मीटर है'?",
+    "oEn": [
+      "M $\\%$ X $*$ N",
+      "M $*$ X $\\%$ N",
+      "N $*$ X $\\%$ M",
+      "M $\\#$ X $\\$$ N"
+    ],
+    "oHi": [
+      "M $\\%$ X $*$ N",
+      "M $*$ X $\\%$ N",
+      "N $*$ X $\\%$ M",
+      "M $\\#$ X $\\$$ N"
+    ],
+    "c": 1,
+    "exp": "M $*$ X $\\to$ M 6 m N of X. X $\\%$ N $\\to$ X 8 m W of N. So M is 6 N, 8 W of N $\\to$ distance 10 m, North-West.",
     "Pyq": "2023_CGL_Mains",
     "Sub": "Reasoning",
     "Chap": "Distance and direction"
@@ -975,10 +1029,20 @@
   {
     "en": "A delivery van leaves the depot and runs 15 km North. It turns right and runs 20 km. Then it turns right again and runs 8 km. Finally, it turns right and runs 44 km to reach the destination. How far and in which direction is the destination from the starting depot?",
     "hi": "एक डिलीवरी वैन डिपो से निकलती है और 15 किमी उत्तर की ओर चलती है। वह दाईं ओर मुड़ती है और 20 किमी चलती है। फिर वह दोबारा दाईं ओर मुड़ती है और 8 किमी चलती है। अंत में, वह दाईं ओर मुड़ती है और गंतव्य तक पहुंचने के लिए 44 किमी चलती है। प्रारंभिक डिपो से गंतव्य कितनी दूर और किस दिशा में है?",
-    "oEn": ["25 km, North-West", "25 km, South-West", "29 km, North-West", "20 km, North-East"],
-    "oHi": ["25 किमी, उत्तर-पश्चिम", "25 किमी, दक्षिण-पश्चिम", "29 किमी, उत्तर-पश्चिम", "20 किमी, उत्तर-पूर्व"],
-    "c": 0,
-    "exp": "N15→(0,15); E20→(20,15); S8→(20,7); W44→(-24,7). Distance=√(24²+7²)=25km, NW.",
+    "oEn": [
+      "29 km, North-West",
+      "25 km, South-West",
+      "25 km, North-West",
+      "20 km, North-East"
+    ],
+    "oHi": [
+      "29 किमी, उत्तर-पश्चिम",
+      "25 किमी, दक्षिण-पश्चिम",
+      "25 किमी, उत्तर-पश्चिम",
+      "20 किमी, उत्तर-पूर्व"
+    ],
+    "c": 2,
+    "exp": "N15 $\\to$ (0,15); E20 $\\to$ (20,15); S8 $\\to$ (20,7); W44 $\\to$ ($-$24,7). Distance = $\\sqrt{24^2+7^2}$ = 25 km, NW.",
     "Pyq": "2021_CGL_Mains",
     "Sub": "Reasoning",
     "Chap": "Distance and direction"
@@ -986,43 +1050,83 @@
   {
     "en": "A clock shows 4:30. If the minute hand points South-West, in which direction does the hour hand point?",
     "hi": "एक घड़ी में 4:30 बजे हैं। यदि मिनट की सुई दक्षिण-पश्चिम की ओर इशारा करती है, तो घंटे की सुई किस दिशा की ओर इशारा करती है?",
-    "oEn": ["South", "West", "South-East", "North-East"],
-    "oHi": ["दक्षिण", "पश्चिम", "दक्षिण-पूर्व", "उत्तर-पूर्व"],
-    "c": 0,
+    "oEn": [
+      "South-East",
+      "West",
+      "North-East",
+      "South"
+    ],
+    "oHi": [
+      "दक्षिण-पूर्व",
+      "पश्चिम",
+      "उत्तर-पूर्व",
+      "दक्षिण"
+    ],
+    "c": 3,
     "exp": "Normally minute=South, hour=SE. Rotating clock so minute points SW (45° CW) makes hour point South.",
     "Pyq": "2020_CGL_Mains",
     "Sub": "Reasoning",
     "Chap": "Distance and direction"
   },
   {
-    "en": "Point P is 10m North of Point Q. Point Q is 14m East of Point R. Point R is 4m South of Point S. Point T is 6m East of Point S. What is the shortest distance between P and T?",
+    "en": "Point P is 10 m North of Point Q. Point Q is 14 m East of Point R. Point R is 4 m South of Point S. Point T is 6 m East of Point S. What is the shortest distance between P and T?",
     "hi": "बिंदु P, बिंदु Q के 10 मीटर उत्तर में है। बिंदु Q, बिंदु R के 14 मीटर पूर्व में है। बिंदु R, बिंदु S के 4 मीटर दक्षिण में है। बिंदु T, बिंदु S के 6 मीटर पूर्व में है। P और T के बीच की न्यूनतम दूरी क्या है?",
-    "oEn": ["10m", "12m", "14m", "8m"],
-    "oHi": ["10 मीटर", "12 मीटर", "14 मीटर", "8 मीटर"],
+    "oEn": [
+      "10 m",
+      "12 m",
+      "14 m",
+      "8 m"
+    ],
+    "oHi": [
+      "10 मीटर",
+      "12 मीटर",
+      "14 मीटर",
+      "8 मीटर"
+    ],
     "c": 0,
-    "exp": "R(0,0): Q(14,0), P(14,10), S(0,4), T(6,4). Distance P-T = √(8²+6²)=10m.",
+    "exp": "R(0,0): Q(14,0), P(14,10), S(0,4), T(6,4). Distance P-T = $\\sqrt{8^2+6^2}$ = 10 m.",
     "Pyq": "2022_CHSL_Mains",
     "Sub": "Reasoning",
     "Chap": "Distance and direction"
   },
   {
-    "en": "Karan starts walking from his house. After walking 15m straight, he turns left and walks 10m. He turns left again and walks 5m. Then he turns right and walks 12m. He takes another right turn and walks 20m, and finally turns right and walks 8m. If he is now facing North, in which direction did he start walking?",
+    "en": "Karan starts walking from his house. After walking 15 m straight, he turns left and walks 10 m. He turns left again and walks 5 m. Then he turns right and walks 12 m. He takes another right turn and walks 20 m, and finally turns right and walks 8 m. If he is now facing North, in which direction did he start walking?",
     "hi": "करण अपने घर से चलना शुरू करता है। 15 मीटर सीधा चलने के बाद, वह बाएं मुड़ता है और 10 मीटर चलता है। वह फिर से बाएं मुड़ता है और 5 मीटर चलता है। फिर वह दाएं मुड़ता है और 12 मीटर चलता है। वह एक और दायां मोड़ लेता है और 20 मीटर चलता है, और अंत में दाएं मुड़कर 8 मीटर चलता है। यदि उसका मुख अब उत्तर की ओर है, तो उसने किस दिशा में चलना शुरू किया था?",
-    "oEn": ["West", "East", "North", "South"],
-    "oHi": ["पश्चिम", "पूर्व", "उत्तर", "दक्षिण"],
-    "c": 0,
-    "exp": "Reverse simulation from final North: last 8m N after right → before right was W; then 20m W after right → before right was S; then 12m S after right → before right was E; then 5m E after left → before left was S; then 10m S after left → before left was W; then initial 15m W. Initial direction West.",
+    "oEn": [
+      "South",
+      "West",
+      "East",
+      "North"
+    ],
+    "oHi": [
+      "दक्षिण",
+      "पश्चिम",
+      "पूर्व",
+      "उत्तर"
+    ],
+    "c": 1,
+    "exp": "Reverse simulation from final North: last 8 m N after right $\\to$ before right was W; then 20 m W after right $\\to$ before right was S; then 12 m S after right $\\to$ before right was E; then 5 m E after left $\\to$ before left was S; then 10 m S after left $\\to$ before left was W; then initial 15 m W. Initial direction West.",
     "Pyq": "2023_CGL_Mains",
     "Sub": "Reasoning",
     "Chap": "Distance and direction"
   },
   {
-    "en": "An eagle flies 15m North-East from its nest, then changes direction and flies 20m North-West. How far is the eagle now from its starting nest?",
+    "en": "An eagle flies 15 m North-East from its nest, then changes direction and flies 20 m North-West. How far is the eagle now from its starting nest?",
     "hi": "एक चील अपने घोंसले से 15 मीटर उत्तर-पूर्व की ओर उड़ती है, फिर दिशा बदलकर 20 मीटर उत्तर-पश्चिम की ओर उड़ती है। चील अब अपने प्रारंभिक घोंसले से कितनी दूर है?",
-    "oEn": ["25m", "35m", "5m", "20√2m"],
-    "oHi": ["25 मीटर", "35 मीटर", "5 मीटर", "20√2 मीटर"],
-    "c": 0,
-    "exp": "NE and NW are perpendicular. Distance = √(15²+20²)=25m.",
+    "oEn": [
+      "35 m",
+      "25 m",
+      "5 m",
+      "20$\\sqrt{2}$ m"
+    ],
+    "oHi": [
+      "35 मीटर",
+      "25 मीटर",
+      "5 मीटर",
+      "20$\\sqrt{2}$ मीटर"
+    ],
+    "c": 1,
+    "exp": "NE and NW are perpendicular. Distance = $\\sqrt{15^2+20^2}$ = 25 m.",
     "Pyq": "2021_CGL_Tier1",
     "Sub": "Reasoning",
     "Chap": "Distance and direction"
@@ -1030,56 +1134,106 @@
   {
     "en": "Two trucks X and Y start from the same warehouse. Truck X goes 80 km North, then turns Left and travels 30 km. Truck Y goes 60 km West, then turns Right and travels 40 km. What is the shortest distance between the two trucks?",
     "hi": "दो ट्रक X और Y एक ही गोदाम से चलना शुरू करते हैं। ट्रक X 80 किमी उत्तर की ओर जाता है, फिर बाएं मुड़ता है और 30 किमी यात्रा करता है। ट्रक Y 60 किमी पश्चिम की ओर जाता है, फिर दाएं मुड़ता है और 40 किमी यात्रा करता है। दोनों ट्रकों के बीच की न्यूनतम दूरी क्या है?",
-    "oEn": ["50 km", "70 km", "30 km", "60 km"],
-    "oHi": ["50 किमी", "70 किमी", "30 किमी", "60 किमी"],
-    "c": 0,
-    "exp": "X: N80→(0,80); L(W)30→(-30,80). Y: W60→(-60,0); R(N)40→(-60,40). Δx=30, Δy=40 → distance=50km.",
+    "oEn": [
+      "30 km",
+      "50 km",
+      "70 km",
+      "60 km"
+    ],
+    "oHi": [
+      "30 किमी",
+      "50 किमी",
+      "70 किमी",
+      "60 किमी"
+    ],
+    "c": 1,
+    "exp": "X: N80 $\\to$ (0,80); L(W)30 $\\to$ ($-$30,80). Y: W60 $\\to$ ($-$60,0); R(N)40 $\\to$ ($-$60,40). $\\Delta$x=30, $\\Delta$y=40 $\\to$ distance=50 km.",
     "Pyq": "2020_CHSL",
     "Sub": "Reasoning",
     "Chap": "Distance and direction"
   },
   {
-    "en": "If 'A @ B' means 'A is 10m South of B', 'A # B' means 'A is 24m West of B', 'A $ B' means 'A is 22m North of B', and 'A % B' means 'A is 15m East of B', what is the shortest distance and direction of P with respect to T in the expression: P $ Q % R @ S # T?",
-    "hi": "यदि 'A @ B' का अर्थ 'A, B के 10 मीटर दक्षिण में है', 'A # B' का अर्थ 'A, B के 24 मीटर पश्चिम में है', 'A $ B' का अर्थ 'A, B के 22 मीटर उत्तर में है', और 'A % B' का अर्थ 'A, B के 15 मीटर पूर्व में है', तो व्यंजक P $ Q % R @ S # T में T के संदर्भ में P की न्यूनतम दूरी और दिशा क्या है?",
-    "oEn": ["15m, North-West", "15m, North-East", "25m, North-West", "25m, South-West"],
-    "oHi": ["15 मीटर, उत्तर-पश्चिम", "15 मीटर, उत्तर-पूर्व", "25 मीटर, उत्तर-पश्चिम", "25 मीटर, दक्षिण-पश्चिम"],
+    "en": "If 'A $@$ B' means 'A is 10 m South of B', 'A $\\#$ B' means 'A is 24 m West of B', 'A $\\$$ B' means 'A is 22 m North of B', and 'A $\\%$ B' means 'A is 15 m East of B', what is the shortest distance and direction of P with respect to T in the expression: P $\\$$ Q $\\%$ R $@$ S $\\#$ T?",
+    "hi": "यदि 'A $@$ B' का अर्थ 'A, B के 10 मीटर दक्षिण में है', 'A $\\#$ B' का अर्थ 'A, B के 24 मीटर पश्चिम में है', 'A $\\$$ B' का अर्थ 'A, B के 22 मीटर उत्तर में है', और 'A $\\%$ B' का अर्थ 'A, B के 15 मीटर पूर्व में है', तो व्यंजक P $\\$$ Q $\\%$ R $@$ S $\\#$ T में T के संदर्भ में P की न्यूनतम दूरी और दिशा क्या है?",
+    "oEn": [
+      "15 m, North-West",
+      "25 m, North-West",
+      "15 m, North-East",
+      "25 m, South-West"
+    ],
+    "oHi": [
+      "15 मीटर, उत्तर-पश्चिम",
+      "25 मीटर, उत्तर-पश्चिम",
+      "15 मीटर, उत्तर-पूर्व",
+      "25 मीटर, दक्षिण-पश्चिम"
+    ],
     "c": 0,
-    "exp": "T(0,0): S # T → S=(-24,0). R @ S → R=(-24,-10). Q % R → Q=(-9,-10). P $ Q → P=(-9,12). P is 9W, 12N of T → distance=15m, NW.",
+    "exp": "T(0,0): S $\\#$ T $\\to$ S=($-$24,0). R $@$ S $\\to$ R=($-$24,$-$10). Q $\\%$ R $\\to$ Q=($-$9,$-$10). P $\\$$ Q $\\to$ P=($-$9,12). P is 9 W, 12 N of T $\\to$ distance=15 m, NW.",
     "Pyq": "2023_CGL_Mains",
     "Sub": "Reasoning",
     "Chap": "Distance and direction"
   },
   {
-    "en": "One evening before sunset, Hema's shadow was falling exactly to her right side. Hema then turns 45° clockwise, walks 10m, then turns 90° counter-clockwise and walks 10m. Which direction is Hema facing now?",
+    "en": "One evening before sunset, Hema's shadow was falling exactly to her right side. Hema then turns 45° clockwise, walks 10 m, then turns 90° counter-clockwise and walks 10 m. Which direction is Hema facing now?",
     "hi": "सूर्यास्त से पहले एक शाम, हेमा की परछाई ठीक उसके दाईं ओर गिर रही थी। हेमा फिर 45° दक्षिणावर्त (clockwise) मुड़ती है, 10 मीटर चलती है, फिर 90° वामावर्त (counter-clockwise) मुड़ती है और 10 मीटर चलती है। हेमा का मुख अब किस दिशा में है?",
-    "oEn": ["North-West", "North-East", "South-West", "North"],
-    "oHi": ["उत्तर-पश्चिम", "उत्तर-पूर्व", "दक्षिण-पश्चिम", "उत्तर"],
+    "oEn": [
+      "North-West",
+      "North-East",
+      "South-West",
+      "North"
+    ],
+    "oHi": [
+      "उत्तर-पश्चिम",
+      "उत्तर-पूर्व",
+      "दक्षिण-पश्चिम",
+      "उत्तर"
+    ],
     "c": 0,
-    "exp": "Evening shadow East → Hema's right is East → she faces North. 45° CW → NE. 90° CCW → NW.",
+    "exp": "Evening shadow East $\\to$ Hema's right is East $\\to$ she faces North. 45° CW $\\to$ NE. 90° CCW $\\to$ NW.",
     "Pyq": "2024_Trend_Based",
     "Sub": "Reasoning",
     "Chap": "Distance and direction"
   },
   {
-    "en": "A man walks 10m North, turns 45° right and walks 10√2m, then turns 45° right again and walks 10m. How far and in which direction is he from the starting point?",
-    "hi": "एक व्यक्ति 10 मीटर उत्तर की ओर चलता है, 45° दाएं मुड़ता है और 10√2 मीटर चलता है, फिर दोबारा 45° दाएं मुड़ता है और 10 मीटर चलता है। वह प्रारंभिक बिंदु से कितनी दूर और किस दिशा में है?",
-    "oEn": ["20√2m, North-East", "20m, North-East", "20m, East", "10√2m, North"],
-    "oHi": ["20√2 मीटर, उत्तर-पूर्व", "20 मीटर, उत्तर-पूर्व", "20 मीटर, पूर्व", "10√2 मीटर, उत्तर"],
+    "en": "A man walks 10 m North, turns 45° right and walks 10$\\sqrt{2}$ m, then turns 45° right again and walks 10 m. How far and in which direction is he from the starting point?",
+    "hi": "एक व्यक्ति 10 मीटर उत्तर की ओर चलता है, 45° दाएं मुड़ता है और 10$\\sqrt{2}$ मीटर चलता है, फिर दोबारा 45° दाएं मुड़ता है और 10 मीटर चलता है। वह प्रारंभिक बिंदु से कितनी दूर और किस दिशा में है?",
+    "oEn": [
+      "20$\\sqrt{2}$ m, North-East",
+      "20 m, North-East",
+      "20 m, East",
+      "10$\\sqrt{2}$ m, North"
+    ],
+    "oHi": [
+      "20$\\sqrt{2}$ मीटर, उत्तर-पूर्व",
+      "20 मीटर, उत्तर-पूर्व",
+      "20 मीटर, पूर्व",
+      "10$\\sqrt{2}$ मीटर, उत्तर"
+    ],
     "c": 0,
-    "exp": "N10→(0,10). 45° right (NE) 10√2m→(10,20). 45° right (E) 10m→(20,20). Distance=20√2m, NE.",
+    "exp": "N10 $\\to$ (0,10). 45° right (NE) 10$\\sqrt{2}$ m $\\to$ (10,20). 45° right (E) 10 m $\\to$ (20,20). Distance = 20$\\sqrt{2}$ m, NE.",
     "Pyq": "2025_Trend_Based",
     "Sub": "Reasoning",
     "Chap": "Distance and direction"
   },
   {
-  "en": "Point A is 10m North of Point B. Point C is 15m East of Point A. Point D is 20m South of Point C. Point E is 25m West of Point D. A person starts from an unknown point X facing North. He walks 5m North, turns left and walks 10m to reach exactly at Point E. What is the shortest distance between X and B?",
-  "hi": "बिंदु A, बिंदु B के 10 मीटर उत्तर में है। बिंदु C, बिंदु A के 15 मीटर पूर्व में है। बिंदु D, बिंदु C के 20 मीटर दक्षिण में है। बिंदु E, बिंदु D के 25 मीटर पश्चिम में है। एक व्यक्ति एक अज्ञात बिंदु X से उत्तर दिशा की ओर मुख करके चलना शुरू करता है। वह 5 मीटर उत्तर की ओर चलता है, फिर बाईं ओर मुड़ता है और 10 मीटर चलकर ठीक बिंदु E पर पहुंचता है। X और B के बीच की न्यूनतम दूरी क्या है?",
-  "oEn": ["15m", "25m", "20m", "10m"],
-  "oHi": ["15 मीटर", "25 मीटर", "20 मीटर", "10 मीटर"],
-  "c": 0,
-  "exp": "Let B=(0,0). Then A=(0,10), C=(15,10), D=(15,-10), and E=(-10,-10). Since the person was facing North, after walking 5m North he turned left and walked 10m West to reach E. Therefore, the point before the final 10m walk was (0,-10), and the starting point X was (0,-15). Hence, the distance between X and B is 15m.",
-  "Pyq": "2026_Trend_Based",
-  "Sub": "Reasoning",
-  "Chap": "Distance and Direction"
-}
+    "en": "Point A is 10 m North of Point B. Point C is 15 m East of Point A. Point D is 20 m South of Point C. Point E is 25 m West of Point D. A person starts from an unknown point X facing North. He walks 5 m North, turns left and walks 10 m to reach exactly at Point E. What is the shortest distance between X and B?",
+    "hi": "बिंदु A, बिंदु B के 10 मीटर उत्तर में है। बिंदु C, बिंदु A के 15 मीटर पूर्व में है। बिंदु D, बिंदु C के 20 मीटर दक्षिण में है। बिंदु E, बिंदु D के 25 मीटर पश्चिम में है। एक व्यक्ति एक अज्ञात बिंदु X से उत्तर दिशा की ओर मुख करके चलना शुरू करता है। वह 5 मीटर उत्तर की ओर चलता है, फिर बाईं ओर मुड़ता है और 10 मीटर चलकर ठीक बिंदु E पर पहुंचता है। X और B के बीच की न्यूनतम दूरी क्या है?",
+    "oEn": [
+      "15 m",
+      "25 m",
+      "20 m",
+      "10 m"
+    ],
+    "oHi": [
+      "15 मीटर",
+      "25 मीटर",
+      "20 मीटर",
+      "10 मीटर"
+    ],
+    "c": 0,
+    "exp": "Let B=(0,0). Then A=(0,10), C=(15,10), D=(15,$-$10), and E=($-$10,$-$10). Since the person was facing North, after walking 5 m North he turned left and walked 10 m West to reach E. Therefore, the point before the final 10 m walk was (0,$-$10), and the starting point X was (0,$-$15). Hence, the distance between X and B is 15 m.",
+    "Pyq": "2026_Trend_Based",
+    "Sub": "Reasoning",
+    "Chap": "Distance and Direction"
+  }
 ]
