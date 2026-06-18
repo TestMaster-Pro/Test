@@ -1235,5 +1235,29 @@
     "Pyq": "2026_Trend_Based",
     "Sub": "Reasoning",
     "Chap": "Distance and Direction"
+  },
+  {
+    "en": "Select the Venn diagram from the options that best represents the relationship among: Cricket, Bat, Ball.",
+    "hi": "विकल्पों में से उस वेन आरेख का चयन कीजिए जो इन शब्दों के बीच संबंध को सबसे अच्छी तरह दर्शाता है: क्रिकेट, बल्ला, गेंद।",
+    "image_url": "SSC2026/CGL_MAINS_RES_01_4.jpg",
+    "oEn": ["Diagram A", "Diagram B", "Diagram C", "Diagram D"],
+    "oHi": ["आरेख A", "आरेख B", "आरेख C", "आरेख D"],
+    "c": 0,
+    "exp": "Cricket is a sport, while Bat and Ball are different objects used in the sport. Bat and Ball are distinct from each other and from Cricket. Therefore, three separate circles (Diagram A) correctly represent the relationship.",
+    "Pyq": "2026_Trend_Based",
+    "Sub": "Reasoning",
+    "Chap": "Venn Diagram"
+  },
+  {
+    "en": "Select the Venn diagram from the options that best represents the relationship among: Vehicles, Cars, Electric Cars.",
+    "hi": "विकल्पों में से उस वेन आरेख का चयन कीजिए जो इन शब्दों के बीच संबंध को सबसे अच्छी तरह दर्शाता है: वाहन (Vehicles), कारें (Cars), इलेक्ट्रिक कारें (Electric Cars)।",
+    "image_url": "SSC2026/CGL_MAINS_RES_01_4.jpg",
+    "oEn": ["Diagram A", "Diagram B", "Diagram C", "Diagram D"],
+    "oHi": ["आरेख A", "आरेख B", "आरेख C", "आरेख D"],
+    "c": 3,
+    "exp": "All Electric Cars are Cars, and all Cars are Vehicles. Thus, Electric Cars form a subset of Cars, which in turn form a subset of Vehicles. This is represented by nested circles, shown in Diagram D.",
+    "Pyq": "2026_Trend_Based",
+    "Sub": "Reasoning",
+    "Chap": "Venn Diagram"
   }
 ]
