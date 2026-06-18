@@ -1,4 +1,15 @@
-[
+[{
+  "en": "Select the Venn diagram from the options that best represents the relationship among: Students, Graduates, Employed Persons.",
+  "hi": "विकल्पों में से उस वेन आरेख का चयन कीजिए जो इन शब्दों के बीच संबंध को सबसे अच्छी तरह दर्शाता है: छात्र (Students), स्नातक (Graduates), नियोजित व्यक्ति (Employed Persons)।",
+  "image_url": "SSC2026/CGL_MAINS_RES_01_4.jpg",
+  "oEn": ["Diagram A", "Diagram B", "Diagram C", "Diagram D"],
+  "oHi": ["आरेख A", "आरेख B", "आरेख C", "आरेख D"],
+  "c": 1,
+  "exp": "Some students are graduates, some graduates are employed, and some individuals may belong to all three categories. Therefore, the three circles partially overlapping one another (Diagram B) best represent the relationship.",
+  "Pyq": "2026_Trend_Based",
+  "Sub": "Reasoning",
+  "Chap": "Venn Diagram"
+},
   {
     "en": "What is the angle between the minute hand and the hour hand of a clock at 3:40?",
     "hi": "3:40 बजे घड़ी की मिनट की सूई और घंटे की सूई के बीच का कोण क्या होगा?",
