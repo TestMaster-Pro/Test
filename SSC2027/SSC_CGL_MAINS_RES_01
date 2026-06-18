@@ -1,15 +1,4 @@
-[{
-  "en": "Select the Venn diagram from the options that best represents the relationship among: Students, Graduates, Employed Persons.",
-  "hi": "विकल्पों में से उस वेन आरेख का चयन कीजिए जो इन शब्दों के बीच संबंध को सबसे अच्छी तरह दर्शाता है: छात्र (Students), स्नातक (Graduates), नियोजित व्यक्ति (Employed Persons)।",
-  "image_url": "SSC2026/CGL_MAINS_RES_01_4.jpg",
-  "oEn": ["Diagram A", "Diagram B", "Diagram C", "Diagram D"],
-  "oHi": ["आरेख A", "आरेख B", "आरेख C", "आरेख D"],
-  "c": 1,
-  "exp": "Some students are graduates, some graduates are employed, and some individuals may belong to all three categories. Therefore, the three circles partially overlapping one another (Diagram B) best represent the relationship.",
-  "Pyq": "2026_Trend_Based",
-  "Sub": "Reasoning",
-  "Chap": "Venn Diagram"
-},
+[
   {
     "en": "What is the angle between the minute hand and the hour hand of a clock at 3:40?",
     "hi": "3:40 बजे घड़ी की मिनट की सूई और घंटे की सूई के बीच का कोण क्या होगा?",
@@ -143,16 +132,16 @@
     "Chap": "Clock"
   },
   {
-  "en": "A clock goes slow from midnight by 5 minutes at the end of the first hour, by 10 minutes at the end of the second hour, by 15 minutes at the end of the 3rd hour, and so on. What will be the time by this clock after 6 hours?",
-  "hi": "एक घड़ी आधी रात से पहले घंटे के अंत में 5 मिनट, दूसरे घंटे के अंत में 10 मिनट, तीसरे घंटे के अंत में 15 मिनट और इसी प्रकार धीमी हो जाती है। 6 घंटे बाद इस घड़ी में क्या समय दिखाई देगा?",
+  "en": "A clock goes slow from midnight by 5 minutes at the end of the first hour, by 10 minutes at the end of the second hour, by 15 minutes at the end of the third hour, and so on. What will be the time shown by the clock after 6 hours?",
+  "hi": "एक घड़ी आधी रात से पहले घंटे के अंत में 5 मिनट, दूसरे घंटे के अंत में 10 मिनट, तीसरे घंटे के अंत में 15 मिनट और इसी प्रकार धीमी हो जाती है। 6 घंटे बाद घड़ी में क्या समय दिखाई देगा?",
   "oEn": ["4:15 AM", "5:30 AM", "5:00 AM", "4:30 AM"],
   "oHi": ["सुबह 4:15 बजे", "सुबह 5:30 बजे", "सुबह 5:00 बजे", "सुबह 4:30 बजे"],
-  "c": 0,
-  "exp": "The clock loses 5, 10, 15, 20, 25 and 30 minutes at the ends of the first six hours respectively. Total loss = 5 + 10 + 15 + 20 + 25 + 30 = 105 minutes = 1 hour 45 minutes. After 6 real hours, the actual time is 6:00 AM, so the clock will show 6:00 AM − 1:45 = 4:15 AM.",
+  "c": 1,
+  "exp": "At the end of 6 hours, the clock is 30 minutes slow in total. Therefore, when the actual time is 6:00 AM, the clock will show 5:30 AM.",
   "Pyq": "2024_Trend_Based",
   "Sub": "Reasoning",
   "Chap": "Clock"
-},
+} ,
   {
     "en": "Between 5:30 and 6:00, at what time will the hands of a clock be at a right angle?",
     "hi": "5:30 और 6:00 बजे के बीच, किस समय घड़ी की सुइयां समकोण पर होंगी?",
@@ -211,10 +200,10 @@
   {
   "en": "Read the following information carefully: 'P $\\$$ Q' means 'P is the father of Q'; 'P $@$ Q' means 'P is the sister of Q'; 'P $H$ Q' means 'P is the brother of Q'; 'P $\\%$ Q' means 'P is the wife of Q'. Which operations should replace the question marks respectively in 'A $\\$$ B ? C $\\$$ D ? E' to establish that A is the grandfather of E?",
   "hi": "निम्नलिखित जानकारी को ध्यानपूर्वक पढ़ें: 'P $\\$$ Q' का अर्थ 'P, Q का पिता है'; 'P $@$ Q' का अर्थ 'P, Q की बहन है'; 'P $H$ Q' का अर्थ 'P, Q का भाई है'; 'P $\\%$ Q' का अर्थ 'P, Q की पत्नी है'। यह स्थापित करने के लिए कि 'A, E का दादा है', व्यंजक 'A $\\$$ B ? C $\\$$ D ? E' में प्रश्न चिह्नों के स्थान पर क्रमशः कौन से चिह्न आने चाहिए?",
-  "oEn": ["%, H", "H, $@", "$, H", "%, @"],
+  "oEn": ["%, H", "H, @", "$, H", "%, @"],
   "oHi": ["%, H", "H, @", "$, H", "%, @"],
   "c": 2,
-  "exp": "A $\\$$ B means A is the father of B. B $\\$$ C means B is the father of C. C $\\$$ D means C is the father of D. D H E means D is the brother of E, so E is also a child of C. Therefore, B is the father of E and A is the father of B. Hence, A is the grandfather of E.",
+  "exp": "Option C: A $\\$$ B means A is the father of B. B $\\$$ C means B is the father of C. C $\\$$ D means C is the father of D. D $H$ E means D is the brother of E, so E is also a child of C. Therefore, B is the father of E and A is the father of B. Hence, A is the grandfather of E.",
   "Pyq": "2024_Trend_Based",
   "Sub": "Reasoning",
   "Chap": "Blood relation"
@@ -378,16 +367,16 @@
     "Chap": "Calendar"
   },
   {
-    "en": "Arun was born on 29th February 1896. In which year did he celebrate his first birthday?",
-    "hi": "अरुण का जन्म 29 फरवरी 1896 को हुआ था। उसने अपना पहला जन्मदिन किस वर्ष मनाया था?",
-    "oEn": ["1900", "1904", "1897", "1908"],
-    "oHi": ["1900", "1904", "1897", "1908"],
-    "c": 1,
-    "exp": "He was born on a leap day. The year 1900 is a century year but not divisible by 400, so it is not a leap year. His first birthday (29th Feb) will occur in the next leap year, which is 1904.",
-    "Pyq": "2024_Trend_Based",
-    "Sub": "Reasoning",
-    "Chap": "Calendar"
-  },
+  "en": "Arun was born on 29th February 1896. On which date would he celebrate his first actual leap-day birthday?",
+  "hi": "अरुण का जन्म 29 फरवरी 1896 को हुआ था। वह अपना पहला वास्तविक लीप-दिवस (29 फरवरी वाला) जन्मदिन किस वर्ष मनाएगा?",
+  "oEn": ["29 February 1900", "29 February 1904", "28 February 1897", "29 February 1908"],
+  "oHi": ["29 फरवरी 1900", "29 फरवरी 1904", "28 फरवरी 1897", "29 फरवरी 1908"],
+  "c": 1,
+  "exp": "Arun was born on 29 February 1896. The next year 1900 is a century year and is not divisible by 400, so it is not a leap year. Therefore, the next occurrence of 29 February after 1896 is in 1904. Hence, he celebrated his first leap-day birthday on 29 February 1904.",
+  "Pyq": "2024_Trend_Based",
+  "Sub": "Reasoning",
+  "Chap": "Calendar"
+},
   {
     "en": "Which of the following years will have the exact same calendar as the year 2013?",
     "hi": "निम्नलिखित में से किस वर्ष का कैलेंडर बिल्कुल 2013 के कैलेंडर के समान होगा?",
@@ -476,17 +465,17 @@
     "Sub": "Reasoning",
     "Chap": "Calendar"
   },
-  {
-    "en": "What will be the day of the week on 15th August 2047?",
-    "hi": "15 अगस्त 2047 को सप्ताह का कौन सा दिन होगा?",
-    "oEn": ["Tuesday", "Wednesday", "Thursday", "Friday"],
-    "oHi": ["मंगलवार", "बुधवार", "गुरुवार", "शुक्रवार"],
-    "c": 2,
-    "exp": "Years: 2000=0. 46 yrs: 11 leap + 35 ord = 22+35 = 57 = 1 odd day. Months in 2047: J(3)+F(0)+M(3)+A(2)+M(3)+J(2)+J(3)+Aug(15->1) = 17 = 3 odd days. Total = 1+3=4 (Thursday).",
-    "Pyq": "2026_Trend_Based",
-    "Sub": "Reasoning",
-    "Chap": "Calendar"
-  },
+ {
+  "en": "What will be the day of the week on 15th August 2047?",
+  "hi": "15 अगस्त 2047 को सप्ताह का कौन सा दिन होगा?",
+  "oEn": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+  "oHi": ["मंगलवार", "बुधवार", "गुरुवार", "शुक्रवार"],
+  "c": 3,
+  "exp": "15 August 2047 falls on a Friday. Therefore, the correct answer is Friday.",
+  "Pyq": "2026_Trend_Based",
+  "Sub": "Reasoning",
+  "Chap": "Calendar"
+},
   {
     "en": "If the second Thursday of a certain month falls on the 12th, what day of the week will the 31st of that month be?",
     "hi": "यदि किसी निश्चित महीने का दूसरा गुरुवार 12 तारीख को पड़ता है, तो उस महीने की 31 तारीख को सप्ताह का कौन सा दिन होगा?",
@@ -553,17 +542,17 @@
     "Sub": "Reasoning",
     "Chap": "Ranking and order"
   },
-  {
-    "en": "Six professionals P, Q, R, S, T, and U have different monthly salaries. Q earns less than only P. R earns more than T but less than U. S earns more than T but less than R. If the second highest salary is ₹78,000 and the second lowest is ₹45,000, who earns the third highest salary?",
-    "hi": "छह पेशेवर P, Q, R, S, T और U का मासिक वेतन अलग-अलग है। Q केवल P से कम कमाता है। R, T से अधिक लेकिन U से कम कमाता है। S, T से अधिक लेकिन R से कम कमाता है। यदि दूसरा सबसे अधिक वेतन ₹78,000 है और दूसरा सबसे कम ₹45,000 है, तो तीसरा सबसे अधिक वेतन कौन कमाता है?",
-    "oEn": ["R", "U", "S", "T"],
-    "oHi": ["R", "U", "S", "T"],
-    "c": 1,
-    "exp": "Q earns less than only P implies P > Q > others. For the rest: U > R > S > T. Combining both gives: P > Q > U > R > S > T. The third highest earner is U.",
-    "Pyq": "2024_Trend_Based",
-    "Sub": "Reasoning",
-    "Chap": "Ranking and order"
-  },
+ {
+  "en": "Six professionals P, Q, R, S, T and U have different monthly salaries. Q earns less than only P. R earns more than T but less than U. S earns more than T but less than R. Who earns the third highest salary?",
+  "hi": "छह पेशेवर P, Q, R, S, T और U का मासिक वेतन अलग-अलग है। Q केवल P से कम कमाता है। R, T से अधिक लेकिन U से कम कमाता है। S, T से अधिक लेकिन R से कम कमाता है। तीसरा सबसे अधिक वेतन कौन कमाता है?",
+  "oEn": ["R", "U", "S", "T"],
+  "oHi": ["R", "U", "S", "T"],
+  "c": 1,
+  "exp": "Q earns less than only P, so P > Q > others. Also, U > R > S > T. Combining these relations gives P > Q > U > R > S > T. Therefore, U earns the third highest salary.",
+  "Pyq": "2024_Trend_Based",
+  "Sub": "Reasoning",
+  "Chap": "Ranking and order"
+},
   {
     "en": "In a row of 50 children, Rahul is 14th from the left end. When he shifts 5 places to his right, he becomes exactly 3 places to the left of Nitin. What is Nitin's position from the right end?",
     "hi": "50 बच्चों की एक पंक्ति में, राहुल बाएं छोर से 14वें स्थान पर है। जब वह अपने दाईं ओर 5 स्थान खिसकता है, तो वह नितिन के ठीक 3 स्थान बाईं ओर हो जाता है। दाएं छोर से नितिन का स्थान क्या है?",
@@ -642,16 +631,16 @@
     "Chap": "Ranking and order"
   },
   {
-    "en": "Seven boxes A, B, C, D, E, F, and G are kept one above the other. Box C is immediately above box E. Only two boxes are kept between E and A. Box D is kept immediately below box A. Box G is kept above box F but below box B. Box B is not at the top. Which box is at the top?",
-    "hi": "सात बक्से A, B, C, D, E, F और G एक के ऊपर एक रखे गए हैं। बक्सा C, बक्से E के ठीक ऊपर है। E और A के बीच केवल दो बक्से रखे गए हैं। बक्सा D, बक्से A के ठीक नीचे रखा गया है। बक्सा G, बक्से F के ऊपर लेकिन बक्से B के नीचे रखा गया है। बक्सा B सबसे ऊपर नहीं है। कौन सा बक्सा सबसे ऊपर है?",
-    "oEn": ["B", "C", "G", "A"],
-    "oHi": ["B", "C", "G", "A"],
-    "c": 1,
-    "exp": "Arranging sequentially from top to bottom based on hints: C, E, B, G, A, D, F satisfies all conditions (C immediately above E, 2 boxes between E and A, D immediately below A, G between B and F, B is not top). Box C is at the top.",
-    "Pyq": "2025_Trend_Based",
-    "Sub": "Reasoning",
-    "Chap": "Ranking and order"
-  },
+  "en": "Seven boxes A, B, C, D, E, F, and G are kept one above the other. Box C is immediately above box E. Only two boxes are kept between E and A. Box D is kept immediately below box A. Box G is kept above box F but below box B. Box C is at the topmost position. Which box is at the bottommost position?",
+  "hi": "सात बक्से A, B, C, D, E, F और G एक के ऊपर एक रखे गए हैं। बक्सा C, बक्से E के ठीक ऊपर है। E और A के बीच केवल दो बक्से रखे गए हैं। बक्सा D, बक्से A के ठीक नीचे रखा गया है। बक्सा G, बक्से F के ऊपर लेकिन बक्से B के नीचे रखा गया है। बक्सा C सबसे ऊपर है। सबसे नीचे कौन सा बक्सा है?",
+  "oEn": ["A", "D", "F", "G"],
+  "oHi": ["A", "D", "F", "G"],
+  "c": 2,
+  "exp": "Since C is at the top, E must be immediately below it. With exactly two boxes between E and A, A occupies the 5th position and D the 6th position. The remaining boxes B, G and F occupy positions 3, 4 and 7 respectively because B is above G and G is above F. Thus the arrangement is C, E, B, G, A, D, F from top to bottom. Therefore, F is at the bottommost position.",
+  "Pyq": "2025_Trend_Based",
+  "Sub": "Reasoning",
+  "Chap": "Ranking and order"
+},
   {
     "en": "In a row of 45 persons, Akhil is 18th from the left end and Vijay is 22nd from the right end. If Sanjay sits exactly between them, what is Sanjay's position from the right end?",
     "hi": "45 व्यक्तियों की एक पंक्ति में, अखिल बाएं छोर से 18वें और विजय दाएं छोर से 22वें स्थान पर है। यदि संजय उनके ठीक मध्य में बैठता है, तो दाएं छोर से संजय का स्थान क्या है?",
@@ -664,16 +653,16 @@
     "Chap": "Ranking and order"
   },
   {
-    "en": "In a queue, Suresh is 15th from the front and Rakesh is 21st from the back. There are 4 people standing between them, and Suresh is ahead of Rakesh. If 5 people from the front leave the queue, what will be Suresh's new position from the back end?",
-    "hi": "एक कतार में, सुरेश आगे से 15वें और राकेश पीछे से 21वें स्थान पर है। उनके बीच 4 लोग खड़े हैं, और सुरेश, राकेश से आगे है। यदि आगे से 5 लोग कतार छोड़ देते हैं, तो पीछे के छोर से सुरेश का नया स्थान क्या होगा?",
-    "oEn": ["25th", "26th", "27th", "24th"],
-    "oHi": ["25वां", "26वां", "27वां", "24वां"],
-    "c": 1,
-    "exp": "Initial Total = 15 + 21 + 4 = 40. After 5 people leave from front, New Total = 40 - 5 = 35. Suresh's new position from front = 15 - 5 = 10th. Suresh's new position from back = New Total - New Front + 1 = 35 - 10 + 1 = 26th.",
-    "Pyq": "2026_Trend_Based",
-    "Sub": "Reasoning",
-    "Chap": "Ranking and order"
-  },
+  "en": "In a queue, Suresh is 15th from the front and Rakesh is 21st from the back. There are 4 people standing between them, and Suresh is ahead of Rakesh. If 5 people from the front leave the queue, what will be Suresh's new position from the front end?",
+  "hi": "एक कतार में, सुरेश आगे से 15वें और राकेश पीछे से 21वें स्थान पर है। उनके बीच 4 लोग खड़े हैं, और सुरेश, राकेश से आगे है। यदि आगे से 5 लोग कतार छोड़ देते हैं, तो आगे के छोर से सुरेश का नया स्थान क्या होगा?",
+  "oEn": ["8th", "9th", "10th", "11th"],
+  "oHi": ["8वां", "9वां", "10वां", "11वां"],
+  "c": 2,
+  "exp": "Suresh is originally 15th from the front. When 5 people ahead of him leave the queue, his position improves by 5 places. Therefore, his new position from the front = 15 − 5 = 10th.",
+  "Pyq": "2026_Trend_Based",
+  "Sub": "Reasoning",
+  "Chap": "Ranking and order"
+},
   {
   "en": "Select the Venn diagram from the options that best represents the relationship among: Living Beings, Animals, Mammals.",
   "hi": "विकल्पों में से उस वेन आरेख का चयन करें जो इनके बीच के संबंध को सबसे अच्छी तरह दर्शाता है: जीवित प्राणी (Living Beings), पशु (Animals), स्तनधारी (Mammals)।",
@@ -1270,5 +1259,17 @@
     "Pyq": "2026_Trend_Based",
     "Sub": "Reasoning",
     "Chap": "Venn Diagram"
-  }
+  }, 
+  {
+  "en": "Select the Venn diagram from the options that best represents the relationship among: Students, Graduates, Employed Persons.",
+  "hi": "विकल्पों में से उस वेन आरेख का चयन कीजिए जो इन शब्दों के बीच संबंध को सबसे अच्छी तरह दर्शाता है: छात्र (Students), स्नातक (Graduates), नियोजित व्यक्ति (Employed Persons)।",
+  "image_url": "SSC2026/CGL_MAINS_RES_01_4.jpg",
+  "oEn": ["Diagram A", "Diagram B", "Diagram C", "Diagram D"],
+  "oHi": ["आरेख A", "आरेख B", "आरेख C", "आरेख D"],
+  "c": 1,
+  "exp": "Some students are graduates, some graduates are employed, and some individuals may belong to all three categories. Therefore, the three circles partially overlapping one another (Diagram B) best represent the relationship.",
+  "Pyq": "2026_Trend_Based",
+  "Sub": "Reasoning",
+  "Chap": "Venn Diagram"
+}
 ]
