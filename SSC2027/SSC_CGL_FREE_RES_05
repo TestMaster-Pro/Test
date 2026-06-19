@@ -1,0 +1,233 @@
+[
+  {
+    "en": "If 4826 is coded as 20 and 7391 is coded as 12, then how will 8532 be coded?",
+    "hi": "यदि 4826 को 20 और 7391 को 12 के रूप में कूटबद्ध किया जाता है, तो 8532 को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["32", "34", "36", "38"],
+    "oHi": ["32", "34", "36", "38"],
+    "c": 1,
+    "exp": "Logic: (Product of first two digits) - (Product of last two digits). 4826: 4×8 - 2×6 = 20. 8532: 8×5 - 3×2 = 40 - 6 = 34.",
+    "Pyq": "2024_CHSL_Tier2"
+  },
+  {
+    "en": "In a conditional coding system, if a word starts with a consonant and ends with a vowel, the code is (Sum of all positional values) × 2. If it starts and ends with consonants, the code is (Sum of all positional values) + 10. How will 'SNAKE' be coded?",
+    "hi": "एक सशर्त कूट प्रणाली में, यदि कोई शब्द व्यंजन से शुरू होता है और स्वर पर समाप्त होता है, तो कूट (सभी स्थानीय मानों का योग) × 2 होता है। यदि यह व्यंजनों से शुरू और समाप्त होता है, तो कूट (सभी स्थानीय मानों का योग) + 10 होता है। 'SNAKE' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["60", "100", "110", "50"],
+    "oHi": ["60", "100", "110", "50"],
+    "c": 1,
+    "exp": "SNAKE starts with S (consonant) and ends with E (vowel). Sum = 19+14+1+11+5 = 50. Code = 50 × 2 = 100.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "In the sequence: A # 5 B $ 9 C % 2 D & 7 E @ 4. If all numbers are multiplied by 3 and all symbols are deleted, what will be the sum of all the numbers in the final sequence?",
+    "hi": "श्रृंखला में: A # 5 B $ 9 C % 2 D & 7 E @ 4। यदि सभी संख्याओं को 3 से गुणा किया जाता है और सभी प्रतीकों को हटा दिया जाता है, तो अंतिम श्रृंखला में सभी संख्याओं का योग क्या होगा?",
+    "oEn": ["81", "78", "72", "84"],
+    "oHi": ["81", "78", "72", "84"],
+    "c": 0,
+    "exp": "Original numbers: 5, 9, 2, 7, 4. Sum = 27. Each multiplied by 3 → total = 27 × 3 = 81.",
+    "Pyq": "2024_CHSL_Tier2"
+  },
+  {
+    "en": "Find the next term in the series: Z1A, X8C, T27G, N64M, ?",
+    "hi": "श्रृंखला में अगला पद ज्ञात कीजिए: Z1A, X8C, T27G, N64M, ?",
+    "oEn": ["F125U", "G125T", "F125V", "E125U"],
+    "oHi": ["F125U", "G125T", "F125V", "E125U"],
+    "c": 0,
+    "exp": "Logic: 1. First letters: -2, -4, -6, -8: Z(26)→X(24)→T(20)→N(14)→F(6). 2. Numbers: 1³, 2³, 3³, 4³, 5³=125. 3. Last letters: +2, +4, +6, +8: A(1)→C(3)→G(7)→M(13)→U(21). Next term: F125U.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "When a number N is successively divided by 4, 5, and 6, it leaves remainders 2, 3, and 4 respectively. Find the remainder when the smallest such number N is divided by 15.",
+    "hi": "जब एक संख्या N को क्रमिक रूप से 4, 5 और 6 से विभाजित किया जाता है, तो क्रमशः 2, 3 और 4 शेषफल प्राप्त होता है। यदि ऐसी सबसे छोटी संख्या N को 15 से विभाजित किया जाए, तो शेषफल ज्ञात कीजिए।",
+    "oEn": ["4", "7", "9", "2"],
+    "oHi": ["4", "7", "9", "2"],
+    "c": 0,
+    "exp": "Backwards: q_3=0 → q_2=4; q_1=5×4+3=23; N=4×23+2=94. 94 mod 15 = 4.",
+    "Pyq": "2024_CHSL_Tier2"
+  },
+  {
+    "en": "Find the simplified value of: sqrt(5 + 2√6) + sqrt(8 - 2√15).",
+    "hi": "sqrt(5 + 2√6) + sqrt(8 - 2√15) का सरलीकृत मान ज्ञात कीजिए।",
+    "oEn": ["√5 + √2", "√3 + √5", "√6 + √2", "2√3 + √2"],
+    "oHi": ["√5 + √2", "√3 + √5", "√6 + √2", "2√3 + √2"],
+    "c": 0,
+    "exp": "sqrt(5+2√6) = √3+√2; sqrt(8-2√15) = √5-√3. Sum = √5+√2.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "Find the missing term: AEX, EIV, IOT, OUR, ?",
+    "hi": "लुप्त पद ज्ञात कीजिए: AEX, EIV, IOT, OUR, ?",
+    "oEn": ["UAQ", "VBP", "UAP", "TAO"],
+    "oHi": ["UAQ", "VBP", "UAP", "TAO"],
+    "c": 2,
+    "exp": "First letters: consecutive vowels A,E,I,O,U. Second letters: next vowel cycle E,I,O,U,A. Third letters: -2 each (X,V,T,R,P). Next term: UAP.",
+    "Pyq": "2024_CHSL_Tier2"
+  },
+  {
+    "en": "Find the next term in the series: ZBX, WDU, TFR, QHO, ?",
+    "hi": "श्रृंखला में अगला पद ज्ञात कीजिए: ZBX, WDU, TFR, QHO, ?",
+    "oEn": ["NIL", "MJK", "NJL", "OKM"],
+    "oHi": ["NIL", "MJK", "NJL", "OKM"],
+    "c": 2,
+    "exp": "First letters decrease by 3: Z→W→T→Q→N. Second letters increase by 2: B→D→F→H→J. Third letters decrease by 3: X→U→R→O→L. Therefore, the next term is NJL.",
+    "Pyq": "2024_MTS"
+  },
+  {
+    "en": "What is the angle between the minute hand and the hour hand of a clock at 3:40?",
+    "hi": "3:40 बजे घड़ी की मिनट की सूई और घंटे की सूई के बीच का कोण क्या होगा?",
+    "oEn": ["120°", "125°", "130°", "135°"],
+    "oHi": ["120°", "125°", "130°", "135°"],
+    "c": 2,
+    "exp": "Angle = |30H - 5.5M| = |30(3) - 5.5(40)| = |90 - 220| = 130°.",
+    "Pyq": "2023_CGL_Tier1"
+  },
+  {
+    "en": "In a family of 8 people across three generations, A is married to B. C is the son of A. D is the daughter of B. E is the sister of C. F is married to D. G is the son of F. H is the daughter of E. How is G related to B?",
+    "hi": "तीन पीढ़ियों वाले 8 व्यक्तियों के एक परिवार में, A का विवाह B से हुआ है। C, A का पुत्र है। D, B की पुत्री है। E, C की बहन है। F का विवाह D से हुआ है। G, F का पुत्र है। H, E की पुत्री है। G, B से किस प्रकार संबंधित है?",
+    "oEn": ["Grandson", "Son", "Nephew", "Son-in-law"],
+    "oHi": ["ग्रैंडसन (पोता/नाती)", "पुत्र", "भतीजा/भांजा", "दामाद"],
+    "c": 0,
+    "exp": "A and B are parents to C, D, and E. D is married to F, and their son is G. Since D is B's daughter, D's son G is the grandson of B.",
+    "Pyq": "2022_CHSL_Mains"
+  },
+  {
+    "en": "If 'P % Q' means 'P is the father of Q', 'P * Q' means 'P is the brother of Q', and 'P - Q' means 'P is the daughter of Q', then in the expression 'R - S * T % U', how is R related to U?",
+    "hi": "यदि 'P % Q' का अर्थ 'P, Q का पिता है', 'P * Q' का अर्थ 'P, Q का भाई है', और 'P - Q' का अर्थ 'P, Q की पुत्री है', तो व्यंजक 'R - S * T % U' में R, U से किस प्रकार संबंधित है?",
+    "oEn": ["Cousin", "Aunt", "Niece", "Sister"],
+    "oHi": ["कजिन", "चाची/बुआ/मामी", "भतीजी/भांजी", "बहन"],
+    "c": 0,
+    "exp": "T % U → T is the father of U. S * T → S is the brother of T. R - S → R is the daughter of S. Since R's father (S) and U's father (T) are brothers, R and U are cousins.",
+    "Pyq": "2024_Trend_Based"
+  },
+  {
+    "en": "How many weekends (Saturdays and Sundays) are there in a normal (non-leap) year that begins on a Friday?",
+    "hi": "एक सामान्य (गैर-लीप) वर्ष जो शुक्रवार से शुरू होता है, उसमें कितने सप्ताहांत (शनिवार और रविवार) होते हैं?",
+    "oEn": ["103", "104", "105", "106"],
+    "oHi": ["103", "104", "105", "106"],
+    "c": 1,
+    "exp": "A non-leap year has 365 days = 52 weeks and 1 odd day. Since it starts on a Friday, the odd day is a Friday. Therefore, there are exactly 52 Saturdays and 52 Sundays. Total weekends = 52 + 52 = 104.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "In a non-leap year, the calendar for the month of March is identical to the calendar for which other month?",
+    "hi": "एक गैर-लीप वर्ष में, मार्च महीने का कैलेंडर किस अन्य महीने के कैलेंडर के बिल्कुल समान होता है?",
+    "oEn": ["August", "September", "October", "November"],
+    "oHi": ["अगस्त", "सितंबर", "अक्टूबर", "नवंबर"],
+    "c": 3,
+    "exp": "Months have identical calendars if the total odd days between them is 0. Odd days from March to Oct: Mar(3)+Apr(2)+May(3)+Jun(2)+Jul(3)+Aug(3)+Sep(2)+Oct(3) = 21 = 0 odd days. Thus, March matches November.",
+    "Pyq": "2020_CGL_Tier1"
+  },
+  {
+    "en": "In a row of boys, Vinay is 10th from the left and Siddarth is 20th from the right. When they interchange their positions, Vinay becomes 24th from the left. If Sonu sits exactly in the middle of Vinay's and Siddarth's original positions, what is Sonu's rank from the right end?",
+    "hi": "लड़कों की एक पंक्ति में, विनय बाएं से 10वें और सिद्धार्थ दाएं से 20वें स्थान पर हैं। जब वे अपने स्थानों को आपस में बदलते हैं, तो विनय बाएं से 24वां हो जाता है। यदि सोनू, विनय और सिद्धार्थ के मूल स्थानों के ठीक मध्य में बैठता है, तो दाएं छोर से सोनू का स्थान क्या है?",
+    "oEn": ["25th", "26th", "27th", "28th"],
+    "oHi": ["25वां", "26वां", "27वां", "28वां"],
+    "c": 2,
+    "exp": "Total boys = Vinay's new left + Siddarth's old right - 1 = 24 + 20 - 1 = 43. Siddarth's old position from left = 43 - 20 + 1 = 24th left. Vinay's old position = 10th left. Sonu is midway between 10 and 24 from left = (10 + 24) / 2 = 17th from left. Sonu's rank from right = 43 - 17 + 1 = 27th.",
+    "Pyq": "2023_CGL_Mains"
+  },
+  {
+    "en": "In a north-facing row of 35 people, P is 12th from the left end and Q is 18th from the right end. How many people are sitting between P and Q?",
+    "hi": "उत्तर की ओर उन्मुख 35 व्यक्तियों की एक पंक्ति में, P बाएं छोर से 12वें और Q दाएं छोर से 18वें स्थान पर है। P और Q के बीच कितने व्यक्ति बैठे हैं?",
+    "oEn": ["4", "5", "6", "3"],
+    "oHi": ["4", "5", "6", "3"],
+    "c": 1,
+    "exp": "Sum of positions from ends = 12 + 18 = 30. Since Total (35) > 30, it is a non-overlapping case. Number of people between them = 35 - 30 = 5.",
+    "Pyq": "2021_CGL_Tier1"
+  },
+  {
+    "en": "Select the Venn diagram from the options that best represents the relationship among: Doctors, Scientists, Engineers (Note: Some doctors are scientists, some scientists are engineers, and some doctors are engineers).",
+    "hi": "विकल्पों में से उस वेन आरेख का चयन करें जो इनके बीच के संबंध को सबसे अच्छी तरह दर्शाता है: डॉक्टर (Doctors), वैज्ञानिक (Scientists), इंजीनियर (Engineers) (मान लें कि कुछ डॉक्टर वैज्ञानिक हैं, कुछ वैज्ञानिक इंजीनियर हैं तथा कुछ डॉक्टर इंजीनियर हैं)।",
+    "image_url": "SSC2026/CGL_01_q1.jpg",
+    "oEn": ["Diagram A", "Diagram B", "Diagram C", "Diagram D"],
+    "oHi": ["आरेख A", "आरेख B", "आरेख C", "आरेख D"],
+    "c": 0,
+    "exp": "Doctors, Scientists and Engineers are independent professions. A person may belong to any one, any two, or even all three groups simultaneously. Hence, the diagram showing mutual overlap among all three circles (Diagram A) correctly represents the relationship.",
+    "Pyq": "Non_PYQ_CGL_Mains"
+  },
+  {
+    "en": "Statements:\nOnly a few papers are books.\nAll books are novels.\nSome novels are comics.\n\nConclusions:\nI. All papers being novels is a possibility.\nII. Some papers are not books.",
+    "hi": "कथन:\nकेवल कुछ कागज, किताबें हैं।\nसभी किताबें, उपन्यास हैं।\nकुछ उपन्यास, कॉमिक्स हैं।\n\nनिष्कर्ष:\nI. सभी कागजों के उपन्यास होने की एक संभावना है।\nII. कुछ कागज, किताबें नहीं हैं।",
+    "oEn": ["Only conclusion I follows", "Only conclusion II follows", "Both conclusions I and II follow", "Neither conclusion I nor II follows"],
+    "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल निष्कर्ष II अनुसरण करता है", "निष्कर्ष I और II दोनों अनुसरण करते हैं", "न तो निष्कर्ष I और न ही II अनुसरण करता है"],
+    "c": 2,
+    "exp": "I: Papers can be placed entirely inside novels (books ⊆ novels, and remaining papers can be novels). Possibility true. II: 'Only a few papers are books' directly implies some papers are not books. Both follow.",
+    "Pyq": "2024_Trend_Based"
+  },
+  {
+    "en": "Statements:\nNo air is pure.\nOnly a few pure is fresh.\nAll fresh is cold.\n\nConclusions:\nI. Some air being fresh is a possibility.\nII. All pure being cold is a possibility.",
+    "hi": "कथन:\nकोई हवा, शुद्ध नहीं है।\nकेवल कुछ शुद्ध, ताजा है।\nसभी ताजा, ठंडा है।\n\nनिष्कर्ष:\nI. कुछ हवा के ताजा होने की एक संभावना है।\nII. सभी शुद्ध के ठंडा होने की एक संभावना है।",
+    "oEn": ["Only conclusion I follows", "Only conclusion II follows", "Both conclusions I and II follow", "Neither conclusion I nor II follows"],
+    "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल निष्कर्ष II अनुसरण करता है", "निष्कर्ष I और II दोनों अनुसरण करते हैं", "न तो निष्कर्ष I और न ही II अनुसरण करता है"],
+    "c": 2,
+    "exp": "I: Fresh is not necessarily entirely pure (only a few pure is fresh means fresh could be outside pure). So air, which is not pure, can intersect fresh. Possibility true. II: Pure that is not fresh can still be cold; all fresh is cold, so all pure can be cold. Possibility true.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "Karan starts walking from his house. After walking 15 m straight, he turns left and walks 10 m. He turns left again and walks 5 m. Then he turns right and walks 12 m. He takes another right turn and walks 20 m, and finally turns right and walks 8 m. If he is now facing North, in which direction did he start walking?",
+    "hi": "करण अपने घर से चलना शुरू करता है। 15 मीटर सीधा चलने के बाद, वह बाएं मुड़ता है और 10 मीटर चलता है। वह फिर से बाएं मुड़ता है और 5 मीटर चलता है। फिर वह दाएं मुड़ता है और 12 मीटर चलता है। वह एक और दायां मोड़ लेता है और 20 मीटर चलता है, और अंत में दाएं मुड़कर 8 मीटर चलता है। यदि उसका मुख अब उत्तर की ओर है, तो उसने किस दिशा में चलना शुरू किया था?",
+    "oEn": ["South", "West", "East", "North"],
+    "oHi": ["दक्षिण", "पश्चिम", "पूर्व", "उत्तर"],
+    "c": 1,
+    "exp": "Reverse simulation from final North: last 8 m N after right → before right was W; then 20 m W after right → before right was S; then 12 m S after right → before right was E; then 5 m E after left → before left was S; then 10 m S after left → before left was W; then initial 15 m W. Initial direction West.",
+    "Pyq": "2023_CGL_Mains"
+  },
+  {
+    "en": "An eagle flies 15 m North-East from its nest, then changes direction and flies 20 m North-West. How far is the eagle now from its starting nest?",
+    "hi": "एक चील अपने घोंसले से 15 मीटर उत्तर-पूर्व की ओर उड़ती है, फिर दिशा बदलकर 20 मीटर उत्तर-पश्चिम की ओर उड़ती है। चील अब अपने प्रारंभिक घोंसले से कितनी दूर है?",
+    "oEn": ["35 m", "25 m", "5 m", "20√2 m"],
+    "oHi": ["35 मीटर", "25 मीटर", "5 मीटर", "20√2 मीटर"],
+    "c": 1,
+    "exp": "NE and NW are perpendicular. Distance = sqrt(15^2+20^2) = 25 m.",
+    "Pyq": "2021_CGL_Tier1"
+  },
+  {
+    "en": "Select the answer figure in which the given question figure is embedded (rotation allowed, size unchanged).",
+    "hi": "उस उत्तर आकृति का चयन कीजिए जिसमें दी गई प्रश्न आकृति अंतर्निहित (embedded) है। (घुमाव की अनुमति है, आकार अपरिवर्तित रहेगा।)",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_9.jpg",
+    "oEn": ["Figure (a)", "Figure (b)", "Figure (c)", "Figure (d)"],
+    "oHi": ["आकृति (a)", "आकृति (b)", "आकृति (c)", "आकृति (d)"],
+    "c": 0,
+    "exp": "The required figure consists of two vertical line segments connected through two inward slanting segments forming an 'M'-like shape. This exact configuration can be traced within the question figure using the boundaries of the white regions and diagonal strips. The complete figure appears only in Figure (a).",
+    "Pyq": "2025_CGL_Tier2_Trend"
+  },
+  {
+    "en": "Select the answer figure that represents the water image of the given question figure with respect to the line XY.",
+    "hi": "XY रेखा के सापेक्ष दी गई प्रश्न आकृति की जल-प्रतिबिंब (Water Image) को दर्शाने वाली उत्तर आकृति का चयन कीजिए।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_12.jpg",
+    "oEn": ["Figure (1)", "Figure (2)", "Figure (3)", "Figure (4)"],
+    "oHi": ["आकृति (1)", "आकृति (2)", "आकृति (3)", "आकृति (4)"],
+    "c": 1,
+    "exp": "In a water image, the figure is reflected vertically about the horizontal line XY. Therefore, the rectangular strip appears below, while the three triangles become inverted. The left-right order remains unchanged, but the shaded portions inside the triangles are vertically reflected. Only Figure (2) shows the correct arrangement after reflection.",
+    "Pyq": "2025_CGL_Tier2_Trend"
+  },
+  {
+    "en": "A transparent sheet containing the question figure is folded along the mirror line MN. Select the answer figure that correctly represents the mirror image of the given figure.",
+    "hi": "प्रश्न आकृति वाली पारदर्शी शीट को दर्पण रेखा MN के अनुसार मोड़ा जाता है। उस उत्तर आकृति का चयन कीजिए जो दी गई आकृति का सही दर्पण प्रतिबिंब दर्शाती है।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_16.jpg",
+    "oEn": ["Figure (1)", "Figure (2)", "Figure (3)", "Figure (4)"],
+    "oHi": ["आकृति (1)", "आकृति (2)", "आकृति (3)", "आकृति (4)"],
+    "c": 1,
+    "exp": "The mirror line MN is placed vertically on the right side of the figure. Therefore, the figure is reflected left-to-right. After reflection, the shaded triangular portion shifts to the upper-right side of the diamond and the upward arrow appears on the left side in its mirrored position. Among the given options, Figure (2) correctly represents this mirror image.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "Three of the following figures are alike in a certain way and one is different. Select the odd figure.",
+    "hi": "निम्नलिखित आकृतियों में से तीन किसी प्रकार से समान हैं और एक भिन्न है। विषम (Odd) आकृति का चयन कीजिए।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_23.jpg",
+    "oEn": ["Figure (A)", "Figure (B)", "Figure (C)", "Figure (D)"],
+    "oHi": ["आकृति (A)", "आकृति (B)", "आकृति (C)", "आकृति (D)"],
+    "c": 2,
+    "exp": "In figures (A), (B), and (D), the outer figure has exactly one more side than the inner figure: Square–Triangle (4–3), Pentagon–Square (5–4), and Hexagon–Pentagon (6–5). In figure (C), the outer trapezium has 4 sides while the inner diamond (rhombus) also has 4 sides. Hence, figure (C) does not follow the pattern and is the odd one out.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "Select the figure from the answer figures that will replace the question mark (?) in the given matrix.",
+    "hi": "उत्तर आकृतियों में से उस आकृति का चयन कीजिए जो दिए गए मैट्रिक्स में प्रश्नवाचक चिन्ह (?) का स्थान लेगी।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_30.jpg",
+    "oEn": ["Figure (a)", "Figure (b)", "Figure (c)", "Figure (d)"],
+    "oHi": ["आकृति (a)", "आकृति (b)", "आकृति (c)", "आकृति (d)"],
+    "c": 2,
+    "exp": "In each row, the middle figure is formed by combining the left figure with the right figure. Conversely, the right figure contains only the additional elements present in the middle figure but absent in the left figure. In the third row, the left figure contains a square with a curved arc, while the middle figure contains the same figure along with two diagonal lines forming an 'X'. Therefore, the missing figure must consist only of the two diagonal lines and the curved arc. This matches Figure (c).",
+    "Pyq": "2025_Trend_Based"
+  }
+]
