@@ -1,0 +1,242 @@
+[
+  {
+    "en": "In a certain code language, 'FRACTION' is coded as '4244'. How will 'PERFECT' be coded in that language?",
+    "hi": "एक निश्चित कूट भाषा में, 'FRACTION' को '4244' के रूप में कूटबद्ध किया जाता है। उसी भाषा में 'PERFECT' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["5914", "5419", "4514", "5916"],
+    "oHi": ["5914", "5419", "4514", "5916"],
+    "c": 0,
+    "exp": "Sum of odd-position letters (P+R+E+T = 16+18+5+20=59) followed by sum of even-position letters (E+F+C = 5+6+3=14) → 5914.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "In a certain code language, 'KING' is coded as '17, 20, 16, 24'. How will 'JOKER' be coded in that language?",
+    "hi": "एक निश्चित कूट भाषा में, 'KING' को '17, 20, 16, 24' के रूप में कूटबद्ध किया जाता है। उसी भाषा में 'JOKER' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["18, 14, 19, 26, 14", "10, 15, 11, 5, 18", "17, 12, 16, 22, 9", "19, 15, 20, 25, 15"],
+    "oHi": ["18, 14, 19, 26, 14", "10, 15, 11, 5, 18", "17, 12, 16, 22, 9", "19, 15, 20, 25, 15"],
+    "c": 0,
+    "exp": "Opposite letter position + position index. J(opp Q=17)+1=18, O(opp L=12)+2=14, K(opp P=16)+3=19, E(opp V=22)+4=26, R(opp I=9)+5=14.",
+    "Pyq": "2024_CPO"
+  },
+  {
+    "en": "Given the alphanumeric string: P 3 R T 5 8 Q A 2 M 7 K L 9 V Z 4. If all even numbers are increased by 1 and all odd numbers are decreased by 1, what is the product of the 3rd number from the left and the 2nd number from the right in the newly formed sequence?",
+    "hi": "दी गई अक्षरांकीय श्रृंखला: P 3 R T 5 8 Q A 2 M 7 K L 9 V Z 4। यदि सभी सम संख्याओं में 1 की वृद्धि की जाती है और सभी विषम संख्याओं में 1 की कमी की जाती है, तो नई श्रृंखला में बाईं ओर से तीसरी संख्या और दाईं ओर से दूसरी संख्या का गुणनफल क्या होगा?",
+    "oEn": ["72", "56", "64", "48"],
+    "oHi": ["72", "56", "64", "48"],
+    "c": 0,
+    "exp": "Numbers: 3,5,8,2,7,9,4. After rule: 3→2,5→4,8→9,2→3,7→6,9→8,4→5. New: 2,4,9,3,6,8,5. 3rd from left = 9; 2nd from right = 8. Product = 9×8 = 72.",
+    "Pyq": "2024_CPO"
+  },
+  {
+    "en": "Find the missing term in the series: 11A2, 13D3, 17I5, 19P7, ?",
+    "hi": "श्रृंखला में लुप्त पद ज्ञात कीजिए: 11A2, 13D3, 17I5, 19P7, ?",
+    "oEn": ["23Y11", "23Z11", "21Y11", "23Y9"],
+    "oHi": ["23Y11", "23Z11", "21Y11", "23Y9"],
+    "c": 0,
+    "exp": "Logic: 1. First numbers: consecutive primes 11,13,17,19,23. 2. Middle letters: squared positions (1²=A, 2²=D, 3²=I, 4²=P, 5²=Y). 3. Last numbers: consecutive primes 2,3,5,7,11. Missing term: 23Y11.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "Find the value of 0.47̅ + 0.583̅ - 0.21̅ represented as a recurring decimal.",
+    "hi": "0.47̅ + 0.583̅ - 0.21̅ का आवर्ती दशमलव मान ज्ञात कीजिए।",
+    "oEn": ["0.850̅", "0.850̅0", "0.784̅", "0.842̅"],
+    "oHi": ["0.850̅", "0.850̅0", "0.784̅", "0.842̅"],
+    "c": 0,
+    "exp": "43/90 + 578/990 - 19/90 = 842/990 = 0.85050... = 0.850̅.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "If N = 1! + 2(2!) + 3(3!) + ... + 20(20!), find the remainder when (N + 1) is divided by 21.",
+    "hi": "यदि N = 1! + 2(2!) + 3(3!) + ... + 20(20!) है, तो (N + 1) को 21 से विभाजित करने पर शेषफल क्या होगा?",
+    "oEn": ["0", "1", "20", "19"],
+    "oHi": ["0", "1", "20", "19"],
+    "c": 0,
+    "exp": "Σ r·r! = (n+1)! - 1. So N = 21! - 1 → N+1 = 21! divisible by 21. Remainder 0.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "Select the correct option to fill in the blanks systematically:\n_ n o _ _ o p _ o p _ n p _ n o",
+    "hi": "रिक्त स्थानों को व्यवस्थित रूप से भरने के लिए सही विकल्प का चयन करें:\n_ n o _ _ o p _ o p _ n p _ n o",
+    "oEn": ["m, o, n, p, m, n", "n, p, m, m, o, p", "m, p, n, m, m, m", "m, p, o, m, n, m"],
+    "oHi": ["m, o, n, p, m, n", "n, p, m, m, o, p", "m, p, n, m, m, m", "m, p, o, m, n, m"],
+    "c": 2,
+    "exp": "Cyclic 4-letter blocks: [mnop] [nopm] [opmn] [pmno]. Full sequence: m n o p n o p m o p m n p m n o. Blanks: m, p, n, m, m, m.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "Find the next term in the series: ZAY, XCW, VEU, TGS, ?",
+    "hi": "श्रृंखला में अगला पद ज्ञात कीजिए: ZAY, XCW, VEU, TGS, ?",
+    "oEn": ["RHQ", "SJQ", "RIQ", "RIP"],
+    "oHi": ["RHQ", "SJQ", "RIQ", "RIP"],
+    "c": 2,
+    "exp": "First: -2 (Z,X,V,T,R). Middle: +2 (A,C,E,G,I). Third: -2 (Y,W,U,S,Q). Next term: RIQ.",
+    "Pyq": "2024_CHSL_Tier2"
+  },
+  {
+    "en": "How many times do the hands of a clock coincide in 2 days?",
+    "hi": "2 दिनों में घड़ी की सुइयां कितनी बार एक साथ (संपाती) होती हैं?",
+    "oEn": ["44", "22", "48", "88"],
+    "oHi": ["44", "22", "48", "88"],
+    "c": 0,
+    "exp": "The hands coincide 22 times in 1 day (24 hours). In 2 days, they will coincide 22 × 2 = 44 times.",
+    "Pyq": "2022_MTS"
+  },
+  {
+    "en": "A clock goes slow from midnight by 5 minutes at the end of the first hour, by 10 minutes at the end of the second hour, by 15 minutes at the end of the third hour, and so on. What will be the time shown by the clock after 6 hours?",
+    "hi": "एक घड़ी आधी रात से पहले घंटे के अंत में 5 मिनट, दूसरे घंटे के अंत में 10 मिनट, तीसरे घंटे के अंत में 15 मिनट और इसी प्रकार धीमी हो जाती है। 6 घंटे बाद घड़ी में क्या समय दिखाई देगा?",
+    "oEn": ["4:15 AM", "5:30 AM", "5:00 AM", "4:30 AM"],
+    "oHi": ["सुबह 4:15 बजे", "सुबह 5:30 बजे", "सुबह 5:00 बजे", "सुबह 4:30 बजे"],
+    "c": 1,
+    "exp": "At the end of 6 hours, the clock is 30 minutes slow in total. Therefore, when the actual time is 6:00 AM, the clock will show 5:30 AM.",
+    "Pyq": "2024_Trend_Based"
+  },
+  {
+    "en": "Introducing a guy, Neha said, \"He is the son of the only daughter of my paternal grandfather's only son.\" How is the guy related to Neha?",
+    "hi": "एक लड़के का परिचय देते हुए, नेहा ने कहा, \"वह मेरे दादाजी के इकलौते पुत्र की इकलौती पुत्री का पुत्र है।\" वह लड़का नेहा से किस प्रकार संबंधित है?",
+    "oEn": ["Brother", "Nephew", "Son", "Cousin"],
+    "oHi": ["भाई", "भांजा/भतीजा", "पुत्र", "कजिन"],
+    "c": 2,
+    "exp": "\"My paternal grandfather's only son\" is Neha's father. \"The only daughter of my father\" is Neha herself. The guy is the son of Neha, so he is her Son.",
+    "Pyq": "2020_CHSL"
+  },
+  {
+    "en": "In a family of 7 persons (A, B, C, D, E, F and G), there are 3 generations. B is the father of D. C is the mother of D. D is married to G. F is the father of G. A is married to F. E is the child of D and G. How is E related to B?",
+    "hi": "7 व्यक्तियों (A, B, C, D, E, F और G) के एक परिवार में 3 पीढ़ियां हैं। B, D का पिता है। C, D की माता है। D का विवाह G से हुआ है। F, G का पिता है। A का विवाह F से हुआ है। E, D और G की संतान है। E, B से किस प्रकार संबंधित है?",
+    "oEn": ["Grandson/Granddaughter", "Son", "Brother-in-law", "Nephew"],
+    "oHi": ["पौत्र/पौत्री", "पुत्र", "जीजा/साला", "भतीजा/भांजा"],
+    "c": 0,
+    "exp": "B is the father of D. D is the parent of E. Therefore, E is the grandchild (grandson or granddaughter) of B.",
+    "Pyq": ""
+  },
+  {
+    "en": "What will be the day of the week on 15th August 2047?",
+    "hi": "15 अगस्त 2047 को सप्ताह का कौन सा दिन होगा?",
+    "oEn": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+    "oHi": ["मंगलवार", "बुधवार", "गुरुवार", "शुक्रवार"],
+    "c": 2,
+    "exp": "From 15 August 1947 (Friday) to 15 August 2047, 100 years pass. Number of leap years = 25, ordinary = 75. Odd days = 75×1 + 25×2 = 125 ≡ 6 mod 7. Friday + 6 days = Thursday.",
+    "Pyq": "2026_Trend_Based"
+  },
+  {
+    "en": "If the second Thursday of a certain month falls on the 12th, what day of the week will the 31st of that month be?",
+    "hi": "यदि किसी निश्चित महीने का दूसरा गुरुवार 12 तारीख को पड़ता है, तो उस महीने की 31 तारीख को सप्ताह का कौन सा दिन होगा?",
+    "oEn": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+    "oHi": ["सोमवार", "मंगलवार", "बुधवार", "गुरुवार"],
+    "c": 1,
+    "exp": "12th is Thursday. Adding 14 days, 26th is also Thursday. 31st is 5 days after 26th. Thursday + 5 days = Tuesday.",
+    "Pyq": "2020_CHSL"
+  },
+  {
+    "en": "Seven boxes A, B, C, D, E, F, and G are kept one above the other. Box C is immediately above box E. Only two boxes are kept between E and A. Box D is kept immediately below box A. Box G is kept above box F but below box B. Box C is at the topmost position. Which box is at the bottommost position?",
+    "hi": "सात बक्से A, B, C, D, E, F और G एक के ऊपर एक रखे गए हैं। बक्सा C, बक्से E के ठीक ऊपर है। E और A के बीच केवल दो बक्से रखे गए हैं। बक्सा D, बक्से A के ठीक नीचे रखा गया है। बक्सा G, बक्से F के ऊपर लेकिन बक्से B के नीचे रखा गया है। बक्सा C सबसे ऊपर है। सबसे नीचे कौन सा बक्सा है?",
+    "oEn": ["A", "D", "F", "G"],
+    "oHi": ["A", "D", "F", "G"],
+    "c": 2,
+    "exp": "Since C is at the top, E must be immediately below it. With exactly two boxes between E and A, A occupies the 5th position and D the 6th position. The remaining boxes B, G and F occupy positions 3, 4 and 7 respectively because B is above G and G is above F. Thus the arrangement is C, E, B, G, A, D, F from top to bottom. Therefore, F is at the bottommost position.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "In a row of 45 persons, Akhil is 18th from the left end and Vijay is 22nd from the right end. If Sanjay sits exactly between them, what is Sanjay's position from the right end?",
+    "hi": "45 व्यक्तियों की एक पंक्ति में, अखिल बाएं छोर से 18वें और विजय दाएं छोर से 22वें स्थान पर है। यदि संजय उनके ठीक मध्य में बैठता है, तो दाएं छोर से संजय का स्थान क्या है?",
+    "oEn": ["24th", "25th", "26th", "23rd"],
+    "oHi": ["24वां", "25वां", "26वां", "23वां"],
+    "c": 1,
+    "exp": "Akhil = 18th from left. Vijay = 22nd from right -> 45 - 22 + 1 = 24th from left. Sanjay is midway between 18 and 24 from left -> (18 + 24) / 2 = 21st from left. Sanjay's position from right = 45 - 21 + 1 = 25th.",
+    "Pyq": "2024_Trend_Based"
+  },
+  {
+    "en": "Select the Venn diagram from the options that best represents the relationship among: Employees, Managers, Engineers (Note: All Managers are Employees, some Engineers are Employees, and some Engineers are Managers).",
+    "hi": "विकल्पों में से उस वेन आरेख का चयन करें जो इनके बीच के संबंध को सबसे अच्छी तरह दर्शाता है: कर्मचारी (Employees), प्रबंधक (Managers), इंजीनियर (Engineers) (मान लें कि सभी प्रबंधक कर्मचारी हैं, कुछ इंजीनियर कर्मचारी हैं तथा कुछ इंजीनियर प्रबंधक हैं)।",
+    "image_url": "SSC2026/CGL_MAINS_RES_01_3.jpg",
+    "oEn": ["Diagram A", "Diagram B", "Diagram C", "Diagram D"],
+    "oHi": ["आरेख A", "आरेख B", "आरेख C", "आरेख D"],
+    "c": 2,
+    "exp": "Managers are a subset of Employees. Engineers partially overlap with Employees and also overlap with Managers. Therefore, one circle lies completely inside another, while a third circle intersects both. This is represented by Diagram C.",
+    "Pyq": "Non_PYQ_CGL_Mains"
+  },
+  {
+    "en": "Statements:\nOnly a few shirts are pants.\nAll pants are jackets.\nNo jacket is a coat.\n\nConclusions:\nI. All shirts being jackets is a possibility.\nII. Some pants are definitely not coats.",
+    "hi": "कथन:\nकेवल कुछ शर्ट, पैंट हैं।\nसभी पैंट, जैकेट हैं।\nकोई जैकेट, कोट नहीं है।\n\nनिष्कर्ष:\nI. सभी शर्ट के जैकेट होने की एक संभावना है।\nII. कुछ पैंट निश्चित रूप से कोट नहीं हैं।",
+    "oEn": ["Only conclusion I follows", "Only conclusion II follows", "Both conclusions I and II follow", "Neither conclusion I nor II follows"],
+    "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल निष्कर्ष II अनुसरण करता है", "निष्कर्ष I और II दोनों अनुसरण करते हैं", "न तो निष्कर्ष I और न ही II अनुसरण करता है"],
+    "c": 2,
+    "exp": "I: Shirts can be entirely inside jackets (pants are jackets, non-pants shirts can also be jackets). Possibility true. II: All pants are jackets, no jacket is coat, so no pants are coats. Hence some pants are definitely not coats. Both follow.",
+    "Pyq": "2021_CGL_Mains"
+  },
+  {
+    "en": "Statements:\nSome cities are towns.\nOnly a few towns are states.\nAll states are countries.\n\nConclusions:\nI. All towns being countries is a possibility.\nII. Some cities being states is a possibility.",
+    "hi": "कथन:\nकुछ शहर, कस्बे हैं।\nकेवल कुछ कस्बे, राज्य हैं।\nसभी राज्य, देश हैं।\n\nनिष्कर्ष:\nI. सभी कस्बों के देश होने की एक संभावना है।\nII. कुछ शहरों के राज्य होने की एक संभावना है।",
+    "oEn": ["Only conclusion I follows", "Only conclusion II follows", "Both conclusions I and II follow", "Neither conclusion I nor II follows"],
+    "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल निष्कर्ष II अनुसरण करता है", "निष्कर्ष I और II दोनों अनुसरण करते हैं", "न तो निष्कर्ष I और न ही II अनुसरण करता है"],
+    "c": 2,
+    "exp": "I: Towns cannot all be states, but they can all be countries (countries encompass states and more). Possibility true. II: Some cities are towns, and towns have a state part; those cities could be in the state part. So possibility true. Both follow.",
+    "Pyq": "2024_Trend_Based"
+  },
+  {
+    "en": "One evening before sunset, Hema's shadow was falling exactly to her right side. Hema then turns 45° clockwise, walks 10 m, then turns 90° counter-clockwise and walks 10 m. Which direction is Hema facing now?",
+    "hi": "सूर्यास्त से पहले एक शाम, हेमा की परछाई ठीक उसके दाईं ओर गिर रही थी। हेमा फिर 45° दक्षिणावर्त (clockwise) मुड़ती है, 10 मीटर चलती है, फिर 90° वामावर्त (counter-clockwise) मुड़ती है और 10 मीटर चलती है। हेमा का मुख अब किस दिशा में है?",
+    "oEn": ["North-West", "North-East", "South-West", "North"],
+    "oHi": ["उत्तर-पश्चिम", "उत्तर-पूर्व", "दक्षिण-पश्चिम", "उत्तर"],
+    "c": 0,
+    "exp": "Evening shadow East → Hema's right is East → she faces North. 45° CW → NE. 90° CCW → NW.",
+    "Pyq": "2024_Trend_Based"
+  },
+  {
+    "en": "A man walks 10 m North, turns 45° right and walks 10√2 m, then turns 45° right again and walks 10 m. How far and in which direction is he from the starting point?",
+    "hi": "एक व्यक्ति 10 मीटर उत्तर की ओर चलता है, 45° दाएं मुड़ता है और 10√2 मीटर चलता है, फिर दोबारा 45° दाएं मुड़ता है और 10 मीटर चलता है। वह प्रारंभिक बिंदु से कितनी दूर और किस दिशा में है?",
+    "oEn": ["20√2 m, North-East", "20 m, North-East", "20 m, East", "10√2 m, North"],
+    "oHi": ["20√2 मीटर, उत्तर-पूर्व", "20 मीटर, उत्तर-पूर्व", "20 मीटर, पूर्व", "10√2 मीटर, उत्तर"],
+    "c": 0,
+    "exp": "N10 → (0,10). 45° right (NE) 10√2 m → (10,20). 45° right (E) 10 m → (20,20). Distance = 20√2 m, NE.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "Select the Venn diagram from the options that best represents the relationship among: Cricket, Bat, Ball.",
+    "hi": "विकल्पों में से उस वेन आरेख का चयन कीजिए जो इन शब्दों के बीच संबंध को सबसे अच्छी तरह दर्शाता है: क्रिकेट, बल्ला, गेंद।",
+    "image_url": "SSC2026/CGL_MAINS_RES_01_4.jpg",
+    "oEn": ["Diagram A", "Diagram B", "Diagram C", "Diagram D"],
+    "oHi": ["आरेख A", "आरेख B", "आरेख C", "आरेख D"],
+    "c": 0,
+    "exp": "Cricket is a sport, while Bat and Ball are different objects used in the sport. Bat and Ball are distinct from each other and from Cricket. Therefore, three separate circles (Diagram A) correctly represent the relationship.",
+    "Pyq": "2026_Trend_Based"
+  },
+  {
+    "en": "Select the answer figure that represents the water image of the given question figure with respect to the line XY.",
+    "hi": "XY रेखा के सापेक्ष दी गई प्रश्न आकृति की जल-प्रतिबिंब (Water Image) को दर्शाने वाली उत्तर आकृति का चयन कीजिए।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_13.jpg",
+    "oEn": ["Figure (1)", "Figure (2)", "Figure (3)", "Figure (4)"],
+    "oHi": ["आकृति (1)", "आकृति (2)", "आकृति (3)", "आकृति (4)"],
+    "c": 1,
+    "exp": "In a water image, the figure is reflected vertically about the horizontal line XY. The arrow that originally points towards the upper-right appears towards the lower-right. The shaded corner at the top-left shifts to the bottom-left, while the shaded corner at the bottom-right shifts to the top-right. The curved branches are also reflected vertically. Therefore, Figure (2) is the correct water image.",
+    "Pyq": "2025_CGL_Tier2_Trend"
+  },
+  {
+    "en": "A transparent sheet containing the question figure is folded along the mirror line MN. Select the answer figure that correctly represents the mirror image of the given figure.",
+    "hi": "प्रश्न आकृति वाली पारदर्शी शीट को दर्पण रेखा MN के अनुसार मोड़ा जाता है। उस उत्तर आकृति का चयन कीजिए जो दी गई आकृति का सही दर्पण प्रतिबिंब दर्शाती है।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_17.jpg",
+    "oEn": ["Figure (1)", "Figure (2)", "Figure (3)", "Figure (4)"],
+    "oHi": ["आकृति (1)", "आकृति (2)", "आकृति (3)", "आकृति (4)"],
+    "c": 2,
+    "exp": "The mirror line MN is placed vertically on the right side of the figure. Therefore, the entire figure undergoes a left-right reversal. The inclined striped rectangle changes its slant direction, the arrow and circle shift to the opposite side, and the shaded portions inside the square appear in mirrored positions. Among the given options, Figure (3) correctly represents the mirror image.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "Three of the following figures are alike in a certain way and one is different. Select the odd figure.",
+    "hi": "निम्नलिखित आकृतियों में से तीन किसी प्रकार से समान हैं और एक भिन्न है। विषम (Odd) आकृति का चयन कीजिए।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_26.jpg",
+    "oEn": ["Figure (1)", "Figure (2)", "Figure (3)", "Figure (4)"],
+    "oHi": ["आकृति (1)", "आकृति (2)", "आकृति (3)", "आकृति (4)"],
+    "c": 0,
+    "exp": "In figures (2), (3), and (4), exactly one shape is filled black, one shape is shaded with horizontal lines, and one shape is left unfilled. In figure (1), the triangle is filled black, the square is unfilled, and the circle is shaded, but the pattern of assigning these fillings according to the vertical sequence is not maintained. Therefore, figure (1) is the odd one out.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "How many triangles are present in the given figure?",
+    "hi": "दी गई आकृति में कुल कितने त्रिभुज (Triangles) हैं?",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_35.jpg",
+    "oEn": ["24", "28", "32", "36"],
+    "oHi": ["24", "28", "32", "36"],
+    "c": 1,
+    "exp": "Count the triangles systematically. The figure consists of a central square divided by diagonals and median lines, along with four large isosceles triangles attached to its four sides. Counting all small triangles inside the square, the medium-sized triangles formed by combining adjacent regions, and the larger triangles formed using the outer boundary gives a total of 28 triangles.",
+    "Pyq": "2025_Trend_Based"
+  }
+]
