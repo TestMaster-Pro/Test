@@ -1,0 +1,233 @@
+[
+  {
+    "en": "In a certain code language, 'MASTER' is coded as 344 and 'GOAT' is coded as 130. How will 'ROBOT' be coded in that language?",
+    "hi": "एक निश्चित कूट भाषा में, 'MASTER' को 344 और 'GOAT' को 130 के रूप में कूटबद्ध किया जाता है। उसी भाषा में 'ROBOT' को किस प्रकार कूटबद्ध किया जाएगा?",
+    "oEn": ["185", "195", "205", "215"],
+    "oHi": ["185", "195", "205", "215"],
+    "c": 1,
+    "exp": "Logic: (Sum of positional values of opposite letters) × (Total number of consonants). For MASTER: M(14)+A(26)+S(8)+T(7)+E(22)+R(9) = 86. Consonants (M, S, T, R) = 4. 86 × 4 = 344. For ROBOT: R(9)+O(12)+B(25)+O(12)+T(7) = 65. Consonants (R, B, T) = 3. 65 × 3 = 195.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "Find the next term in the series: A1Z, E4V, I9R, O16N, ?",
+    "hi": "श्रृंखला में अगला पद ज्ञात कीजिए: A1Z, E4V, I9R, O16N, ?",
+    "oEn": ["U25F", "U25G", "U20F", "T25F"],
+    "oHi": ["U25F", "U25G", "U20F", "T25F"],
+    "c": 0,
+    "exp": "Logic: 1. First letters: consecutive vowels A, E, I, O, U. 2. Numbers: 1²=1, 2²=4, 3²=9, 4²=16, 5²=25. 3. Last letters: positional opposites of first letters (sum 27): A↔Z, E↔V, I↔R, O↔N, U↔F. Next term: U25F.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "Study the following alphanumeric-symbol sequence carefully and answer the question: M 4 $ E 7 T @ A 9 * K Q 2 # I 5 H % F 8 U B 3 N 6 W. Which element is 8th to the right of the 15th element from the right end if all symbols are dropped?",
+    "hi": "निम्नलिखित अक्षरांकीय-प्रतीक श्रृंखला का ध्यानपूर्वक अध्ययन करें और प्रश्न का उत्तर दें: M 4 $ E 7 T @ A 9 * K Q 2 # I 5 H % F 8 U B 3 N 6 W। यदि सभी प्रतीकों को हटा दिया जाए, तो कौन सा तत्व दाएं छोर से 15वें तत्व के दाएं से आठवां होगा?",
+    "oEn": ["F", "8", "U", "H"],
+    "oHi": ["F", "8", "U", "H"],
+    "c": 1,
+    "exp": "8th to the right of 15th from right → (15-8)=7th from right. After dropping symbols ($, @, *, #, %): M 4 E 7 T A 9 K Q 2 I 5 H F 8 U B 3 N 6 W. 7th from right: W(1),6(2),N(3),3(4),B(5),U(6),8(7). Element is 8.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "Find the number of factors of N = 2^7 × 3^8 × 5^9 which are perfect squares.",
+    "hi": "N = 2^7 × 3^8 × 5^9 के उन गुणनखंडों की संख्या ज्ञात कीजिए जो पूर्ण वर्ग हैं।",
+    "oEn": ["100", "120", "80", "140"],
+    "oHi": ["100", "120", "80", "140"],
+    "c": 0,
+    "exp": "Even exponents: 2^7 (0,2,4,6 → 4 choices); 3^8 (0,2,4,6,8 → 5); 5^9 (0,2,4,6,8 → 5). Total = 4 × 5 × 5 = 100.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "If the 9-digit number 489x6378y is divisible by 72, then what is the value of (8x + 6y) for the minimum possible value of y?",
+    "hi": "यदि 9-अंकीय संख्या 489x6378y, 72 से विभाज्य है, तो y के न्यूनतम संभावित मान के लिए (8x + 6y) का मान क्या है?",
+    "oEn": ["64", "52", "70", "48"],
+    "oHi": ["64", "52", "70", "48"],
+    "c": 0,
+    "exp": "Divisible by 8 → 78y divisible by 8 → y_min = 4 (784/8=98). Sum for 9 = 49+x must be multiple of 9 → x=5. 8x+6y = 40+24 = 64.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "Find the missing term in the given series: Z, X, U, P, I, X, ?",
+    "hi": "दी गई श्रृंखला में लुप्त पद ज्ञात कीजिए: Z, X, U, P, I, X, ?",
+    "oEn": ["L", "K", "J", "M"],
+    "oHi": ["L", "K", "J", "M"],
+    "c": 1,
+    "exp": "Subtract consecutive primes: Z(26)-2=X(24); X-3=U(21); U-5=P(16); P-7=I(9); I-11=-2→X(24); X-13=K(11).",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "Find the next term in the series: EVB, HSD, LOF, QJH, WDJ, ?",
+    "hi": "श्रृंखला में अगला पद ज्ञात कीजिए: EVB, HSD, LOF, QJH, WDJ, ?",
+    "oEn": ["DWM", "CXK", "DWL", "EVL"],
+    "oHi": ["DWM", "CXK", "DWL", "EVL"],
+    "c": 2,
+    "exp": "First letters: +3,+4,+5,+6,+7 → E→H→L→Q→W→D. Second: opposite of first (E↔V, H↔S, L↔O, Q↔J, W↔D, D↔W). Third: +2 each (B,D,F,H,J,L). Next term: DWL.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "What will be the mirror image of a clock showing 7:25?",
+    "hi": "7:25 दर्शाने वाली घड़ी का दर्पण प्रतिबिंब क्या होगा?",
+    "oEn": ["4:35", "5:35", "4:25", "5:25"],
+    "oHi": ["4:35", "5:35", "4:25", "5:25"],
+    "c": 0,
+    "exp": "Mirror Image = 11:60 - Given Time = 11:60 - 7:25 = 4:35.",
+    "Pyq": "2022_CHSL"
+  },
+  {
+    "en": "At what time between 4 and 5 o'clock will the hands of a clock be at right angles?",
+    "hi": "4 और 5 बजे के बीच किस समय घड़ी की सुइयां समकोण पर होंगी?",
+    "oEn": ["4:38 2/11", "4:40 5/11", "4:35 5/11", "4:30 2/11"],
+    "oHi": ["4 बजकर 38 2/11 मिनट", "4 बजकर 40 5/11 मिनट", "4 बजकर 35 5/11 मिनट", "4 बजकर 30 2/11 मिनट"],
+    "c": 0,
+    "exp": "Right angle means 90°. Time = 2/11(30H + θ) = 2/11(30*4 + 90) = 2/11(210) = 420/11 = 38 2/11 minutes past 4.",
+    "Pyq": "2021_CGL_Mains"
+  },
+  {
+    "en": "If 'A # B' means 'A is the sister of B', 'A @ B' means 'A is the daughter of B', 'A & B' means 'A is the husband of B', and 'A % B' means 'A is the father of B', then how is V related to X in the expression: W @ X % Y # Z & V?",
+    "hi": "यदि 'A # B' का अर्थ 'A, B की बहन है', 'A @ B' का अर्थ 'A, B की पुत्री है', 'A & B' का अर्थ 'A, B का पति है', और 'A % B' का अर्थ 'A, B का पिता है', तो व्यंजक W @ X % Y # Z & V में V, X से किस प्रकार संबंधित है?",
+    "oEn": ["Daughter", "Daughter-in-law", "Sister-in-law", "Wife"],
+    "oHi": ["पुत्री", "पुत्रवधू (बहू)", "सिस्टर-इन-लॉ", "पत्नी"],
+    "c": 1,
+    "exp": "W @ X → W is daughter of X. X % Y → X is father of Y. Y # Z → Y is sister of Z. Z & V → Z is husband of V. This means X is the father of W, Y, and Z. Since Z is the son of X and married to V, V is the daughter-in-law of X.",
+    "Pyq": "2023_CGL_Mains"
+  },
+  {
+    "en": "In a family of 6 members A, B, C, D, E and F, there are two married couples. D is the grandmother of A and mother of B. C is the wife of B and mother of F. F is the granddaughter of E. How is E related to C?",
+    "hi": "6 सदस्यों A, B, C, D, E और F वाले एक परिवार में दो विवाहित जोड़े हैं। D, A की ग्रैंडमदर है और B की माता है। C, B की पत्नी है और F की माता है। F, E की ग्रैंडडॉटर है। E, C से किस प्रकार संबंधित है?",
+    "oEn": ["Father", "Father-in-law", "Brother-in-law", "Uncle"],
+    "oHi": ["पिता", "ससुर", "ब्रदर-इन-लॉ", "चाचा/मामा"],
+    "c": 1,
+    "exp": "D is the mother of B, and C is the wife of B (so B is male, C is female). D is the grandmother of A, and C is the mother of F. F is the granddaughter of E, which means E is the grandfather and married to D. Since B is the son of E and D, and C is B's wife, E is the father-in-law of C.",
+    "Pyq": "2022_CGL_Mains"
+  },
+  {
+    "en": "What was the day of the week on 26th January 1950?",
+    "hi": "26 जनवरी 1950 को सप्ताह का कौन सा दिन था?",
+    "oEn": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+    "oHi": ["मंगलवार", "बुधवार", "गुरुवार", "शुक्रवार"],
+    "c": 2,
+    "exp": "Odd days in 1900 = 1. In 49 years: 12 leap + 37 ordinary = (12*2) + 37 = 61 days = 5 odd days. In Jan 1950 (up to 26th) = 26 = 5 odd days. Total odd days = 1 + 5 + 5 = 11 = 4 odd days. 4 represents Thursday.",
+    "Pyq": "2021_CGL_Mains"
+  },
+  {
+    "en": "How many times does the 29th day of the month occur in 400 consecutive years?",
+    "hi": "लगातार 400 वर्षों में महीने का 29वां दिन कितनी बार आता है?",
+    "oEn": ["97", "4400", "4497", "4000"],
+    "oHi": ["97", "4400", "4497", "4000"],
+    "c": 2,
+    "exp": "In 1 year, the 29th day comes in 11 months (excluding February). So, in 400 years, it comes 400 * 11 = 4400 times. Additionally, 29th February comes 97 times in 400 years. Total = 4400 + 97 = 4497 times.",
+    "Pyq": "2020_CGL_Mains"
+  },
+  {
+    "en": "In a row of boys, A is 15th from the left and B is 22nd from the right. If they interchange their positions, A becomes 27th from the left. If C sits exactly in the middle of their new positions, what is C's position from the left end?",
+    "hi": "लड़कों की एक पंक्ति में, A बाएं से 15वें और B दाएं से 22वें स्थान पर है। यदि वे अपने स्थानों को आपस में बदलते हैं, तो A बाएं से 27वां हो जाता है। यदि C उनके नए स्थानों के ठीक मध्य में बैठता है, तो बाएं छोर से C का स्थान क्या है?",
+    "oEn": ["18th", "21st", "23rd", "25th"],
+    "oHi": ["18वां", "21वां", "23वां", "25वां"],
+    "c": 1,
+    "exp": "Old position of A = 15th from left. New position of A = 27th from left. B's new position takes A's old position, which is 15th from left. C sits exactly between 15th and 27th from left. Position of C = (15 + 27) / 2 = 21st from left.",
+    "Pyq": "2023_CGL_Mains"
+  },
+  {
+    "en": "In a row of students, Manoj is 23rd from the right end and Sameer is 28th from the left end. If there are 12 students sitting between them, what is the minimum possible number of students in this row?",
+    "hi": "छात्रों की एक पंक्ति में, मनोज दाएं छोर से 23वें और समीर बाएं छोर से 28वें स्थान पर हैं। यदि उनके बीच 12 छात्र बैठे हैं, तो इस पंक्ति में छात्रों की न्यूनतम संभावित संख्या क्या है?",
+    "oEn": ["63", "51", "37", "39"],
+    "oHi": ["63", "51", "37", "39"],
+    "c": 2,
+    "exp": "For minimum students (overlapping case): Total = Left + Right - Between - 2 = 28 + 23 - 12 - 2 = 37.",
+    "Pyq": "2022_CGL_Mains"
+  },
+  {
+    "en": "Select the Venn diagram from the options that best represents the relationship among: Living Beings, Animals, Mammals.",
+    "hi": "विकल्पों में से उस वेन आरेख का चयन करें जो इनके बीच के संबंध को सबसे अच्छी तरह दर्शाता है: जीवित प्राणी (Living Beings), पशु (Animals), स्तनधारी (Mammals)।",
+    "image_url": "SSC2026/CGL_MAINS_RES_01_2.jpg",
+    "oEn": ["Diagram A", "Diagram B", "Diagram C", "Diagram D"],
+    "oHi": ["आरेख A", "आरेख B", "आरेख C", "आरेख D"],
+    "c": 3,
+    "exp": "Every Mammal is an Animal and every Animal is a Living Being. Thus, Mammals are completely contained within Animals, and Animals are completely contained within Living Beings. Diagram D correctly shows three concentric circles representing this hierarchy.",
+    "Pyq": "Non_PYQ_CGL_Mains"
+  },
+  {
+    "en": "Statements:\nOnly a few doctors are engineers.\nAll engineers are scientists.\nNo scientist is an artist.\n\nConclusions:\nI. Some doctors are not artists.\nII. All doctors being artists is a possibility.\nIII. All engineers being doctors is a possibility.",
+    "hi": "कथन:\nकेवल कुछ डॉक्टर, इंजीनियर हैं।\nसभी इंजीनियर, वैज्ञानिक हैं।\nकोई वैज्ञानिक, कलाकार नहीं है।\n\nनिष्कर्ष:\nI. कुछ डॉक्टर, कलाकार नहीं हैं।\nII. सभी डॉक्टरों के कलाकार होने की एक संभावना है।\nIII. सभी इंजीनियरों के डॉक्टर होने की एक संभावना है।",
+    "oEn": ["Only I follows", "Only I and II follow", "Only I and III follow", "All I, II and III follow"],
+    "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल I और II अनुसरण करते हैं", "केवल I और III अनुसरण करते हैं", "सभी I, II और III अनुसरण करते हैं"],
+    "c": 2,
+    "exp": "I: Some doctors are engineers → those doctors are scientists → not artists, so some doctors are not artists (true). II: Some doctors are already engineers, so they cannot be artists, hence all doctors can never be artists (false). III: Only a few doctors are engineers does not restrict all engineers from being doctors; possibility exists (true). Only I and III follow.",
+    "Pyq": "2023_CGL_Mains"
+  },
+  {
+    "en": "Statements:\nAll circles are squares.\nOnly a few squares are triangles.\nNo triangle is a hexagon.\n\nConclusions:\nI. All circles being triangles is a possibility.\nII. Some squares are definitely not hexagons.",
+    "hi": "कथन:\nसभी वृत्त, वर्ग हैं।\nकेवल कुछ वर्ग, त्रिभुज हैं।\nकोई त्रिभुज, षट्भुज (hexagon) नहीं है।\n\nनिष्कर्ष:\nI. सभी वृत्तों के त्रिभुज होने की एक संभावना है।\nII. कुछ वर्ग निश्चित रूप से षट्भुज नहीं हैं।",
+    "oEn": ["Only conclusion I follows", "Only conclusion II follows", "Both conclusions I and II follow", "Neither conclusion I nor II follows"],
+    "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल निष्कर्ष II अनुसरण करता है", "निष्कर्ष I और II दोनों अनुसरण करते हैं", "न तो निष्कर्ष I और न ही II अनुसरण करता है"],
+    "c": 2,
+    "exp": "I: Circles are squares; squares have a triangle part. All circles can be placed inside that triangle part, so possibility true. II: Some squares are triangles, and no triangle is a hexagon, so those squares are definitely not hexagons. Both follow.",
+    "Pyq": "2022_CGL_Mains"
+  },
+  {
+    "en": "If 'A $ B' means 'A is 5 m North of B', 'A # B' means 'A is 12 m East of B', 'A % B' means 'A is 29 m South of B', and 'A @ B' means 'A is 5 m West of B', then what is the shortest distance and direction of A with respect to E in the expression: A $ B # C % D @ E?",
+    "hi": "यदि 'A $ B' का अर्थ 'A, B के 5 मीटर उत्तर में है', 'A # B' का अर्थ 'A, B के 12 मीटर पूर्व में है', 'A % B' का अर्थ 'A, B के 29 मीटर दक्षिण में है', और 'A @ B' का अर्थ 'A, B के 5 मीटर पश्चिम में है', तो व्यंजक A $ B # C % D @ E में E के संदर्भ में A की न्यूनतम दूरी और दिशा क्या है?",
+    "oEn": ["13 m, South-East", "25 m, South-East", "25 m, South-West", "13 m, South-West"],
+    "oHi": ["13 मीटर, दक्षिण-पूर्व", "25 मीटर, दक्षिण-पूर्व", "25 मीटर, दक्षिण-पश्चिम", "13 मीटर, दक्षिण-पश्चिम"],
+    "c": 1,
+    "exp": "Let E be (0,0). D @ E → D = (-5,0). C % D → C = (-5,-29). B # C → B = (7,-29). A $ B → A = (7,-24). A is 7 m East, 24 m South of E. Distance = sqrt(7^2+24^2) = 25 m, direction South-East.",
+    "Pyq": "2023_CGL_Mains"
+  },
+  {
+    "en": "A man is facing North-West. He turns 90° clockwise, then 180° counter-clockwise, and then another 135° clockwise. After this, he walks 10 m straight, turns to his left and walks 24 m. What is the shortest distance from his starting point?",
+    "hi": "एक व्यक्ति का मुख उत्तर-पश्चिम की ओर है। वह 90° दक्षिणावर्त (clockwise) मुड़ता है, फिर 180° वामावर्त (counter-clockwise) मुड़ता है, और फिर 135° दक्षिणावर्त मुड़ता है। इसके बाद, वह 10 मीटर सीधा चलता है, अपने बाईं ओर मुड़ता है और 24 मीटर चलता है। उसके प्रारंभिक बिंदु से न्यूनतम दूरी क्या है?",
+    "oEn": ["34 m", "14 m", "26 m", "25 m"],
+    "oHi": ["34 मीटर", "14 मीटर", "26 मीटर", "25 मीटर"],
+    "c": 2,
+    "exp": "Net turn = +90° -180° +135° = +45° (clockwise). Initial NW +45° = North. Walks 10 m North, turns left (West) 24 m. Distance = sqrt(10^2+24^2) = 26 m.",
+    "Pyq": "2022_CGL_Mains"
+  },
+  {
+    "en": "Two different positions of the same dice are shown below. The numbers visible in the first position are 2, 4 and 5, while in the second position the visible numbers are 1, 6 and 3. Which number is on the face opposite to 2?",
+    "hi": "नीचे एक ही पासे की दो अलग-अलग स्थितियाँ दिखाई गई हैं। पहली स्थिति में 2, 4 और 5 दिखाई दे रहे हैं, जबकि दूसरी स्थिति में 1, 6 और 3 दिखाई दे रहे हैं। 2 के विपरीत फलक पर कौन-सी संख्या होगी?",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_2.jpg",
+    "oEn": ["1", "3", "6", "5"],
+    "oHi": ["1", "3", "6", "5"],
+    "c": 3,
+    "exp": "In the first view, the visible faces are 2, 4 and 5. In the second view, the visible faces are 1, 6 and 3. Since no face is common between the two views, the three faces in one view must be opposite to the corresponding three faces in the other view. Therefore, the face opposite to 2 is 6, opposite to 4 is 3, and opposite to 5 is 1. Hence, the number opposite to 2 is 6.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "In the given paper folding problem, figure X shows a square sheet folded along the dotted horizontal line and then figure Y shows a second fold along the dotted vertical line. In figure Z, a cut is made on the folded sheet. Select the figure that will be obtained when the sheet is completely unfolded.",
+    "hi": "दिए गए कागज़ मोड़ने के प्रश्न में, आकृति X में वर्गाकार कागज़ को बिंदीदार क्षैतिज रेखा के अनुसार मोड़ा गया है तथा आकृति Y में उसे बिंदीदार ऊर्ध्वाधर रेखा के अनुसार पुनः मोड़ा गया है। आकृति Z में मुड़े हुए कागज़ पर एक कट लगाया गया है। कागज़ को पूरी तरह खोलने पर कौन-सी आकृति प्राप्त होगी?",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_18.jpg",
+    "oEn": ["Figure (1)", "Figure (2)", "Figure (3)", "Figure (4)"],
+    "oHi": ["आकृति (1)", "आकृति (2)", "आकृति (3)", "आकृति (4)"],
+    "c": 2,
+    "exp": "The sheet is first folded horizontally and then vertically, resulting in four layers. The cut made in figure Z is reflected across both fold lines when the sheet is unfolded. This produces a four-sided symmetric pattern with inward indentations toward the center. Among the given options, Figure (3) correctly represents the unfolded shape.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "Three of the following figures are alike in a certain way and one is different. Select the odd figure.",
+    "hi": "निम्नलिखित आकृतियों में से तीन किसी प्रकार से समान हैं और एक भिन्न है। विषम (Odd) आकृति का चयन कीजिए।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_22.jpg",
+    "oEn": ["Figure (A)", "Figure (B)", "Figure (C)", "Figure (D)"],
+    "oHi": ["आकृति (A)", "आकृति (B)", "आकृति (C)", "आकृति (D)"],
+    "c": 2,
+    "exp": "In figures (A), (B), and (D), the two inner shapes are different from each other (Circle–Square, Square–Triangle, Parallelogram–Circle). However, in figure (C), both inner shapes are triangles and are identical. Therefore, figure (C) is the odd one out.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "Select the figure from the answer figures that will continue the same pattern as shown in the question figures.",
+    "hi": "उत्तर आकृतियों में से उस आकृति का चयन कीजिए जो प्रश्न आकृतियों में दिए गए क्रम को आगे बढ़ाती है।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_27.jpg",
+    "oEn": ["Figure (1)", "Figure (2)", "Figure (3)", "Figure (4)"],
+    "oHi": ["आकृति (1)", "आकृति (2)", "आकृति (3)", "आकृति (4)"],
+    "c": 0,
+    "exp": "From figure (a) to (b), all four symbols move one position clockwise. The same clockwise shift occurs from (b) to (c). Applying the rule once more to figure (c), the top-left symbol becomes the angle shape, the top-right becomes the triangle, the bottom-left becomes the circle, and the bottom-right becomes the square. This arrangement matches Figure (1).",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "How many squares are present in the given figure?",
+    "hi": "दी गई आकृति में कुल कितने वर्ग (Squares) हैं?",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_33.jpg",
+    "oEn": ["8", "9", "10", "11"],
+    "oHi": ["8", "9", "10", "11"],
+    "c": 1,
+    "exp": "The figure consists of one large outer square, one tilted square inside it, and several smaller squares formed by the intersections of the diagonals and the tilted square. Counting all possible squares of different sizes gives a total of 9 squares.",
+    "Pyq": "2025_Trend_Based"
+  }
+]
