@@ -1,0 +1,232 @@
+[
+  {
+    "en": "In a certain code language:\n'sky is clear blue' is written as 'di ra ga pi'\n'blue paint is expensive' is written as 'ga zo pi we'\n'clear sky looks beautiful' is written as 'di ra mi tc'\n'paint matches wall' is written as 'zo cu kx'\nWhat is the code for 'expensive'?",
+    "hi": "एक निश्चित कूट भाषा में:\n'sky is clear blue' को 'di ra ga pi' लिखा जाता है\n'blue paint is expensive' को 'ga zo pi we' लिखा जाता है\n'clear sky looks beautiful' को 'di ra mi tc' लिखा जाता है\n'paint matches wall' को 'zo cu kx' लिखा जाता है\n'expensive' के लिए कूट क्या है?",
+    "oEn": ["ga", "pi", "zo", "we"],
+    "oHi": ["ga", "pi", "zo", "we"],
+    "c": 3,
+    "exp": "From sentences 1&2: 'blue'/'is' → ga/pi. Sentences 2&4: 'paint' → zo. Sentence 2 remaining: 'expensive' → we.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "In a certain code language, 'CABLE' is coded as 'EDGSP'. How will 'SHIRT' be coded in that language?",
+    "hi": "एक निश्चित कूट भाषा में, 'CABLE' को 'EDGSP' के रूप में कूटबद्ध किया जाता है। उसी भाषा में 'SHIRT' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["UKNYE", "TKMXD", "VLOZF", "UKNXD"],
+    "oHi": ["UKNYE", "TKMXD", "VLOZF", "UKNXD"],
+    "c": 0,
+    "exp": "Shift each letter by consecutive primes: +2,+3,+5,+7,+11. SHIRT: S+2=U, H+3=K, I+5=N, R+7=Y, T+11=31→5=E → UKNYE.",
+    "Pyq": "2024_MTS"
+  },
+  {
+    "en": "Find the next term in the series: 4B, 12D, 28G, 60K, ?",
+    "hi": "श्रृंखला में अगला पद ज्ञात कीजिए: 4B, 12D, 28G, 60K, ?",
+    "oEn": ["124P", "120O", "124Q", "128P"],
+    "oHi": ["124P", "120O", "124Q", "128P"],
+    "c": 0,
+    "exp": "Logic: 1. Numbers: (×2)+4: 4×2+4=12; 12×2+4=28; 28×2+4=60; 60×2+4=124. 2. Letters: +2,+3,+4,+5: B(2)→D(4)→G(7)→K(11)→P(16). Next term: 124P.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "Find the next term in the series: Y25B, V22E, P16K, M13N, ?",
+    "hi": "श्रृंखला में अगला पद ज्ञात कीजिए: Y25B, V22E, P16K, M13N, ?",
+    "oEn": ["G7T", "H8S", "G7S", "F6U"],
+    "oHi": ["G7T", "H8S", "G7S", "F6U"],
+    "c": 0,
+    "exp": "Logic: 1. First letters: -3, -6, -3, -6: Y(25)→V(22)→P(16)→M(13)→G(7). 2. Middle numbers: first letter's positional value (Y=25, V=22, P=16, M=13, G=7). 3. Last letters: opposites of first (sum 27): Y↔B, V↔E, P↔K, M↔N, G↔T. Next term: G7T.",
+    "Pyq": "2024_MTS"
+  },
+  {
+    "en": "A fraction becomes 4/5 when 1 is added to its numerator. If 1 is subtracted from its denominator, it becomes 3/4. Find the original fraction.",
+    "hi": "एक भिन्न के अंश में 1 जोड़ने पर वह 4/5 हो जाती है। यदि उसके हर में से 1 घटा दिया जाए, तो वह 3/4 हो जाती है। मूल भिन्न ज्ञात कीजिए।",
+    "oEn": ["3/5", "4/7", "2/5", "5/8"],
+    "oHi": ["3/5", "4/7", "2/5", "5/8"],
+    "c": 0,
+    "exp": "(x+1)/y = 4/5 → 5x+5=4y; x/(y-1)=3/4 → 4x=3y-3. Solving gives x=3, y=5.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "How many three-digit numbers are there which leave a remainder of 4 when divided by both 5 and 7?",
+    "hi": "ऐसी कितनी तीन-अंकीय संख्याएँ हैं जिन्हें 5 और 7 दोनों से विभाजित करने पर 4 शेषफल बचता है?",
+    "oEn": ["26", "25", "27", "24"],
+    "oHi": ["26", "25", "27", "24"],
+    "c": 0,
+    "exp": "Form: 35k+4. 100 ≤ 35k+4 ≤ 999 → k=3 to 28 → count = 26.",
+    "Pyq": "2024_MTS"
+  },
+  {
+    "en": "Identify the next letter in the prime-position series: B, C, E, G, K, M, Q, S, ?",
+    "hi": "अभाज्य-स्थान श्रृंखला में अगला अक्षर पहचानें: B, C, E, G, K, M, Q, S, ?",
+    "oEn": ["U", "V", "T", "W"],
+    "oHi": ["U", "V", "T", "W"],
+    "c": 3,
+    "exp": "Letters at prime positions: 2=B,3=C,5=E,7=G,11=K,13=M,17=Q,19=S, next prime 23=W.",
+    "Pyq": "2024_CPO"
+  },
+  {
+    "en": "Find the missing term in the sequence: XFD, UHG, RJK, OLP, ?",
+    "hi": "श्रृंखला में लुप्त पद ज्ञात कीजिए: XFD, UHG, RJK, OLP, ?",
+    "oEn": ["LNU", "LNV", "LMW", "MMV"],
+    "oHi": ["LNU", "LNV", "LMW", "MMV"],
+    "c": 1,
+    "exp": "First letters: -3 (X,U,R,O,L). Second: +2 (F,H,J,L,N). Third: +3,+4,+5,+6 (D→G→K→P→V). Next term: LNV.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "What is the reflex angle between the hands of a clock at 10:25?",
+    "hi": "10:25 बजे घड़ी की सुइयों के बीच का प्रतिवर्ती (Reflex) कोण क्या होगा?",
+    "oEn": ["162.5°", "197.5°", "185.5°", "202.5°"],
+    "oHi": ["162.5°", "197.5°", "185.5°", "202.5°"],
+    "c": 1,
+    "exp": "Internal Angle = |30(10) - 5.5(25)| = |300 - 137.5| = 162.5°. Reflex Angle = 360° - 162.5° = 197.5°.",
+    "Pyq": "2021_CHSL"
+  },
+  {
+    "en": "A watch which gains 5 seconds in 3 minutes was set right at 7 AM. What will be the true time when the watch indicates 4:15 PM on the same day?",
+    "hi": "एक घड़ी जो 3 मिनट में 5 सेकंड तेज हो जाती है, उसे सुबह 7 बजे सही समय पर सेट किया गया। जब घड़ी उसी दिन दोपहर 4:15 बजे का समय दिखाएगी, तो सही समय क्या होगा?",
+    "oEn": ["4:00 PM", "4:30 PM", "3:45 PM", "4:10 PM"],
+    "oHi": ["शाम 4:00 बजे", "शाम 4:30 बजे", "दोपहर 3:45 बजे", "शाम 4:10 बजे"],
+    "c": 0,
+    "exp": "Time from 7 AM to 4:15 PM = 9 hrs 15 mins = 37/4 hours. Watch gains 5 sec in 3 mins = 100 sec in 60 mins = 5/3 mins per hour. Incorrect watch moves 61 2/3 mins (185/3 mins) for every 60 mins correct. (185/3) mins incorrect = 60 mins correct. 37/4 hrs (555 mins) incorrect = 60 * 3/185 * 555 = 540 mins = 9 hrs correct. Correct time = 7 AM + 9 hrs = 4:00 PM.",
+    "Pyq": "2020_CGL_Mains"
+  },
+  {
+    "en": "Pointing to a man in a photograph, Kirti said, \"His brother's father is the only son of my grandfather.\" How is Kirti related to the man in the photograph?",
+    "hi": "एक तस्वीर में एक व्यक्ति की ओर इशारा करते हुए कीर्ति ने कहा, \"उसके भाई के पिता मेरे दादा के इकलौते पुत्र हैं।\" कीर्ति का तस्वीर वाले व्यक्ति से क्या संबंध है?",
+    "oEn": ["Sister", "Mother", "Daughter", "Aunt"],
+    "oHi": ["बहन", "माता", "पुत्री", "चाची/बुआ"],
+    "c": 0,
+    "exp": "\"The only son of my grandfather\" means Kirti's father. \"His brother's father\" means the man's own father. Thus, the man's father is Kirti's father, which means Kirti is the man's sister.",
+    "Pyq": "2021_CGL_Tier1"
+  },
+  {
+    "en": "If 'M + N' means 'M is the son of N', 'M - N' means 'M is the wife of N', 'M × N' means 'M is the brother of N', and 'M ÷ N' means 'M is the mother of N', then what does 'P ÷ Q × R + S' mean?",
+    "hi": "यदि 'M + N' का अर्थ 'M, N का पुत्र है', 'M - N' का अर्थ 'M, N की पत्नी है', 'M × N' का अर्थ 'M, N का भाई है', और 'M ÷ N' का अर्थ 'M, N की माता है', तो 'P ÷ Q × R + S' का क्या अर्थ है?",
+    "oEn": ["P is the wife of S", "S is the father of Q", "P is the daughter of S", "Q is the son of S"],
+    "oHi": ["P, S की पत्नी है", "S, Q का पिता है", "P, S की पुत्री है", "Q, S का पुत्र है"],
+    "c": 1,
+    "exp": "R + S means R is the son of S. Q × R means Q is the brother of R (so Q is also the son of S). P ÷ Q means P is the mother of Q. Since P is the mother and Q is the son of S, S must be the father of Q.",
+    "Pyq": "2023_CGL_Mains"
+  },
+  {
+    "en": "If 17th September of a certain year is a Saturday, what day of the week will be 22nd December of the same year?",
+    "hi": "यदि किसी निश्चित वर्ष का 17 सितंबर शनिवार है, तो उसी वर्ष 22 दिसंबर को सप्ताह का कौन सा दिन होगा?",
+    "oEn": ["Wednesday", "Thursday", "Friday", "Saturday"],
+    "oHi": ["बुधवार", "गुरुवार", "शुक्रवार", "शनिवार"],
+    "c": 1,
+    "exp": "Days remaining: Sep(30-17=13)->6, Oct(31)->3, Nov(30)->2, Dec(22)->1. Total odd days = 6+3+2+1 = 12 = 5 odd days. Saturday + 5 days = Thursday.",
+    "Pyq": "2021_CGL_Mains"
+  },
+  {
+    "en": "If it was Monday on 1st January 2007, what day of the week was it on 31st December 2007?",
+    "hi": "यदि 1 जनवरी 2007 को सोमवार था, तो 31 दिसंबर 2007 को सप्ताह का कौन सा दिन था?",
+    "oEn": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+    "oHi": ["रविवार", "सोमवार", "मंगलवार", "बुधवार"],
+    "c": 1,
+    "exp": "2007 is a normal year. A normal year starts and ends on the exact same day of the week. Therefore, 31st December 2007 was also a Monday.",
+    "Pyq": "2023_MTS"
+  },
+  {
+    "en": "In a class of 80 students, Mayank is ranked 25th from the top. Alok is ranked 12 ranks below Mayank. What is Alok's rank from the bottom?",
+    "hi": "80 छात्रों की एक कक्षा में, मयंक का स्थान ऊपर से 25वां है। आलोक का स्थान मयंक से 12 स्थान नीचे है। नीचे से आलोक का स्थान क्या है?",
+    "oEn": ["43rd", "44th", "45th", "46th"],
+    "oHi": ["43वां", "44वां", "45वां", "46वां"],
+    "c": 1,
+    "exp": "Alok's rank from top = 25 + 12 = 37th. Alok's rank from bottom = Total - Top + 1 = 80 - 37 + 1 = 44th.",
+    "Pyq": "2020_CHSL"
+  },
+  {
+    "en": "In a row of girls, Seema is 9th from the left and Tina is 16th from the right. If they interchange their positions, Seema becomes 22nd from the left. How many total girls are there in the row?",
+    "hi": "लड़कियों की एक पंक्ति में, सीमा बाएं से 9वें और टीना दाएं से 16वें स्थान पर हैं। यदि वे अपने स्थानों को आपस में बदलते हैं, तो सीमा बाएं से 22वीं हो जाती है। पंक्ति में कुल कितनी लड़कियां हैं?",
+    "oEn": ["36", "37", "38", "39"],
+    "oHi": ["36", "37", "38", "39"],
+    "c": 1,
+    "exp": "Total = Seema's new left position + Tina's old right position - 1 = 22 + 16 - 1 = 37.",
+    "Pyq": "2022_CHSL_Tier2"
+  },
+  {
+    "en": "Select the Venn diagram from the options that best represents the relationship among: Lawyers, Judges, Doctors (Note: Some Judges are Lawyers, but no Doctor is either a Lawyer or a Judge).",
+    "hi": "विकल्पों में से उस वेन आरेख का चयन करें जो इनके बीच के संबंध को सबसे अच्छी तरह दर्शाता है: वकील (Lawyers), न्यायाधीश (Judges), डॉक्टर (Doctors) (मान लें कि कुछ न्यायाधीश वकील हैं, लेकिन कोई भी डॉक्टर न तो वकील है और न ही न्यायाधीश)।",
+    "image_url": "SSC2026/CGL_MAINS_RES_01_3.jpg",
+    "oEn": ["Diagram A", "Diagram B", "Diagram C", "Diagram D"],
+    "oHi": ["आरेख A", "आरेख B", "आरेख C", "आरेख D"],
+    "c": 3,
+    "exp": "Lawyers and Judges partially overlap because some Judges are Lawyers. Doctors are completely separate from both groups. Hence, the correct representation is two intersecting circles and one disjoint circle, i.e., Diagram D.",
+    "Pyq": "2024_CGL_Mains"
+  },
+  {
+    "en": "Statements:\nOnly a few bottles are glasses.\nNo glass is a bowl.\nNo bowl is a plate.\n\nConclusions:\nI. Some bottles are not bowls.\nII. All bowls being bottles is a possibility.",
+    "hi": "कथन:\nकेवल कुछ बोतलें, गिलास हैं।\nकोई गिलास, कटोरा नहीं है।\nकोई कटोरा, प्लेट नहीं है।\n\nनिष्कर्ष:\nI. कुछ बोतलें, कटोरे नहीं हैं।\nII. सभी कटोरों के बोतल होने की एक संभावना है।",
+    "oEn": ["Only conclusion I follows", "Only conclusion II follows", "Both conclusions I and II follow", "Neither conclusion I nor II follows"],
+    "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल निष्कर्ष II अनुसरण करता है", "निष्कर्ष I और II दोनों अनुसरण करते हैं", "न तो निष्कर्ष I और न ही II अनुसरण करता है"],
+    "c": 2,
+    "exp": "I: Bottles that are glasses are not bowls, so some bottles are not bowls. True. II: Bowls have no restriction with bottles (only with glass and plate). So all bowls can be placed in the non-glass part of bottles. Possibility true.",
+    "Pyq": "2023_CGL_Mains"
+  },
+  {
+    "en": "Statements:\nAll gold are platinum.\nNo platinum is silver.\nOnly a few silver are diamonds.\n\nConclusions:\nI. No gold is silver.\nII. All diamonds can never be platinum.",
+    "hi": "कथन:\nसभी सोना, प्लैटिनम हैं।\nकोई प्लैटिनम, चांदी नहीं है।\nकेवल कुछ चांदी, हीरे हैं।\n\nनिष्कर्ष:\nI. कोई सोना, चांदी नहीं है।\nII. सभी हीरे कभी भी प्लैटिनम नहीं हो सकते।",
+    "oEn": ["Only conclusion I follows", "Only conclusion II follows", "Both conclusions I and II follow", "Neither conclusion I nor II follows"],
+    "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल निष्कर्ष II अनुसरण करता है", "निष्कर्ष I और II दोनों अनुसरण करते हैं", "न तो निष्कर्ष I और न ही II अनुसरण करता है"],
+    "c": 2,
+    "exp": "I: Gold ⊆ platinum, platinum ∩ silver = ∅, so gold ∩ silver = ∅. True. II: Some diamonds are silver, and silver cannot be platinum, so those diamonds cannot be platinum. Hence all diamonds being platinum is impossible. True.",
+    "Pyq": "2022_CGL_Mains"
+  },
+  {
+    "en": "Two trucks X and Y start from the same warehouse. Truck X goes 80 km North, then turns Left and travels 30 km. Truck Y goes 60 km West, then turns Right and travels 40 km. What is the shortest distance between the two trucks?",
+    "hi": "दो ट्रक X और Y एक ही गोदाम से चलना शुरू करते हैं। ट्रक X 80 किमी उत्तर की ओर जाता है, फिर बाएं मुड़ता है और 30 किमी यात्रा करता है। ट्रक Y 60 किमी पश्चिम की ओर जाता है, फिर दाएं मुड़ता है और 40 किमी यात्रा करता है। दोनों ट्रकों के बीच की न्यूनतम दूरी क्या है?",
+    "oEn": ["30 km", "50 km", "70 km", "60 km"],
+    "oHi": ["30 किमी", "50 किमी", "70 किमी", "60 किमी"],
+    "c": 1,
+    "exp": "X: N80 → (0,80); L(W)30 → (-30,80). Y: W60 → (-60,0); R(N)40 → (-60,40). Δx=30, Δy=40 → distance=50 km.",
+    "Pyq": "2020_CHSL"
+  },
+  {
+    "en": "If 'A @ B' means 'A is 10 m South of B', 'A # B' means 'A is 24 m West of B', 'A $ B' means 'A is 22 m North of B', and 'A % B' means 'A is 15 m East of B', what is the shortest distance and direction of P with respect to T in the expression: P $ Q % R @ S # T?",
+    "hi": "यदि 'A @ B' का अर्थ 'A, B के 10 मीटर दक्षिण में है', 'A # B' का अर्थ 'A, B के 24 मीटर पश्चिम में है', 'A $ B' का अर्थ 'A, B के 22 मीटर उत्तर में है', और 'A % B' का अर्थ 'A, B के 15 मीटर पूर्व में है', तो व्यंजक P $ Q % R @ S # T में T के संदर्भ में P की न्यूनतम दूरी और दिशा क्या है?",
+    "oEn": ["15 m, North-West", "25 m, North-West", "15 m, North-East", "25 m, South-West"],
+    "oHi": ["15 मीटर, उत्तर-पश्चिम", "25 मीटर, उत्तर-पश्चिम", "15 मीटर, उत्तर-पूर्व", "25 मीटर, दक्षिण-पश्चिम"],
+    "c": 0,
+    "exp": "T(0,0): S # T → S=(-24,0). R @ S → R=(-24,-10). Q % R → Q=(-9,-10). P $ Q → P=(-9,12). P is 9 W, 12 N of T → distance=15 m, NW.",
+    "Pyq": "2023_CGL_Mains"
+  },
+  {
+    "en": "Select the answer figure that represents the water image of the given question figure with respect to the line XY.",
+    "hi": "XY रेखा के सापेक्ष दी गई प्रश्न आकृति की जल-प्रतिबिंब (Water Image) को दर्शाने वाली उत्तर आकृति का चयन कीजिए।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_13.jpg",
+    "oEn": ["Figure (1)", "Figure (2)", "Figure (3)", "Figure (4)"],
+    "oHi": ["आकृति (1)", "आकृति (2)", "आकृति (3)", "आकृति (4)"],
+    "c": 1,
+    "exp": "In a water image, the figure is reflected vertically about the horizontal line XY. The arrow that originally points towards the upper-right appears towards the lower-right. The shaded corner at the top-left shifts to the bottom-left, while the shaded corner at the bottom-right shifts to the top-right. The curved branches are also reflected vertically. Therefore, Figure (2) is the correct water image.",
+    "Pyq": "2025_CGL_Tier2_Trend"
+  },
+  {
+    "en": "A transparent sheet containing the question figure is folded along the mirror line MN. Select the answer figure that correctly represents the mirror image of the given figure.",
+    "hi": "प्रश्न आकृति वाली पारदर्शी शीट को दर्पण रेखा MN के अनुसार मोड़ा जाता है। उस उत्तर आकृति का चयन कीजिए जो दी गई आकृति का सही दर्पण प्रतिबिंब दर्शाती है।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_17.jpg",
+    "oEn": ["Figure (1)", "Figure (2)", "Figure (3)", "Figure (4)"],
+    "oHi": ["आकृति (1)", "आकृति (2)", "आकृति (3)", "आकृति (4)"],
+    "c": 2,
+    "exp": "The mirror line MN is placed vertically on the right side of the figure. Therefore, the entire figure undergoes a left-right reversal. The inclined striped rectangle changes its slant direction, the arrow and circle shift to the opposite side, and the shaded portions inside the square appear in mirrored positions. Among the given options, Figure (3) correctly represents the mirror image.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "Three of the following figures are alike in a certain way and one is different. Select the odd figure.",
+    "hi": "निम्नलिखित आकृतियों में से तीन किसी प्रकार से समान हैं और एक भिन्न है। विषम (Odd) आकृति का चयन कीजिए।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_24.jpg",
+    "oEn": ["Figure (A)", "Figure (B)", "Figure (C)", "Figure (D)"],
+    "oHi": ["आकृति (A)", "आकृति (B)", "आकृति (C)", "आकृति (D)"],
+    "c": 3,
+    "exp": "In figures (A), (B), and (C), the innermost figure is the same as the outermost figure: Triangle–Circle–Triangle, Square–Triangle–Square, and Circle–Square–Circle. In figure (D), the outermost figure is a rectangle while the innermost figure is also a rectangle, but the middle figure (hexagon) does not continue the cyclic pattern followed by the first three figures. Hence, figure (D) is the odd one out.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "Select the figure from the answer figures that will replace the question mark (?) in the given analogy.",
+    "hi": "उत्तर आकृतियों में से उस आकृति का चयन कीजिए जो दिए गए सादृश्य (Analogy) में प्रश्नवाचक चिन्ह (?) का स्थान लेगी।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_31.jpg",
+    "oEn": ["Figure (A)", "Figure (B)", "Figure (C)", "Figure (D)"],
+    "oHi": ["आकृति (A)", "आकृति (B)", "आकृति (C)", "आकृति (D)"],
+    "c": 1,
+    "exp": "In the first pair, the square loses its bottom horizontal side while the diagonal and the two vertical sides remain. Simultaneously, the small circle shifts from the top-left corner to the top-right corner. Applying the same transformation to the third figure, the bottom connecting segment is removed and the circle moves from the lower-right end to the lower-left end. The resulting figure matches Figure (B).",
+    "Pyq": "2025_Trend_Based"
+  }
+]
