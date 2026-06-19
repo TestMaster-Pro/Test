@@ -1,0 +1,243 @@
+[
+  {
+    "en": "In a certain code language, 'TARGET' is coded as 'UXWWBJ'. How will 'SYSTEM' be coded in that language?",
+    "hi": "एक निश्चित कूट भाषा में, 'TARGET' को 'UXWWBJ' के रूप में कूटबद्ध किया जाता है। उसी भाषा में 'SYSTEM' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["VVVQBW", "UUVPBW", "VVVPBW", "WWVPBX"],
+    "oHi": ["VVVQBW", "UUVPBW", "VVVPBW", "WWVPBX"],
+    "c": 2,
+    "exp": "Divide word in half, reverse each, then apply +3, -3, +3 alternately. SYSTEM → SYS+MET → reverse: SYS, MET → shift: S(+3)=V, Y(-3)=V, S(+3)=V; M(+3)=P, E(-3)=B, T(+3)=W → VVVPBW.",
+    "Pyq": "2024_CPO"
+  },
+  {
+    "en": "In a certain code language, 'POET' is coded as '111557'. How will 'MIND' be coded in that language?",
+    "hi": "एक निश्चित कूट भाषा में, 'POET' को '111557' के रूप में कूटबद्ध किया जाता है। उसी भाषा में 'MIND' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["1491323", "139144", "1491304", "1391423"],
+    "oHi": ["1491323", "139144", "1491304", "1391423"],
+    "c": 0,
+    "exp": "Consonants → positional value of opposite letter; vowels → actual positional value. M(opp N=14), I(9), N(opp M=13), D(opp W=23) → 1491323.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "In the sequence: 9 B Z 7 A * M 2 O % L 4 E $ R 6 H # K 3 U. If all even-positioned elements are removed, which element will be 3rd to the left of the 2nd element from the right end in the new sequence?",
+    "hi": "श्रृंखला में: 9 B Z 7 A * M 2 O % L 4 E $ R 6 H # K 3 U। यदि सभी सम-स्थान (even-positioned) वाले तत्वों को हटा दिया जाए, तो नई श्रृंखला में दाएं छोर से दूसरे तत्व के बाएं से तीसरा तत्व कौन सा होगा?",
+    "oEn": ["L", "M", "E", "O"],
+    "oHi": ["L", "M", "E", "O"],
+    "c": 2,
+    "exp": "Even-positioned elements (2,4,6,...) are removed. Remaining sequence: 9, Z, A, M, O, L, E, R, H, K, U. The 2nd element from the right is K. Moving three places to the left of K: H (1st), R (2nd), E (3rd). Therefore, the required element is E.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "Find the missing term: J10Q, L24O, N42M, P64K, ?",
+    "hi": "लुप्त पद ज्ञात कीजिए: J10Q, L24O, N42M, P64K, ?",
+    "oEn": ["R90I", "R80I", "S90J", "Q90H"],
+    "oHi": ["R90I", "R80I", "S90J", "Q90H"],
+    "c": 0,
+    "exp": "Logic: 1. First letters: +2 (J,L,N,P,R). Last letters: -2 (Q,O,M,K,I). 2. Middle number = (first letter's position) × (term index): J(10)×1=10, L(12)×2=24, N(14)×3=42, P(16)×4=64, R(18)×5=90. Missing term: R90I.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "Find the unit digit of the expression: 1! + 2! + 3! + 4! + ... + 100!.",
+    "hi": "व्यंजक: 1! + 2! + 3! + 4! + ... + 100! का इकाई अंक ज्ञात कीजिए।",
+    "oEn": ["3", "1", "5", "7"],
+    "oHi": ["3", "1", "5", "7"],
+    "c": 0,
+    "exp": "5! and above end in 0. Sum of 1!+2!+3!+4! = 1+2+6+24 = 33 → unit digit 3.",
+    "Pyq": "2024_CPO"
+  },
+  {
+    "en": "Find the HCF of (2^{120} - 1) and (2^{140} - 1).",
+    "hi": "(2^{120} - 1) और (2^{140} - 1) का महत्तम समापवर्तक (HCF) ज्ञात कीजिए।",
+    "oEn": ["2^{20} - 1", "2^{10} - 1", "2^{40} - 1", "2^{2} - 1"],
+    "oHi": ["2^{20} - 1", "2^{10} - 1", "2^{40} - 1", "2^{2} - 1"],
+    "c": 0,
+    "exp": "HCF(a^m-1, a^n-1) = a^{HCF(m,n)}-1. HCF(120,140) = 20 → 2^{20} - 1.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "Find the next term in the series: FHK, KMO, RTV, YCG, FKS, ?",
+    "hi": "श्रृंखला में अगला पद ज्ञात कीजिए: FHK, KMO, RTV, YCG, FKS, ?",
+    "oEn": ["MUE", "MUF", "NUE", "MVF"],
+    "oHi": ["MUE", "MUF", "NUE", "MVF"],
+    "c": 0,
+    "exp": "First letters: F(6)→K(11)→R(18)→Y(25)→F(6)→M(13) with increments +5,+7,+7,+7,+7 (cyclic). Second letters: H(8)→M(13)→T(20)→C(3)→K(11)→U(21) (+5,+7,+9,+8,+10 cyclic progression). Third letters: K(11)→O(15)→V(22)→G(7)→S(19)→E(5) with forward jumps modulo 26. Hence the next term is MUE.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "What is the angle between the hands of a clock at 4:20?",
+    "hi": "4:20 बजे घड़ी की सुइयों के बीच का कोण क्या होगा?",
+    "oEn": ["0°", "10°", "20°", "15°"],
+    "oHi": ["0°", "10°", "20°", "15°"],
+    "c": 1,
+    "exp": "Angle = |30(4) - 5.5(20)| = |120 - 110| = 10°.",
+    "Pyq": "2024_Trend_Based"
+  },
+  {
+    "en": "At what time between 3 and 4 o'clock will the minute hand be 4 minutes behind the hour hand?",
+    "hi": "3 और 4 बजे के बीच किस समय मिनट की सूई घंटे की सूई से 4 मिनट पीछे होगी?",
+    "oEn": ["3:12", "3:15", "3:10", "3:14"],
+    "oHi": ["3:12", "3:15", "3:10", "3:14"],
+    "c": 0,
+    "exp": "4 minutes = 4 × 6° = 24°. Time = 2/11(30H - θ) = 2/11(30*3 - 24) = 2/11(90 - 24) = 2/11(66) = 12. So, 3:12.",
+    "Pyq": "2023_CGL_Mains"
+  },
+  {
+    "en": "A family consists of six members P, Q, R, S, T and U. There are three generations and two married couples. Q is a doctor and the father of T. U is a contractor and the grandfather of R. S is a housewife and grandmother of T. There is one doctor, one contractor, one housewife, one engineer, and two students in the family. If T is an engineer and sister of R, how is P related to R?",
+    "hi": "एक परिवार में छह सदस्य P, Q, R, S, T और U हैं। इसमें तीन पीढ़ियां और दो विवाहित जोड़े हैं। Q एक डॉक्टर है और T का पिता है। U एक ठेकेदार (contractor) है और R का ग्रैंडफादर है। S एक गृहणी (housewife) है और T की ग्रैंडमदर है। परिवार में एक डॉक्टर, एक ठेकेदार, एक गृहणी, एक इंजीनियर और दो छात्र हैं। यदि T एक इंजीनियर है और R की बहन है, तो P, R से किस प्रकार संबंधित है?",
+    "oEn": ["Mother", "Sister", "Aunt", "Daughter"],
+    "oHi": ["माता", "बहन", "चाची/मामी", "पुत्री"],
+    "c": 0,
+    "exp": "U (grandfather) is married to S (grandmother). They have a son Q (father of T and R). Q is married to P. Therefore, P must be the mother of T and R. Since T is the sister of R, P is the mother of R.",
+    "Pyq": "2020_CGL_Mains"
+  },
+  {
+    "en": "If 'X & Y' means 'X is the mother of Y', 'X $ Y' means 'X is the husband of Y', 'X # Y' means 'X is the sister of Y', and 'X @ Y' means 'X is the son of Y', then in the expression 'A @ B & C # D $ E', how is B related to E?",
+    "hi": "यदि 'X & Y' का अर्थ 'X, Y की माता है', 'X $ Y' का अर्थ 'X, Y का पति है', 'X # Y' का अर्थ 'X, Y की बहन है', और 'X @ Y' का अर्थ 'X, Y का पुत्र है', तो व्यंजक 'A @ B & C # D $ E' में B, E से किस प्रकार संबंधित है?",
+    "oEn": ["Mother", "Mother-in-law", "Aunt", "Sister-in-law"],
+    "oHi": ["माता", "सास", "चाची/बुआ", "सिस्टर-इन-लॉ"],
+    "c": 1,
+    "exp": "D $ E means D is the husband of E (E is the wife). C # D means C is the sister of D. B & C means B is the mother of C (so B is also the mother of D). Since B is the mother of husband D, B is the mother-in-law of E.",
+    "Pyq": "2023_CGL_Tier2"
+  },
+  {
+    "en": "If three days after today is Tuesday, what day of the week was four days before yesterday?",
+    "hi": "यदि आज के तीन दिन बाद मंगलवार है, तो कल से चार दिन पहले सप्ताह का कौन सा दिन था?",
+    "oEn": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+    "oHi": ["रविवार", "सोमवार", "मंगलवार", "बुधवार"],
+    "c": 1,
+    "exp": "Today + 3 days = Tuesday. Therefore, Today is Saturday. Yesterday was Friday. 4 days before Friday = Monday.",
+    "Pyq": "2023_CPO_Tier2"
+  },
+  {
+    "en": "On what dates of July 2004 did Monday fall?",
+    "hi": "जुलाई 2004 में सोमवार किन-किन तारीखों को पड़ा था?",
+    "oEn": ["4th, 11th, 18th, 25th", "5th, 12th, 19th, 26th", "6th, 13th, 20th, 27th", "3rd, 10th, 17th, 24th"],
+    "oHi": ["4, 11, 18, 25", "5, 12, 19, 26", "6, 13, 20, 27", "3, 10, 17, 24"],
+    "c": 1,
+    "exp": "Odd days till 2003: 2000=0, 3 yrs=3. Year 2004: Jan(3)+Feb(1)+Mar(3)+Apr(2)+May(3)+Jun(2) = 14 = 0 odd days. 1st July = Thursday. So Mondays fall on 5th, 12th, 19th, 26th.",
+    "Pyq": "2022_CHSL_Tier2"
+  },
+  {
+    "en": "In a final merit list, Rohit's rank is 12th from the top among passed students and 28th from the bottom among them. If 6 students failed the exam and 4 did not appear, how many total students were there in the class?",
+    "hi": "एक अंतिम योग्यता सूची में, उत्तीर्ण छात्रों में रोहित का स्थान ऊपर से 12वां और नीचे से 28वां है। यदि 6 छात्र परीक्षा में अनुत्तीर्ण रहे और 4 उपस्थित नहीं हुए, तो कक्षा में कुल कितने छात्र थे?",
+    "oEn": ["49", "48", "50", "45"],
+    "oHi": ["49", "48", "50", "45"],
+    "c": 0,
+    "exp": "Total passed students = 12 + 28 - 1 = 39. Total students in class = Passed + Failed + Absent = 39 + 6 + 4 = 49.",
+    "Pyq": "2019_CGL_Tier1"
+  },
+  {
+    "en": "Among six friends A, B, C, D, E, and F, A is taller than B but shorter than C. D is shorter than A but taller than B. E is taller than C, and F is the shortest. Who is the third tallest person?",
+    "hi": "छह मित्रों A, B, C, D, E और F में, A, B से लंबा है लेकिन C से छोटा है। D, A से छोटा है लेकिन B से लंबा है। E, C से लंबा है, और F सबसे छोटा है। तीसरा सबसे लंबा व्यक्ति कौन है?",
+    "oEn": ["C", "A", "D", "B"],
+    "oHi": ["C", "A", "D", "B"],
+    "c": 1,
+    "exp": "From given conditions: E > C > A. D is shorter than A but taller than B -> A > D > B. F is shortest. Combining all: E > C > A > D > B > F. The third tallest person is A.",
+    "Pyq": "2022_CHSL_Mains"
+  },
+  {
+    "en": "Select the Venn diagram from the options that best represents the relationship among: Mammals, Dogs, Pets (Note: All dogs are mammals, and some dogs are pets while some pets are not dogs.)",
+    "hi": "विकल्पों में से उस वेन आरेख का चयन करें जो इनके बीच के संबंध को सबसे अच्छी तरह दर्शाता है: स्तनधारी (Mammals), कुत्ते (Dogs), पालतू जानवर (Pets)। (सभी कुत्ते स्तनधारी हैं तथा कुछ कुत्ते पालतू हैं जबकि कुछ पालतू कुत्ते नहीं हैं।)",
+    "image_url": "SSC2026/CGL_MAINS_RES_01_1.jpg",
+    "oEn": ["Diagram A", "Diagram B", "Diagram C", "Diagram D"],
+    "oHi": ["आरेख A", "आरेख B", "आरेख C", "आरेख D"],
+    "c": 3,
+    "exp": "Dogs are completely inside Mammals. Pets overlap with Dogs because some dogs are pets, and Pets also extend outside Dogs because some pets are not dogs. This relationship is represented by Diagram D.",
+    "Pyq": "2024_CGL_Mains"
+  },
+  {
+    "en": "Statements:\nOnly a few pillows are cushions.\nOnly a few cushions are bedsheets.\nAll bedsheets are blankets.\n\nConclusions:\nI. Some pillows are blankets.\nII. No pillow is a blanket.",
+    "hi": "कथन:\nकेवल कुछ तकिए, कुशन हैं।\nकेवल कुछ कुशन, चादरें हैं।\nसभी चादरें, कंबल हैं।\n\nनिष्कर्ष:\nI. कुछ तकिए, कंबल हैं।\nII. कोई तकिया, कंबल नहीं है।",
+    "oEn": ["Only conclusion I follows", "Only conclusion II follows", "Either conclusion I or II follows", "Neither conclusion I nor II follows"],
+    "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल निष्कर्ष II अनुसरण करता है", "या तो निष्कर्ष I या II अनुसरण करता है", "न तो निष्कर्ष I और न ही II अनुसरण करता है"],
+    "c": 3,
+    "exp": "Only a few Pillows are Cushions means some Pillows are Cushions and some are not. Only a few Cushions are Bedsheets and all Bedsheets are Blankets. No definite relationship can be established between Pillows and Blankets. Therefore, neither 'Some Pillows are Blankets' nor 'No Pillow is a Blanket' follows.",
+    "Pyq": "2023_CGL_Mains"
+  },
+  {
+    "en": "Statements:\nAll rivers are seas.\nNo sea is an ocean.\nOnly a few oceans are lakes.\n\nConclusions:\nI. No river is an ocean.\nII. Some lakes are definitely not seas.",
+    "hi": "कथन:\nसभी नदियां, समुद्र हैं।\nकोई समुद्र, महासागर नहीं है।\nकेवल कुछ महासागर, झीलें हैं।\n\nनिष्कर्ष:\nI. कोई नदी, महासागर नहीं है।\nII. कुछ झीलें निश्चित रूप से समुद्र नहीं हैं।",
+    "oEn": ["Only conclusion I follows", "Only conclusion II follows", "Both conclusions I and II follow", "Neither conclusion I nor II follows"],
+    "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल निष्कर्ष II अनुसरण करता है", "निष्कर्ष I और II दोनों अनुसरण करते हैं", "न तो निष्कर्ष I और न ही II अनुसरण करता है"],
+    "c": 2,
+    "exp": "I: Rivers ⊆ seas, seas and oceans are disjoint, so rivers and oceans are disjoint. True. II: Some lakes are oceans (from only a few oceans are lakes), and oceans are not seas, so those lakes are not seas. True.",
+    "Pyq": "2022_CHSL_Mains"
+  },
+  {
+    "en": "A clock shows 4:30. If the minute hand points South-West, in which direction does the hour hand point?",
+    "hi": "एक घड़ी में 4:30 बजे हैं। यदि मिनट की सुई दक्षिण-पश्चिम की ओर इशारा करती है, तो घंटे की सुई किस दिशा की ओर इशारा करती है?",
+    "oEn": ["South-East", "West", "North-East", "South"],
+    "oHi": ["दक्षिण-पूर्व", "पश्चिम", "उत्तर-पूर्व", "दक्षिण"],
+    "c": 3,
+    "exp": "Normally minute=South, hour=SE. Rotating clock so minute points SW (45° CW) makes hour point South.",
+    "Pyq": "2020_CGL_Mains"
+  },
+  {
+    "en": "Point P is 10 m North of Point Q. Point Q is 14 m East of Point R. Point R is 4 m South of Point S. Point T is 6 m East of Point S. What is the shortest distance between P and T?",
+    "hi": "बिंदु P, बिंदु Q के 10 मीटर उत्तर में है। बिंदु Q, बिंदु R के 14 मीटर पूर्व में है। बिंदु R, बिंदु S के 4 मीटर दक्षिण में है। बिंदु T, बिंदु S के 6 मीटर पूर्व में है। P और T के बीच की न्यूनतम दूरी क्या है?",
+    "oEn": ["10 m", "12 m", "14 m", "8 m"],
+    "oHi": ["10 मीटर", "12 मीटर", "14 मीटर", "8 मीटर"],
+    "c": 0,
+    "exp": "R(0,0): Q(14,0), P(14,10), S(0,4), T(6,4). Distance P-T = sqrt(8^2+6^2) = 10 m.",
+    "Pyq": "2022_CHSL_Mains"
+  },
+  {
+    "en": "Three different views of the same dice are shown. The numbers visible on the three faces in each view are as follows: (1, 2, 3), (4, 3, 5), and (6, 5, 2). Which number is opposite to 3?",
+    "hi": "एक ही पासे (Dice) की तीन विभिन्न स्थितियाँ दिखाई गई हैं। प्रत्येक स्थिति में दिखाई देने वाली तीन सतहों पर क्रमशः संख्याएँ हैं: (1, 2, 3), (4, 3, 5), और (6, 5, 2)। संख्या 3 के विपरीत कौन-सी संख्या होगी?",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_5.jpg",
+    "oEn": ["1", "2", "5", "6"],
+    "oHi": ["1", "2", "5", "6"],
+    "c": 3,
+    "exp": "From the first view, 3 is adjacent to 1 and 2. From the second view, 3 is adjacent to 4 and 5. Thus, the four numbers adjacent to 3 are 1, 2, 4, and 5. A face on a cube has exactly four adjacent faces and one opposite face. Therefore, the only remaining number, 6, is opposite to 3.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "Select the answer figure in which the given question figure is embedded (rotation allowed, size unchanged).",
+    "hi": "उस उत्तर आकृति का चयन कीजिए जिसमें दी गई प्रश्न आकृति अंतर्निहित (embedded) है। (घुमाव की अनुमति है, आकार अपरिवर्तित रहेगा।)",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_8.jpg",
+    "oEn": ["Figure (a)", "Figure (b)", "Figure (c)", "Figure (d)"],
+    "oHi": ["आकृति (a)", "आकृति (b)", "आकृति (c)", "आकृति (d)"],
+    "c": 1,
+    "exp": "The question figure is a simple 'Z'-shaped structure consisting of two parallel horizontal segments connected by a diagonal line. On careful inspection, the complete figure can be traced exactly within Figure (b). The upper horizontal side, the central diagonal, and the lower horizontal segment appear in the same relative arrangement after rotation. The remaining options contain similar line segments but do not reproduce the exact 'Z' configuration.",
+    "Pyq": "2025_CGL_Tier2_Trend"
+  },
+  {
+    "en": "Select the answer figure that represents the water image of the given question figure with respect to the line XY.",
+    "hi": "XY रेखा के सापेक्ष दी गई प्रश्न आकृति की जल-प्रतिबिंब (Water Image) को दर्शाने वाली उत्तर आकृति का चयन कीजिए।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_11.jpg",
+    "oEn": ["Figure (1)", "Figure (2)", "Figure (3)", "Figure (4)"],
+    "oHi": ["आकृति (1)", "आकृति (2)", "आकृति (3)", "आकृति (4)"],
+    "c": 1,
+    "exp": "In a water image, the figure is reflected vertically about the horizontal line XY. The striped right-angled triangle shifts below the reflection line with its top and bottom positions interchanged. The small rectangular symbol above the triangle also appears below it after reflection while maintaining its left-right orientation. Only Figure (2) satisfies these conditions exactly.",
+    "Pyq": "2025_CGL_Tier2_Trend"
+  },
+  {
+    "en": "A transparent sheet containing the question figure is folded along the mirror line AB. Select the answer figure that correctly represents the mirror image of the given figure.",
+    "hi": "प्रश्न आकृति वाली पारदर्शी शीट को दर्पण रेखा AB के अनुसार मोड़ा जाता है। उस उत्तर आकृति का चयन कीजिए जो दी गई आकृति का सही दर्पण प्रतिबिंब दर्शाती है।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_15.jpg",
+    "oEn": ["Figure (1)", "Figure (2)", "Figure (3)", "Figure (4)"],
+    "oHi": ["आकृति (1)", "आकृति (2)", "आकृति (3)", "आकृति (4)"],
+    "c": 2,
+    "exp": "The mirror line AB is placed vertically on the right side of the figure. Therefore, the mirror image will be formed by reversing the figure from left to right. The zig-zag shape shifts to the opposite side, while the curved arrow and the circle also appear symmetrically reversed. Among the given options, only Figure (3) correctly represents this mirror image.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "In the given transparent sheet, the sheet is folded successively as shown in figures X and Y. Two diamond-shaped holes are punched in the folded sheet as shown in figure Z. Select the response figure that correctly represents the pattern obtained when the sheet is completely unfolded.",
+    "hi": "दिए गए पारदर्शी शीट में, शीट को आकृति X और Y में दर्शाए अनुसार क्रमशः मोड़ा जाता है। आकृति Z में मुड़ी हुई शीट पर दो हीरे (diamond) आकार के छेद बनाए गए हैं। शीट को पूरी तरह खोलने पर प्राप्त पैटर्न को दर्शाने वाली सही प्रतिक्रिया आकृति का चयन कीजिए।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_21.jpg",
+    "oEn": ["Figure (1)", "Figure (2)", "Figure (3)", "Figure (4)"],
+    "oHi": ["आकृति (1)", "आकृति (2)", "आकृति (3)", "आकृति (4)"],
+    "c": 2,
+    "exp": "The sheet is folded twice along vertical lines. The two diamond-shaped holes punched on the folded strip are replicated symmetrically across both fold lines when the sheet is unfolded. Thus, each punched hole produces four identical diamond shapes, giving a total of eight diamonds arranged in two horizontal rows. Among the given options, Figure (3) correctly represents the unfolded pattern.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "How many triangles are present in the given figure?",
+    "hi": "दी गई आकृति में कुल कितने त्रिभुज (Triangles) हैं?",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_34.jpg",
+    "oEn": ["12", "14", "16", "18"],
+    "oHi": ["12", "14", "16", "18"],
+    "c": 1,
+    "exp": "Count the triangles systematically by considering all possible sizes. First count the small triangles formed by the intersecting diagonal lines, then the medium-sized triangles formed by combining adjacent smaller triangles, and finally the largest triangles formed using the outer boundary. The total number of distinct triangles obtained is 14.",
+    "Pyq": "2025_Trend_Based"
+  }
+]
