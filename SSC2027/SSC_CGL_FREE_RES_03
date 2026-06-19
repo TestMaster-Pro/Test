@@ -1,0 +1,233 @@
+[
+  {
+    "en": "In a certain code language, 'CANDY' is coded as '6, 1, 28, 8, 50'. How will 'LOGIC' be coded in that language?",
+    "hi": "एक निश्चित कूट भाषा में, 'CANDY' को '6, 1, 28, 8, 50' के रूप में कूटबद्ध किया जाता है। उसी भाषा में 'LOGIC' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["24, 225, 14, 81, 6", "12, 15, 7, 9, 3", "24, 30, 14, 18, 6", "144, 225, 49, 81, 9"],
+    "oHi": ["24, 225, 14, 81, 6", "12, 15, 7, 9, 3", "24, 30, 14, 18, 6", "144, 225, 49, 81, 9"],
+    "c": 0,
+    "exp": "Consonants: positional value ×2; vowels: square of positional value. L(12×2=24), O(15²=225), G(7×2=14), I(9²=81), C(3×2=6).",
+    "Pyq": "2025_CHSL_Tier2"
+  },
+  {
+    "en": "In a certain code language, 'BUILD' is coded as 126. How will 'STORM' be coded in that language?",
+    "hi": "एक निश्चित कूट भाषा में, 'BUILD' को 126 के रूप में कूटबद्ध किया जाता है। उसी भाषा में 'STORM' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["175", "180", "185", "190"],
+    "oHi": ["175", "180", "185", "190"],
+    "c": 2,
+    "exp": "Logic: (Sum of vowels ×3) + (Sum of consonants ×2). STORM: vowels (O=15) ×3=45; consonants (S=19,T=20,R=18,M=13) sum=70 ×2=140. Total=185.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "Find the missing term: 2A3, 4E6, 8I12, 16O24, ?",
+    "hi": "लुप्त पद ज्ञात कीजिए: 2A3, 4E6, 8I12, 16O24, ?",
+    "oEn": ["32U48", "32U36", "24U48", "32V48"],
+    "oHi": ["32U48", "32U36", "24U48", "32V48"],
+    "c": 0,
+    "exp": "Logic: 1. First numbers: ×2 each step (2,4,8,16,32). 2. Middle letters: consecutive vowels A, E, I, O, U. 3. Last numbers: ×2 each step (3,6,12,24,48). Missing term: 32U48.",
+    "Pyq": "2024_CPO"
+  },
+  {
+    "en": "Find the next term in the series: CX6, EV10, GT14, IR18, ?",
+    "hi": "श्रृंखला में अगला पद ज्ञात कीजिए: CX6, EV10, GT14, IR18, ?",
+    "oEn": ["KP22", "KP20", "JQ22", "LO22"],
+    "oHi": ["KP22", "KP20", "JQ22", "LO22"],
+    "c": 0,
+    "exp": "Logic: 1. First two letters: opposite pairs, first letter +2: C(3)+2=E(5)+2=G(7)+2=I(9)+2=K(11). Opposite of K is P. 2. Numbers: first letter's positional value ×2: C(3)×2=6, E(5)×2=10, G(7)×2=14, I(9)×2=18, K(11)×2=22. Next term: KP22.",
+    "Pyq": "2025_CHSL_Tier2"
+  },
+  {
+    "en": "Find the remainder when 7^402 is divided by 100.",
+    "hi": "7^{402} को 100 से विभाजित करने पर शेषफल ज्ञात कीजिए।",
+    "oEn": ["49", "1", "99", "43"],
+    "oHi": ["49", "1", "99", "43"],
+    "c": 0,
+    "exp": "7^4 = 2401 ≡ 1 (mod 100). So 7^{402} = (7^4)^{100} × 7^2 ≡ 1^{100} × 49 = 49.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "Select the correct combination of letters that when sequentially placed in the blanks of the given letter series will complete the pattern:\n_ b c _ b _ d a _ d a _ d a _ c",
+    "hi": "अक्षरों के सही संयोजन का चयन करें, जिन्हें दी गई अक्षर श्रृंखला के रिक्त स्थानों में क्रमिक रूप से रखने पर पैटर्न पूरा हो जाएगा:\n_ b c _ b _ d a _ d a _ d a _ c",
+    "oEn": ["b, d, c, a, b, c", "a, c, d, b, c, b", "a, d, c, c, b, b", "a, d, b, c, b, c"],
+    "oHi": ["b, d, c, a, b, c", "a, c, d, b, c, b", "a, d, c, c, b, b", "a, d, b, c, b, c"],
+    "c": 2,
+    "exp": "Cyclic blocks of 4: [abcd] [bcda] [cdab] [dabc]. Full sequence: a b c d b c d a c d a b d a b c. Filling blanks gives a, d, c, c, b, b.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "Find the next term in the series: MAN, OCP, REQ, TGS, ?",
+    "hi": "श्रृंखला में अगला पद ज्ञात कीजिए: MAN, OCP, REQ, TGS, ?",
+    "oEn": ["WIT", "WIV", "XIT", "VJU"],
+    "oHi": ["WIT", "WIV", "XIT", "VJU"],
+    "c": 0,
+    "exp": "First letters: +2,+3,+2,+3 → M→O→R→T→W. Second: +2 each → A→C→E→G→I. Third: +2,+1,+2,+1 → N→P→Q→S→T. Next term: WIT.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "At what time between 7 and 8 o'clock will the hands of a clock point in opposite directions?",
+    "hi": "7 और 8 बजे के बीच किस समय घड़ी की सुइयां विपरीत दिशाओं में होंगी?",
+    "oEn": ["7:05 5/11", "7:04 4/11", "7:05 4/11", "7:06 5/11"],
+    "oHi": ["7 बजकर 5 5/11 मिनट", "7 बजकर 4 4/11 मिनट", "7 बजकर 5 4/11 मिनट", "7 बजकर 6 5/11 मिनट"],
+    "c": 0,
+    "exp": "Opposite direction means 180°. Time = 2/11(30H - 180) = 2/11(30*7 - 180) = 2/11(210 - 180) = 2/11(30) = 60/11 = 5 5/11 minutes past 7.",
+    "Pyq": "2022_CGL_Mains"
+  },
+  {
+    "en": "A clock takes 12 seconds to strike 7. How much time will it take to strike 10?",
+    "hi": "एक घड़ी को 7 बार बजने में 12 सेकंड का समय लगता है। इसे 10 बार बजने में कितना समय लगेगा?",
+    "oEn": ["16 seconds", "18 seconds", "20 seconds", "15 seconds"],
+    "oHi": ["16 सेकंड", "18 सेकंड", "20 सेकंड", "15 सेकंड"],
+    "c": 1,
+    "exp": "To strike 7, there are 6 intervals. 6 intervals = 12 sec → 1 interval = 2 sec. To strike 10, there are 9 intervals. Time = 9 × 2 = 18 sec.",
+    "Pyq": "2019_CGL_Tier1"
+  },
+  {
+    "en": "Pointing to a lady, Raman said, \"She is the only daughter-in-law of the grandmother of my father's only son.\" How is the lady related to Raman?",
+    "hi": "एक महिला की ओर इशारा करते हुए, रमन ने कहा, \"वह मेरे पिता के इकलौते पुत्र की ग्रैंडमदर की इकलौती पुत्रवधू है।\" वह महिला रमन से किस प्रकार संबंधित है?",
+    "oEn": ["Aunt", "Mother", "Grandmother", "Sister"],
+    "oHi": ["चाची/मामी/बुआ", "माता", "दादी/नानी", "बहन"],
+    "c": 1,
+    "exp": "\"My father's only son\" is Raman himself. Raman's grandmother's only daughter-in-law must be Raman's mother, because she has only one daughter-in-law married to her son (Raman's father).",
+    "Pyq": "2021_CGL_Mains"
+  },
+  {
+    "en": "If 'P + Q' means P is the husband of Q, 'P ÷ Q' means P is the sister of Q, and 'P × Q' means P is the son of Q, then which of the following expressions implies that 'A is the daughter-in-law of E'?",
+    "hi": "यदि 'P + Q' का अर्थ P, Q का पति है, 'P ÷ Q' का अर्थ P, Q की बहन है, और 'P × Q' का अर्थ P, Q का पुत्र है, तो निम्नलिखित में से किस व्यंजक का अर्थ है कि 'A, E की पुत्रवधू है'?",
+    "oEn": ["A ÷ B × C + E", "E + C × B ÷ A", "A + B × C ÷ E", "B × E + A"],
+    "oHi": ["A ÷ B × C + E", "E + C × B ÷ A", "A + B × C ÷ E", "B × E + A"],
+    "c": 3,
+    "exp": "In B × E + A: B × E means B is the son of E. B + A means B is the husband of A. Therefore, A is the wife of E's son, i.e., A is the daughter-in-law of E.",
+    "Pyq": "2023_CGL_Mains"
+  },
+  {
+    "en": "Which of the following years will have the exact same calendar as the year 2013?",
+    "hi": "निम्नलिखित में से किस वर्ष का कैलेंडर बिल्कुल 2013 के कैलेंडर के समान होगा?",
+    "oEn": ["2018", "2019", "2024", "2020"],
+    "oHi": ["2018", "2019", "2024", "2020"],
+    "c": 1,
+    "exp": "2013 is a year immediately following a leap year (2012). The calendar for a year immediately following a leap year repeats after 6 years. So, 2013 + 6 = 2019.",
+    "Pyq": "2022_CGL_Mains"
+  },
+  {
+    "en": "Which of the following days cannot be the last day of a century year?",
+    "hi": "निम्नलिखित में से कौन सा दिन शताब्दी वर्ष का अंतिम दिन नहीं हो सकता है?",
+    "oEn": ["Wednesday", "Friday", "Monday", "Tuesday"],
+    "oHi": ["बुधवार", "शुक्रवार", "सोमवार", "मंगलवार"],
+    "c": 3,
+    "exp": "The odd days for 100, 200, 300, and 400 years are 5, 3, 1, and 0 respectively. These correspond to Friday, Wednesday, Monday, and Sunday. Therefore, Tuesday, Thursday, and Saturday cannot be the last day of a century.",
+    "Pyq": "2019_CGL_Tier1"
+  },
+  {
+    "en": "Six professionals P, Q, R, S, T and U have different monthly salaries. Q earns less than only P. R earns more than T but less than U. S earns more than T but less than R. Who earns the third highest salary?",
+    "hi": "छह पेशेवर P, Q, R, S, T और U का मासिक वेतन अलग-अलग है। Q केवल P से कम कमाता है। R, T से अधिक लेकिन U से कम कमाता है। S, T से अधिक लेकिन R से कम कमाता है। तीसरा सबसे अधिक वेतन कौन कमाता है?",
+    "oEn": ["R", "U", "S", "T"],
+    "oHi": ["R", "U", "S", "T"],
+    "c": 1,
+    "exp": "Q earns less than only P, so P > Q > others. Also, U > R > S > T. Combining these relations gives P > Q > U > R > S > T. Therefore, U earns the third highest salary.",
+    "Pyq": "2024_Trend_Based"
+  },
+  {
+    "en": "In a row of 50 children, Rahul is 14th from the left end. When he shifts 5 places to his right, he becomes exactly 3 places to the left of Nitin. What is Nitin's position from the right end?",
+    "hi": "50 बच्चों की एक पंक्ति में, राहुल बाएं छोर से 14वें स्थान पर है। जब वह अपने दाईं ओर 5 स्थान खिसकता है, तो वह नितिन के ठीक 3 स्थान बाईं ओर हो जाता है। दाएं छोर से नितिन का स्थान क्या है?",
+    "oEn": ["28th", "29th", "31st", "32nd"],
+    "oHi": ["28वां", "29वां", "31वां", "32वां"],
+    "c": 1,
+    "exp": "Rahul's original position = 14th from left. After shifting 5 places right = 14 + 5 = 19th from left. He is 3 places left of Nitin, so Nitin = 19 + 3 = 22nd from left. Nitin's position from right = 50 - 22 + 1 = 29th.",
+    "Pyq": "2020_CGL_Mains"
+  },
+  {
+    "en": "Select the Venn diagram from the options that best represents the relationship among: Employees, Engineers, Managers (Note: Some engineers are managers, while many engineers and managers are employees).",
+    "hi": "विकल्पों में से उस वेन आरेख का चयन करें जो इनके बीच के संबंध को सबसे अच्छी तरह दर्शाता है: कर्मचारी (Employees), इंजीनियर (Engineers), प्रबंधक (Managers)। (मान लें कि कुछ इंजीनियर प्रबंधक हैं तथा इंजीनियर और प्रबंधक दोनों कर्मचारी हैं।)",
+    "image_url": "SSC2026/CGL_MAINS_RES_01_1.jpg",
+    "oEn": ["Diagram A", "Diagram B", "Diagram C", "Diagram D"],
+    "oHi": ["आरेख A", "आरेख B", "आरेख C", "आरेख D"],
+    "c": 1,
+    "exp": "Engineers and Managers are both subsets of Employees, and some Engineers are also Managers. Therefore, two intersecting circles completely inside a larger circle represent the relationship, which is Diagram B.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "Statements:\nSome keys are locks.\nAll locks are doors.\nOnly a few doors are windows.\n\nConclusions:\nI. All windows being keys is a possibility.\nII. Some doors are definitely keys.",
+    "hi": "कथन:\nकुछ चाबियां, ताले हैं।\nसभी ताले, दरवाजे हैं।\nकेवल कुछ दरवाजे, खिड़कियां हैं।\n\nनिष्कर्ष:\nI. सभी खिड़कियों के चाबियां होने की एक संभावना है।\nII. कुछ दरवाजे निश्चित रूप से चाबियां हैं।",
+    "oEn": ["Only conclusion I follows", "Only conclusion II follows", "Both conclusions I and II follow", "Neither conclusion I nor II follows"],
+    "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल निष्कर्ष II अनुसरण करता है", "निष्कर्ष I और II दोनों अनुसरण करते हैं", "न तो निष्कर्ष I और न ही II अनुसरण करता है"],
+    "c": 2,
+    "exp": "I: Windows are a subset of doors; keys can be placed entirely inside that window portion (no restriction). II: Some keys are locks, locks are doors, so those keys are doors. Both follow.",
+    "Pyq": "2021_CGL_Mains"
+  },
+  {
+    "en": "Statements:\nSome apples are mangoes.\nNo mango is a banana.\nSome bananas are grapes.\n\nConclusions:\nI. Some apples are grapes.\nII. No apple is a grape.",
+    "hi": "कथन:\nकुछ सेब, आम हैं।\nकोई आम, केला नहीं है।\nकुछ केले, अंगूर हैं।\n\nनिष्कर्ष:\nI. कुछ सेब, अंगूर हैं।\nII. कोई सेब, अंगूर नहीं है।",
+    "oEn": ["Only conclusion I follows", "Only conclusion II follows", "Either conclusion I or II follows", "Neither conclusion I nor II follows"],
+    "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल निष्कर्ष II अनुसरण करता है", "या तो निष्कर्ष I या II अनुसरण करता है", "न तो निष्कर्ष I और न ही II अनुसरण करता है"],
+    "c": 3,
+    "exp": "There is no definite relationship between Apples and Grapes. Conclusion I (Some Apples are Grapes) is not definite. Conclusion II (No Apple is a Grape) is also not definite. Since both can be false simultaneously, 'Either I or II' does not follow. Hence, neither conclusion follows",
+    "Pyq": "2020_CGL_Mains"
+  },
+  {
+    "en": "If 'P * Q' means 'P is 6 m North of Q', 'P # Q' means 'P is 8 m East of Q', 'P $ Q' means 'P is 6 m South of Q', and 'P % Q' means 'P is 8 m West of Q', which of the following expressions correctly establishes that 'M is North-West of N and at a shortest distance of 10 m'?",
+    "hi": "यदि 'P * Q' का अर्थ 'P, Q के 6 मीटर उत्तर में है', 'P # Q' का अर्थ 'P, Q के 8 मीटर पूर्व में है', 'P $ Q' का अर्थ 'P, Q के 6 मीटर दक्षिण में है', और 'P % Q' का अर्थ 'P, Q के 8 मीटर पश्चिम में है', तो निम्नलिखित में से कौन सा व्यंजक सही ढंग से स्थापित करता है कि 'M, N के उत्तर-पश्चिम में है और उनकी न्यूनतम दूरी 10 मीटर है'?",
+    "oEn": ["M % X * N", "M * X % N", "N * X % M", "M # X $ N"],
+    "oHi": ["M % X * N", "M * X % N", "N * X % M", "M # X $ N"],
+    "c": 1,
+    "exp": "M * X → M 6 m N of X. X % N → X 8 m W of N. So M is 6 N, 8 W of N → distance 10 m, North-West.",
+    "Pyq": "2023_CGL_Mains"
+  },
+  {
+    "en": "A delivery van leaves the depot and runs 15 km North. It turns right and runs 20 km. Then it turns right again and runs 8 km. Finally, it turns right and runs 44 km to reach the destination. How far and in which direction is the destination from the starting depot?",
+    "hi": "एक डिलीवरी वैन डिपो से निकलती है और 15 किमी उत्तर की ओर चलती है। वह दाईं ओर मुड़ती है और 20 किमी चलती है। फिर वह दोबारा दाईं ओर मुड़ती है और 8 किमी चलती है। अंत में, वह दाईं ओर मुड़ती है और गंतव्य तक पहुंचने के लिए 44 किमी चलती है। प्रारंभिक डिपो से गंतव्य कितनी दूर और किस दिशा में है?",
+    "oEn": ["29 km, North-West", "25 km, South-West", "25 km, North-West", "20 km, North-East"],
+    "oHi": ["29 किमी, उत्तर-पश्चिम", "25 किमी, दक्षिण-पश्चिम", "25 किमी, उत्तर-पश्चिम", "20 किमी, उत्तर-पूर्व"],
+    "c": 2,
+    "exp": "N15 → (0,15); E20 → (20,15); S8 → (20,7); W44 → (-24,7). Distance = sqrt(24^2+7^2) = 25 km, NW.",
+    "Pyq": "2021_CGL_Mains"
+  },
+  {
+    "en": "Four different positions of the same dice are shown below. Which face is opposite to face B?",
+    "hi": "नीचे एक ही पासे की चार अलग-अलग स्थितियाँ दिखाई गई हैं। B वाले फलक के विपरीत कौन-सा फलक है?",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_4.jpg",
+    "oEn": ["A", "C", "D", "E"],
+    "oHi": ["A", "C", "D", "E"],
+    "c": 3,
+    "exp": "From the first and second positions, B is adjacent to A, C and D. From the second position, C is adjacent to B and D. From the third position, C is adjacent to E and D. Thus, the four faces adjacent to B are A, C, D and F. Since a face on a cube has exactly four adjacent faces, the only remaining face E must be opposite to B. Hence, the face opposite to B is E.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "Select the answer figure in which the given question figure is embedded (rotation allowed, size unchanged).",
+    "hi": "उस उत्तर आकृति का चयन कीजिए जिसमें दी गई प्रश्न आकृति अंतर्निहित (embedded) है। (घुमाव की अनुमति है, आकार अपरिवर्तित रहेगा।)",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_7.jpg",
+    "oEn": ["Figure (a)", "Figure (b)", "Figure (c)", "Figure (d)"],
+    "oHi": ["आकृति (a)", "आकृति (b)", "आकृति (c)", "आकृति (d)"],
+    "c": 1,
+    "exp": "The question figure is a bow-tie shaped structure formed by two vertical sides connected through two inward slanting segments meeting at the center. After careful tracing, the complete figure can be found in Figure (b). The same arrangement of line segments appears exactly within the larger composite figure, whereas the other options either miss a required segment or alter the connectivity.",
+    "Pyq": "2025_CGL_Tier2_Trend"
+  },
+  {
+    "en": "Select the answer figure that represents the water image of the given question figure with respect to the line XY.",
+    "hi": "XY रेखा के सापेक्ष दी गई प्रश्न आकृति की जल-प्रतिबिंब (Water Image) को दर्शाने वाली उत्तर आकृति का चयन कीजिए।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_10.jpg",
+    "oEn": ["Figure (1)", "Figure (2)", "Figure (3)", "Figure (4)"],
+    "oHi": ["आकृति (1)", "आकृति (2)", "आकृति (3)", "आकृति (4)"],
+    "c": 1,
+    "exp": "In a water image, the figure is reflected vertically about the horizontal line XY. Therefore, the two triangles at the top appear inverted at the bottom, the square remains unchanged due to symmetry, and the '+' symbols move to the upper part of the reflected image. Hence, Figure (2) is the correct water image.",
+    "Pyq": "2025_CGL_Tier2_Trend"
+  },
+  {
+    "en": "A transparent sheet containing the question figure is folded along the mirror line MN. Select the answer figure that correctly represents the mirror image of the given figure.",
+    "hi": "प्रश्न आकृति वाली पारदर्शी शीट को दर्पण रेखा MN के अनुसार मोड़ा जाता है। उस उत्तर आकृति का चयन कीजिए जो दी गई आकृति का सही दर्पण प्रतिबिंब दर्शाती है।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_14.jpg",
+    "oEn": ["Figure (1)", "Figure (2)", "Figure (3)", "Figure (4)"],
+    "oHi": ["आकृति (1)", "आकृति (2)", "आकृति (3)", "आकृति (4)"],
+    "c": 3,
+    "exp": "The mirror line MN is placed vertically on the right side of the figure. Hence, the mirror image will be a left-right reversal of the given figure. After reflecting all triangular components and the horizontal line across MN, the resulting figure matches option (4). Therefore, option (4) is the correct answer.",
+    "Pyq": "2025_Trend_Based"
+  },
+  {
+    "en": "Select the figure from the answer figures that will replace the question mark (?) in the given analogy.",
+    "hi": "उत्तर आकृतियों में से उस आकृति का चयन कीजिए जो दिए गए सादृश्य (Analogy) में प्रश्नवाचक चिन्ह (?) का स्थान लेगी।",
+    "image_url": "SSC2026/CGL_MAINS_RES_02_29.jpg",
+    "oEn": ["Figure (A)", "Figure (B)", "Figure (C)", "Figure (D)"],
+    "oHi": ["आकृति (A)", "आकृति (B)", "आकृति (C)", "आकृति (D)"],
+    "c": 1,
+    "exp": "In the first pair, the figure is reflected about the vertical axis. The upward arrow remains unchanged, while the right-pointing arrow shifts to the left and the bottom-left arrow shifts to the bottom-right. Applying the same vertical mirror reflection to the third figure, the left and right side projections interchange their positions while the central vertical element remains unchanged. The resulting figure matches Figure (B).",
+    "Pyq": "2025_Trend_Based"
+  }
+]
