@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Two persons A and B start moving towards each other simultaneously from X and Y respectively. After crossing each other, A takes 6.25 hours to reach Y, and B takes 4 hours to reach X. If A's speed is 32 km/h, find B's speed.",
+    "hi": "दो व्यक्ति A और B क्रमशः X और Y से एक दूसरे की ओर एक साथ चलना शुरू करते हैं। एक दूसरे को पार करने के बाद, A को Y तक पहुँचने में 6.25 घंटे और B को X तक पहुँचने में 4 घंटे लगते हैं। यदि A की चाल 32 किमी/घंटा है, तो B की चाल ज्ञात कीजिए।",
+    "oEn": ["36 km/h", "40 km/h", "45 km/h", "50 km/h"],
+    "oHi": ["36 किमी/घंटा", "40 किमी/घंटा", "45 किमी/घंटा", "50 किमी/घंटा"],
+    "c": 1,
+    "exp": "Logic: Using the meeting point theorem: S_A / S_B = √(T_B / T_A). Substituting the values: 32 / S_B = √(4 / 6.25) = √(400 / 625) = 20 / 25 = 4 / 5. Therefore, S_B = (32 × 5) / 4 = 40 km/h.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "A person takes 60 seconds to walk up a stalled escalator. When the escalator moves, he takes 40 seconds to walk up. How long would he take to stand still and let the moving escalator carry him up?",
+    "hi": "एक व्यक्ति एक स्थिर एस्केलेटर पर 60 सेकंड में चढ़ता है। जब एस्केलेटर चलता है, तो वह 40 सेकंड में चढ़ता है। यदि वह एस्केलेटर पर स्थिर खड़ा रहे, तो एस्केलेटर उसे ऊपर ले जाने में कितना समय लेगा?",
+    "oEn": ["90 seconds", "100 seconds", "120 seconds", "80 seconds"],
+    "oHi": ["90 सेकंड", "100 सेकंड", "120 सेकंड", "80 सेकंड"],
+    "c": 2,
+    "exp": "Logic: Let total work (distance) = 120 units (LCM of 60 and 40). Speed of person = 120/60 = 2 units/sec. Combined speed (person + escalator) = 120/40 = 3 units/sec. Therefore, speed of escalator alone = 3 - 2 = 1 unit/sec. Time taken by escalator alone = 120 / 1 = 120 seconds.",
+    "Pyq": "2023_CGL_Tier2"
+  },
+  {
+    "en": "A, B, and C run on a circular track of length 1200 m with speeds of 5 m/s, 7 m/s, and 11 m/s respectively. A and B run in the same direction, while C runs in the opposite direction. After how much time will all three meet together for the first time?",
+    "hi": "A, B और C एक 1200 मीटर लंबे वृत्ताकार ट्रैक पर क्रमशः 5 मी/से, 7 मी/से और 11 मी/से की चाल से दौड़ते हैं। A और B एक ही दिशा में दौड़ते हैं, जबकि C विपरीत दिशा में दौड़ता है। वे तीनों पहली बार एक साथ कब मिलेंगे?",
+    "oEn": ["600 sec", "400 sec", "800 sec", "1200 sec"],
+    "oHi": ["600 सेकंड", "400 सेकंड", "800 सेकंड", "1200 सेकंड"],
+    "c": 0,
+    "exp": "Logic: Time taken for A and B to meet = 1200 / (7 - 5) = 600 seconds. Time taken for B and C to meet = 1200 / (7 + 11) = 1200 / 18 = 200/3 seconds. The time of their simultaneous meeting is the LCM of their individual meeting times: LCM(600, 200/3) = LCM(600, 200) / HCF(1, 3) = 600 / 1 = 600 seconds.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "In a 1000 m race, A beats B by 100 m or 10 seconds. In the same race, B beats C by 50 m. By what distance does A beat C?",
+    "hi": "1000 मीटर की दौड़ में, A, B को 100 मीटर या 10 सेकंड से हरा देता है। उसी दौड़ में, B, C को 50 मीटर से हराता है। A, C को कितनी दूरी से हराएगा?",
+    "oEn": ["140 m", "150 m", "155 m", "145 m"],
+    "oHi": ["140 मीटर", "150 मीटर", "155 मीटर", "145 मीटर"],
+    "c": 3,
+    "exp": "Logic: B runs the last 100 m in 10 seconds, so B's speed = 10 m/s. B runs 900 m in 90 seconds, which means A runs 1000 m in 90 seconds. Ratio of distances covered in the same timeframe: A/B = 1000/900 = 10/9; B/C = 1000/950 = 20/19. Compound ratio A : B : C = (10×20) : (9×20) : (9×19) = 200 : 180 : 171. In a 1000 m race (multiply by 5), when A runs 1000 m, C runs 171 × 5 = 855 m. A beats C by 1000 - 855 = 145 m.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "A train traveling at 5/7 of its normal speed reaches its destination 24 minutes late. Find the normal time taken by the train to cover the journey.",
+    "hi": "एक ट्रेन अपनी सामान्य चाल की 5/7 चाल से चलते हुए अपने गंतव्य पर 24 मिनट की देरी से पहुँचती है। इस यात्रा को तय करने में ट्रेन द्वारा लिया जाने वाला सामान्य समय ज्ञात कीजिए।",
+    "oEn": ["48 mins", "60 mins", "72 mins", "84 mins"],
+    "oHi": ["48 मिनट", "60 मिनट", "72 मिनट", "84 मिनट"],
+    "c": 1,
+    "exp": "Logic: Speed ratio = 5 : 7. Since Distance is constant, Time ratio = 7 : 5. The difference in time is 2 units, which equals 24 minutes. Therefore, 1 unit = 12 minutes. Normal time (5 units) = 5 × 12 = 60 minutes.",
+    "Pyq": "2023_CHSL_Tier2"
+  },
+  {
+    "en": "A man walking at a speed of 4 km/h in fog can see up to 100 meters. A train approaching from behind passes him and disappears from his view in 3 minutes. If the length of the train is 200 meters, find the speed of the train.",
+    "hi": "कोहरे में 4 किमी/घंटा की चाल से चलने वाला एक व्यक्ति 100 मीटर तक देख सकता है। पीछे से आने वाली एक ट्रेन उसे पार करती है और 3 मिनट में उसकी आँखों से ओझल हो जाती है। यदि ट्रेन की लंबाई 200 मीटर है, तो ट्रेन की चाल ज्ञात कीजिए।",
+    "oEn": ["10 km/h", "15 km/h", "12 km/h", "16 km/h"],
+    "oHi": ["10 किमी/घंटा", "15 किमी/घंटा", "12 किमी/घंटा", "16 किमी/घंटा"],
+    "c": 2,
+    "exp": "Logic: Total relative distance covered by the train from visibility behind to disappearance ahead = 100 m + 200 m (train length) + 100 m = 400 m = 0.4 km. Time taken = 3 minutes = 3/60 = 1/20 hours. Relative speed (S_train - S_man) = Distance / Time = 0.4 / (1/20) = 8 km/h. S_train - 4 = 8 => S_train = 12 km/h.",
+    "Pyq": "2024_CPO"
+  },
+  {
+    "en": "A dog chases a rabbit. The rabbit is 50 leaps ahead of the dog. For every 4 leaps the dog takes, the rabbit takes 5 leaps. If 2 leaps of the dog are equal to 3 leaps of the rabbit, in how many leaps will the dog catch the rabbit?",
+    "hi": "एक कुत्ता एक खरगोश का पीछा करता है। खरगोश कुत्ते से अपने 50 छलाँग आगे है। जितने समय में कुत्ता 4 छलाँग लगाता है, उतने ही समय में खरगोश 5 छलाँग लगाता है। यदि कुत्ते की 2 छलाँग खरगोश की 3 छलाँग के बराबर हैं, तो कुत्ता कितनी छलाँग में खरगोश को पकड़ लेगा?",
+    "oEn": ["200", "250", "180", "220"],
+    "oHi": ["200", "250", "180", "220"],
+    "c": 0,
+    "exp": "Logic: Let 1 leap of rabbit = 2 meters, so 1 leap of dog = 3 meters. Initial gap = 50 rabbit leaps = 50 × 2 = 100 meters. Distance covered per unit time: Dog = 4 × 3 = 12 m; Rabbit = 5 × 2 = 10 m. Relative gain per unit time = 12 - 10 = 2 meters. Time units needed to close the 100 m gap = 100 / 2 = 50 units. Number of dog leaps = 50 units × 4 leaps/unit = 200 leaps.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "A boat covers 60 km downstream and 32 km upstream in 9 hours. It covers 36 km downstream and 40 km upstream in 8 hours. Find the speed of the boat in still water.",
+    "hi": "एक नाव 9 घंटे में 60 किमी धारा के अनुकूल (downstream) और 32 किमी धारा के प्रतिकूल (upstream) जाती है। वही नाव 8 घंटे में 36 किमी धारा के अनुकूल और 40 किमी धारा के प्रतिकूल जाती है। शांत जल में नाव की चाल ज्ञात कीजिए।",
+    "oEn": ["8 km/h", "12 km/h", "14 km/h", "10 km/h"],
+    "oHi": ["8 किमी/घंटा", "12 किमी/घंटा", "14 किमी/घंटा", "10 किमी/घंटा"],
+    "c": 3,
+    "exp": "Logic: Let downstream speed = D, upstream speed = U. Eq(1): 60/D + 32/U = 9; Eq(2): 36/D + 40/U = 8. Testing standard factor values: if D = 12 and U = 8, Eq(1) gives 5 + 4 = 9 hours, and Eq(2) gives 3 + 5 = 8 hours. Both hold true. Speed of boat = (D + U)/2 = (12 + 8)/2 = 10 km/h.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "A person travels around an equilateral triangular park of side 120 km. He travels the first side at 10 km/h, the second side at 20 km/h, and the third side at 60 km/h. Find his overall average speed.",
+    "hi": "एक व्यक्ति 120 किमी भुजा वाले एक समबाहु त्रिभुजाकार मैदान के चारों ओर यात्रा करता है। वह पहली भुजा 10 किमी/घंटा, दूसरी 20 किमी/घंटा और तीसरी 60 किमी/घंटा की चाल से तय करता है। उसकी पूरी यात्रा की औसत चाल ज्ञात कीजिए।",
+    "oEn": ["24 km/h", "18 km/h", "30 km/h", "15 km/h"],
+    "oHi": ["24 किमी/घंटा", "18 किमी/घंटा", "30 किमी/घंटा", "15 किमी/घंटा"],
+    "c": 1,
+    "exp": "Logic: When distances are equal, Average Speed = 3 / (1/S1 + 1/S2 + 1/S3) = 3 / (1/10 + 1/20 + 1/60) = 3 / ((6 + 3 + 1) / 60) = (3 × 60) / 10 = 18 km/h.",
+    "Pyq": "2023_CGL_Tier2"
+  },
+  {
+    "en": "Two trains of equal length take 10 seconds and 15 seconds respectively to cross a telegraph post. If the length of each train is 120 meters, in what time will they cross each other traveling in opposite directions?",
+    "hi": "समान लंबाई की दो ट्रेनें एक टेलीग्राफ पोस्ट को पार करने में क्रमशः 10 सेकंड और 15 सेकंड का समय लेती हैं। यदि प्रत्येक ट्रेन की लंबाई 120 मीटर है, तो विपरीत दिशाओं में चलते हुए वे एक-दूसरे को कितने समय में पार करेंगी?",
+    "oEn": ["10 sec", "15 sec", "12 sec", "12.5 sec"],
+    "oHi": ["10 सेकंड", "15 सेकंड", "12 सेकंड", "12.5 सेकंड"],
+    "c": 2,
+    "exp": "Logic: Speed of Train 1 = 120/10 = 12 m/s; Speed of Train 2 = 120/15 = 8 m/s. Relative speed in opposite directions = 12 + 8 = 20 m/s. Total distance to cross each other = 120 + 120 = 240 m. Time taken = 240 / 20 = 12 seconds. (Alternatively, shortcut formula for equal lengths: T = (2 × t1 × t2) / (t1 + t2) = 300 / 25 = 12 sec).",
+    "Pyq": "2024_CHSL_Tier2"
+  },
+  {
+    "en": "A monkey climbs a 60-meter high greased pole. In the first minute, he ascends 5 meters, and in the second minute, he slips down 2 meters. If this pattern continues, in which minute will he reach the top of the pole?",
+    "hi": "एक बंदर 60 मीटर ऊँचे चिकने खंभे पर चढ़ता है। वह पहले मिनट में 5 मीटर चढ़ता है और दूसरे मिनट में 2 मीटर नीचे फिसल जाता है। यदि यही क्रम जारी रहे, तो वह किस मिनट में खंभे के शीर्ष पर पहुँच जाएगा?",
+    "oEn": ["39th minute", "38th minute", "40th minute", "37th minute"],
+    "oHi": ["39वें मिनट", "38वें मिनट", "40वें मिनट", "37वें मिनट"],
+    "c": 0,
+    "exp": "Logic: Effective climb in a 2-minute cycle = 5 - 2 = 3 meters. Target before the final uncontested leap = 60 - 5 = 55 meters. Number of full 2-minute cycles required to reach 55 m = 55 / 3 = 18.33 cycles => 18 full cycles (36 minutes) yield 18 × 3 = 54 meters. In the 37th minute, he jumps 5 m to reach 59 m. In the 38th minute, he slips 2 m down to 57 m. In the 39th minute, he jumps 5 m to hit 62 m, successfully touching the 60 m summit.",
+    "Pyq": "2024_MTS"
+  },
+  {
+    "en": "Excluding stoppages, the speed of a bus is 72 km/h, and including stoppages, it is 60 km/h. For how many minutes does the bus stop per hour?",
+    "hi": "ठहराव को छोड़कर एक बस की चाल 72 किमी/घंटा है, और ठहराव सहित इसकी चाल 60 किमी/घंटा है। बस प्रति घंटे कितने मिनट के लिए रुकती है?",
+    "oEn": ["12 mins", "10 mins", "8 mins", "15 mins"],
+    "oHi": ["12 मिनट", "10 मिनट", "8 मिनट", "15 मिनट"],
+    "c": 1,
+    "exp": "Logic: Stoppage time per hour = [(Fast Speed - Slow Speed) / Fast Speed] × 60 minutes = [(72 - 60) / 72] × 60 = (12 / 72) × 60 = 10 minutes.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "Two guns are fired from the same place at an interval of 23 minutes. A person inside a train approaching the place hears the second shot 22 minutes after the first. If the speed of sound is 330 m/s, find the speed of the train in km/h.",
+    "hi": "एक ही स्थान से 23 मिनट के अंतराल पर दो गोलियाँ चलाई गईं। उस स्थान की ओर आ रही एक ट्रेन में बैठा व्यक्ति पहली गोली की आवाज़ सुनने के 22 मिनट बाद दूसरी गोली की आवाज़ सुनता है। यदि ध्वनि की चाल 330 मी/से है, तो ट्रेन की चाल (किमी/घंटा में) ज्ञात कीजिए।",
+    "oEn": ["60 km/h", "45 km/h", "54 km/h", "72 km/h"],
+    "oHi": ["60 किमी/घंटा", "45 किमी/घंटा", "54 किमी/घंटा", "72 किमी/घंटा"],
+    "c": 2,
+    "exp": "Logic: Distance traveled by sound in (23 - 22) = 1 minute is equal to the distance traveled by the train in 22 minutes. Sound Speed × 1 = Train Speed × 22 => Train Speed = 330 / 22 = 15 m/s. Convert to km/h: 15 × (18/5) = 54 km/h.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "A and B start walking towards each other simultaneously from two points P and Q, which are 120 km apart. They meet after 6 hours. After their meeting, A reduced his speed by 2 km/h and B increased his speed by 2 km/h. They arrived at Q and P respectively at the exact same time. Find the initial speed of A.",
+    "hi": "A और B दो बिंदुओं P और Q से एक साथ एक दूसरे की ओर चलना शुरू करते हैं, जो 120 किमी दूर हैं। वे 6 घंटे बाद मिलते हैं। मिलने के बाद, A ने अपनी चाल 2 किमी/घंटा कम कर दी और B ने अपनी चाल 2 किमी/घंटा बढ़ा दी। वे क्रमशः Q और P पर ठीक एक ही समय पर पहुँचे। A की प्रारंभिक चाल ज्ञात कीजिए।",
+    "oEn": ["11 km/h", "12 km/h", "10 km/h", "9 km/h"],
+    "oHi": ["11 किमी/घंटा", "12 किमी/घंटा", "10 किमी/घंटा", "9 किमी/घंटा"],
+    "c": 0,
+    "exp": "Logic: Sum of initial speeds = 120 / 6 = 20 km/h. Let initial speed of A be 'x', so B's initial speed = 20 - x. Meeting distances: A covers 6x, B covers 6(20-x). Remaining journey for A is 6(20-x) at speed (x-2); remaining journey for B is 6x at speed (22-x). Equating times: 6(20-x)/(x-2) = 6x/(22-x) => (20-x)(22-x) = x(x-2) => 440 - 42x + x² = x² - 2x => 40x = 440 => x = 11 km/h.",
+    "Pyq": "2023_CGL_Tier2"
+  },
+  {
+    "en": "Due to bad weather, an airplane reduced its average speed by 200 km/h over a scheduled flight of 600 km, and its time of flight increased by 30 minutes. Find the original duration of the flight.",
+    "hi": "खराब मौसम के कारण, एक हवाई जहाज ने 600 किमी की निर्धारित उड़ान के लिए अपनी औसत चाल 200 किमी/घंटा कम कर दी, जिससे उसका उड़ान का समय 30 मिनट बढ़ गया। उड़ान की मूल अवधि ज्ञात कीजिए।",
+    "oEn": ["1.5 hours", "2 hours", "45 mins", "1 hour"],
+    "oHi": ["1.5 घंटे", "2 घंटे", "45 मिनट", "1 घंटा"],
+    "c": 3,
+    "exp": "Logic: Using the formula Distance = [S × (S - 200) / 200] × (30/60). Substituting: 600 = [S(S - 200) / 200] × 0.5 => S(S - 200) = 240000 => S² - 200S - 240000 = 0 => (S - 600)(S + 400) = 0. Therefore, original speed S = 600 km/h. Original duration = Distance / Speed = 600 / 600 = 1 hour.",
+    "Pyq": "2025_CHSL_Tier2"
+  },
+  {
+    "en": "A and B start running simultaneously from the same point on a circular track of length 800 m in opposite directions. If their speeds are 6 m/s and 4 m/s respectively, at how many distinct points on the track will they cross each other?",
+    "hi": "A और B एक 800 मीटर लंबे वृत्ताकार ट्रैक पर एक ही बिंदु से एक साथ विपरीत दिशाओं में दौड़ना शुरू करते हैं। यदि उनकी चाल क्रमशः 6 मी/से और 4 मी/से है, तो वे ट्रैक पर कितने अलग-अलग बिंदुओं पर एक-दूसरे को पार करेंगे?",
+    "oEn": ["2", "5", "10", "4"],
+    "oHi": ["2", "5", "10", "4"],
+    "c": 1,
+    "exp": "Logic: When runners move in opposite directions, the number of distinct meeting points on a circular track equals the sum of their speeds reduced to the simplest co-prime ratio. Speed ratio = 6 : 4 = 3 : 2. Number of distinct points = 3 + 2 = 5.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "The distance between two stations A and B is 450 km. A train starts from A towards B at 50 km/h. Simultaneously, another train starts from B towards A at 40 km/h. A bird sitting on the engine of the train from A flies towards B at 80 km/h. The moment it reaches the second train, it instantly reverses its direction and flies back to the first train, repeating this back-and-forth shuttle until the trains collide. What is the total distance flown by the bird?",
+    "hi": "दो स्टेशनों A और B के बीच की दूरी 450 किमी है। एक ट्रेन A से B की ओर 50 किमी/घंटा की चाल से चलना शुरू करती है। उसी समय, दूसरी ट्रेन B से A की ओर 40 किमी/घंटा की चाल से चलना शुरू करती है। A से चलने वाली ट्रेन के इंजन पर बैठा एक पक्षी 80 किमी/घंटा की चाल से B की ओर उड़ता है। जैसे ही वह दूसरी ट्रेन के पास पहुँचता है, वह तुरंत अपनी दिशा उलट देता है और पहली ट्रेन के पास वापस उड़ जाता है, और जब तक दोनों ट्रेनें आपस में टकरा नहीं जातीं तब तक वह आगे-पीछे उड़ता रहता है। पक्षी द्वारा तय की गई कुल दूरी कितनी है?",
+    "oEn": ["400 km", "450 km", "360 km", "500 km"],
+    "oHi": ["400 किमी", "450 किमी", "360 किमी", "500 किमी"],
+    "c": 0,
+    "exp": "Logic: Time taken for the two trains to collide = Total Distance / Relative Speed = 450 / (50 + 40) = 450 / 90 = 5 hours. The bird flies at a constant speed of 80 km/h for the entire 5-hour duration. Total distance flown = 80 × 5 = 400 km.",
+    "Pyq": "2024_CPO"
+  },
+  {
+    "en": "Ravi can walk up a moving escalator in 30 steps. The same Ravi walking down the same upwards-moving escalator takes 90 steps. How many steps are visible on the escalator when it is stationary?",
+    "hi": "रवि एक चलते हुए एस्केलेटर पर 30 कदम चलकर ऊपर चढ़ सकता है। वही रवि उसी ऊपर की ओर चलते हुए एस्केलेटर पर नीचे उतरने में 90 कदम लेता है। जब एस्केलेटर स्थिर हो, तो उस पर कितने कदम दिखाई देंगे?",
+    "oEn": ["60", "50", "45", "75"],
+    "oHi": ["60", "50", "45", "75"],
+    "c": 2,
+    "exp": "Logic: Let 'r' be Ravi's stepping rate and 'e' be the escalator's stepping rate. When walking up, total steps N = 30 + 30(e/r). When walking down against it, total steps N = 90 - 90(e/r). Equating: 30 + 30(e/r) = 90 - 90(e/r) => 120(e/r) = 60 => e/r = 1/2. Substitute back into N: N = 30 + 30(1/2) = 45 steps.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "A train crosses a 300-meter long platform in 38 seconds, and it crosses a signal pole in 18 seconds. What is the speed of the train in km/h?",
+    "hi": "एक ट्रेन 300 मीटर लंबे प्लेटफॉर्म को 38 सेकंड में पार करती है, और यह एक सिग्नल पोल को 18 सेकंड में पार करती है। ट्रेन की चाल (किमी/घंटा में) क्या है?",
+    "oEn": ["72 km/h", "54 km/h", "60 km/h", "48 km/h"],
+    "oHi": ["72 किमी/घंटा", "54 किमी/घंटा", "60 किमी/घंटा", "48 किमी/घंटा"],
+    "c": 1,
+    "exp": "Logic: The extra time taken to cross the platform is the time required to cover the platform's length alone. Time for 300 m = 38 - 18 = 20 seconds. Speed = 300 / 20 = 15 m/s. Convert to km/h: 15 × (18/5) = 54 km/h.",
+    "Pyq": "2023_CGL_Tier2"
+  },
+  {
+    "en": "A car covers the first half of the total time of its journey at 40 km/h and the second half of the time at 60 km/h. Another car covers the first half of the total distance of its journey at 40 km/h and the second half of the distance at 60 km/h. What is the ratio of the average speeds of the first car to the second car?",
+    "hi": "एक कार अपनी यात्रा के कुल समय के पहले भाग को 40 किमी/घंटा की चाल से और समय के दूसरे भाग को 60 किमी/घंटा की चाल से तय करती है। एक अन्य कार अपनी यात्रा की कुल दूरी के पहले आधे भाग को 40 किमी/घंटा की चाल से और दूरी के दूसरे आधे भाग को 60 किमी/घंटा की चाल से तय करती है। पहली कार और दूसरी कार की औसत चाल का अनुपात क्या है?",
+    "oEn": ["25 : 24", "24 : 25", "5 : 4", "1 : 1"],
+    "oHi": ["25 : 24", "24 : 25", "5 : 4", "1 : 1"],
+    "c": 0,
+    "exp": "Logic: Car 1 (Equal Time segments): Avg Speed = (40 + 60) / 2 = 50 km/h. Car 2 (Equal Distance segments): Avg Speed = (2 × 40 × 60) / (40 + 60) = 4800 / 100 = 48 km/h. Ratio = 50 : 48 = 25 : 24.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "A goods train and a passenger train start running in the same direction on parallel tracks from the same station. The goods train leaves at 6:00 AM at 40 km/h, and the passenger train leaves at 8:00 AM at 60 km/h. At what time will the passenger train overtake the goods train?",
+    "hi": "एक मालगाड़ी और एक यात्री ट्रेन एक ही स्टेशन से समानांतर पटरियों पर एक ही दिशा में चलना शुरू करती हैं। मालगाड़ी सुबह 6:00 बजे 40 किमी/घंटा की चाल से रवाना होती है, और यात्री ट्रेन सुबह 8:00 बजे 60 किमी/घंटा की चाल से रवाना होती है। यात्री ट्रेन मालगाड़ी को कितने बजे पार कर लेगी?",
+    "oEn": ["1:00 PM", "11:30 AM", "12:30 PM", "12:00 Noon"],
+    "oHi": ["दोपहर 1:00 बजे", "सुबह 11:30 बजे", "दोपहर 12:30 बजे", "दोपहर 12:00 बजे"],
+    "c": 3,
+    "exp": "Logic: Distance covered by the goods train in 2 hours (from 6 AM to 8 AM) = 2 × 40 = 80 km. Relative speed = 60 - 40 = 20 km/h. Time taken to catch up = 80 / 20 = 4 hours after 8:00 AM. Time = 8:00 AM + 4 hours = 12:00 Noon.",
+    "Pyq": "2024_CHSL_Tier2"
+  },
+  {
+    "en": "The diameter of the front wheel of an engine is 2x cm and that of the rear wheel is 2y cm. If they cover the same distance, and the front wheel makes n revolutions, how many revolutions does the rear wheel make?",
+    "hi": "एक इंजन के आगे के पहिये का व्यास 2x सेमी है और पीछे के पहिये का व्यास 2y सेमी है। यदि वे समान दूरी तय करते हैं, और आगे का पहिया n चक्कर लगाता है, तो पीछे का पहिया कितने चक्कर लगाएगा?",
+    "oEn": ["ny/x", "nx/y", "nxy", "x/(ny)"],
+    "oHi": ["ny/x", "nx/y", "nxy", "x/(ny)"],
+    "c": 1,
+    "exp": "Logic: Distance covered = Revolutions × Circumference. For front wheel: Distance = n × (π × 2x). Let rear wheel revolutions be R. For rear wheel: Distance = R × (π × 2y). Equating: n × 2πx = R × 2πy => nx = Ry => R = nx / y.",
+    "Pyq": "2023_CGL_Tier2"
+  },
+  {
+    "en": "In a 1000 m race, A can give B a start of 100 m. In an 800 m race, B can give C a start of 100 m. If A and C run a 500 m race, what start can A give C so that they finish the race in a dead heat?",
+    "hi": "1000 मीटर की दौड़ में, A, B को 100 मीटर की शुरुआत दे सकता है। 800 मीटर की दौड़ में, B, C को 100 मीटर की शुरुआत दे सकता है। यदि A और C 500 मीटर की दौड़ दौड़ते हैं, तो A, C को कितनी शुरुआत दे सकता है ताकि वे एक साथ दौड़ समाप्त करें?",
+    "oEn": ["110.5 m", "105 m", "106.25 m", "112.25 m"],
+    "oHi": ["110.5 मीटर", "105 मीटर", "106.25 मीटर", "112.25 मीटर"],
+    "c": 2,
+    "exp": "Logic: Ratio of distances in the same time: A/B = 1000/900 = 10/9; B/C = 800/700 = 8/7. Combining ratios: A/C = (10/9) × (8/7) = 80/63. When A runs 80 m, C runs 63 m. In a 500 m race, when A runs 500 m, C runs 63 × (500/80) = 393.75 m. Start A can give C = 500 - 393.75 = 106.25 m.",
+    "Pyq": "2025_CGL_Tier2"
+  },
+  {
+    "en": "A fisherman rowing upstream drops his straw hat in the river. After 15 minutes, he realizes it is missing, instantly turns around, and catches up with the hat at a point exactly 2 km downstream from where it was dropped. What is the speed of the river current?",
+    "hi": "धारा के प्रतिकूल (upstream) नाव चलाता हुआ एक मछुआरा नदी में अपनी टोपी गिरा देता है। 15 मिनट बाद उसे अहसास होता है कि टोपी गायब है, वह तुरंत मुड़ता है और टोपी गिरने के स्थान से ठीक 2 किमी नीचे की ओर (downstream) टोपी को पकड़ लेता है। नदी की धारा की चाल क्या है?",
+    "oEn": ["4 km/h", "3 km/h", "5 km/h", "2 km/h"],
+    "oHi": ["4 किमी/घंटा", "3 किमी/घंटा", "5 किमी/घंटा", "2 किमी/घंटा"],
+    "c": 0,
+    "exp": "Logic: In the reference frame of the moving water, the hat is completely stationary. The fisherman moves away from the stationary hat for 15 minutes, so it will take him exactly 15 minutes to row back to it. Total floating time of the hat = 15 + 15 = 30 minutes = 0.5 hours. Distance moved by the water in 0.5 hrs = 2 km. Stream speed = 2 / 0.5 = 4 km/h.",
+    "Pyq": "2024_CGL_Tier2"
+  },
+  {
+    "en": "A student walks from his house at 2.5 km/h and reaches his school 6 minutes late. The next day, he increases his speed by 1 km/h and reaches 6 minutes early. How far is the school from his house?",
+    "hi": "एक छात्र अपने घर से 2.5 किमी/घंटा की चाल से चलता है और 6 मिनट की देरी से स्कूल पहुँचता है। अगले दिन, वह अपनी चाल 1 किमी/घंटा बढ़ा देता है और 6 मिनट पहले पहुँच जाता है। उसके घर से स्कूल कितनी दूर है?",
+    "oEn": ["2.25 km", "1.75 km", "1.5 km", "2.5 km"],
+    "oHi": ["2.25 किमी", "1.75 किमी", "1.5 किमी", "2.5 किमी"],
+    "c": 1,
+    "exp": "Logic: S1 = 2.5 km/h; S2 = 3.5 km/h. Total time difference ΔT = 6 + 6 = 12 minutes = 12/60 = 1/5 hours. Using the standard formula: Distance = [S1 × S2 / (S2 - S1)] × ΔT = [(2.5 × 3.5) / 1] × (1/5) = 8.75 / 5 = 1.75 km.",
+    "Pyq": "2023_CHSL_Tier2"
+  }
+]
