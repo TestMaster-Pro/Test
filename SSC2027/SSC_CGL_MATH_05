@@ -1,61 +1,61 @@
 [
-{
-"en": "Find the value of $240 \\div 16 \\text{ of } 4 + 2.25 \\times 4 - \\sqrt{1\\frac{9}{16}} \\times 2^2$.",
-"hi": "$240 \\div 16 \\text{ of } 4 + 2.25 \\times 4 - \\sqrt{1\\frac{9}{16}} \\times 2^2$ का मान ज्ञात कीजिए।",
-"oEn": ["7.75", "12.75", "8.75", "11.25"],
-"oHi": ["7.75", "12.75", "8.75", "11.25"],
-"c": 0,
-"exp": "By BODMAS, solve 'of' first: 16 of 4 = 64. Next, division: 240 ÷ 64 = 3.75. Solve the surd/square root: √(25/16) = 5/4 = 1.25. Multiply terms: 2.25 × 4 = 9, and 1.25 × 4 = 5. Combine everything: 3.75 + 9 - 5 = 7.75.",
-"Pyq": "2024_CGL_Tier1"
-},
-{
-"en": "If $x^2 - 5x + 1 = 0$, then find the value of $\\frac{x^6 + x^4 + x^2 + 1}{x^3}$.",
-"hi": "यदि $x^2 - 5x + 1 = 0$ है, तो $\\frac{x^6 + x^4 + x^2 + 1}{x^3}$ का मान ज्ञात कीजिए।",
-"oEn": ["115", "110", "120", "125"],
-"oHi": ["115", "110", "120", "125"],
-"c": 0,
-"exp": "Divide the given equation by x to get $x + 1/x = 5$. The expression simplifies to $(x^3 + x + 1/x + 1/x^3) = (x^3 + 1/x^3) + (x + 1/x)$. We know $x^3 + 1/x^3 = 5^3 - 3(5) = 110. Adding $(x+1/x)$, we get 110 + 5 = 115.",
+  {
+    "en": "Find the value of $240 \\div 16 \\text{ of } 4 + 2.25 \\times 4 - \\sqrt{1\\frac{9}{16}} \\times 2^2$.",
+    "hi": "$240 \\div 16 \\text{ of } 4 + 2.25 \\times 4 - \\sqrt{1\\frac{9}{16}} \\times 2^2$ का मान ज्ञात कीजिए।",
+    "oEn": ["7.75", "12.75", "8.75", "11.25"],
+    "oHi": ["7.75", "12.75", "8.75", "11.25"],
+    "c": 0,
+    "exp": "By BODMAS, solve 'of' first: 16 of 4 = 64. Next, division: 240 ÷ 64 = 3.75. Solve the surd/square root: √(25/16) = 5/4 = 1.25. Multiply terms: 2.25 × 4 = 9, and 1.25 × 4 = 5. Combine everything: 3.75 + 9 - 5 = 7.75.",
+    "Pyq": "2024_CGL_Tier1"
+  },
+  {
+    "en": "If $x^2 - 5x + 1 = 0$, then find the value of $\\frac{x^6 + x^4 + x^2 + 1}{x^3}$.",
+    "hi": "यदि $x^2 - 5x + 1 = 0$ है, तो $\\frac{x^6 + x^4 + x^2 + 1}{x^3}$ का मान ज्ञात कीजिए।",
+    "oEn": ["115", "110", "120", "125"],
+    "oHi": ["115", "110", "120", "125"],
+    "c": 0,
+    "exp": "Divide the given equation by x to get $x + 1/x = 5$. The expression simplifies to $(x^3 + x + 1/x + 1/x^3) = (x^3 + 1/x^3) + (x + 1/x)$. We know $x^3 + 1/x^3 = 5^3 - 3(5) = 110. Adding $(x+1/x)$, we get 110 + 5 = 115.",
     "Pyq": "2023_CGL_Tier1"
   },
   {
-    "en": "Find the value of $\frac{\sqrt{5}}{\sqrt{3} + \sqrt{2}} - \frac{3\sqrt{3}}{\sqrt{5} + \sqrt{2}} + \frac{2\sqrt{2}}{\sqrt{5} + \sqrt{3}}$.",
-    "hi": "$\frac{\sqrt{5}}{\sqrt{3} + \sqrt{2}} - \frac{3\sqrt{3}}{\sqrt{5} + \sqrt{2}} + \frac{2\sqrt{2}}{\sqrt{5} + \sqrt{3}}$ का मान ज्ञात कीजिए।",
-"oEn": ["0", "2\sqrt{6}", "2\sqrt{15}", "1"],
-"oHi": ["0", "2\sqrt{6}", "2\sqrt{15}", "1"],
-"c": 0,
-"exp": "Rationalize each term separately: Term 1 = √5(√3 - √2) = √15 - √10. Term 2 = 3√3(√5 - √2)/3 = √15 - √6. Term 3 = 2√2(√5 - √3)/2 = √10 - √6. Combine terms: (√15 - √10) - (√15 - √6) + (√10 - √6) = 0.",
-"Pyq": "2022_CHSL_Tier1"
-},
-{
-"en": "In an exam, 45% of students passed in History, 60% passed in Hindi, and 20% failed in both subjects. If 300 students passed in both, find the total number of students who appeared.",
-"hi": "एक परीक्षा में, 45% छात्र इतिहास में उत्तीर्ण हुए, 60% हिंदी में उत्तीर्ण हुए, और 20% दोनों विषयों में अनुत्तीर्ण रहे। यदि 300 छात्र दोनों विषयों में उत्तीर्ण हुए, तो परीक्षा में बैठने वाले छात्रों की कुल संख्या ज्ञात कीजिए।",
-"oEn": ["1000", "1200", "1500", "800"],
-"oHi": ["1000", "1200", "1500", "800"],
-"c": 1,
-"exp": "Since 20% failed in both, total unique students passed in at least one subject = 100% - 20% = 80%. Using sets: P(History) + P(Hindi) - P(Both) = Total Passed -> 45% + 60% - X% = 80% -> X = 25%. Given 25% = 300, so Total (100%) = 1200.",
-"Pyq": "2024_CGL_Tier1"
-},
-{
-"en": "Due to a reduction of 20% in the price of sugar, a man can buy 5 kg more sugar for ₹600. Find the original price of sugar per kg.",
-"hi": "चीनी की कीमत में 20% की कमी के कारण, एक व्यक्ति ₹600 में 5 किलोग्राम अधिक चीनी खरीद सकता है। चीनी का प्रारंभिक मूल्य प्रति किलोग्राम ज्ञात कीजिए।",
-"oEn": ["₹24/kg", "₹30/kg", "₹25/kg", "₹32/kg"],
-"oHi": ["₹24/किग्रा", "₹30/किग्रा", "₹25/किग्रा", "₹32/किग्रा"],
-"c": 1,
-"exp": "20% reduction of ₹600 = ₹120. With ₹120, he buys 5 kg extra, so Reduced Price = 120/5 = ₹24/kg. Original Price × 0.8 = 24 -> Original Price = 24 / 0.8 = ₹30/kg.",
-"Pyq": "2023_CHSL_Tier1"
-},
-{
-"en": "A dealer marks his goods 40% above the cost price and allows two successive discounts of 15% and 10% to the customers. What is his net profit percentage?",
-"hi": "एक विक्रेता अपनी वस्तुओं पर क्रय मूल्य से 40% अधिक अंकित करता है और ग्राहकों को 15% और 10% की दो क्रमिक छूट देता है। उसका शुद्ध लाभ प्रतिशत क्या है?",
-"oEn": ["7.1%", "6.4%", "8.2%", "7.2%"],
-"oHi": ["7.1%", "6.4%", "8.2%", "7.2%"],
-"c": 0,
-"exp": "Let CP = 100. Marked Price (MP) = 140. Selling Price (SP) = 140 × 0.85 × 0.90 = 140 × 0.765 = 107.1. Profit = 107.1 - 100 = 7.1%.",
-"Pyq": "2024_CGL_Tier1"
-},
-{
-"en": "An article is sold at a certain price. If it is sold at $33\frac{1}{3}\%$ of this price, there is a loss of $33\frac{1}{3}\%$. What is the percentage profit when it is sold at 60% of the original selling price?",
-"hi": "एक वस्तु को एक निश्चित मूल्य पर बेचा जाता है। यदि इसे इस मूल्य के $33\frac{1}{3}\%$ पर बेचा जाता है, तो $33\frac{1}{3}\%$ की हानि होती है। जब इसे मूल विक्रय मूल्य के 60% पर बेचा जाता है, तो प्रतिशत लाभ क्या होगा?",
+    "en": "Find the value of $\\frac{\\sqrt{5}}{\\sqrt{3} + \\sqrt{2}} - \\frac{3\\sqrt{3}}{\\sqrt{5} + \\sqrt{2}} + \\frac{2\\sqrt{2}}{\\sqrt{5} + \\sqrt{3}}$.",
+    "hi": "$\\frac{\\sqrt{5}}{\\sqrt{3} + \\sqrt{2}} - \\frac{3\\sqrt{3}}{\\sqrt{5} + \\sqrt{2}} + \\frac{2\\sqrt{2}}{\\sqrt{5} + \\sqrt{3}}$ का मान ज्ञात कीजिए।",
+    "oEn": ["0", "2\\sqrt{6}", "2\\sqrt{15}", "1"],
+    "oHi": ["0", "2\\sqrt{6}", "2\\sqrt{15}", "1"],
+    "c": 0,
+    "exp": "Rationalize each term separately: Term 1 = √5(√3 - √2) = √15 - √10. Term 2 = 3√3(√5 - √2)/3 = √15 - √6. Term 3 = 2√2(√5 - √3)/2 = √10 - √6. Combine terms: (√15 - √10) - (√15 - √6) + (√10 - √6) = 0.",
+    "Pyq": "2022_CHSL_Tier1"
+  },
+  {
+    "en": "In an exam, 45% of students passed in History, 60% passed in Hindi, and 20% failed in both subjects. If 300 students passed in both, find the total number of students who appeared.",
+    "hi": "एक परीक्षा में, 45% छात्र इतिहास में उत्तीर्ण हुए, 60% हिंदी में उत्तीर्ण हुए, और 20% दोनों विषयों में अनुत्तीर्ण रहे। यदि 300 छात्र दोनों विषयों में उत्तीर्ण हुए, तो परीक्षा में बैठने वाले छात्रों की कुल संख्या ज्ञात कीजिए।",
+    "oEn": ["1000", "1200", "1500", "800"],
+    "oHi": ["1000", "1200", "1500", "800"],
+    "c": 1,
+    "exp": "Since 20% failed in both, total unique students passed in at least one subject = 100% - 20% = 80%. Using sets: P(History) + P(Hindi) - P(Both) = Total Passed -> 45% + 60% - X% = 80% -> X = 25%. Given 25% = 300, so Total (100%) = 1200.",
+    "Pyq": "2024_CGL_Tier1"
+  },
+  {
+    "en": "Due to a reduction of 20% in the price of sugar, a man can buy 5 kg more sugar for ₹600. Find the original price of sugar per kg.",
+    "hi": "चीनी की कीमत में 20% की कमी के कारण, एक व्यक्ति ₹600 में 5 किलोग्राम अधिक चीनी खरीद सकता है। चीनी का प्रारंभिक मूल्य प्रति किलोग्राम ज्ञात कीजिए।",
+    "oEn": ["₹24/kg", "₹30/kg", "₹25/kg", "₹32/kg"],
+    "oHi": ["₹24/किग्रा", "₹30/किग्रा", "₹25/किग्रा", "₹32/किग्रा"],
+    "c": 1,
+    "exp": "20% reduction of ₹600 = ₹120. With ₹120, he buys 5 kg extra, so Reduced Price = 120/5 = ₹24/kg. Original Price × 0.8 = 24 -> Original Price = 24 / 0.8 = ₹30/kg.",
+    "Pyq": "2023_CHSL_Tier1"
+  },
+  {
+    "en": "A dealer marks his goods 40% above the cost price and allows two successive discounts of 15% and 10% to the customers. What is his net profit percentage?",
+    "hi": "एक विक्रेता अपनी वस्तुओं पर क्रय मूल्य से 40% अधिक अंकित करता है और ग्राहकों को 15% और 10% की दो क्रमिक छूट देता है। उसका शुद्ध लाभ प्रतिशत क्या है?",
+    "oEn": ["7.1%", "6.4%", "8.2%", "7.2%"],
+    "oHi": ["7.1%", "6.4%", "8.2%", "7.2%"],
+    "c": 0,
+    "exp": "Let CP = 100. Marked Price (MP) = 140. Selling Price (SP) = 140 × 0.85 × 0.90 = 140 × 0.765 = 107.1. Profit = 107.1 - 100 = 7.1%.",
+    "Pyq": "2024_CGL_Tier1"
+  },
+  {
+    "en": "An article is sold at a certain price. If it is sold at $33\\frac{1}{3}\\%$ of this price, there is a loss of $33\\frac{1}{3}\\%$. What is the percentage profit when it is sold at 60% of the original selling price?",
+    "hi": "एक वस्तु को एक निश्चित मूल्य पर बेचा जाता है। यदि इसे इस मूल्य के $33\\frac{1}{3}\\%$ पर बेचा जाता है, तो $33\\frac{1}{3}\\%$ की हानि होती है। जब इसे मूल विक्रय मूल्य के 60% पर बेचा जाता है, तो प्रतिशत लाभ क्या होगा?",
     "oEn": ["20%", "30%", "25%", "15%"],
     "oHi": ["20%", "30%", "25%", "15%"],
     "c": 0,
@@ -98,15 +98,15 @@
     "exp": "Since the time intervals are equal (0 to 3 yrs and 3 to 6 yrs), the scale factor remains constant. A2/A1 = 12042 / 8028 = 1.5. Thus, A1/P = 1.5 -> 8028 / P = 1.5 -> P = 8028 / 1.5 = ₹5,352.",
     "Pyq": "2023_CGL_Tier1"
   },
-{
-  "en": "A debt of ₹5,040 is due after 2 years at 10% per annum compound interest, compounded annually. If it is to be discharged by two equal annual instalments, the first paid at the end of the first year and the second at the end of the second year, find the amount of each instalment.",
-  "hi": "10% वार्षिक चक्रवृद्धि ब्याज (वार्षिक संयोजित) की दर से 2 वर्ष बाद देय ₹5,040 के ऋण को यदि वर्ष के अंत में देय दो समान वार्षिक किश्तों द्वारा चुकाया जाए, तो प्रत्येक किश्त का मान ज्ञात कीजिए।",
-  "oEn": ["₹2,400", "₹2,520", "₹2,640", "₹2,904"],
-  "oHi": ["₹2,400", "₹2,520", "₹2,640", "₹2,904"],
-  "c": 0,
-  "exp": "The present value (PV) of the debt is ₹5040 ÷ (1.10)^2 = ₹4165.29. Let each annual instalment be x. The PV of the two instalments is x/1.10 + x/(1.10)^2. Therefore, x(10/11 + 100/121) = 4165.29 = 5040/1.21. Solving, x = ₹2,400. Hence, each annual instalment is ₹2,400.",
-  "Pyq": "2025_Trend_Based"
-},
+  {
+    "en": "A debt of ₹5,040 is due after 2 years at 10% per annum compound interest, compounded annually. If it is to be discharged by two equal annual instalments, the first paid at the end of the first year and the second at the end of the second year, find the amount of each instalment.",
+    "hi": "10% वार्षिक चक्रवृद्धि ब्याज (वार्षिक संयोजित) की दर से 2 वर्ष बाद देय ₹5,040 के ऋण को यदि वर्ष के अंत में देय दो समान वार्षिक किश्तों द्वारा चुकाया जाए, तो प्रत्येक किश्त का मान ज्ञात कीजिए।",
+    "oEn": ["₹2,400", "₹2,520", "₹2,640", "₹2,904"],
+    "oHi": ["₹2,400", "₹2,520", "₹2,640", "₹2,904"],
+    "c": 0,
+    "exp": "The present value (PV) of the debt is ₹5040 ÷ (1.10)^2 = ₹4165.29. Let each annual instalment be x. The PV of the two instalments is x/1.10 + x/(1.10)^2. Therefore, x(10/11 + 100/121) = 4165.29 = 5040/1.21. Solving, x = ₹2,400. Hence, each annual instalment is ₹2,400.",
+    "Pyq": "2025_Trend_Based"
+  },
   {
     "en": "The ratio of copper and zinc in alloy A is 3 : 4 and in alloy B it is 5 : 9. In what ratio should A and B be mixed to get a new alloy C containing copper and zinc in the ratio 2 : 3?",
     "hi": "मिश्र धातु A में तांबे और जस्ता का अनुपात 3 : 4 है और मिश्र धातु B में यह 5 : 9 है। एक नई मिश्र धातु C प्राप्त करने के लिए A और B को किस अनुपात में मिलाया जाना चाहिए जिसमें तांबे और जस्ता का अनुपात 2 : 3 हो?",
@@ -117,111 +117,111 @@
     "Pyq": "2024_CGL_Tier1"
   },
   {
-    "en": "A, B, and C enter into a partnership with capitals in the ratio $\frac{2}{3} : \frac{3}{5} : \frac{5}{6}$. After 8 months, A increases his capital by 25%. If the total profit at the end of the year is ₹5,820, find C's share of profit.",
-    "hi": "A, B, और C $\frac{2}{3} : \frac{3}{5} : \frac{5}{6}$ के अनुपात में पूंजी के साथ एक साझेदारी करते हैं। 8 महीने बाद, A अपनी पूंजी में 25% की वृद्धि करता है। यदि वर्ष के अंत में कुल लाभ ₹5,820 है, तो लाभ में C का हिस्सा ज्ञात कीजिए।",
-"oEn": ["₹2,250", "₹1,800", "₹2,500", "₹2,000"],
-"oHi": ["₹2,250", "₹1,800", "₹2,500", "₹2,000"],
-"c": 0,
-"exp": "Multiply the fractions by LCM of denominators (30) to get integer capital ratios: A:B:C = 20 : 18 : 25. Profit shares: A = 20×8 + (20×1.25)×4 = 160 + 25×4 = 260. B = 18 × 12 = 216. C = 25 × 12 = 300. Ratio = 260 : 216 : 300 = 65 : 54 : 75. Total units = 194. 194 units = 5820 -> 1 unit = 30. C's share = 75 × 30 = ₹2,250.",
-"Pyq": "2023_CHSL_Tier1"
-},
-{
-"en": "The ratio of monthly incomes of X and Y is 5 : 4 and that of their monthly expenditures is 9 : 7. If each saves ₹5,000 per month, find the monthly income of X.",
-"hi": "X और Y की मासिक आय का अनुपात 5 : 4 है और उनके मासिक व्यय का अनुपात 9 : 7 है। यदि प्रत्येक प्रति माह ₹5,000 बचाता है, तो X की मासिक आय ज्ञात कीजिए।",
-"oEn": ["₹50,000", "₹40,000", "₹45,000", "₹60,000"],
-"oHi": ["₹50,000", "₹40,000", "₹45,000", "₹60,000"],
-"c": 0,
-"exp": "Let income be 5a and 4a, expenditure be 9b and 7b. $5a - 9b = 5000$ and $4a - 7b = 5000$. Equating them: $5a - 9b = 4a - 7b \implies a = 2b$. Substitute in first: $10b - 9b = 5000 \implies b = 5000$. Then $a = 10000$. Income of X = 5a = ₹50,000.",
-"Pyq": "2024_CGL_Tier1"
-},
-{
-"en": "The average of 25 numbers is 54. The average of the first 13 numbers is 50 and that of the last 13 numbers is 56. Find the 13th number.",
-"hi": "25 संख्याओं का औसत 54 है। पहली 13 संख्याओं का औसत 50 है और अंतिम 13 संख्याओं का औसत 56 है। 13वीं संख्या ज्ञात कीजिए।",
-"oEn": ["32", "28", "38", "42"],
-"oHi": ["32", "28", "38", "42"],
-"c": 1,
-"exp": "Sum of 25 numbers = 25 × 54 = 1350. Sum of first 13 = 13 × 50 = 650. Sum of last 13 = 13 × 56 = 728. Sum of these 26 numbers (including 13th twice) = 650 + 728 = 1378. 13th number = 1378 - 1350 = 28.",
-"Pyq": "2023_CGL_Tier1"
-},
-{
-"en": "The average weight of some students in a class was 58.4 kg. When 5 students having an average weight of 62.8 kg joined the class, the average weight of all students increased by 0.55 kg. Find the initial number of students in the class.",
-"hi": "एक कक्षा में कुछ छात्रों का औसत वजन 58.4 किलोग्राम था। जब 62.8 किलोग्राम औसत वजन वाले 5 छात्र कक्षा में शामिल हुए, तो सभी छात्रों का औसत वजन 0.55 किलोग्राम बढ़ गया। कक्षा में छात्रों की प्रारंभिक संख्या ज्ञात कीजिए।",
-"oEn": ["35", "40", "30", "45"],
-"oHi": ["35", "40", "30", "45"],
-"c": 0,
-"exp": "Total extra weight brought by 5 new students = 5 × (62.8 - 58.4) = 5 × 4.4 = 22 kg. This 22 kg causes a net average increase of 0.55 kg across all final students. Total final students = 22 / 0.55 = 40. Initial students = 40 - 5 = 35.",
-"Pyq": "2024_CGL_Tier1"
-},
-{
-"en": "A can complete a work in 20 days and B can do the same work in 30 days. They start working together, but A leaves 5 days before the completion of the work. Find the total time taken to complete the work.",
-"hi": "A किसी कार्य को 20 दिनों में पूरा कर सकता है और B उसी कार्य को 30 दिनों में पूरा कर सकता है। वे एक साथ कार्य करना शुरू करते हैं, लेकिन A कार्य पूरा होने से 5 दिन पहले कार्य छोड़ देता है। कार्य को पूरा करने में लगा कुल समय ज्ञात कीजिए।",
-"oEn": ["15 days", "14 days", "16 days", "12 days"],
-"oHi": ["15 दिन", "14 दिन", "16 दिन", "12 दिन"],
-"c": 0,
-"exp": "Let Total Work = 60 units (LCM of 20, 30). Efficiency of A = 3, Efficiency of B = 2. Since A leaves 5 days before completion, B works alone for the last 5 days. Work done by B in last 5 days = 5 × 2 = 10 units. Remaining 50 units were completed by A and B together. Time taken together = 50 / (3 + 2) = 10 days. Total time = 10 + 5 = 15 days.",
-"Pyq": "2024_CGL_Tier1"
-},
-{
-"en": "A is 40% more efficient than B and C is 20% less efficient than B. Working together, they can finish a work in 15 days. In how many days can A alone complete 70% of that work?",
-"hi": "A, B से 40% अधिक कुशल है और C, B से 20% कम कुशल है। एक साथ कार्य करते हुए, वे एक कार्य को 15 दिनों में समाप्त कर सकते हैं। A अकेला उस कार्य का 70% कितने दिनों में पूरा कर सकता है?",
-"oEn": ["21 days", "18 days", "24 days", "20 days"],
-"oHi": ["21 दिन", "18 दिन", "24 दिन", "20 दिन"],
-"c": 2,
-"exp": "Let efficiency of B = 100 -> A = 140, C = 80. Ratio of efficiencies A : B : C = 7 : 5 : 4. Total efficiency = 16. Total work = 16 × 15 = 240 units. 70% of work = 240 × 0.7 = 168 units. Time taken by A = 168 / 7 = 24 days.",
-"Pyq": "2023_CHSL_Tier1"
-},
-{
-"en": "A, B, and C can complete a piece of work in 10, 12, and 15 days respectively. They began the work together, but A left after 2 days and B left 3 days before the completion of the work. In how many days was the work completed?",
-"hi": "A, B, और C क्रमशः 10, 12, और 15 दिनों में एक कार्य पूरा कर सकते हैं। उन्होंने एक साथ कार्य शुरू किया, लेकिन A ने 2 दिनों के बाद कार्य छोड़ दिया और B ने कार्य पूरा होने से 3 दिन पहले कार्य छोड़ दिया। कार्य कितने दिनों में पूरा हुआ?",
-"oEn": ["7 days", "6 days", "5 days", "8 days"],
-"oHi": ["7 दिन", "6 दिन", "5 दिन", "8 दिन"],
-"c": 0,
-"exp": "Total work = 60 units. Efficiencies: A=6, B=5, C=4. In 2 days, A+B+C do (6+5+4)×2 = 30 units. Remaining work = 30 units. A is gone, only B and C remain. B leaves 3 days before the end, so C works alone for the last 3 days. C does 4×3 = 12 units. Remaining 18 units were done by B and C together. Time taken by B+C = 18 / (5+4) = 2 days. Total time = 2 days (all) + 2 days (B+C) + 3 days (C) = 7 days.",
-"Pyq": "2024_CGL_Tier1"
-},
-{
-"en": "Pipes P and Q can fill a cistern in 12 and 16 hours respectively, while pipe R can empty the full cistern in 24 hours. If all three pipes are opened together, how much time will it take to fill the cistern completely?",
-"hi": "पाइप P और Q एक टंकी को क्रमशः 12 और 16 घंटे में भर सकते हैं, जबकि पाइप R पूरी भरी हुई टंकी को 24 घंटे में खाली कर सकता है। यदि तीनों पाइपों को एक साथ खोल दिया जाए, तो टंकी को पूरी तरह भरने में कितना समय लगेगा?",
-"oEn": ["9.6 hours", "8.4 hours", "10.2 hours", "11.5 hours"],
-"oHi": ["9.6 घंटे", "8.4 घंटे", "10.2 घंटे", "11.5 घंटे"],
-"c": 0,
-"exp": "Total capacity = 48 units (LCM of 12, 16, 24). Efficiency of P = +4, Q = +3, R = -2. Net efficiency when all open = 4 + 3 - 2 = +5 units/hour. Total time taken = 48 / 5 = 9.6 hours.",
-"Pyq": "2024_CHSL_Tier1"
-},
-{
-"en": "Pipe A can fill a tank in 20 minutes, while Pipe B can empty it in 30 minutes. If they are opened alternately for 1 minute each starting with Pipe A, how long will it take to fill the tank completely?",
-"hi": "पाइप A एक टैंक को 20 मिनट में भर सकता है, जबकि पाइप B इसे 30 मिनट में खाली कर सकता है। यदि उन्हें पाइप A से शुरू करते हुए बारी-बारी से 1-1 मिनट के लिए खोला जाता है, तो टैंक को पूरी तरह भरने में कितना समय लगेगा?",
-"oEn": ["115 minutes", "113 minutes", "117 minutes", "120 minutes"],
-"oHi": ["115 मिनट", "113 मिनट", "117 मिनट", "120 मिनट"],
-"c": 0,
-"exp": "Capacity = 60 units. Efficiency of A = +3, B = -2. In 2 minutes cycle, net filled = 3 - 2 = 1 unit. To avoid overfilling near the end, subtract A's work from total: 60 - 3 = 57 units. 57 units require 57 cycles = 114 minutes. On 115th minute, Pipe A opens and fills the remaining 3 units. Total time = 115 minutes.",
-"Pyq": "2023_CGL_Tier1"
-},
-{
-"en": "A train covers a distance between two stations A and B in 45 minutes. If its speed is reduced by 5 km/h, it covers the same distance in 48 minutes. Find the distance between stations A and B.",
-"hi": "एक ट्रेन दो स्टेशनों A और B के बीच की दूरी 45 मिनट में तय करती है। यदि इसकी चाल 5 किमी/घंटा कम कर दी जाती है, तो यह समान दूरी 48 मिनट में तय करती है। स्टेशनों A और B के बीच की दूरी ज्ञात कीजिए।",
-"oEn": ["40 km", "45 km", "50 km", "60 km"],
-"oHi": ["40 किमी", "45 किमी", "50 किमी", "60 किमी"],
-"c": 3,
-"exp": "Since distance is constant, speed is inversely proportional to time. Ratio of time = 45 : 48 = 15 : 16. Ratio of speed = 16 : 15. Difference in speed units = 1 unit = 5 km/h. Initial speed = 16 × 5 = 80 km/h. Distance = Speed × Time = 80 × (45/60) = 60 km.",
-"Pyq": "2024_CGL_Tier1"
-},
-{
-"en": "A and B run a 1 km race. A wins by 100 meters or 20 seconds. Find the speed of A.",
-"hi": "A और B 1 किमी की दौड़ लगाते हैं। A, 100 मीटर या 20 सेकंड से जीतता है। A की चाल ज्ञात कीजिए।",
-"oEn": ["5.55 m/s", "5 m/s", "6.25 m/s", "4.5 m/s"],
-"oHi": ["5.55 मीटर/सेकंड", "5 मीटर/सेकंड", "6.25 मीटर/सेकंड", "4.5 मीटर/सेकंड"],
-"c": 0,
-"exp": "A winning by 100m or 20s means B covers 100m in 20 seconds. Speed of B = 100/20 = 5 m/s. Time taken by B to finish the 1000m race = 1000/5 = 200 seconds. Since A wins by 20 seconds, time taken by A = 200 - 20 = 180 seconds. Speed of A = 1000 / 180 = 5.55 m/s.",
-"Pyq": "2024_CGL_Tier1"
-},
-{
-"en": "A motorboat can travel 24 km upstream and 36 km downstream in a total of 6 hours. It can travel 36 km upstream and 24 km downstream in 6.5 hours. Find the speed of the stream.",
-"hi": "एक मोटरबोट कुल 6 घंटे में 24 किमी धारा के प्रतिकूल (upstream) और 36 किमी धारा के अनुकूल (downstream) यात्रा कर सकती है। यह 6.5 घंटे में 36 किमी धारा के प्रतिकूल और 24 किमी धारा के अनुकूल यात्रा कर सकती है। धारा की चाल ज्ञात कीजिए।",
-"oEn": ["2 km/h", "3 km/h", "4 km/h", "5 km/h"],
-"oHi": ["2 किमी/घंटा", "3 किमी/घंटा", "4 किमी/घंटा", "5 किमी/घंटा"],
-"c": 0,
-"exp": "Let upstream speed be U and downstream speed be D. $24/U + 36/D = 6$ and $36/U + 24/D = 6.5$. Solving these linear equations gives U = 8 km/h and D = 12 km/h. Speed of boat in still water = (12+8)/2 = 10 km/h. Speed of stream = (12-8)/2 = 2 km/h.",
-"Pyq": "2023_CGL_Mains"
-}
+    "en": "A, B, and C enter into a partnership with capitals in the ratio $\\frac{2}{3} : \\frac{3}{5} : \\frac{5}{6}$. After 8 months, A increases his capital by 25%. If the total profit at the end of the year is ₹5,820, find C's share of profit.",
+    "hi": "A, B, और C $\\frac{2}{3} : \\frac{3}{5} : \\frac{5}{6}$ के अनुपात में पूंजी के साथ एक साझेदारी करते हैं। 8 महीने बाद, A अपनी पूंजी में 25% की वृद्धि करता है। यदि वर्ष के अंत में कुल लाभ ₹5,820 है, तो लाभ में C का हिस्सा ज्ञात कीजिए।",
+    "oEn": ["₹2,250", "₹1,800", "₹2,500", "₹2,000"],
+    "oHi": ["₹2,250", "₹1,800", "₹2,500", "₹2,000"],
+    "c": 0,
+    "exp": "Multiply the fractions by LCM of denominators (30) to get integer capital ratios: A:B:C = 20 : 18 : 25. Profit shares: A = 20×8 + (20×1.25)×4 = 160 + 25×4 = 260. B = 18 × 12 = 216. C = 25 × 12 = 300. Ratio = 260 : 216 : 300 = 65 : 54 : 75. Total units = 194. 194 units = 5820 -> 1 unit = 30. C's share = 75 × 30 = ₹2,250.",
+    "Pyq": "2023_CHSL_Tier1"
+  },
+  {
+    "en": "The ratio of monthly incomes of X and Y is 5 : 4 and that of their monthly expenditures is 9 : 7. If each saves ₹5,000 per month, find the monthly income of X.",
+    "hi": "X और Y की मासिक आय का अनुपात 5 : 4 है और उनके मासिक व्यय का अनुपात 9 : 7 है। यदि प्रत्येक प्रति माह ₹5,000 बचाता है, तो X की मासिक आय ज्ञात कीजिए।",
+    "oEn": ["₹50,000", "₹40,000", "₹45,000", "₹60,000"],
+    "oHi": ["₹50,000", "₹40,000", "₹45,000", "₹60,000"],
+    "c": 0,
+    "exp": "Let income be 5a and 4a, expenditure be 9b and 7b. $5a - 9b = 5000$ and $4a - 7b = 5000$. Equating them: $5a - 9b = 4a - 7b \\implies a = 2b$. Substitute in first: $10b - 9b = 5000 \\implies b = 5000$. Then $a = 10000$. Income of X = 5a = ₹50,000.",
+    "Pyq": "2024_CGL_Tier1"
+  },
+  {
+    "en": "The average of 25 numbers is 54. The average of the first 13 numbers is 50 and that of the last 13 numbers is 56. Find the 13th number.",
+    "hi": "25 संख्याओं का औसत 54 है। पहली 13 संख्याओं का औसत 50 है और अंतिम 13 संख्याओं का औसत 56 है। 13वीं संख्या ज्ञात कीजिए।",
+    "oEn": ["32", "28", "38", "42"],
+    "oHi": ["32", "28", "38", "42"],
+    "c": 1,
+    "exp": "Sum of 25 numbers = 25 × 54 = 1350. Sum of first 13 = 13 × 50 = 650. Sum of last 13 = 13 × 56 = 728. Sum of these 26 numbers (including 13th twice) = 650 + 728 = 1378. 13th number = 1378 - 1350 = 28.",
+    "Pyq": "2023_CGL_Tier1"
+  },
+  {
+    "en": "The average weight of some students in a class was 58.4 kg. When 5 students having an average weight of 62.8 kg joined the class, the average weight of all students increased by 0.55 kg. Find the initial number of students in the class.",
+    "hi": "एक कक्षा में कुछ छात्रों का औसत वजन 58.4 किलोग्राम था। जब 62.8 किलोग्राम औसत वजन वाले 5 छात्र कक्षा में शामिल हुए, तो सभी छात्रों का औसत वजन 0.55 किलोग्राम बढ़ गया। कक्षा में छात्रों की प्रारंभिक संख्या ज्ञात कीजिए।",
+    "oEn": ["35", "40", "30", "45"],
+    "oHi": ["35", "40", "30", "45"],
+    "c": 0,
+    "exp": "Total extra weight brought by 5 new students = 5 × (62.8 - 58.4) = 5 × 4.4 = 22 kg. This 22 kg causes a net average increase of 0.55 kg across all final students. Total final students = 22 / 0.55 = 40. Initial students = 40 - 5 = 35.",
+    "Pyq": "2024_CGL_Tier1"
+  },
+  {
+    "en": "A can complete a work in 20 days and B can do the same work in 30 days. They start working together, but A leaves 5 days before the completion of the work. Find the total time taken to complete the work.",
+    "hi": "A किसी कार्य को 20 दिनों में पूरा कर सकता है और B उसी कार्य को 30 दिनों में पूरा कर सकता है। वे एक साथ कार्य करना शुरू करते हैं, लेकिन A कार्य पूरा होने से 5 दिन पहले कार्य छोड़ देता है। कार्य को पूरा करने में लगा कुल समय ज्ञात कीजिए।",
+    "oEn": ["15 days", "14 days", "16 days", "12 days"],
+    "oHi": ["15 दिन", "14 दिन", "16 दिन", "12 दिन"],
+    "c": 0,
+    "exp": "Let Total Work = 60 units (LCM of 20, 30). Efficiency of A = 3, Efficiency of B = 2. Since A leaves 5 days before completion, B works alone for the last 5 days. Work done by B in last 5 days = 5 × 2 = 10 units. Remaining 50 units were completed by A and B together. Time taken together = 50 / (3 + 2) = 10 days. Total time = 10 + 5 = 15 days.",
+    "Pyq": "2024_CGL_Tier1"
+  },
+  {
+    "en": "A is 40% more efficient than B and C is 20% less efficient than B. Working together, they can finish a work in 15 days. In how many days can A alone complete 70% of that work?",
+    "hi": "A, B से 40% अधिक कुशल है और C, B से 20% कम कुशल है। एक साथ कार्य करते हुए, वे एक कार्य को 15 दिनों में समाप्त कर सकते हैं। A अकेला उस कार्य का 70% कितने दिनों में पूरा कर सकता है?",
+    "oEn": ["21 days", "18 days", "24 days", "20 days"],
+    "oHi": ["21 दिन", "18 दिन", "24 दिन", "20 दिन"],
+    "c": 2,
+    "exp": "Let efficiency of B = 100 -> A = 140, C = 80. Ratio of efficiencies A : B : C = 7 : 5 : 4. Total efficiency = 16. Total work = 16 × 15 = 240 units. 70% of work = 240 × 0.7 = 168 units. Time taken by A = 168 / 7 = 24 days.",
+    "Pyq": "2023_CHSL_Tier1"
+  },
+  {
+    "en": "A, B, and C can complete a piece of work in 10, 12, and 15 days respectively. They began the work together, but A left after 2 days and B left 3 days before the completion of the work. In how many days was the work completed?",
+    "hi": "A, B, और C क्रमशः 10, 12, और 15 दिनों में एक कार्य पूरा कर सकते हैं। उन्होंने एक साथ कार्य शुरू किया, लेकिन A ने 2 दिनों के बाद कार्य छोड़ दिया और B ने कार्य पूरा होने से 3 दिन पहले कार्य छोड़ दिया। कार्य कितने दिनों में पूरा हुआ?",
+    "oEn": ["7 days", "6 days", "5 days", "8 days"],
+    "oHi": ["7 दिन", "6 दिन", "5 दिन", "8 दिन"],
+    "c": 0,
+    "exp": "Total work = 60 units. Efficiencies: A=6, B=5, C=4. In 2 days, A+B+C do (6+5+4)×2 = 30 units. Remaining work = 30 units. A is gone, only B and C remain. B leaves 3 days before the end, so C works alone for the last 3 days. C does 4×3 = 12 units. Remaining 18 units were done by B and C together. Time taken by B+C = 18 / (5+4) = 2 days. Total time = 2 days (all) + 2 days (B+C) + 3 days (C) = 7 days.",
+    "Pyq": "2024_CGL_Tier1"
+  },
+  {
+    "en": "Pipes P and Q can fill a cistern in 12 and 16 hours respectively, while pipe R can empty the full cistern in 24 hours. If all three pipes are opened together, how much time will it take to fill the cistern completely?",
+    "hi": "पाइप P और Q एक टंकी को क्रमशः 12 और 16 घंटे में भर सकते हैं, जबकि पाइप R पूरी भरी हुई टंकी को 24 घंटे में खाली कर सकता है। यदि तीनों पाइपों को एक साथ खोल दिया जाए, तो टंकी को पूरी तरह भरने में कितना समय लगेगा?",
+    "oEn": ["9.6 hours", "8.4 hours", "10.2 hours", "11.5 hours"],
+    "oHi": ["9.6 घंटे", "8.4 घंटे", "10.2 घंटे", "11.5 घंटे"],
+    "c": 0,
+    "exp": "Total capacity = 48 units (LCM of 12, 16, 24). Efficiency of P = +4, Q = +3, R = -2. Net efficiency when all open = 4 + 3 - 2 = +5 units/hour. Total time taken = 48 / 5 = 9.6 hours.",
+    "Pyq": "2024_CHSL_Tier1"
+  },
+  {
+    "en": "Pipe A can fill a tank in 20 minutes, while Pipe B can empty it in 30 minutes. If they are opened alternately for 1 minute each starting with Pipe A, how long will it take to fill the tank completely?",
+    "hi": "पाइप A एक टैंक को 20 मिनट में भर सकता है, जबकि पाइप B इसे 30 मिनट में खाली कर सकता है। यदि उन्हें पाइप A से शुरू करते हुए बारी-बारी से 1-1 मिनट के लिए खोला जाता है, तो टैंक को पूरी तरह भरने में कितना समय लगेगा?",
+    "oEn": ["115 minutes", "113 minutes", "117 minutes", "120 minutes"],
+    "oHi": ["115 मिनट", "113 मिनट", "117 मिनट", "120 मिनट"],
+    "c": 0,
+    "exp": "Capacity = 60 units. Efficiency of A = +3, B = -2. In 2 minutes cycle, net filled = 3 - 2 = 1 unit. To avoid overfilling near the end, subtract A's work from total: 60 - 3 = 57 units. 57 units require 57 cycles = 114 minutes. On 115th minute, Pipe A opens and fills the remaining 3 units. Total time = 115 minutes.",
+    "Pyq": "2023_CGL_Tier1"
+  },
+  {
+    "en": "A train covers a distance between two stations A and B in 45 minutes. If its speed is reduced by 5 km/h, it covers the same distance in 48 minutes. Find the distance between stations A and B.",
+    "hi": "एक ट्रेन दो स्टेशनों A और B के बीच की दूरी 45 मिनट में तय करती है। यदि इसकी चाल 5 किमी/घंटा कम कर दी जाती है, तो यह समान दूरी 48 मिनट में तय करती है। स्टेशनों A और B के बीच की दूरी ज्ञात कीजिए।",
+    "oEn": ["40 km", "45 km", "50 km", "60 km"],
+    "oHi": ["40 किमी", "45 किमी", "50 किमी", "60 किमी"],
+    "c": 3,
+    "exp": "Since distance is constant, speed is inversely proportional to time. Ratio of time = 45 : 48 = 15 : 16. Ratio of speed = 16 : 15. Difference in speed units = 1 unit = 5 km/h. Initial speed = 16 × 5 = 80 km/h. Distance = Speed × Time = 80 × (45/60) = 60 km.",
+    "Pyq": "2024_CGL_Tier1"
+  },
+  {
+    "en": "A and B run a 1 km race. A wins by 100 meters or 20 seconds. Find the speed of A.",
+    "hi": "A और B 1 किमी की दौड़ लगाते हैं। A, 100 मीटर या 20 सेकंड से जीतता है। A की चाल ज्ञात कीजिए।",
+    "oEn": ["5.55 m/s", "5 m/s", "6.25 m/s", "4.5 m/s"],
+    "oHi": ["5.55 मीटर/सेकंड", "5 मीटर/सेकंड", "6.25 मीटर/सेकंड", "4.5 मीटर/सेकंड"],
+    "c": 0,
+    "exp": "A winning by 100m or 20s means B covers 100m in 20 seconds. Speed of B = 100/20 = 5 m/s. Time taken by B to finish the 1000m race = 1000/5 = 200 seconds. Since A wins by 20 seconds, time taken by A = 200 - 20 = 180 seconds. Speed of A = 1000 / 180 = 5.55 m/s.",
+    "Pyq": "2024_CGL_Tier1"
+  },
+  {
+    "en": "A motorboat can travel 24 km upstream and 36 km downstream in a total of 6 hours. It can travel 36 km upstream and 24 km downstream in 6.5 hours. Find the speed of the stream.",
+    "hi": "एक मोटरबोट कुल 6 घंटे में 24 किमी धारा के प्रतिकूल (upstream) और 36 किमी धारा के अनुकूल (downstream) यात्रा कर सकती है। यह 6.5 घंटे में 36 किमी धारा के प्रतिकूल और 24 किमी धारा के अनुकूल यात्रा कर सकती है। धारा की चाल ज्ञात कीजिए।",
+    "oEn": ["2 km/h", "3 km/h", "4 km/h", "5 km/h"],
+    "oHi": ["2 किमी/घंटा", "3 किमी/घंटा", "4 किमी/घंटा", "5 किमी/घंटा"],
+    "c": 0,
+    "exp": "Let upstream speed be U and downstream speed be D. $24/U + 36/D = 6$ and $36/U + 24/D = 6.5$. Solving these linear equations gives U = 8 km/h and D = 12 km/h. Speed of boat in still water = (12+8)/2 = 10 km/h. Speed of stream = (12-8)/2 = 2 km/h.",
+    "Pyq": "2023_CGL_Mains"
+  }
 ]
