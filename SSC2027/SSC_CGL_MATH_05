@@ -98,15 +98,15 @@
     "exp": "Since the time intervals are equal (0 to 3 yrs and 3 to 6 yrs), the scale factor remains constant. A2/A1 = 12042 / 8028 = 1.5. Thus, A1/P = 1.5 -> 8028 / P = 1.5 -> P = 8028 / 1.5 = ₹5,352.",
     "Pyq": "2023_CGL_Tier1"
   },
-  {
-    "en": "What annual payment will discharge a compound interest debt of ₹5,040 due in 2 years at 10% per annum compound interest?",
-    "hi": "10% वार्षिक चक्रवृद्धि ब्याज की दर से 2 वर्ष में देय ₹5,040 के ऋण को चुकाने के लिए वार्षिक भुगतान (किश्त) क्या होगा?",
-    "oEn": ["₹2,904", "₹2,640", "₹2,800", "₹2,750"],
-    "oHi": ["₹2,904", "₹2,640", "₹2,800", "₹2,750"],
-    "c": 0,
-    "exp": "Let installment be x. Present Value of debt = x / (1.10) + x / (1.10)^2 = 5040. x(10/11 + 100/121) = 5040 -> x(210/121) = 5040 -> x = (5040 × 121) / 210 = 24 × 121 = ₹2,904.",
-    "Pyq": "2025_Trend_Based"
-  },
+{
+  "en": "A debt of ₹5,040 is due after 2 years at 10% per annum compound interest, compounded annually. If it is to be discharged by two equal annual instalments, the first paid at the end of the first year and the second at the end of the second year, find the amount of each instalment.",
+  "hi": "10% वार्षिक चक्रवृद्धि ब्याज (वार्षिक संयोजित) की दर से 2 वर्ष बाद देय ₹5,040 के ऋण को यदि वर्ष के अंत में देय दो समान वार्षिक किश्तों द्वारा चुकाया जाए, तो प्रत्येक किश्त का मान ज्ञात कीजिए।",
+  "oEn": ["₹2,400", "₹2,520", "₹2,640", "₹2,904"],
+  "oHi": ["₹2,400", "₹2,520", "₹2,640", "₹2,904"],
+  "c": 0,
+  "exp": "The present value (PV) of the debt is ₹5040 ÷ (1.10)^2 = ₹4165.29. Let each annual instalment be x. The PV of the two instalments is x/1.10 + x/(1.10)^2. Therefore, x(10/11 + 100/121) = 4165.29 = 5040/1.21. Solving, x = ₹2,400. Hence, each annual instalment is ₹2,400.",
+  "Pyq": "2025_Trend_Based"
+},
   {
     "en": "The ratio of copper and zinc in alloy A is 3 : 4 and in alloy B it is 5 : 9. In what ratio should A and B be mixed to get a new alloy C containing copper and zinc in the ratio 2 : 3?",
     "hi": "मिश्र धातु A में तांबे और जस्ता का अनुपात 3 : 4 है और मिश्र धातु B में यह 5 : 9 है। एक नई मिश्र धातु C प्राप्त करने के लिए A और B को किस अनुपात में मिलाया जाना चाहिए जिसमें तांबे और जस्ता का अनुपात 2 : 3 हो?",
