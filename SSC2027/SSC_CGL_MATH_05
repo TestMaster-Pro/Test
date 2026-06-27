@@ -1,0 +1,239 @@
+[
+{
+"en": "Evaluate the following expression: $\\frac{3}{4} \\div \\frac{3}{4} \\text{ of } \\frac{3}{4} \\times \\frac{3}{4} + \\frac{4}{5} \\div \\frac{4}{5} \\text{ of } \\frac{1}{2}$",
+"hi": "निम्नलिखित व्यंजक का मान ज्ञात कीजिए: $\\frac{3}{4} \\div \\frac{3}{4} \\text{ of } \\frac{3}{4} \\times \\frac{3}{4} + \\frac{4}{5} \\div \\frac{4}{5} \\text{ of } \\frac{1}{2}$",
+"oEn": ["2", "3", "4", "5"],
+"oHi": ["2", "3", "4", "5"],
+"c": 1,
+"exp": "According to BODMAS, 'of' is solved first, then division, then multiplication. First term: (3/4) ÷ (9/16) × (3/4) = (3/4) × (16/9) × (3/4) = 1. Second term: (4/5) ÷ (4/10) = (4/5) × (10/4) = 2. Total = 1 + 2 = 3.",
+"Pyq": "2024_CGL_Tier1"
+},
+{
+"en": "Find the square root of $11 + 2\\sqrt{30}$.",
+"hi": "$11 + 2\\sqrt{30}$ का वर्गमूल ज्ञात कीजिए।",
+"oEn": ["\\sqrt{6} - \\sqrt{5}
+
+", "\\sqrt{6} + \\sqrt{5}
+
+", "\\sqrt{5} - \\sqrt{6}
+
+", "11"],
+"oHi": ["\\sqrt{6} - \\sqrt{5}
+
+", "\\sqrt{6} + \\sqrt{5}
+
+", "\\sqrt{5} - \\sqrt{6}
+
+", "11"],
+"c": 1,
+"exp": "We can rewrite the expression in the form of $(a+b)^2 = a^2 + b^2 + 2ab$. Here, $11 + 2\\sqrt{30} = 6 + 5 + 2\\sqrt{6}\\times\\sqrt{5} = (\\sqrt{6})^2 + (\\sqrt{5})^2 + 2\\sqrt{6}\\sqrt{5} = (\\sqrt{6} + \\sqrt{5})^2$. Taking the square root gives $\\sqrt{6} + \\sqrt{5}$.",
+"Pyq": "2023_CHSL_Tier1"
+},
+{
+"en": "If $x + \\frac{1}{x} = 5$, then find the value of $x^3 + \\frac{1}{x^3}$.",
+"hi": "यदि $x + \\frac{1}{x} = 5$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।",
+"oEn": ["110", "125", "140", "115"],
+"oHi": ["110", "125", "140", "115"],
+"c": 0,
+"exp": "Using the algebraic identity: If $x + 1/x = k$, then $x^3 + 1/x^3 = k^3 - 3k$. Here, $k = 5$, so $x^3 + 1/x^3 = 5^3 - 3(5) = 125 - 15 = 110.",
+"Pyq": "2024_CGL_Tier1"
+},
+{
+"en": "A man spends 75% of his income. If his income increases by 20% and his expenditure increases by 10%, find the percentage increase in his savings.",
+"hi": "एक व्यक्ति अपनी आय का 75% खर्च करता है। यदि उसकी आय में 20% की वृद्धि होती है और उसके व्यय में 10% की वृद्धि होती है, तो उसकी बचत में प्रतिशत वृद्धि ज्ञात कीजिए।",
+"oEn": ["40%", "50%", "60%", "35%"],
+"oHi": ["40%", "50%", "60%", "35%"],
+"c": 1,
+"exp": "Let initial Income = 100, Expenditure = 75, Savings = 25. New Income = 120. New Expenditure = 75 × 1.10 = 82.5. New Savings = 120 - 82.5 = 37.5. Increase in savings = 37.5 - 25 = 12.5. Percentage increase = (12.5 / 25) × 100 = 50%.",
+"Pyq": "2024_CHSL_Tier1"
+},
+{
+"en": "The price of an article is first increased by 20% and then decreased by 15%. What is the net percentage change in the price of the article?",
+"hi": "एक वस्तु की कीमत में पहले 20% की वृद्धि की जाती है और फिर 15% की कमी की जाती है। वस्तु की कीमत में शुद्ध प्रतिशत परिवर्तन क्या है?",
+"oEn": ["2% increase", "2% decrease", "5% increase", "5% decrease"],
+"oHi": ["2% वृद्धि", "2% कमी", "5% वृद्धि", "5% कमी"],
+"c": 0,
+"exp": "Net percentage change formula = a + b + (ab/100). Here, a = +20, b = -15. Net change = 20 - 15 + (20 × -15)/100 = 5 - 3 = +2% (increase).",
+"Pyq": "2023_CGL_Tier1"
+},
+{
+"en": "Three successive discounts of 10%, 20%, and 25% are equivalent to a single discount of:",
+"hi": "10%, 20% और 25% की तीन क्रमिक छूटें किस एकल छूट के बराबर हैं:",
+"oEn": ["45%", "46%", "50%", "55%"],
+"oHi": ["45%", "46%", "50%", "55%"],
+"c": 1,
+"exp": "Let the initial price be 100. After 10% discount: 90. After 20% discount: 90 × 0.8 = 72. After 25% discount: 72 × 0.75 = 54. Total single effective discount = 100 - 54 = 46%.",
+"Pyq": "2024_CGL_Tier1"
+},
+{
+"en": "An article was sold at a loss of 15%. Had it been sold for ₹96 more, there would have been a gain of 9%. Find the cost price of the article.",
+"hi": "एक वस्तु को 15% की हानि पर बेचा गया। यदि इसे ₹96 अधिक में बेचा जाता, तो 9% का लाभ होता। वस्तु का क्रय मूल्य ज्ञात कीजिए।",
+"oEn": ["₹300", "₹400", "₹500", "₹450"],
+"oHi": ["₹300", "₹400", "₹500", "₹450"],
+"c": 1,
+"exp": "The difference between 15% loss and 9% gain is 15% + 9% = 24%. Given that 24% of CP = ₹96. Therefore, 1% of CP = 4, and 100% of CP = ₹400.",
+"Pyq": "2023_CHSL_Tier1"
+},
+{
+"en": "A dishonest dealer professes to sell his goods at cost price but uses a weight of 800g instead of 1 kg. Find his actual profit percentage.",
+"hi": "एक बेईमान विक्रेता अपनी वस्तुओं को क्रय मूल्य पर बेचने का दावा करता है लेकिन 1 किलोग्राम के स्थान पर 800 ग्राम वजन का उपयोग करता है। उसका वास्तविक लाभ प्रतिशत ज्ञात कीजिए।",
+"oEn": ["20%", "25%", "15%", "30%"],
+"oHi": ["20%", "25%", "15%", "30%"],
+"c": 1,
+"exp": "Profit % = (Error / True Value - Error) × 100. Error = 1000g - 800g = 200g. Profit % = (200 / 800) × 100 = 25%.",
+"Pyq": "2024_CGL_Tier1"
+},
+{
+"en": "An item is marked 35% above its cost price. If a discount of 20% is allowed on the marked price, find the overall profit or loss percentage.",
+"hi": "एक वस्तु का अंकित मूल्य उसके क्रय मूल्य से 35% अधिक रखा गया है। यदि अंकित मूल्य पर 20% की छूट दी जाती है, तो कुल लाभ या हानि प्रतिशत ज्ञात कीजिए।",
+"oEn": ["8% profit", "8% loss", "15% profit", "7% profit"],
+"oHi": ["8% लाभ", "8% हानि", "15% लाभ", "7% लाभ"],
+"c": 0,
+"exp": "Let CP = 100. MP = 135. SP after 20% discount = 135 × 0.8 = 108. Profit = 108 - 100 = 8. Profit % = 8%.",
+"Pyq": "2024_Trend_Based"
+},
+{
+"en": "A sum of money at simple interest trebles itself in 10 years. In how many years will it become 5 times of itself at the same rate of interest?",
+"hi": "साधारण ब्याज पर कोई धनराशि 10 वर्षों में स्वयं की तीन गुनी हो जाती है। समान ब्याज दर पर वह कितने वर्षों में स्वयं की 5 गुनी हो जाएगी?",
+"oEn": ["15 years", "20 years", "25 years", "30 years"],
+"oHi": ["15 वर्ष", "20 वर्ष", "25 वर्ष", "30 वर्ष"],
+"c": 1,
+"exp": "Trebling itself means SI earned = 3P - P = 2P in 10 years. To become 5 times, SI required = 5P - P = 4P. Since SI is directly proportional to time: Time = 10 × (4P / 2P) = 20 years.",
+"Pyq": "2023_CGL_Tier1"
+},
+{
+"en": "Find the compound interest on ₹10,000 for 1.5 years at 10% per annum, compounded half-yearly.",
+"hi": "₹10,000 पर 1.5 वर्ष के लिए 10% वार्षिक दर से अर्धवार्षिक रूप से संयोजित चक्रवृद्धि ब्याज ज्ञात कीजिए।",
+"oEn": ["₹1,500", "₹1,576.25", "₹1,625", "₹1,550"],
+"oHi": ["₹1,500", "₹1,576.25", "₹1,625", "₹1,550"],
+"c": 1,
+"exp": "Rate for half-year = 10%/2 = 5%. Time periods = 1.5 × 2 = 3. Amount = 10000 × (1 + 5/100)^3 = 10000 × (1.05)^3 = 11,576.25. CI = 11,576.25 - 10,000 = ₹1,576.25.",
+"Pyq": "2024_CHSL_Tier1"
+},
+{
+"en": "A sum of ₹10,250 is to be paid back in two equal annual installments at 5% per annum compound interest. Find the value of each installment.",
+"hi": "₹10,250 की धनराशि को 5% वार्षिक चक्रवृद्धि ब्याज की दर से दो समान वार्षिक किश्तों में वापस चुकाया जाना है। प्रत्येक किश्त का मान ज्ञात कीजिए।",
+"oEn": ["₹5,500", "₹5,512.50", "₹5,600", "₹5,450"],
+"oHi": ["₹5,500", "₹5,512.50", "₹5,600", "₹5,450"],
+"c": 1,
+"exp": "Rate = 5% = 1/20. Let installment be I. Principal = I/(21/20) + I/(21/20)^2 = I(20/21 + 400/441) = I(820/441). Given Principal = 10250. So 10250 = I × 820/441 -> I = (10250 × 441)/820 = ₹5,512.50.",
+"Pyq": "2024_CGL_Tier1"
+},
+{
+"en": "A bag contains ₹1, 50-paise, and 25-paise coins in the ratio 5 : 6 : 8. If the total value of all the coins is ₹210, find the number of 50-paise coins.",
+"hi": "एक बैग में ₹1, 50-पैसे और 25-पैसे के सिक्के 5 : 6 : 8 के अनुपात में हैं। यदि सभी सिक्कों का कुल मूल्य ₹210 है, तो 50-पैसे के सिक्कों की संख्या ज्ञात कीजिए।",
+"oEn": ["105", "126", "168", "84"],
+"oHi": ["105", "126", "168", "84"],
+"c": 1,
+"exp": "Value ratio of coins = (5 × ₹1) : (6 × ₹0.50) : (8 × ₹0.25) = 5 : 3 : 2. Total units of value = 5 + 3 + 2 = 10 units. 10 units = ₹210 -> 1 unit = ₹21. Value of 50p coins = 3 × 21 = ₹63. Number of 50p coins = 63 × 2 = 126.",
+"Pyq": "2023_CGL_Tier1"
+},
+{
+"en": "In what ratio must a grocer mix tea costing ₹60 per kg and ₹65 per kg so that by selling the mixture at ₹68.20 per kg, he may gain 10%?",
+"hi": "एक पंसारी को ₹60 प्रति किलोग्राम और ₹65 प्रति किलोग्राम मूल्य वाली चाय को किस अनुपात में मिलाना चाहिए ताकि मिश्रण को ₹68.20 प्रति किलोग्राम पर बेचने पर उसे 10% का लाभ हो?",
+"oEn": ["3 : 2", "2 : 3", "4 : 5", "5 : 4"],
+"oHi": ["3 : 2", "2 : 3", "4 : 5", "5 : 4"],
+"c": 0,
+"exp": "SP of mixture = ₹68.20, Profit = 10%. Mean CP of mixture = 68.20 / 1.10 = ₹62. By allegation law: Ratio = (65 - 62) : (62 - 60) = 3 : 2.",
+"Pyq": "2024_CHSL_Tier1"
+},
+{
+"en": "A, B and C invest in a business in the ratio 3 : 4 : 5. If A stays in the business for 6 months, B for 8 months, and C for 12 months, find their profit-sharing ratio.",
+"hi": "A, B और C एक व्यवसाय में 3 : 4 : 5 के अनुपात में निवेश करते हैं। यदि A व्यवसाय में 6 महीने, B 8 महीने और C 12 महीने तक रहता है, तो उनके लाभ साझाकरण का अनुपात ज्ञात कीजिए।",
+"oEn": ["3:4:5", "9:16:30", "18:32:45", "9:12:15"],
+"oHi": ["3:4:5", "9:16:30", "18:32:45", "9:12:15"],
+"c": 1,
+"exp": "Profit ratio = Investment × Time. Profit ratio = (3 × 6) : (4 × 8) : (5 × 12) = 18 : 32 : 60 = 9 : 16 : 30.",
+"Pyq": "2024_CGL_Tier1"
+},
+{
+"en": "The average weight of 15 students increases by 1.5 kg when a student weighing 40 kg is replaced by a new student. Find the weight of the new student.",
+"hi": "15 छात्रों का औसत वजन तब 1.5 किलोग्राम बढ़ जाता है जब 40 किलोग्राम वजन वाले एक छात्र के स्थान पर एक नया छात्र आता है। नए छात्र का वजन ज्ञात कीजिए।",
+"oEn": ["55 kg", "60.5 kg", "62.5 kg", "65 kg"],
+"oHi": ["55 किग्रा", "60.5 किग्रा", "62.5 किग्रा", "65 किग्रा"],
+"c": 2,
+"exp": "Total weight increase = 15 × 1.5 = 22.5 kg. Weight of the new student = Weight of the replaced student + Total weight increase = 40 + 22.5 = 62.5 kg.",
+"Pyq": "2023_CHSL_Tier1"
+},
+{
+"en": "The average score of 40 students in an examination is 68. If the average score of boys is 60 and that of girls is 80, find the total number of boys in the class.",
+"hi": "एक परीक्षा में 40 छात्रों का औसत अंक 68 है। यदि लड़कों का औसत अंक 60 और लड़कियों का औसत अंक 80 है, तो कक्षा में लड़कों की कुल संख्या ज्ञात कीजिए।",
+"oEn": ["16", "20", "24", "28"],
+"oHi": ["16", "20", "24", "28"],
+"c": 2,
+"exp": "Using alligation: Boys (60), Girls (80), combined average (68). Ratio of Boys to Girls = (80 - 68) : (68 - 60) = 12 : 8 = 3 : 2. Total parts = 5. Total students = 40. Boys = (3/5) × 40 = 24.",
+"Pyq": "2024_CGL_Tier1"
+},
+{
+"en": "A can do a piece of work in 12 days and B can do it in 15 days. They work together for 4 days and then A leaves. In how many days will B finish the remaining work?",
+"hi": "A किसी कार्य को 12 दिनों में और B उसे 15 दिनों में कर सकता है। वे 4 दिनों तक एक साथ कार्य करते हैं और फिर A कार्य छोड़ देता है। B शेष कार्य को कितने दिनों में समाप्त करेगा?",
+"oEn": ["5 days", "6 days", "8 days", "4 days"],
+"oHi": ["5 दिन", "6 दिन", "8 दिन", "4 दिन"],
+"c": 1,
+"exp": "Let Total Work = LCM(12, 15) = 60 units. Efficiency of A = 5 units/day, Efficiency of B = 4 units/day. Work done together in 4 days = (5 + 4) × 4 = 36 units. Remaining work = 60 - 36 = 24 units. Time taken by B to finish remaining work = 24 / 4 = 6 days.",
+"Pyq": "2024_CGL_Tier1"
+},
+{
+"en": "A is twice as efficient as B. Working together, they can finish a certain piece of work in 14 days. In how many days can A alone finish the same work?",
+"hi": "A, B से दोगुना कार्यकुशल है। एक साथ कार्य करते हुए, वे किसी कार्य को 14 दिनों में समाप्त कर सकते हैं। A अकेला उसी कार्य को कितने दिनों में समाप्त कर सकता है?",
+"oEn": ["21 days", "28 days", "42 days", "14 days"],
+"oHi": ["21 दिन", "28 दिन", "42 दिन", "14 दिन"],
+"c": 0,
+"exp": "Efficiency ratio of A : B = 2 : 1. Combined efficiency = 3 units/day. Total work = Efficiency × Time = 3 × 14 = 42 units. Time taken by A alone = 42 / 2 = 21 days.",
+"Pyq": "2023_CHSL_Tier1"
+},
+{
+"en": "A and B undertake to do a piece of work for ₹600. A alone can do it in 6 days while B alone can do it in 8 days. With the help of C, they finish it in 3 days. Find the share of C.",
+"hi": "A और B ₹600 में एक कार्य करने का जिम्मा लेते हैं। A अकेला इसे 6 दिनों में कर सकता है जबकि B अकेला इसे 8 दिनों में कर सकता है। C की सहायता से, वे इसे 3 दिनों में समाप्त करते हैं। C का हिस्सा ज्ञात कीजिए।",
+"oEn": ["₹75", "₹100", "₹150", "₹50"],
+"oHi": ["₹75", "₹100", "₹150", "₹50"],
+"c": 0,
+"exp": "Let total work = 24 units. Efficiency of A = 24/6 = 4. Efficiency of B = 24/8 = 3. Combined efficiency of A+B+C = 24/3 = 8. Efficiency of C = 8 - (4 + 3) = 1. Wages are divided in the ratio of efficiency: A:B:C = 4:3:1. C's share = (1/8) × 600 = ₹75.",
+"Pyq": "2024_CGL_Tier1"
+},
+{
+"en": "Pipe A can fill a tank in 6 hours, and Pipe B can fill it in 8 hours. Both pipes are opened together, but after 2 hours, Pipe A is closed. What is the total time taken to fill the tank?",
+"hi": "पाइप A एक टैंक को 6 घंटे में भर सकता है, और पाइप B उसे 8 घंटे में भर सकता है। दोनों पाइप एक साथ खोले जाते हैं, लेकिन 2 घंटे बाद पाइप A को बंद कर दिया जाता है। टैंक को भरने में लगा कुल समय कितना है?",
+"oEn": ["5 hours", "5 hours 20 minutes", "4 hours 40 minutes", "6 hours"],
+"oHi": ["5 घंटे", "5 घंटे 20 मिनट", "4 घंटे 40 मिनट", "6 घंटे"],
+"c": 1,
+"exp": "Total capacity = LCM(6, 8) = 24 units. Efficiency of A = 4, Efficiency of B = 3. Work done in 2 hours = (4 + 3) × 2 = 14 units. Remaining capacity = 24 - 14 = 10 units. Time taken by B to fill the remaining part = 10 / 3 = 3 hours 20 minutes. Total time = 2 hours + 3 hours 20 minutes = 5 hours 20 minutes.",
+"Pyq": "2024_CGL_Tier1"
+},
+{
+"en": "A leak in the bottom of a tank can empty it in 12 hours. An inlet pipe fills water at the rate of 4 litres per minute. When the tank is full, the inlet is opened, and due to the leak, the tank empties in 20 hours. Find the capacity of the tank.",
+"hi": "एक टैंक के तल में एक रिसाव इसे 12 घंटे में खाली कर सकता है। एक इनलेट पाइप 4 लीटर प्रति मिनट की दर से पानी भरता है। जब टैंक भरा होता है, तो इनलेट खोल दिया जाता है, और रिसाव के कारण टैंक 20 घंटे में खाली हो जाता है। टैंक की क्षमता ज्ञात कीजिए।",
+"oEn": ["6000 litres", "7200 litres", "8400 litres", "4800 litres"],
+"oHi": ["6000 लीटर", "7200 लीटर", "8400 लीटर", "4800 लीटर"],
+"c": 1,
+"exp": "Let capacity be 60 units. Efficiency of leak = -5. Efficiency of leak + inlet = -3. Therefore, efficiency of inlet = +2 units/hour. Inlet can fill full tank in 60 / 2 = 30 hours. Rate of inlet = 4 litres/min = 240 litres/hour. Capacity = 30 × 240 = 7200 litres.",
+"Pyq": "2023_CGL_Tier1"
+},
+{
+"en": "A thief is spotted by a policeman from a distance of 200m. The thief starts running and the policeman chases him. The thief runs at 10 km/h and the policeman at 11 km/h. What is the distance between them after 6 minutes?",
+"hi": "एक चोर को एक पुलिसकर्मी 200 मीटर की दूरी से देखता है। चोर भागने लगता है और पुलिसकर्मी उसका पीछा करता है। चोर 10 किमी/घंटा और पुलिसकर्मी 11 किमी/घंटा की चाल से भागता है। 6 मिनट बाद उनके बीच की दूरी क्या होगी?",
+"oEn": ["100 m", "150 m", "50 m", "120 m"],
+"oHi": ["100 मीटर", "150 मीटर", "50 मीटर", "120 मीटर"],
+"c": 0,
+"exp": "Relative speed = 11 - 10 = 1 km/h = 5/18 m/s. Time = 6 minutes = 360 seconds. Distance covered in 6 minutes = (5/18) × 360 = 100 meters. Remaining distance = 200 - 100 = 100 meters.",
+"Pyq": "2024_CGL_Tier1"
+},
+{
+"en": "Two trains of lengths 120m and 180m are running in opposite directions at speeds of 45 km/h and 27 km/h respectively. How much time will they take to cross each other completely?",
+"hi": "120 मीटर और 180 मीटर लंबाई की दो ट्रेनें क्रमशः 45 किमी/घंटा और 27 किमी/घंटा की चाल से विपरीत दिशाओं में चल रही हैं। वे एक-दूसरे को पूरी तरह से पार करने में कितना समय लेंगी?",
+"oEn": ["10 seconds", "12 seconds", "15 seconds", "20 seconds"],
+"oHi": ["10 सेकंड", "12 सेकंड", "15 सेकंड", "20 सेकंड"],
+"c": 2,
+"exp": "Total distance to be covered = 120 + 180 = 300m. Relative speed in opposite directions = 45 + 27 = 72 km/h = 72 × (5/18) = 20 m/s. Time taken = 300 / 20 = 15 seconds.",
+"Pyq": "2024_CHSL_Tier1"
+},
+{
+"en": "The speed of a boat in still water is 15 km/h and the speed of the stream is 3 km/h. Find the total time taken by the boat to travel 36 km downstream and return to the starting point.",
+"hi": "शांत जल में एक नाव की चाल 15 किमी/घंटा है और धारा की चाल 3 किमी/घंटा है। नाव द्वारा धारा के अनुकूल (downstream) 36 किमी जाने और प्रारंभिक बिंदु पर वापस लौटने में लिया गया कुल समय ज्ञात कीजिए।",
+"oEn": ["4 hours", "5 hours", "6 hours", "4.5 hours"],
+"oHi": ["4 घंटे", "5 घंटे", "6 घंटे", "4.5 घंटे"],
+"c": 1,
+"exp": "Downstream speed = 15 + 3 = 18 km/h. Upstream speed = 15 - 3 = 12 km/h. Downstream time = 36 / 18 = 2 hours. Upstream time = 36 / 12 = 3 hours. Total time = 2 + 3 = 5 hours.",
+"Pyq": "2024_CGL_Tier1"
+}
+]
