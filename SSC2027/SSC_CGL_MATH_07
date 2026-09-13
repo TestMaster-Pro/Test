@@ -215,13 +215,14 @@
     "exp": "Half-chord = $12\\text{ cm}$. $x_1 = \\sqrt{15^2 - 12^2} = 9\\text{ cm}$, $x_2 = \\sqrt{20^2 - 12^2} = 16\\text{ cm}$. Total distance = $9 + 16 = 25\\text{ cm}$.",
     "Pyq": "2026_CGL_Tier2"
   },
+  
   {
-    "en": "In $\\triangle ABC$, $AD, BE,$ and $CF$ are the medians intersecting at centroid $G$. If $\\text{area}(\\triangle ABC) = 108\\text{ cm}^2$, find the area of quadrilateral $BDGC$.",
-    "hi": "$\\triangle ABC$ में, $AD, BE$ और $CF$ केंद्रक $G$ पर प्रतिच्छेद करने वाली माधिकाएँ हैं। यदि $\\text{area}(\\triangle ABC) = 108\\text{ cm}^2$ है, तो चतुर्भुज $BDGC$ का क्षेत्रफल ज्ञात कीजिए।",
-    "oEn": ["36 cm²", "48 cm²", "54 cm²", "42 cm²"],
-    "oHi": ["36 cm²", "48 cm²", "54 cm²", "42 cm²"],
+    "en": "In $\\triangle ABC$, $AD$, $BE$, and $CF$ are the medians intersecting at centroid $G$. If $\\text{area}(\\triangle ABC) = 108\\text{ cm}^2$, find the area of quadrilateral $BDGC$.",
+    "hi": "$\\triangle ABC$ में, $AD$, $BE$ और $CF$ केंद्रक $G$ पर प्रतिच्छेद करने वाली माधिकाएँ हैं। यदि $\\text{area}(\\triangle ABC) = 108\\text{ cm}^2$ है, तो चतुर्भुज $BDGC$ का क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["18 cm²", "24 cm²", "36 cm²", "54 cm²"],
+    "oHi": ["18 cm²", "24 cm²", "36 cm²", "54 cm²"],
     "c": 0,
-    "exp": "The medians divide the triangle into 6 equal-area triangles, each of area $108/6 = 18\\text{ cm}^2$. Quadrilateral $BDGC$ consists of two such triangles ($BDG$ and $CDG$), so area = $2 \\times 18 = 36\\text{ cm}^2$.",
+    "exp": "The medians divide the triangle into 6 equal-area triangles, each of area $108/6 = 18\\text{ cm}^2$. Quadrilateral $BDGC$ has the same area as one of these small triangles (specifically, it equals the area of $\\triangle CDG$), so its area is $18\\text{ cm}^2$. Alternatively, $\\text{area}(\\triangle BCG) = \\frac{1}{3} \\times 108 = 36\\text{ cm}^2$, and since $D$ is the midpoint of $BC$, $GD$ divides $\\triangle BCG$ into two equal-area triangles, so $\\text{area}(\\triangle BDG) = \\text{area}(\\triangle CDG) = 18\\text{ cm}^2$. Quadrilateral $BDGC = \\triangle BCG - \\triangle BDG = 36 - 18 = 18\\text{ cm}^2$.",
     "Pyq": "2026_CGL_Tier2"
   }
 ]
