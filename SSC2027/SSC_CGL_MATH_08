@@ -1,0 +1,227 @@
+[
+  {
+    "en": "Two circles intersect at $P$ and $Q$. A common tangent touches them at $A$ and $B$. The line $QP$ produced meets $AB$ at $R$. If $RP = 4\\text{ cm}$ and $PQ = 5\\text{ cm}$, find the length of the tangent segment $AB$.",
+    "hi": "दो वृत्त $P$ और $Q$ पर प्रतिच्छेद करते हैं। एक उभयनिष्ठ स्पर्श रेखा उन्हें $A$ और $B$ पर स्पर्श करती है। रेखा $QP$ को बढ़ाने पर यह $AB$ से $R$ पर मिलती है। यदि $RP = 4\\text{ cm}$ और $PQ = 5\\text{ cm}$ है, तो स्पर्श रेखा खंड $AB$ की लंबाई ज्ञात कीजिए।",
+    "oEn": ["$6\\text{ cm}$", "$8\\text{ cm}$", "$10\\text{ cm}$", "$12\\text{ cm}$"],
+    "oHi": ["$6\\text{ cm}$", "$8\\text{ cm}$", "$10\\text{ cm}$", "$12\\text{ cm}$"],
+    "c": 3,
+    "exp": "From point $R$, tangents to both circles are equal: $RA^2 = RP \\times RQ = 4 \\times (4 + 5) = 36 \\implies RA = 6\\text{ cm}$. Similarly, $RB = 6\\text{ cm}$. Since $R$ is the midpoint of $AB$, $AB = RA + RB = 6 + 6 = 12\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In a cyclic quadrilateral $ABCD$, $AB = 8\\text{ cm}$, $BC = 6\\text{ cm}$, $CD = 4\\text{ cm}$, and $DA = 10\\text{ cm}$. Find the length of diagonal $AC$.",
+    "hi": "एक चक्रीय चतुर्भुज $ABCD$ में, $AB = 8\\text{ cm}$, $BC = 6\\text{ cm}$, $CD = 4\\text{ cm}$ और $DA = 10\\text{ cm}$ है। विकर्ण $AC$ की लंबाई ज्ञात कीजिए।",
+    "oEn": ["$\\sqrt{\\frac{1012}{13}}\\text{ cm}$", "$\\sqrt{70}\\text{ cm}$", "$\\sqrt{75}\\text{ cm}$", "$\\sqrt{80}\\text{ cm}$"],
+    "oHi": ["$\\sqrt{\\frac{1012}{13}}\\text{ cm}$", "$\\sqrt{70}\\text{ cm}$", "$\\sqrt{75}\\text{ cm}$", "$\\sqrt{80}\\text{ cm}$"],
+    "c": 0,
+    "exp": "For a cyclic quadrilateral, $AC^2 = \\frac{(ab+cd)(ac+bd)}{ad+bc}$. Substituting $a=8, b=6, c=4, d=10$: $AC^2 = \\frac{(48+40)(32+60)}{80+24} = \\frac{88 \\times 92}{104} = \\frac{1012}{13}$. Thus, $AC = \\sqrt{\\frac{1012}{13}}\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle ABC$, $\\angle A = 90^\\circ$ and $AD \\perp BC$ at $D$. A circle passing through $D$ and touching $AB$ at $A$ intersects $AC$ at $E$. If $AB = 6\\text{ cm}$ and $AC = 8\\text{ cm}$, find the length of $AE$.",
+    "hi": "$\\triangle ABC$ में, $\\angle A = 90^\\circ$ और $AD \\perp BC$ ($D$ पर) है। $D$ से गुजरने वाला और $AB$ को $A$ पर स्पर्श करने वाला एक वृत्त $AC$ को $E$ पर काटता है। यदि $AB = 6\\text{ cm}$ और $AC = 8\\text{ cm}$ है, तो $AE$ की लंबाई ज्ञात कीजिए।",
+    "oEn": ["$3.6\\text{ cm}$", "$4.2\\text{ cm}$", "$4.8\\text{ cm}$", "$8\\text{ cm}$"],
+    "oHi": ["$3.6\\text{ cm}$", "$4.2\\text{ cm}$", "$4.8\\text{ cm}$", "$8\\text{ cm}$"],
+    "c": 3,
+    "exp": "The circle is tangent to $AB$ at $A$ and passes through $D$. It also intersects $AC$ at $C$, so $E$ coincides with $C$. Hence, $AE = AC = 8\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Let $ABCD$ be a trapezoid with $AB \\parallel CD$. The diagonals $AC$ and $BD$ intersect at $O$. If the area of $\\triangle AOB$ is $16\\text{ cm}^2$ and the area of $\\triangle COD$ is $25\\text{ cm}^2$, find the total area of the trapezoid $ABCD$.",
+    "hi": "माना $ABCD$ एक समलंब चतुर्भुज है जिसमें $AB \\parallel CD$ है। विकर्ण $AC$ और $BD$ $O$ पर प्रतिच्छेद करते हैं। यदि $\\triangle AOB$ का क्षेत्रफल $16\\text{ cm}^2$ और $\\triangle COD$ का क्षेत्रफल $25\\text{ cm}^2$ है, तो समलंब चतुर्भुज $ABCD$ का कुल क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["$81\\text{ cm}^2$", "$72\\text{ cm}^2$", "$90\\text{ cm}^2$", "$64\\text{ cm}^2$"],
+    "oHi": ["$81\\text{ cm}^2$", "$72\\text{ cm}^2$", "$90\\text{ cm}^2$", "$64\\text{ cm}^2$"],
+    "c": 0,
+    "exp": "In a trapezoid, $\\text{Area}(\\triangle AOD) = \\text{Area}(\\triangle BOC) = \\sqrt{\\text{Area}(\\triangle AOB) \\times \\text{Area}(\\triangle COD)} = \\sqrt{16 \\times 25} = 20\\text{ cm}^2$. Total Area = $16 + 25 + 20 + 20 = 81\\text{ cm}^2$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle ABC$, $AB = 15\\text{ cm}$, $BC = 14\\text{ cm}$, and $AC = 13\\text{ cm}$. $D$ is a point on $BC$ such that $AD \\perp BC$. Find the radius of the circle inscribed in $\\triangle ABD$.",
+    "hi": "$\\triangle ABC$ में, $AB = 15\\text{ cm}$, $BC = 14\\text{ cm}$ और $AC = 13\\text{ cm}$ है। $BC$ पर $D$ एक ऐसा बिंदु है कि $AD \\perp BC$ है। $\\triangle ABD$ के अंतःवृत्त की त्रिज्या ज्ञात कीजिए।",
+    "oEn": ["$3\\text{ cm}$", "$4\\text{ cm}$", "$5\\text{ cm}$", "$3.5\\text{ cm}$"],
+    "oHi": ["$3\\text{ cm}$", "$4\\text{ cm}$", "$5\\text{ cm}$", "$3.5\\text{ cm}$"],
+    "c": 0,
+    "exp": "Area of $\\triangle ABC = \\sqrt{21 \\times 6 \\times 7 \\times 8} = 84\\text{ cm}^2$. $AD = \\frac{2 \\times 84}{14} = 12\\text{ cm}$. In $\\triangle ABD$, $BD = \\sqrt{15^2 - 12^2} = 9\\text{ cm}$. Area = $54\\text{ cm}^2$, semi-perimeter = $18\\text{ cm}$, so inradius = $54/18 = 3\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Two circles of radii $20\\text{ cm}$ and $5\\text{ cm}$ have their centres $25\\text{ cm}$ apart. Find the length of the direct common tangent segment between them.",
+    "hi": "$20\\text{ cm}$ और $5\\text{ cm}$ त्रिज्या वाले दो वृत्तों के केंद्रों के बीच की दूरी $25\\text{ cm}$ है। उनके बीच सीधी उभयनिष्ठ स्पर्श रेखा (direct common tangent) की लंबाई ज्ञात कीजिए।",
+    "oEn": ["$20\\text{ cm}$", "$24\\text{ cm}$", "$21\\text{ cm}$", "$25\\text{ cm}$"],
+    "oHi": ["$20\\text{ cm}$", "$24\\text{ cm}$", "$21\\text{ cm}$", "$25\\text{ cm}$"],
+    "c": 0,
+    "exp": "Length of DCT = $\\sqrt{d^2 - (R - r)^2} = \\sqrt{25^2 - (20 - 5)^2} = \\sqrt{625 - 225} = \\sqrt{400} = 20\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In a right-angled triangle $ABC$ with $\\angle A = 90^\\circ$, $O$ and $H$ are the circumcentre and orthocentre. If $BC = 24\\text{ cm}$, find the distance $OH$.",
+    "hi": "एक समकोण त्रिभुज $ABC$ में जहाँ $\\angle A = 90^\\circ$ है, $O$ और $H$ परिकेंद्र और लंब केंद्र हैं। यदि $BC = 24\\text{ cm}$ है, तो दूरी $OH$ ज्ञात कीजिए।",
+    "oEn": ["$\\sqrt{109}\\text{ cm}$", "$\\sqrt{115}\\text{ cm}$", "$10\\text{ cm}$", "$12\\text{ cm}$"],
+    "oHi": ["$\\sqrt{109}\\text{ cm}$", "$\\sqrt{115}\\text{ cm}$", "$10\\text{ cm}$", "$12\\text{ cm}$"],
+    "c": 3,
+    "exp": "For a right-angled triangle, the orthocentre is the right-angle vertex $A$, and the circumcentre is the midpoint of the hypotenuse $BC$. Hence, $OH = \\frac{BC}{2} = \\frac{24}{2} = 12\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In a regular hexagon $ABCDEF$ of side $12\\text{ cm}$, a circle passes through vertices $A, C,$ and $E$. Find the area of the circle.",
+    "hi": "$12\\text{ cm}$ भुजा वाले एक नियमित षटकोण $ABCDEF$ में, एक वृत्त शीर्षों $A, C$ और $E$ से गुजरता है। वृत्त का क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["$324\\pi\\text{ cm}^2$", "$432\\pi\\text{ cm}^2$", "$216\\pi\\text{ cm}^2$", "$144\\pi\\text{ cm}^2$"],
+    "oHi": ["$324\\pi\\text{ cm}^2$", "$432\\pi\\text{ cm}^2$", "$216\\pi\\text{ cm}^2$", "$144\\pi\\text{ cm}^2$"],
+    "c": 3,
+    "exp": "Vertices $A, C, E$ form an equilateral triangle inscribed in the circle. The side of this equilateral triangle is $12\\sqrt{3}\\text{ cm}$. Its circumradius is $R = \\frac{12\\sqrt{3}}{\\sqrt{3}} = 12\\text{ cm}$. Area = $\\pi r^2 = 144\\pi\\text{ cm}^2$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A circle touches the side $BC$ of $\\triangle ABC$ at $D$ and the extensions of sides $AB$ and $AC$ at $E$ and $F$ respectively. If $AE = 15\\text{ cm}$, find the perimeter of $\\triangle ABC$.",
+    "hi": "एक वृत्त $\\triangle ABC$ की भुजा $BC$ को $D$ पर और भुजाओं $AB$ और $AC$ के विस्तार को क्रमशः $E$ और $F$ पर स्पर्श करता है। यदि $AE = 15\\text{ cm}$ है, तो $\\triangle ABC$ का परिमाप ज्ञात कीजिए।",
+    "oEn": ["$15\\text{ cm}$", "$30\\text{ cm}$", "$45\\text{ cm}$", "$60\\text{ cm}$"],
+    "oHi": ["$15\\text{ cm}$", "$30\\text{ cm}$", "$45\\text{ cm}$", "$60\\text{ cm}$"],
+    "c": 1,
+    "exp": "The perimeter of $\\triangle ABC$ is equal to twice the length of the tangent segment from the external vertex $A$ to the excircle, i.e., $2 \\times AE = 2 \\times 15 = 30\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle ABC$, $\\angle B = 90^\\circ$. A circle with diameter $BC$ intersects the hypotenuse $AC$ at point $D$. If $AD = 3\\text{ cm}$ and $DC = 9\\text{ cm}$, find the length of $AB$.",
+    "hi": "$\\triangle ABC$ में, $\\angle B = 90^\\circ$ है। $BC$ व्यास वाला एक वृत्त कर्ण $AC$ को बिंदु $D$ पर काटता है। यदि $AD = 3\\text{ cm}$ और $DC = 9\\text{ cm}$ है, तो $AB$ की लंबाई ज्ञात कीजिए।",
+    "oEn": ["$6\\text{ cm}$", "$4\\sqrt{3}\\text{ cm}$", "$6\\sqrt{3}\\text{ cm}$", "$8\\text{ cm}$"],
+    "oHi": ["$6\\text{ cm}$", "$4\\sqrt{3}\\text{ cm}$", "$6\\sqrt{3}\\text{ cm}$", "$8\\text{ cm}$"],
+    "c": 0,
+    "exp": "$AC = AD + DC = 3 + 9 = 12\\text{ cm}$. Since $BD \\perp AC$, $AB^2 = AD \\times AC = 3 \\times 12 = 36 \\implies AB = 6\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle ABC$, $AB = 13\\text{ cm}$, $BC = 14\\text{ cm}$, and $AC = 15\\text{ cm}$. $I$ is the incentre. Find the ratio of the area of $\\triangle IBC$ to the area of $\\triangle ABC$.",
+    "hi": "$\\triangle ABC$ में, $AB = 13\\text{ cm}$, $BC = 14\\text{ cm}$ और $AC = 15\\text{ cm}$ है। $I$ अंतःकेंद्र है। $\\triangle IBC$ के क्षेत्रफल का $\\triangle ABC$ के क्षेत्रफल से अनुपात ज्ञात कीजिए।",
+    "oEn": ["$7 : 18$", "$7 : 21$", "$14 : 35$", "$7 : 20$"],
+    "oHi": ["$7 : 18$", "$7 : 21$", "$14 : 35$", "$7 : 20$"],
+    "c": 1,
+    "exp": "Semi-perimeter $s = 21$. Area of $\\triangle ABC = 84$. Inradius $r = 84/21 = 4\\text{ cm}$. Area of $\\triangle IBC = \\frac{1}{2} \\times 14 \\times 4 = 28$. Ratio = $28/84 = 1/3 = 7 : 21$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle ABC$, the median $AD$ is divided into three equal parts by points $P$ and $Q$ such that $AP = PQ = QD$. If the area of $\\triangle ABC$ is $108\\text{ cm}^2$, find the area of $\\triangle BPQ$.",
+    "hi": "$\\triangle ABC$ में, माधिका $AD$ को बिंदुओं $P$ और $Q$ द्वारा तीन बराबर भागों में इस प्रकार विभाजित किया जाता है कि $AP = PQ = QD$ है। यदि $\\triangle ABC$ का क्षेत्रफल $108\\text{ cm}^2$ है, तो $\\triangle BPQ$ का क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["$12\\text{ cm}^2$", "$18\\text{ cm}^2$", "$24\\text{ cm}^2$", "$36\\text{ cm}^2$"],
+    "oHi": ["$12\\text{ cm}^2$", "$18\\text{ cm}^2$", "$24\\text{ cm}^2$", "$36\\text{ cm}^2$"],
+    "c": 1,
+    "exp": "Median $AD$ divides $\\triangle ABC$ into two triangles of equal area ($54\\text{ cm}^2$ each). Since $PQ$ is one-third of $AD$, $\\triangle BPQ$ has $\\frac{1}{3}$ of the area of $\\triangle ABD$, which is $\\frac{1}{3} \\times 54 = 18\\text{ cm}^2$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A circle is inscribed in a right-angled triangle with sides $20\\text{ cm}$, $21\\text{ cm}$, and $29\\text{ cm}$. Find the radius of the inscribed circle.",
+    "hi": "$20\\text{ cm}$, $21\\text{ cm}$ और $29\\text{ cm}$ भुजाओं वाले एक समकोण त्रिभुज के अंदर एक वृत्त अंकित है। अंतःवृत्त की त्रिज्या ज्ञात कीजिए।",
+    "oEn": ["$5\\text{ cm}$", "$6\\text{ cm}$", "$7\\text{ cm}$", "$8\\text{ cm}$"],
+    "oHi": ["$5\\text{ cm}$", "$6\\text{ cm}$", "$7\\text{ cm}$", "$8\\text{ cm}$"],
+    "c": 1,
+    "exp": "For a right-angled triangle, inradius $r = \\frac{a + b - c}{2} = \\frac{20 + 21 - 29}{2} = 6\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle PQR$, $PS$ is the bisector of $\\angle P$. If $PQ = 10\\text{ cm}$, $PR = 15\\text{ cm}$, and $QS = 6\\text{ cm}$, find the length of $SR$.",
+    "hi": "$\\triangle PQR$ में, $PS$ कोण $P$ का समद्विभाजक है। यदि $PQ = 10\\text{ cm}$, $PR = 15\\text{ cm}$ और $QS = 6\\text{ cm}$ है, तो $SR$ की लंबाई ज्ञात कीजिए।",
+    "oEn": ["$8\\text{ cm}$", "$9\\text{ cm}$", "$10\\text{ cm}$", "$12\\text{ cm}$"],
+    "oHi": ["$8\\text{ cm}$", "$9\\text{ cm}$", "$10\\text{ cm}$", "$12\\text{ cm}$"],
+    "c": 1,
+    "exp": "By angle bisector theorem, $QS : SR = PQ : PR \\implies 6 : SR = 10 : 15 = 2 : 3 \\implies SR = 9\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In a circle of radius $25\\text{ cm}$, two parallel chords are drawn on the same side of the centre. Their lengths are $30\\text{ cm}$ and $40\\text{ cm}$. Find the distance between the two chords.",
+    "hi": "$25\\text{ cm}$ त्रिज्या वाले एक वृत्त में, केंद्र के एक ही ओर दो समांतर जीवाएँ खींची जाती हैं। उनकी लंबाई $30\\text{ cm}$ और $40\\text{ cm}$ है। दोनों जीवाओं के बीच की दूरी ज्ञात कीजिए।",
+    "oEn": ["$5\\text{ cm}$", "$7\\text{ cm}$", "$10\\text{ cm}$", "$15\\text{ cm}$"],
+    "oHi": ["$5\\text{ cm}$", "$7\\text{ cm}$", "$10\\text{ cm}$", "$15\\text{ cm}$"],
+    "c": 0,
+    "exp": "Distance of $40\\text{ cm}$ chord from centre = $\\sqrt{25^2 - 20^2} = 15\\text{ cm}$. Distance of $30\\text{ cm}$ chord from centre = $\\sqrt{25^2 - 15^2} = 20\\text{ cm}$. Since they are on the same side, distance = $20 - 15 = 5\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle ABC$, $AB = 7\\text{ cm}$, $BC = 24\\text{ cm}$, and $CA = 25\\text{ cm}$. $O$ is the circumcentre and $I$ is the incentre. Find the distance $OI$.",
+    "hi": "$\\triangle ABC$ में, $AB = 7\\text{ cm}$, $BC = 24\\text{ cm}$ और $CA = 25\\text{ cm}$ है। $O$ परिकेंद्र और $I$ अंतःकेंद्र है। दूरी $OI$ ज्ञात कीजिए।",
+    "oEn": ["$\\frac{5\\sqrt{13}}{2}\\text{ cm}$", "$\\sqrt{65}\\text{ cm}$", "$\\sqrt{71}\\text{ cm}$", "$\\sqrt{85}\\text{ cm}$"],
+    "oHi": ["$\\frac{5\\sqrt{13}}{2}\\text{ cm}$", "$\\sqrt{65}\\text{ cm}$", "$\\sqrt{71}\\text{ cm}$", "$\\sqrt{85}\\text{ cm}$"],
+    "c": 0,
+    "exp": "By Euler's formula, $OI^2 = R^2 - 2Rr$. Here $R = 12.5\\text{ cm}$, $r = 3\\text{ cm}$. $OI^2 = 156.25 - 75 = 81.25 = \\frac{325}{4}$. Thus $OI = \\frac{5\\sqrt{13}}{2}\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle ABC$, $D$ and $E$ are points on sides $AB$ and $AC$ respectively such that $DE \\parallel BC$. If $AD : DB = 3 : 4$ and the area of $\\triangle ADE$ is $54\\text{ cm}^2$, find the area of the trapezium $DBCE$.",
+    "hi": "$\\triangle ABC$ में, $D$ और $E$ क्रमशः भुजाओं $AB$ और $AC$ पर ऐसे बिंदु हैं कि $DE \\parallel BC$ है। यदि $AD : DB = 3 : 4$ है और $\\triangle ADE$ का क्षेत्रफल $54\\text{ cm}^2$ है, तो समलंब चतुर्भुज $DBCE$ का क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["$240\\text{ cm}^2$", "$294\\text{ cm}^2$", "$312\\text{ cm}^2$", "$343\\text{ cm}^2$"],
+    "oHi": ["$240\\text{ cm}^2$", "$294\\text{ cm}^2$", "$312\\text{ cm}^2$", "$343\\text{ cm}^2$"],
+    "c": 0,
+    "exp": "$AD : AB = 3 : 7$. Ratio of areas $\\triangle ADE : \\triangle ABC = 9 : 49$. Area of $\\triangle ABC = 54 \\times \\frac{49}{9} = 294\\text{ cm}^2$. Area of trapezium = $294 - 54 = 240\\text{ cm}^2$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "The perimeter of a rhombus is $200\\text{ cm}$ and one of its diagonals is $60\\text{ cm}$. Find the area of the rhombus.",
+    "hi": "एक समचतुर्भुज का परिमाप $200\\text{ cm}$ है और इसका एक विकर्ण $60\\text{ cm}$ है। समचतुर्भुज का क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["$2400\\text{ cm}^2$", "$1200\\text{ cm}^2$", "$1440\\text{ cm}^2$", "$1600\\text{ cm}^2$"],
+    "oHi": ["$2400\\text{ cm}^2$", "$1200\\text{ cm}^2$", "$1440\\text{ cm}^2$", "$1600\\text{ cm}^2$"],
+    "c": 0,
+    "exp": "Side of rhombus $a = 50\\text{ cm}$. Half of $60\\text{ cm}$ diagonal = $30\\text{ cm}$. Other half diagonal = $\\sqrt{50^2 - 30^2} = 40\\text{ cm}$. Other diagonal = $80\\text{ cm}$. Area = $\\frac{1}{2} \\times 60 \\times 80 = 2400\\text{ cm}^2$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle PQR$, $I$ is the incentre. If $\\angle QIR = 135^\\circ$, find the measure of $\\angle P$.",
+    "hi": "$\\triangle PQR$ में, $I$ अंतःकेंद्र है। यदि $\\angle QIR = 135^\\circ$ है, तो $\\angle P$ का माप ज्ञात कीजिए।",
+    "oEn": ["$70^\\circ$", "$80^\\circ$", "$90^\\circ$", "$100^\\circ$"],
+    "oHi": ["$70^\\circ$", "$80^\\circ$", "$90^\\circ$", "$100^\\circ$"],
+    "c": 2,
+    "exp": "$\\angle QIR = 90^\\circ + \\frac{1}{2}\\angle P \\implies 135^\\circ = 90^\\circ + \\frac{1}{2}\\angle P \\implies \\angle P = 90^\\circ$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Two concentric circles have radii $17\\text{ cm}$ and $8\\text{ cm}$. Find the length of the chord of the larger circle which is tangent to the smaller circle.",
+    "hi": "दो संकेंद्रित वृत्तों की त्रिज्याएँ $17\\text{ cm}$ और $8\\text{ cm}$ हैं। बड़े वृत्त की उस जीवा की लंबाई ज्ञात कीजिए जो छोटे वृत्त की स्पर्श रेखा है।",
+    "oEn": ["$30\\text{ cm}$", "$32\\text{ cm}$", "$34\\text{ cm}$", "$36\\text{ cm}$"],
+    "oHi": ["$30\\text{ cm}$", "$32\\text{ cm}$", "$34\\text{ cm}$", "$36\\text{ cm}$"],
+    "c": 0,
+    "exp": "Half-chord length = $\\sqrt{17^2 - 8^2} = \\sqrt{289 - 64} = 15\\text{ cm}$. Total chord length = $2 \\times 15 = 30\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In a cyclic quadrilateral $ABCD$, $\\angle A = (3x - 10)^\\circ$ and $\\angle C = (2x + 30)^\\circ$. Find the value of $x$.",
+    "hi": "एक चक्रीय चतुर्भुज $ABCD$ में, $\\angle A = (3x - 10)^\\circ$ और $\\angle C = (2x + 30)^\\circ$ है। $x$ का मान ज्ञात कीजिए।",
+    "oEn": ["$26$", "$28$", "$30$", "$32$"],
+    "oHi": ["$26$", "$28$", "$30$", "$32$"],
+    "c": 3,
+    "exp": "Opposite angles of a cyclic quadrilateral sum to $180^\\circ$: $(3x - 10) + (2x + 30) = 180 \\implies 5x + 20 = 180 \\implies 5x = 160 \\implies x = 32$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "The lengths of two sides of a triangle are $12\\text{ cm}$ and $20\\text{ cm}$. If the third side is an integer, find the maximum possible perimeter of the triangle.",
+    "hi": "एक त्रिभुज की दो भुजाओं की लंबाई $12\\text{ cm}$ और $20\\text{ cm}$ है। यदि तीसरी भुजा एक पूर्णांक है, तो त्रिभुज का अधिकतम संभव परिमाप ज्ञात कीजिए।",
+    "oEn": ["$61\\text{ cm}$", "$62\\text{ cm}$", "$63\\text{ cm}$", "$64\\text{ cm}$"],
+    "oHi": ["$61\\text{ cm}$", "$62\\text{ cm}$", "$63\\text{ cm}$", "$64\\text{ cm}$"],
+    "c": 2,
+    "exp": "The third side $x$ must satisfy $20 - 12 < x < 20 + 12 \\implies 8 < x < 32$. The maximum integer value for $x$ is $31$. Maximum perimeter = $12 + 20 + 31 = 63\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle ABC$, $O$ is the circumcentre and $\\angle BAC = 55^\\circ$ and $\\angle BCA = 75^\\circ$. If $OD \\perp BC$ at $D$, find the measure of $\\angle BOD$.",
+    "hi": "$\\triangle ABC$ में, $O$ परिकेंद्र है और $\\angle BAC = 55^\\circ$ तथा $\\angle BCA = 75^\\circ$ है। यदि $OD \\perp BC$ ($D$ पर) है, तो $\\angle BOD$ का माप ज्ञात कीजिए।",
+    "oEn": ["$45^\\circ$", "$50^\\circ$", "$55^\\circ$", "$60^\\circ$"],
+    "oHi": ["$45^\\circ$", "$50^\\circ$", "$55^\\circ$", "$60^\\circ$"],
+    "c": 2,
+    "exp": "$\\angle B = 180 - (55 + 75) = 50^\\circ$. $\\angle BOC = 2 \\angle A = 110^\\circ$. Since $OD \\perp BC$, $OD$ bisects $\\angle BOC$, so $\\angle BOD = 110^\\circ / 2 = 55^\\circ$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "The ratio of the interior angle to the exterior angle of a regular polygon is $7 : 2$. Find the number of sides of the polygon.",
+    "hi": "एक नियमित बहुभुज के अंतःकोण और बाह्य कोण का अनुपात $7 : 2$ है। बहुभुज की भुजाओं की संख्या ज्ञात कीजिए।",
+    "oEn": ["$7$", "$8$", "$9$", "$10$"],
+    "oHi": ["$7$", "$8$", "$9$", "$10$"],
+    "c": 2,
+    "exp": "Sum of interior and exterior angle = $180^\\circ$. Exterior angle = $\\frac{2}{9} \\times 180^\\circ = 40^\\circ$. Number of sides $n = 360 / 40 = 9$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In a right-angled triangle $ABC$ ($\\angle B = 90^\\circ$), $BD$ is the median to the hypotenuse $AC$. If $AB = 10\\text{ cm}$ and $BC = 24\\text{ cm}$, find the length of $BD$.",
+    "hi": "एक समकोण त्रिभुज $ABC$ ($\\angle B = 90^\\circ$) में, $BD$ कर्ण $AC$ पर माधिका है। यदि $AB = 10\\text{ cm}$ और $BC = 24\\text{ cm}$ है, तो $BD$ की लंबाई ज्ञात कीजिए।",
+    "oEn": ["$12\\text{ cm}$", "$13\\text{ cm}$", "$14\\text{ cm}$", "$15\\text{ cm}$"],
+    "oHi": ["$12\\text{ cm}$", "$13\\text{ cm}$", "$14\\text{ cm}$", "$15\\text{ cm}$"],
+    "c": 1,
+    "exp": "Hypotenuse $AC = \\sqrt{10^2 + 24^2} = \\sqrt{100 + 576} = 26\\text{ cm}$. The median to the hypotenuse in a right triangle is half of the hypotenuse, so $BD = 26 / 2 = 13\\text{ cm}$.",
+    "Pyq": "2026_CGL_Tier2"
+  }
+]
