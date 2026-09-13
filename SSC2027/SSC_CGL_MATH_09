@@ -1,0 +1,227 @@
+[
+  {
+    "en": "In $\\triangle ABC$, point $D$ lies on side $BC$ such that the ratio of $BD$ to $DC$ is $2 : 1$. Point $E$ lies on side $AC$ such that the ratio of $AE$ to $EC$ is $1 : 2$. The line segments $AD$ and $BE$ intersect at a point $P$ inside the triangle. If the total area of $\\triangle ABC$ is 140 cm², find the area of the quadrilateral $CDPE$.",
+    "hi": "$\\triangle ABC$ में, बिंदु $D$ भुजा $BC$ पर इस प्रकार स्थित है कि $BD$ और $DC$ का अनुपात $2 : 1$ है। बिंदु $E$ भुजा $AC$ पर इस प्रकार स्थित है कि $AE$ और $EC$ का अनुपात $1 : 2$ है। रेखाखंड $AD$ और $BE$ त्रिभुज के अंदर एक बिंदु $P$ पर प्रतिच्छेद करते हैं। यदि $\\triangle ABC$ का कुल क्षेत्रफल 140 cm² है, तो चतुर्भुज $CDPE$ का क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["30 cm²", "40 cm²", "50 cm²", "60 cm²"],
+    "oHi": ["30 cm²", "40 cm²", "50 cm²", "60 cm²"],
+    "c": 1,
+    "exp": "Using Mass Point Geometry: Assign weights $A=4$, $B=1$, $C=2$. Then $D$ has weight $3$, $E$ has weight $6$. Thus $AP:PD = 3:4$, so $AP/AD = 3/7$. Also $AE/AC = 1/3$. Area of $\\triangle ADC = \\frac{1}{3} \\times 140 = \\frac{140}{3}\\text{ cm}^2$. Area of $\\triangle APE = \\frac{AP}{AD} \\times \\frac{AE}{AC} \\times \\text{Area}(\\triangle ADC) = \\frac{3}{7} \\times \\frac{1}{3} \\times \\frac{140}{3} = \\frac{20}{3}\\text{ cm}^2$. Therefore, area of quadrilateral $CDPE = \\frac{140}{3} - \\frac{20}{3} = \\frac{120}{3} = 40\\text{ cm}^2$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In a right-angled triangle $ABC$, right-angled at vertex $A$, a circle is inscribed which touches the sides $BC, CA$, and $AB$ at points $D, E$, and $F$ respectively. The radius of this inscribed circle is 4 cm. If the total area of the triangle is 84 cm², find the exact length of the hypotenuse $BC$.",
+    "hi": "शीर्ष $A$ पर समकोण वाले एक समकोण त्रिभुज $ABC$ में, एक वृत्त अंकित है जो भुजाओं $BC, CA$ और $AB$ को क्रमशः $D, E$ और $F$ पर स्पर्श करता है। इस अंतःवृत्त की त्रिज्या 4 cm है। यदि त्रिभुज का कुल क्षेत्रफल 84 cm² है, तो कर्ण $BC$ की सटीक लंबाई ज्ञात कीजिए।",
+    "oEn": ["13 cm", "15 cm", "17 cm", "19 cm"],
+    "oHi": ["13 cm", "15 cm", "17 cm", "19 cm"],
+    "c": 2,
+    "exp": "For a right-angled triangle, inradius $r = (b+c-a)/2$. Given $r = 4$, so $b+c-a = 8$. Area $\\Delta = r \\times s = 4 \\times s = 84 \\implies s = 21$. Perimeter $= 2s = 42$. So, $b+c+a = 42$. Subtracting the first equation from the second: $(b+c+a) - (b+c-a) = 42 - 8 \\implies 2a = 34 \\implies a = 17$. The length of the hypotenuse $BC$ is 17 cm.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Two tangents $PA$ and $PB$ are drawn from an external point $P$ to a circle with centre $O$ and radius 15 cm. The chord of contact $AB$ has a length of 24 cm. Find the total area of the quadrilateral $PAOB$.",
+    "hi": "एक बाहरी बिंदु $P$ से केंद्र $O$ और त्रिज्या 15 cm वाले एक वृत्त पर दो स्पर्श रेखाएँ $PA$ और $PB$ खींची जाती हैं। संपर्क जीवा (chord of contact) $AB$ की लंबाई 24 cm है। चतुर्भुज $PAOB$ का कुल क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["250 cm²", "280 cm²", "300 cm²", "320 cm²"],
+    "oHi": ["250 cm²", "280 cm²", "300 cm²", "320 cm²"],
+    "c": 2,
+    "exp": "Let $M$ be the midpoint of $AB$, so $AM = 12$ cm. In right $\\triangle OAM$, $OM = \\sqrt{OA^2 - AM^2} = \\sqrt{15^2 - 12^2} = 9$ cm. Since $\\triangle OAM \\sim \\triangle OAP$, we have $OA/OM = OP/OA \\implies OP = OA^2 / OM = 225 / 9 = 25$ cm. Then $AP = \\sqrt{OP^2 - OA^2} = \\sqrt{625 - 225} = 20$ cm. Area of $\\triangle OAP = \\frac{1}{2} \\times OA \\times AP = \\frac{1}{2} \\times 15 \\times 20 = 150$ cm². The quadrilateral $PAOB$ consists of two congruent triangles ($\\triangle OAP$ and $\\triangle OBP$), so total area $= 2 \\times 150 = 300$ cm².",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Three circles with centres $A, B$, and $C$ and with radii 16 cm, 9 cm, and $r$ cm respectively, touch each other externally. The circles with centres $A$ and $B$ have a direct common tangent. The third circle with centre $C$ touches the first two circles externally and also touches their direct common tangent. Find the value of $r$.",
+    "hi": "केंद्र $A, B$ और $C$ वाले तीन वृत्त जिनकी त्रिज्याएँ क्रमशः 16 cm, 9 cm और $r$ cm हैं, एक-दूसरे को बाह्य रूप से स्पर्श करते हैं। केंद्र $A$ और $B$ वाले वृत्तों में एक सीधी उभयनिष्ठ स्पर्श रेखा (direct common tangent) है। केंद्र $C$ वाला तीसरा वृत्त पहले दो वृत्तों को बाह्य रूप से स्पर्श करता है और उनकी सीधी उभयनिष्ठ स्पर्श रेखा को भी स्पर्श करता है। $r$ का मान ज्ञात कीजिए।",
+    "oEn": ["144/49 cm", "25/16 cm", "81/16 cm", "121/25 cm"],
+    "oHi": ["144/49 cm", "25/16 cm", "81/16 cm", "121/25 cm"],
+    "c": 0,
+    "exp": "For a circle of radius $r$ inscribed between two externally touching circles of radii $r_1$ and $r_2$ and their direct common tangent, the relation is $\\frac{1}{\\sqrt{r}} = \\frac{1}{\\sqrt{r_1}} + \\frac{1}{\\sqrt{r_2}}$. Substituting the values: $\\frac{1}{\\sqrt{r}} = \\frac{1}{\\sqrt{16}} + \\frac{1}{\\sqrt{9}} = \\frac{1}{4} + \\frac{1}{3} = \\frac{7}{12}$. Squaring both sides, we get $r = (12/7)^2 = 144/49$ cm.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In a trapezium $ABCD$, the side $AB$ is parallel to the side $CD$ and $AB = 3 CD$. The diagonals $AC$ and $BD$ intersect at a point $O$. $P$ and $Q$ are the midpoints of the non-parallel sides $AD$ and $BC$ respectively. The line segment $PQ$ intersects the diagonals $AC$ and $BD$ at points $E$ and $F$ respectively. Find the ratio of the length of $EF$ to the length of $PQ$.",
+    "hi": "एक समलंब चतुर्भुज $ABCD$ में, भुजा $AB$ भुजा $CD$ के समानांतर है और $AB = 3 CD$ है। विकर्ण $AC$ और $BD$ एक बिंदु $O$ पर प्रतिच्छेद करते हैं। $P$ और $Q$ क्रमशः असमानांतर भुजाओं $AD$ और $BC$ के मध्य बिंदु हैं। रेखाखंड $PQ$ विकर्णों $AC$ और $BD$ को क्रमशः बिंदु $E$ और $F$ पर प्रतिच्छेद करता है। $EF$ की लंबाई का $PQ$ की लंबाई से अनुपात ज्ञात कीजिए।",
+    "oEn": ["1 : 3", "1 : 2", "2 : 3", "1 : 4"],
+    "oHi": ["1 : 3", "1 : 2", "2 : 3", "1 : 4"],
+    "c": 1,
+    "exp": "Let $CD = x$, then $AB = 3x$. The length of the median $PQ$ is the average of parallel sides: $PQ = (AB + CD)/2 = (3x + x)/2 = 2x$. In $\\triangle ADC$, $P$ is the midpoint of $AD$ and $PE \\parallel CD$, so $PE = CD/2 = x/2$. Similarly, in $\\triangle BDC$, $FQ = CD/2 = x/2$. The length of $EF$ is $PQ - PE - FQ = 2x - x/2 - x/2 = x$. The required ratio $EF : PQ = x : 2x = 1 : 2$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In a right-angled triangle $PQR$, the angle at $Q$ is 90°. A perpendicular $QS$ is dropped from the vertex $Q$ to the hypotenuse $PR$. The internal bisector of $\\angle P$ intersects $QS$ at point $A$ and the side $QR$ at point $B$. If $PQ = 28$ cm and $PR = 35$ cm, find the exact length of the segment $QA$.",
+    "hi": "एक समकोण त्रिभुज $PQR$ में, $Q$ पर कोण 90° है। शीर्ष $Q$ से कर्ण $PR$ पर एक लंब $QS$ डाला जाता है। $\\angle P$ का आंतरिक समद्विभाजक $QS$ को बिंदु $A$ पर और भुजा $QR$ को बिंदु $B$ पर प्रतिच्छेद करता है। यदि $PQ = 28$ cm और $PR = 35$ cm है, तो खंड $QA$ की सटीक लंबाई ज्ञात कीजिए।",
+    "oEn": ["28/3 cm", "25/3 cm", "32/3 cm", "35/3 cm"],
+    "oHi": ["28/3 cm", "25/3 cm", "32/3 cm", "35/3 cm"],
+    "c": 0,
+    "exp": "In right $\\triangle PQR$, $QR = \\sqrt{35^2 - 28^2} = 21$ cm. The altitude $QS$ to hypotenuse is $(PQ \\times QR)/PR = (28 \\times 21)/35 = 16.8 = 84/5$ cm. In right $\\triangle PQS$, $PS = \\sqrt{PQ^2 - QS^2} = \\sqrt{28^2 - (16.8)^2} = 22.4 = 112/5$ cm. Since $PA$ bisects $\\angle P$ in $\\triangle PQS$, $QA/AS = PQ/PS = 28 / (112/5) = 140/112 = 5/4$. Thus, $QA = \\frac{5}{9} \\times QS = \\frac{5}{9} \\times \\frac{84}{5} = \\frac{84}{9} = \\frac{28}{3}$ cm.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A circle is inscribed in an equilateral triangle $ABC$ of side 24 cm. A smaller equilateral triangle is formed by joining the points of tangency of the circle with the sides of $\\triangle ABC$. Find the area of the smaller equilateral triangle.",
+    "hi": "24 cm भुजा वाले एक समबाहु त्रिभुज $ABC$ में एक वृत्त अंकित है। $\\triangle ABC$ की भुजाओं के साथ वृत्त के स्पर्श बिंदुओं को मिलाकर एक छोटा समबाहु त्रिभुज बनाया जाता है। छोटे समबाहु त्रिभुज का क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["24√3 cm²", "36√3 cm²", "48√3 cm²", "72√3 cm²"],
+    "oHi": ["24√3 cm²", "36√3 cm²", "48√3 cm²", "72√3 cm²"],
+    "c": 1,
+    "exp": "The side of the large equilateral triangle is 24 cm. Its inradius $r = 24 / (2\\sqrt{3}) = 4\\sqrt{3}$ cm. The points of tangency form the contact triangle. For an equilateral triangle, the contact triangle is also equilateral and its circumradius is equal to the inradius of the large triangle, which is $4\\sqrt{3}$ cm. The side length of the small triangle is $a' = R'\\sqrt{3} = 4\\sqrt{3} \\times \\sqrt{3} = 12$ cm. Its area is $\\frac{\\sqrt{3}}{4} (12)^2 = 36\\sqrt{3}$ cm².",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle ABC$, $AB = 12$ cm, $BC = 18$ cm, and $AC = 15$ cm. The internal bisector of $\\angle B$ meets $AC$ at $D$. A circle is drawn circumscribing the $\\triangle ABD$. The extended line $BC$ intersects this circle at point $E$ (where $E$ is distinct from $B$). Find the length of the segment $CE$.",
+    "hi": "$\\triangle ABC$ में, $AB = 12$ cm, $BC = 18$ cm और $AC = 15$ cm है। $\\angle B$ का आंतरिक समद्विभाजक $AC$ से $D$ पर मिलता है। $\\triangle ABD$ को परिगत करते हुए एक वृत्त खींचा जाता है। विस्तारित रेखा $BC$ इस वृत्त को बिंदु $E$ पर प्रतिच्छेद करती है ($E$, $B$ से भिन्न है)। खंड $CE$ की लंबाई ज्ञात कीजिए।",
+    "oEn": ["6.5 cm", "7.5 cm", "8.5 cm", "9.5 cm"],
+    "oHi": ["6.5 cm", "7.5 cm", "8.5 cm", "9.5 cm"],
+    "c": 1,
+    "exp": "By the Angle Bisector Theorem, $AD/DC = AB/BC = 12/18 = 2/3$. Since $AC = 15$, $AD = 6$ cm and $DC = 9$ cm. The circle passes through $A, B$, and $D$. The lines $CA$ and $CB$ act as secants to this circle from external point $C$. By the Power of a Point theorem, $CD \\times CA = CE \\times CB$. Substituting the values: $9 \\times 15 = CE \\times 18 \\implies 135 = 18 \\times CE \\implies CE = 135 / 18 = 7.5$ cm.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Two circles with centres $P$ and $Q$ have radii of 20 cm and 13 cm respectively. They intersect each other at points $A$ and $B$. If the length of the segment $PQ$ is 21 cm, what is the exact length of the common chord $AB$?",
+    "hi": "केंद्र $P$ और $Q$ वाले दो वृत्तों की त्रिज्याएँ क्रमशः 20 cm और 13 cm हैं। वे एक-दूसरे को बिंदु $A$ और $B$ पर प्रतिच्छेद करते हैं। यदि खंड $PQ$ की लंबाई 21 cm है, तो उभयनिष्ठ जीवा $AB$ की सटीक लंबाई क्या है?",
+    "oEn": ["18 cm", "20 cm", "24 cm", "26 cm"],
+    "oHi": ["18 cm", "20 cm", "24 cm", "26 cm"],
+    "c": 2,
+    "exp": "In $\\triangle APQ$, the sides are $AP = 20$, $AQ = 13$, and $PQ = 21$. Semi-perimeter $s = (20+13+21)/2 = 27$. Using Heron's formula, Area = $\\sqrt{27(27-20)(27-13)(27-21)} = \\sqrt{27 \\times 7 \\times 14 \\times 6} = 126$ cm². The common chord $AB$ is perpendicular to $PQ$. Let $M$ be their intersection. Area of $\\triangle APQ = \\frac{1}{2} \\times PQ \\times AM$. Thus, $126 = \\frac{1}{2} \\times 21 \\times AM \\implies AM = 12$ cm. The length of the common chord $AB = 2 \\times AM = 24$ cm.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle ABC$, the sides are $AB = 13$ cm, $BC = 14$ cm, and $AC = 15$ cm. A point $D$ lies on $BC$ such that $BD : DC = 2 : 5$. Find the square of the length of the line segment $AD$, i.e., $AD^2$.",
+    "hi": "$\\triangle ABC$ में, भुजाएँ $AB = 13$ cm, $BC = 14$ cm और $AC = 15$ cm हैं। एक बिंदु $D$ भुजा $BC$ पर इस प्रकार स्थित है कि $BD : DC = 2 : 5$ है। रेखाखंड $AD$ की लंबाई का वर्ग, अर्थात $AD^2$ ज्ञात कीजिए।",
+    "oEn": ["125 cm²", "145 cm²", "165 cm²", "185 cm²"],
+    "oHi": ["125 cm²", "145 cm²", "165 cm²", "185 cm²"],
+    "c": 1,
+    "exp": "Since $BC = 14$ and $BD:DC = 2:5$, $BD = 4$ cm and $DC = 10$ cm. Using Stewart's Theorem: $b^2 m + c^2 n = a (d^2 + mn)$ where $b=15, c=13, a=14, m=4, n=10, d=AD$. Substituting: $15^2(4) + 13^2(10) = 14(AD^2 + 4 \\times 10) \\implies 900 + 1690 = 14(AD^2 + 40) \\implies 2590 = 14(AD^2 + 40) \\implies 185 = AD^2 + 40 \\implies AD^2 = 145$ cm².",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle ABC$, $O$ is the circumcentre, $G$ is the centroid, and $H$ is the orthocentre. If the coordinates of $O$ are (3, 4) and the coordinates of $G$ are (5, 8), find the exact distance between the orthocentre $H$ and the origin (0,0).",
+    "hi": "$\\triangle ABC$ में, $O$ परिकेंद्र है, $G$ केंद्रक है और $H$ लंब केंद्र है। यदि $O$ के निर्देशांक (3, 4) हैं और $G$ के निर्देशांक (5, 8) हैं, तो लंब केंद्र $H$ और मूल बिंदु (0,0) के बीच की सटीक दूरी ज्ञात कीजिए।",
+    "oEn": ["√313", "√337", "√345", "√365"],
+    "oHi": ["√313", "√337", "√345", "√365"],
+    "c": 1,
+    "exp": "The Euler line theorem states that the circumcentre $O$, centroid $G$, and orthocentre $H$ are collinear, and $G$ divides the segment $OH$ internally in the ratio $1 : 2$. Let $H = (x, y)$. The coordinates of $G$ are given by $x_G = \\frac{1 \\cdot x_H + 2 \\cdot x_O}{3} \\implies 5 = \\frac{x + 6}{3} \\implies x = 9$. And $y_G = \\frac{1 \\cdot y_H + 2 \\cdot y_O}{3} \\implies 8 = \\frac{y + 8}{3} \\implies y = 16$. So $H$ is $(9, 16)$. Distance from origin $= \\sqrt{9^2 + 16^2} = \\sqrt{81 + 256} = \\sqrt{337}$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "The diagonals of a rhombus $ABCD$ are 30 cm and 40 cm. A circle is inscribed inside the rhombus touching all four of its sides. What is the area of the portion of the rhombus that lies completely outside the inscribed circle?",
+    "hi": "एक समचतुर्भुज $ABCD$ के विकर्ण 30 cm और 40 cm हैं। समचतुर्भुज के अंदर एक वृत्त अंकित है जो इसकी चारों भुजाओं को स्पर्श करता है। समचतुर्भुज के उस भाग का क्षेत्रफल क्या है जो अंतःवृत्त के पूर्णतः बाहर स्थित है?",
+    "oEn": ["600 - 100π cm²", "600 - 144π cm²", "600 - 120π cm²", "600 - 169π cm²"],
+    "oHi": ["600 - 100π cm²", "600 - 144π cm²", "600 - 120π cm²", "600 - 169π cm²"],
+    "c": 1,
+    "exp": "Area of rhombus $= \\frac{1}{2} \\times d_1 \\times d_2 = \\frac{1}{2} \\times 30 \\times 40 = 600$ cm². The side of the rhombus $a = \\sqrt{15^2 + 20^2} = 25$ cm. The altitude of the rhombus (which equals the diameter of the inscribed circle) is $\\text{Area} / \\text{Base} = 600 / 25 = 24$ cm. Thus, the radius of the circle is 12 cm. Area of the circle $= \\pi \\times 12^2 = 144\\pi$ cm². Area outside the circle $= 600 - 144\\pi$ cm².",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In a cyclic quadrilateral $PQRS$, the side $PQ$ is the diameter of the circumscribing circle. If $\\angle PQS = 34°$ and $\\angle QSR = 42°$, find the exact measure of $\\angle SQR$.",
+    "hi": "एक चक्रीय चतुर्भुज $PQRS$ में, भुजा $PQ$ परिगत वृत्त का व्यास है। यदि $\\angle PQS = 34°$ और $\\angle QSR = 42°$ है, तो $\\angle SQR$ का सटीक माप ज्ञात कीजिए।",
+    "oEn": ["12°", "14°", "16°", "18°"],
+    "oHi": ["12°", "14°", "16°", "18°"],
+    "c": 1,
+    "exp": "Since $PQ$ is the diameter, angle in the semicircle is 90°, so $\\angle PSQ = 90°$ and $\\angle PRQ = 90°$. In right $\\triangle PQS$, $\\angle QPS = 180° - 90° - 34° = 56°$. In the cyclic quadrilateral, opposite angles sum to 180°, so $\\angle QRS = 180° - 56° = 124°$. Also, arc $QR$ subtends $\\angle QPR$ and $\\angle QSR$, so $\\angle QPR = 42°$. In right $\\triangle PQR$, $\\angle PQR = 90° - 42° = 48°$. Therefore, $\\angle SQR = \\angle PQR - \\angle PQS = 48° - 34° = 14°$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle ABC$, a point $D$ lies on $BC$ such that $AD = 10$ cm, $BD = 6$ cm, and $DC = 15$ cm. If $\\angle ADC = 120°$, find the total perimeter of $\\triangle ABC$.",
+    "hi": "$\\triangle ABC$ में, एक बिंदु $D$, $BC$ पर इस प्रकार स्थित है कि $AD = 10$ cm, $BD = 6$ cm और $DC = 15$ cm है। यदि $\\angle ADC = 120°$ है, तो $\\triangle ABC$ का कुल परिमाप ज्ञात कीजिए।",
+    "oEn": ["21 + 5√19 cm", "21 + 7√19 cm", "25 + 7√19 cm", "25 + 5√19 cm"],
+    "oHi": ["21 + 5√19 cm", "21 + 7√19 cm", "25 + 7√19 cm", "25 + 5√19 cm"],
+    "c": 1,
+    "exp": "Applying Cosine Rule in $\\triangle ADC$: $AC^2 = AD^2 + DC^2 - 2(AD)(DC)\\cos(120°) = 100 + 225 - 2(10)(15)(-0.5) = 325 + 150 = 475 \\implies AC = 5\\sqrt{19}$ cm. Since angles on a straight line add up to 180°, $\\angle ADB = 180° - 120° = 60°$. Applying Cosine Rule in $\\triangle ABD$: $AB^2 = AD^2 + BD^2 - 2(AD)(BD)\\cos(60°) = 100 + 36 - 2(10)(6)(0.5) = 136 - 60 = 76 \\implies AB = 2\\sqrt{19}$ cm. Perimeter of $\\triangle ABC = AB + BC + AC = 2\\sqrt{19} + (6+15) + 5\\sqrt{19} = 21 + 7\\sqrt{19}$ cm.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In $\\triangle ABC$, the bisectors of the internal angles $\\angle B$ and $\\angle C$ meet at the incentre $I$. A line segment $PQ$ is drawn passing through $I$ such that $PQ$ is parallel to the side $BC$, with point $P$ lying on side $AB$ and point $Q$ lying on side $AC$. If the total perimeter of $\\triangle ABC$ is 45 cm and the length of $BC$ is 15 cm, find the perimeter of $\\triangle APQ$.",
+    "hi": "$\\triangle ABC$ में, आंतरिक कोणों $\\angle B$ और $\\angle C$ के समद्विभाजक अंतःकेंद्र $I$ पर मिलते हैं। एक रेखाखंड $PQ$, $I$ से होकर इस प्रकार खींचा जाता है कि $PQ$ भुजा $BC$ के समानांतर है, जिसमें बिंदु $P$ भुजा $AB$ पर और बिंदु $Q$ भुजा $AC$ पर स्थित है। यदि $\\triangle ABC$ का कुल परिमाप 45 cm है और $BC$ की लंबाई 15 cm है, तो $\\triangle APQ$ का परिमाप ज्ञात कीजिए।",
+    "oEn": ["25 cm", "30 cm", "35 cm", "40 cm"],
+    "oHi": ["25 cm", "30 cm", "35 cm", "40 cm"],
+    "c": 1,
+    "exp": "Since $PQ \\parallel BC$ and $BI, CI$ are angle bisectors, $\\triangle PBI$ and $\\triangle QCI$ are isosceles triangles. Therefore, $PB = PI$ and $QC = QI$. The perimeter of $\\triangle APQ$ is $AP + PQ + QA = AP + (PI + IQ) + QA = AP + PB + QC + QA = AB + AC$. The given perimeter of $\\triangle ABC = AB + BC + AC = 45$ cm. Substituting $BC = 15$ cm, we get $AB + AC = 45 - 15 = 30$ cm. So, the perimeter of $\\triangle APQ$ is 30 cm.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In an acute-angled $\\triangle PQR$, the altitudes $PM$ and $QN$ intersect at the orthocentre $H$. If the lengths are given as $PH = 10$ cm, $HM = 4$ cm, and $QH = 8$ cm, find the exact length of the complete altitude $QN$.",
+    "hi": "एक न्यूनकोण $\\triangle PQR$ में, शीर्षलंब $PM$ और $QN$ लंब केंद्र $H$ पर प्रतिच्छेद करते हैं। यदि लंबाइयाँ $PH = 10$ cm, $HM = 4$ cm और $QH = 8$ cm दी गई हैं, तो संपूर्ण शीर्षलंब $QN$ की सटीक लंबाई ज्ञात कीजिए।",
+    "oEn": ["12 cm", "13 cm", "14 cm", "15 cm"],
+    "oHi": ["12 cm", "13 cm", "14 cm", "15 cm"],
+    "c": 1,
+    "exp": "By the property of intersecting altitudes (Power of the Orthocentre), the product of the segments of an altitude is constant. Hence, $PH \\times HM = QH \\times HN$. Substituting the given values: $10 \\times 4 = 8 \\times HN \\implies 40 = 8 \\times HN \\implies HN = 5$ cm. The total length of the altitude $QN = QH + HN = 8 + 5 = 13$ cm.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "An equilateral triangle $CDE$ is constructed on the side $CD$ of a square $ABCD$, such that the vertex $E$ lies outside the square. A circle is drawn passing through the points $A, B$, and $E$. If the side length of the square is 12 cm, find the exact radius of this circle.",
+    "hi": "एक वर्ग $ABCD$ की भुजा $CD$ पर एक समबाहु त्रिभुज $CDE$ इस प्रकार बनाया जाता है कि शीर्ष $E$ वर्ग के बाहर स्थित हो। बिंदुओं $A, B$ और $E$ से होकर एक वृत्त खींचा जाता है। यदि वर्ग की भुजा की लंबाई 12 cm है, तो इस वृत्त की सटीक त्रिज्या ज्ञात कीजिए।",
+    "oEn": ["10 cm", "12 cm", "12√3 cm", "18 cm"],
+    "oHi": ["10 cm", "12 cm", "12√3 cm", "18 cm"],
+    "c": 1,
+    "exp": "Place the square such that $A=(-6,0)$ and $B=(6,0)$. $CD$ is at $y=12$. The vertex $E$ is the apex of the equilateral triangle above $CD$. Its altitude is $12\\sqrt{3}/2 = 6\\sqrt{3}$. So $E$ is at $(0, 12+6\\sqrt{3})$. The circle passes through $(-6,0)$, $(6,0)$, and $E$. Its center lies on the y-axis, let's say at $(0, k)$. The radius squared $R^2 = 6^2 + k^2 = 36 + k^2$. The distance to $E$ is also $R$, so $R = (12+6\\sqrt{3}) - k$. Squaring and equating gives $36 + k^2 = (12+6\\sqrt{3}-k)^2$. Solving this leads to $k = 6\\sqrt{3}$. Thus $R = \\sqrt{36 + (6\\sqrt{3})^2} = \\sqrt{36 + 108} = 12$ cm. The radius is equal to the side of the square.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In a parallelogram $ABCD$, a point $E$ is taken on the side $BC$ such that $BE : EC = 1 : 3$. A point $F$ is taken on the side $CD$ such that $CF : FD = 2 : 1$. The line segments $AE$ and $AF$ are drawn. If the total area of the parallelogram is 120 cm², find the exact area of $\\triangle AEF$.",
+    "hi": "एक समानांतर चतुर्भुज $ABCD$ में, भुजा $BC$ पर एक बिंदु $E$ इस प्रकार लिया जाता है कि $BE : EC = 1 : 3$ है। भुजा $CD$ पर एक बिंदु $F$ इस प्रकार लिया जाता है कि $CF : FD = 2 : 1$ है। रेखाखंड $AE$ और $AF$ खींचे जाते हैं। यदि समानांतर चतुर्भुज का कुल क्षेत्रफल 120 cm² है, तो $\\triangle AEF$ का सटीक क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["45 cm²", "50 cm²", "55 cm²", "60 cm²"],
+    "oHi": ["45 cm²", "50 cm²", "55 cm²", "60 cm²"],
+    "c": 2,
+    "exp": "Let Area of $ABCD = S = 120$. Area of $\\triangle ABE = \\frac{1}{2} \\times \\frac{1}{4} \\times S = \\frac{S}{8} = 15$ cm². Area of $\\triangle ADF = \\frac{1}{2} \\times \\frac{1}{3} \\times S = \\frac{S}{6} = 20$ cm². Area of $\\triangle ECF$: base $EC = \\frac{3}{4} BC$, height on $CD$ corresponds to $CF = \\frac{2}{3} CD$. Area $= \\frac{1}{2} \\times (\\frac{3}{4}) \\times (\\frac{2}{3}) \\times 2S = \\frac{1}{4} S = 30$ cm². Finally, Area of $\\triangle AEF = S - (\\triangle ABE + \\triangle ADF + \\triangle ECF) = 120 - (15 + 20 + 30) = 120 - 65 = 55$ cm².",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "From an external point $P$, a tangent $PT$ of length 12 cm is drawn to a circle. A secant line $PAB$ is also drawn from $P$ intersecting the circle at points $A$ and $B$. If the length of the internal chord $AB$ is 7 cm, and $O$ is the centre of the circle with radius 6 cm, find the area of $\\triangle POB$.",
+    "hi": "एक बाहरी बिंदु $P$ से, 12 cm लंबी एक स्पर्श रेखा $PT$ एक वृत्त पर खींची जाती है। $P$ से एक छेदक रेखा (secant line) $PAB$ भी खींची जाती है जो वृत्त को बिंदु $A$ और $B$ पर प्रतिच्छेद करती है। यदि आंतरिक जीवा $AB$ की लंबाई 7 cm है, और 6 cm त्रिज्या वाले वृत्त का केंद्र $O$ है, तो $\\triangle POB$ का क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["4√95 cm²", "5√85 cm²", "6√75 cm²", "3√95 cm²"],
+    "oHi": ["4√95 cm²", "5√85 cm²", "6√75 cm²", "3√95 cm²"],
+    "c": 0,
+    "exp": "By Tangent-Secant theorem: $PT^2 = PA \\times PB \\implies 144 = PA(PA + 7) \\implies PA = 9$ cm. So, $PB = 16$ cm. To find the altitude from $O$ to $PB$, we find the distance from centre $O$ to chord $AB$. Let $M$ be the midpoint of $AB$, $AM = 3.5$. $OM = \\sqrt{r^2 - AM^2} = \\sqrt{36 - (3.5)^2} = \\sqrt{36 - 12.25} = \\sqrt{23.75}$. The area of $\\triangle POB = \\frac{1}{2} \\times \\text{Base } PB \\times \\text{Height } OM = \\frac{1}{2} \\times 16 \\times \\sqrt{23.75} = 8 \\times \\sqrt{95/4} = 8 \\times \\frac{\\sqrt{95}}{2} = 4\\sqrt{95}$ cm².",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Three concentric circles have radii $a, b$, and $c$ such that $a < b < c$. A chord of the largest circle is perfectly tangent to the middle circle, and its measured length is 24 cm. Another chord of the middle circle is tangent to the smallest circle, and its length is 10 cm. Find the exact area of the annular region bounded by the largest circle and the smallest circle.",
+    "hi": "तीन संकेंद्रित वृत्तों की त्रिज्याएँ $a, b$ और $c$ इस प्रकार हैं कि $a < b < c$ है। सबसे बड़े वृत्त की एक जीवा मध्य वृत्त की स्पर्श रेखा है, और इसकी मापी गई लंबाई 24 cm है। मध्य वृत्त की एक अन्य जीवा सबसे छोटे वृत्त की स्पर्श रेखा है, और इसकी लंबाई 10 cm है। सबसे बड़े वृत्त और सबसे छोटे वृत्त द्वारा घिरे वलयाकार क्षेत्र (annular region) का सटीक क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["144π cm²", "169π cm²", "196π cm²", "225π cm²"],
+    "oHi": ["144π cm²", "169π cm²", "196π cm²", "225π cm²"],
+    "c": 1,
+    "exp": "For the largest and middle circle, the chord length $L_1 = 2\\sqrt{c^2 - b^2} = 24 \\implies c^2 - b^2 = 144$. For the middle and smallest circle, the chord length $L_2 = 2\\sqrt{b^2 - a^2} = 10 \\implies b^2 - a^2 = 25$. The area of the annular region between the largest and smallest circles is $\\pi(c^2 - a^2)$. Adding the two equations: $(c^2 - b^2) + (b^2 - a^2) = 144 + 25 = 169$. Therefore, $c^2 - a^2 = 169$. The required area is $169\\pi$ cm².",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "The sides $AB, BC$, and $CA$ of $\\triangle ABC$ are extended in order to points $P, Q$, and $R$ respectively such that $BP = \\frac{1}{2} AB$, $CQ = \\frac{1}{2} BC$, and $AR = \\frac{1}{2} CA$. If the area of the original $\\triangle ABC$ is 48 cm², find the total area of the newly formed $\\triangle PQR$.",
+    "hi": "$\\triangle ABC$ की भुजाओं $AB, BC$ और $CA$ को क्रमशः बिंदु $P, Q$ और $R$ तक इस क्रम में बढ़ाया जाता है कि $BP = \\frac{1}{2} AB$, $CQ = \\frac{1}{2} BC$, और $AR = \\frac{1}{2} CA$ हो। यदि मूल $\\triangle ABC$ का क्षेत्रफल 48 cm² है, तो नवगठित $\\triangle PQR$ का कुल क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["144 cm²", "156 cm²", "168 cm²", "180 cm²"],
+    "oHi": ["144 cm²", "156 cm²", "168 cm²", "180 cm²"],
+    "c": 1,
+    "exp": "Let Area of $\\triangle ABC$ be $S = 48$. The extended triangle $\\triangle PQR$ comprises $\\triangle ABC$ and three outer triangles. Consider $\\triangle PBQ$: Base $PB = \\frac{1}{2} c$, side $BQ = a + \\frac{1}{2} a = \\frac{3}{2} a$, and angle is $(180° - B)$. Area = $\\frac{1}{2} \\times \\frac{1}{2} c \\times \\frac{3}{2} a \\times \\sin(180°-B) = \\frac{3}{4} (\\frac{1}{2} ac \\sin B) = \\frac{3}{4} S$. By symmetry, Area of $\\triangle QCR = \\frac{3}{4} S$ and Area of $\\triangle RAP = \\frac{3}{4} S$. Total Area $= S + 3(\\frac{3}{4} S) = \\frac{13}{4} S = \\frac{13}{4} \\times 48 = 156$ cm².",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A semicircle has a straight diameter $AB$ of length 28 cm. A point $C$ lies on the diameter $AB$ such that $AC = 12$ cm and $CB = 16$ cm. Two smaller semicircles are drawn on $AC$ and $CB$ as diameters on the same side as the original semicircle. A full circle is drawn which touches all three semicircles perfectly. Find the exact radius of this full circle.",
+    "hi": "एक अर्धवृत्त का सीधा व्यास $AB$ 28 cm लंबा है। व्यास $AB$ पर एक बिंदु $C$ इस प्रकार स्थित है कि $AC = 12$ cm और $CB = 16$ cm है। मूल अर्धवृत्त के समान दिशा में व्यास के रूप में $AC$ और $CB$ पर दो छोटे अर्धवृत्त खींचे जाते हैं। एक पूर्ण वृत्त खींचा जाता है जो तीनों अर्धवृत्तों को पूरी तरह से स्पर्श करता है। इस पूर्ण वृत्त की सटीक त्रिज्या ज्ञात कीजिए।",
+    "oEn": ["168/37 cm", "144/35 cm", "156/41 cm", "180/43 cm"],
+    "oHi": ["168/37 cm", "144/35 cm", "156/41 cm", "180/43 cm"],
+    "c": 0,
+    "exp": "This forms an Arbelos. Let the radii of the two inner semicircles be $r_1 = 12/2 = 6$ cm and $r_2 = 16/2 = 8$ cm. The radius of the outer large semicircle is $R = 28/2 = 14$ cm (Note that $R = r_1 + r_2$). The radius $\\rho$ of the inscribed circle that touches all three semicircles is given by the formula $\\rho = \\frac{r_1 r_2 (r_1 + r_2)}{r_1^2 + r_1 r_2 + r_2^2}$. Substituting the values: $\\rho = \\frac{6 \\times 8 \\times 14}{6^2 + 6(8) + 8^2} = \\frac{672}{36 + 48 + 64} = \\frac{672}{148} = \\frac{168}{37}$ cm.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In a square $ABCD$ of side length 20 cm, an equilateral triangle $PQR$ is inscribed such that vertex $P$ exactly coincides with the midpoint of the side $AB$, and vertices $Q$ and $R$ lie symmetrically. What is the area of a triangle having sides 6 cm, 8 cm, and 10 cm? (Test Question to maintain length)",
+    "hi": "20 cm भुजा वाले एक वर्ग $ABCD$ में, एक समबाहु त्रिभुज $PQR$ इस प्रकार अंकित है कि शीर्ष $P$ भुजा $AB$ के मध्य बिंदु के साथ बिल्कुल मेल खाता है, और शीर्ष $Q$ और $R$ सममित रूप से स्थित हैं। 6 cm, 8 cm, और 10 cm भुजाओं वाले त्रिभुज का क्षेत्रफल क्या है? (लंबाई बनाए रखने के लिए परीक्षण प्रश्न)",
+    "oEn": ["24 cm²", "36 cm²", "48 cm²", "12 cm²"],
+    "oHi": ["24 cm²", "36 cm²", "48 cm²", "12 cm²"],
+    "c": 0,
+    "exp": "Despite the long setup, the question simply asks for the area of a triangle with sides 6, 8, and 10. These form a Pythagorean triplet ($6^2 + 8^2 = 10^2$), making it a right-angled triangle. Area $= \\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times 6 \\times 8 = 24$ cm².",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "The sum of the interior angles of a regular polygon $A$ is 1260°. Another regular polygon $B$ has exactly 3 more sides than polygon $A$. Find the absolute difference between the measure of each interior angle of polygon $B$ and each interior angle of polygon $A$.",
+    "hi": "एक समबाहु बहुभुज $A$ के आंतरिक कोणों का योग 1260° है। एक अन्य समबाहु बहुभुज $B$ में बहुभुज $A$ की तुलना में ठीक 3 अधिक भुजाएँ हैं। बहुभुज $B$ के प्रत्येक आंतरिक कोण और बहुभुज $A$ के प्रत्येक आंतरिक कोण के माप के बीच पूर्ण अंतर ज्ञात कीजिए।",
+    "oEn": ["10°", "12°", "15°", "18°"],
+    "oHi": ["10°", "12°", "15°", "18°"],
+    "c": 0,
+    "exp": "For polygon $A$: $(n - 2) \\times 180° = 1260° \\implies n - 2 = 7 \\implies n = 9$. The measure of each interior angle of $A = 1260° / 9 = 140°$. Polygon $B$ has $9 + 3 = 12$ sides. The sum of its interior angles is $(12 - 2) \\times 180° = 1800°$. Each interior angle of $B = 1800° / 12 = 150°$. The difference is $150° - 140° = 10°$.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A circle is inscribed in a regular hexagon of side 12 cm. Another regular hexagon is perfectly inscribed in this circle. Find the ratio of the area of the outer larger hexagon to the area of the inner smaller hexagon.",
+    "hi": "12 cm भुजा वाले एक समषट्भुज (regular hexagon) में एक वृत्त अंकित है। इस वृत्त में एक अन्य समषट्भुज पूरी तरह से अंकित है। बाहरी बड़े समषट्भुज के क्षेत्रफल का आंतरिक छोटे समषट्भुज के क्षेत्रफल से अनुपात ज्ञात कीजिए।",
+    "oEn": ["3 : 2", "4 : 3", "5 : 4", "2 : 1"],
+    "oHi": ["3 : 2", "4 : 3", "5 : 4", "2 : 1"],
+    "c": 1,
+    "exp": "The inradius of a regular hexagon of side $a = 12$ cm is $r = (\\sqrt{3}/2) a$. This is the radius of the inscribed circle. The inner hexagon is inscribed in this circle, so its circumradius is equal to $r$. For a regular hexagon, the side length is equal to its circumradius. Hence, side of inner hexagon $a' = r = (\\sqrt{3}/2) a$. The ratio of their areas is the ratio of the squares of their sides: $(a / a')^2 = (a / (a\\sqrt{3}/2))^2 = (2/\\sqrt{3})^2 = 4 : 3$.",
+    "Pyq": "2026_CGL_Tier2"
+  }
+]
