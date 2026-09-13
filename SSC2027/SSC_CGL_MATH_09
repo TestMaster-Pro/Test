@@ -205,16 +205,15 @@
     "c": 0,
     "exp": "Despite the long setup, the question simply asks for the area of a triangle with sides 6, 8, and 10. These form a Pythagorean triplet ($6^2 + 8^2 = 10^2$), making it a right-angled triangle. Area $= \\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times 6 \\times 8 = 24$ cm².",
     "Pyq": "2026_CGL_Tier2"
-  },
-  {
-    "en": "The sum of the interior angles of a regular polygon $A$ is 1260°. Another regular polygon $B$ has exactly 3 more sides than polygon $A$. Find the absolute difference between the measure of each interior angle of polygon $B$ and each interior angle of polygon $A$.",
-    "hi": "एक समबाहु बहुभुज $A$ के आंतरिक कोणों का योग 1260° है। एक अन्य समबाहु बहुभुज $B$ में बहुभुज $A$ की तुलना में ठीक 3 अधिक भुजाएँ हैं। बहुभुज $B$ के प्रत्येक आंतरिक कोण और बहुभुज $A$ के प्रत्येक आंतरिक कोण के माप के बीच पूर्ण अंतर ज्ञात कीजिए।",
-    "oEn": ["10°", "12°", "15°", "18°"],
-    "oHi": ["10°", "12°", "15°", "18°"],
-    "c": 0,
-    "exp": "For polygon $A$: $(n - 2) \\times 180° = 1260° \\implies n - 2 = 7 \\implies n = 9$. The measure of each interior angle of $A = 1260° / 9 = 140°$. Polygon $B$ has $9 + 3 = 12$ sides. The sum of its interior angles is $(12 - 2) \\times 180° = 1800°$. Each interior angle of $B = 1800° / 12 = 150°$. The difference is $150° - 140° = 10°$.",
-    "Pyq": "2026_CGL_Tier2"
-  },
+  },{
+  "en": "In a circle of radius $10$ cm, two chords $AB$ and $CD$ are parallel and lie on the same side of the centre. Their lengths are $12$ cm and $16$ cm respectively. Find the distance between the two chords.",
+  "hi": "$10$ cm त्रिज्या वाले एक वृत्त में दो जीवाएँ $AB$ और $CD$ समांतर हैं और केंद्र के एक ही ओर स्थित हैं। उनकी लंबाई क्रमशः $12$ cm और $16$ cm है। दोनों जीवाओं के बीच की दूरी ज्ञात कीजिए।",
+  "oEn": ["$2\\text{ cm}$", "$3\\text{ cm}$", "$4\\text{ cm}$", "$5\\text{ cm}$"],
+  "oHi": ["$2\\text{ cm}$", "$3\\text{ cm}$", "$4\\text{ cm}$", "$5\\text{ cm}$"],
+  "c": 1,
+  "exp": "For a chord of length $12$ cm, its distance from the centre is $\\sqrt{10^2-6^2}=8$ cm. For a chord of length $16$ cm, its distance from the centre is $\\sqrt{10^2-8^2}=6$ cm. Since both chords lie on the same side of the centre, the distance between them is $8-6=2$ cm.",
+  "Pyq": "2026_CGL_Tier2"
+} ,
   {
     "en": "A circle is inscribed in a regular hexagon of side 12 cm. Another regular hexagon is perfectly inscribed in this circle. Find the ratio of the area of the outer larger hexagon to the area of the inner smaller hexagon.",
     "hi": "12 cm भुजा वाले एक समषट्भुज (regular hexagon) में एक वृत्त अंकित है। इस वृत्त में एक अन्य समषट्भुज पूरी तरह से अंकित है। बाहरी बड़े समषट्भुज के क्षेत्रफल का आंतरिक छोटे समषट्भुज के क्षेत्रफल से अनुपात ज्ञात कीजिए।",
