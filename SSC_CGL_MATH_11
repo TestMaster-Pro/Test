@@ -1,0 +1,362 @@
+[
+  {
+    "en": "In an election between two candidates, 15% of the voters on the voter list did not cast their votes and 10% of the votes polled were declared invalid. The winning candidate secured 62% of the valid votes and won by a majority of 3,672 votes. Find the total number of voters enrolled in the voter list.",
+    "hi": "दो उम्मीदवारों के बीच एक चुनाव में, मतदाता सूची के 15% मतदाताओं ने वोट नहीं डाला और डाले गए वोटों में से 10% वोट अवैध घोषित कर दिए गए। विजेता उम्मीदवार को वैध वोटों का 62% प्राप्त हुआ और वह 3,672 वोटों के बहुमत से जीता। मतदाता सूची में नामांकित कुल मतदाताओं की संख्या ज्ञात कीजिए।",
+    "oEn": ["20,000", "18,000", "22,500", "25,000"],
+    "oHi": ["20,000", "18,000", "22,500", "25,000"],
+    "c": 0,
+    "exp": "Let total voters = V. Votes polled = 0.85V. Valid votes = 0.85V × 0.90 = 0.765V. Winning majority = (62% - 38%) of valid votes = 24% of 0.765V = 0.1836V. Given 0.1836V = 3,672 => V = 20,000.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "The monthly income of A is 40% more than that of B. B's monthly expenditure is 20% less than A's expenditure. If A saves ₹12,000 and B saves ₹6,000 per month, find the total monthly income of A and B together.",
+    "hi": "A की मासिक आय B की मासिक आय से 40% अधिक है। B का मासिक खर्च A के खर्च से 20% कम है। यदि A प्रति माह ₹12,000 बचाता है और B प्रति माह ₹6,000 बचाता है, तो A और B की कुल मिलाकर मासिक आय ज्ञात कीजिए।",
+    "oEn": ["₹64,000", "₹72,000", "₹80,000", "₹84,000"],
+    "oHi": ["₹64,000", "₹72,000", "₹80,000", "₹84,000"],
+    "c": 1,
+    "exp": "Let B's income = 100x => A's income = 140x. Expenditure ratio EA : EB = 5 : 4. (140x - 12000) / (100x - 6000) = 5 / 4. Solving gives 560x - 48000 = 500x - 30000 => 60x = 18000 => x = 300. Total income = 240x = 240 × 300 = ₹72,000.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Due to a 25% price reduction of sugar per kg, a customer can purchase 4 kg more sugar for ₹1,200. If the price is subsequently increased by 20%, what will be the cost of 5 kg of sugar at the new increased price?",
+    "hi": "प्रति किग्रा चीनी की कीमत में 25% की कमी के कारण, एक ग्राहक ₹1,200 में 4 किग्रा अधिक चीनी खरीद सकता है। यदि इसके बाद कीमत में 20% की वृद्धि की जाती है, तो नई बढ़ी हुई कीमत पर 5 किग्रा चीनी का मूल्य क्या होगा?",
+    "oEn": ["₹400", "₹500", "₹450", "₹540"],
+    "oHi": ["₹400", "₹500", "₹450", "₹540"],
+    "c": 2,
+    "exp": "Let initial price = P. Reduced price = 0.75P. 1200/0.75P - 1200/P = 4 => 1600/P - 1200/P = 4 => P = ₹100/kg. Reduced price = ₹75/kg. New price after 20% increase = 75 × 1.2 = ₹90/kg. Cost of 5 kg = 5 × 90 = ₹450.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A dishonest trader marks his goods 30% above the cost price and allows a discount of 10% to the customer. Additionally, while selling, he uses a false weight of 800 g instead of 1 kg. What is his overall profit percentage?",
+    "hi": "एक बेईमान व्यापारी अपने माल पर क्रय मूल्य से 30% अधिक अंकित करता है और ग्राहक को 10% की छूट देता है। इसके अलावा, बेचते समय वह 1 किग्रा के स्थान पर 800 ग्राम के गलत वजन का उपयोग करता है। उसका कुल प्रतिशत लाभ कितना है?",
+    "oEn": ["42.5%", "44.5%", "48.75%", "46.25%"],
+    "oHi": ["42.5%", "44.5%", "48.75%", "46.25%"],
+    "c": 3,
+    "exp": "Let CP of 1000 g = ₹1000. MP = ₹1300. SP after 10% discount = ₹1170 for 800 g. CP of 800 g = ₹800. Profit = 1170 - 800 = ₹370. Profit % = (370 / 800) × 100 = 46.25%.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "An article is marked at ₹2,400. A shopkeeper offers two successive schemes: 'Buy 4 Get 1 Free' and an additional cash discount of 10%. What is the effective single discount percentage offered by the shopkeeper?",
+    "hi": "एक वस्तु का अंकित मूल्य ₹2,400 है। एक दुकानदार दो क्रमिक योजनाएं प्रदान करता है: '4 खरीदें 1 मुफ्त पाएं' और 10% की अतिरिक्त नकद छूट। दुकानदार द्वारा दी जाने वाली प्रभावी एकल छूट प्रतिशत क्या है?",
+    "oEn": ["28%", "25%", "30%", "32%"],
+    "oHi": ["28%", "25%", "30%", "32%"],
+    "c": 0,
+    "exp": "First discount scheme ('Buy 4 Get 1 Free') = 1/5 = 20%. Second discount = 10%. Effective single discount = d1 + d2 - (d1 × d2)/100 = 20 + 10 - 2 = 28%.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A person sells two articles for ₹9,900 each. On the first article, he gains 10%, and on the second article, he loses 10%. If he had sold the overall combination to make a total gain of 5%, what should have been the combined selling price of both articles?",
+    "hi": "एक व्यक्ति दो वस्तुएं प्रत्येक ₹9,900 में बेचता है। पहली वस्तु पर उसे 10% का लाभ होता है, और दूसरी वस्तु पर उसे 10% की हानि होती है। यदि उसने कुल मिलाकर 5% का लाभ कमाने के लिए दोनों वस्तुओं को बेचा होता, तो दोनों वस्तुओं का संयुक्त विक्रय मूल्य क्या होना चाहिए था?",
+    "oEn": ["₹20,500", "₹21,000", "₹21,500", "₹22,000"],
+    "oHi": ["₹20,500", "₹21,000", "₹21,500", "₹22,000"],
+    "c": 1,
+    "exp": "CP of first article = 9900 / 1.1 = ₹9,000. CP of second article = 9900 / 0.9 = ₹11,000. Total CP = ₹20,000. Target SP for 5% overall profit = 20000 × 1.05 = ₹21,000.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "By selling an item at 7/10 of its actual selling price, a trader incurs a loss of 16%. What will be the profit percentage if he sells the item at 15% above its actual selling price?",
+    "hi": "किसी वस्तु को उसके वास्तविक विक्रय मूल्य के 7/10 भाग पर बेचने पर, एक व्यापारी को 16% की हानि होती है। यदि वह वस्तु को उसके वास्तविक विक्रय मूल्य से 15% अधिक पर बेचता है, तो उसका लाभ प्रतिशत क्या होगा?",
+    "oEn": ["32%", "35%", "38%", "40%"],
+    "oHi": ["32%", "35%", "38%", "40%"],
+    "c": 2,
+    "exp": "Let actual SP = S. Given 0.7 S = 0.84 CP => S = 1.2 CP. New SP = 1.15 × S = 1.15 × 1.2 CP = 1.38 CP. Therefore, profit percentage = 38%.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A sum of ₹17,000 is divided into two parts such that the simple interest on the first part for 3 years at 8% per annum is equal to the simple interest on the second part for 4.5 years at 6% per annum. Find the interest earned on the second part.",
+    "hi": "₹17,000 की राशि को दो भागों में इस प्रकार विभाजित किया जाता है कि पहले भाग पर 3 वर्ष के लिए 8% वार्षिक दर से साधारण ब्याज, दूसरे भाग पर 4.5 वर्ष के लिए 6% वार्षिक दर से साधारण ब्याज के बराबर है। दूसरे भाग पर अर्जित ब्याज ज्ञात कीजिए।",
+    "oEn": ["₹1,920", "₹2,400", "₹2,700", "₹2,160"],
+    "oHi": ["₹1,920", "₹2,400", "₹2,700", "₹2,160"],
+    "c": 3,
+    "exp": "P1 × 3 × 8 = P2 × 4.5 × 6 => 24 P1 = 27 P2 => P1 : P2 = 9 : 8. Second part P2 = 17000 × (8/17) = ₹8,000. Interest on P2 = (8000 × 4.5 × 6)/100 = ₹2,160.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "The difference between the compound interest (compounded annually) and the simple interest on a certain sum of money for 3 years at 15% per annum is ₹1,701. Find the principal sum.",
+    "hi": "एक निश्चित राशि पर 15% वार्षिक दर से 3 वर्षों के लिए चक्रवृद्धि ब्याज (वार्षिक रूप से संयोजित) और साधारण ब्याज के बीच का अंतर ₹1,701 है। मूलधन राशि ज्ञात कीजिए।",
+    "oEn": ["₹24,000", "₹20,000", "₹22,500", "₹25,000"],
+    "oHi": ["₹24,000", "₹20,000", "₹22,500", "₹25,000"],
+    "c": 0,
+    "exp": "For 3 years, CI - SI = P(r/100)^2 × (300 + r)/100. 1701 = P × (15/100)^2 × (315/100) => 1701 = P × (567 / 8000) => P = ₹24,000.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A sum of ₹12,500 is invested at 20% per annum compound interest. What will be the difference between the interest compounded annually and compounded half-yearly for a period of 1.5 years?",
+    "hi": "₹12,500 की राशि 20% वार्षिक चक्रवृद्धि ब्याज दर पर निवेश की जाती है। 1.5 वर्ष की अवधि के लिए वार्षिक और अर्धवार्षिक रूप से संयोजित ब्याज के बीच का अंतर क्या होगा?",
+    "oEn": ["₹125.00", "₹137.50", "₹150.00", "₹162.50"],
+    "oHi": ["₹125.00", "₹137.50", "₹150.00", "₹162.50"],
+    "c": 1,
+    "exp": "Compounded annually: Amount = 12500 × 1.2 × 1.1 = ₹16,500 => CI = ₹4,000. Compounded half-yearly: Rate = 10%, n = 3 half-years => Amount = 12500 × (1.1)^3 = ₹16,637.50 => CI = ₹4,137.50. Difference = 4137.50 - 4000 = ₹137.50.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A sum of money was borrowed and paid back in two equal annual instalments of ₹35,280 each, allowing 5% compound interest compounded annually. Find the total interest paid in this transaction.",
+    "hi": "एक राशि उधार ली गई और 5% वार्षिक चक्रवृद्धि ब्याज दर पर ₹35,280 की दो समान वार्षिक किश्तों में वापस चुकाई गई। इस लेनदेन में भुगतान किया गया कुल ब्याज ज्ञात कीजिए।",
+    "oEn": ["₹4,520", "₹4,800", "₹4,960", "₹5,120"],
+    "oHi": ["₹4,520", "₹4,800", "₹4,960", "₹5,120"],
+    "c": 2,
+    "exp": "Rate 5% = 1/20. Present value P = [35280 / (21/20)] + [35280 / (21/20)^2] = 33600 + 32000 = ₹65,600. Total amount paid = 2 × 35280 = ₹70,560. Total interest = 70560 - 65600 = ₹4,960.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "The ratio of incomes of A and B last year was 4 : 5. The ratios of their individual incomes of last year to this year are 3 : 4 and 2 : 3 respectively. If their total combined income for the current year is ₹1,54,000, find the current year's income of A.",
+    "hi": "पिछले वर्ष A और B की आय का अनुपात 4 : 5 था। उनके पिछले वर्ष और इस वर्ष की व्यक्तिगत आय का अनुपात क्रमशः 3 : 4 और 2 : 3 है। यदि चालू वर्ष के लिए उनकी कुल संयुक्त आय ₹1,54,000 है, तो A की चालू वर्ष की आय ज्ञात कीजिए।",
+    "oEn": ["₹56,000", "₹72,000", "₹90,000", "₹64,000"],
+    "oHi": ["₹56,000", "₹72,000", "₹90,000", "₹64,000"],
+    "c": 3,
+    "exp": "Current income ratio A1 : B1 = (4 × 4/3) : (5 × 3/2) = (16/3) : (15/2) = 32 : 45. Total parts = 77. A's current income = 154000 × (32 / 77) = ₹64,000.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A bag contains ₹1, 50 paise, and 25 paise coins in the ratio 5 : 6 : 8. If the total value of all coins in the bag is ₹420, find the total number of coins present in the bag.",
+    "hi": "एक थैले में ₹1, 50 पैसे और 25 पैसे के सिक्के 5 : 6 : 8 के अनुपात में हैं। यदि थैले में सभी सिक्कों का कुल मूल्य ₹420 है, तो थैले में उपस्थित सिक्कों की कुल संख्या ज्ञात कीजिए।",
+    "oEn": ["798", "684", "760", "836"],
+    "oHi": ["798", "684", "760", "836"],
+    "c": 0,
+    "exp": "Let number of coins be 5x, 6x, and 8x. Total value = 5x(1) + 6x(0.5) + 8x(0.25) = 10x = 420 => x = 42. Total number of coins = (5 + 6 + 8)x = 19 × 42 = 798.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "The weight of a solid metallic sphere varies directly as the cube of its radius. A sphere of radius 3 cm weighs 10.8 kg. If this sphere is melted and recast into a hollow sphere of external radius 5 cm with uniform thickness 1 cm, what will be the weight of the new hollow sphere?",
+    "hi": "एक ठोस धातु के गोले का भार उसकी त्रिज्या के घन के समानुपाती होता है। 3 सेमी त्रिज्या वाले गोले का भार 10.8 किग्रा है। यदि इस गोले को पिघलाकर 1 सेमी समान मोटाई और 5 सेमी बाहरी त्रिज्या वाले एक खोखले गोले में ढाला जाता है, तो नए खोखले गोले का भार क्या होगा?",
+    "oEn": ["21.6 kg", "24.4 kg", "26.8 kg", "28.2 kg"],
+    "oHi": ["21.6 kg", "24.4 kg", "26.8 kg", "28.2 kg"],
+    "c": 1,
+    "exp": "Weight per unit volume k = 10.8 / (4/3 π 3^3) = 10.8 / (36π) = 0.3/π. Volume of hollow sphere = 4/3 π (5^3 - 4^3) = 4/3 π (61) = 244π/3. Weight = (0.3/π) × (244π/3) = 24.4 kg.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Vessel A contains milk and water in the ratio 7 : 3, and Vessel B contains them in the ratio 4 : 5. In what ratio should the liquids be drawn from Vessel A and Vessel B and mixed to form a new mixture containing milk and water in the ratio 3 : 2?",
+    "hi": "बर्तन A में दूध और पानी 7 : 3 के अनुपात में है, और बर्तन B में यह 4 : 5 के अनुपात में है। बर्तन A और बर्तन B से द्रवों को किस अनुपात में निकालकर मिलाया जाना चाहिए ताकि दूध और पानी का अनुपात 3 : 2 वाला एक नया मिश्रण बन सके?",
+    "oEn": ["12 : 7", "15 : 8", "14 : 9", "16 : 9"],
+    "oHi": ["12 : 7", "15 : 8", "14 : 9", "16 : 9"],
+    "c": 2,
+    "exp": "Milk fraction: A = 7/10, B = 4/9, Mean = 3/5 = 6/10. By alligation: (3/5 - 4/9) : (7/10 - 3/5) = (7/45) : (1/10) = 14/90 : 9/90 = 14 : 9.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A container contains 80 litres of pure milk. From this, 16 litres of milk is taken out and replaced with water. This process is repeated two more times. What is the final quantity of milk left in the container?",
+    "hi": "एक बर्तन में 80 लीटर शुद्ध दूध है। इसमें से 16 लीटर दूध निकालकर उसके स्थान पर पानी मिला दिया जाता है। इस प्रक्रिया को दो बार और दोहराया जाता है। बर्तन में अंत में बचे दूध की मात्रा कितनी है?",
+    "oEn": ["38.40 litres", "42.50 litres", "44.80 litres", "40.96 litres"],
+    "oHi": ["38.40 लीटर", "42.50 लीटर", "44.80 लीटर", "40.96 लीटर"],
+    "c": 3,
+    "exp": "Fraction remaining after each step = (80 - 16)/80 = 4/5. Total operations = 3. Final milk = 80 × (4/5)^3 = 80 × 64 / 125 = 40.96 litres.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A milkman buys milk at ₹45 per litre and mixes water with it. He sells the resulting mixture at ₹50 per litre and makes an overall profit of 25%. What is the ratio of milk to water in the mixture?",
+    "hi": "एक दूधवाला ₹45 प्रति लीटर की दर से दूध खरीदता है और उसमें पानी मिलाता है। वह परिणामी मिश्रण को ₹50 प्रति लीटर की दर से बेचता है और 25% का कुल लाभ कमाता है। मिश्रण में दूध और पानी का अनुपात क्या है?",
+    "oEn": ["8 : 1", "7 : 1", "9 : 2", "10 : 1"],
+    "oHi": ["8 : 1", "7 : 1", "9 : 2", "10 : 1"],
+    "c": 0,
+    "exp": "Effective CP of mixture = 50 / 1.25 = ₹40/litre. Milk CP = ₹45, Water CP = ₹0. By alligation: Ratio Milk : Water = (40 - 0) : (45 - 40) = 40 : 5 = 8 : 1.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A can complete a work in 20 days, B in 30 days, and C in 60 days. A works on all days. B and C help A together on every third day. In how many days will the work be completed?",
+    "hi": "A किसी कार्य को 20 दिनों में, B 30 दिनों में और C 60 दिनों में पूरा कर सकता है। A सभी दिनों में कार्य करता है। B और C प्रत्येक तीसरे दिन एक साथ A की सहायता करते हैं। कार्य कितने दिनों में पूरा होगा?",
+    "oEn": ["12 days", "15 days", "18 days", "20 days"],
+    "oHi": ["12 दिन", "15 दिन", "18 दिन", "20 दिन"],
+    "c": 1,
+    "exp": "Total work = 60 units. Efficiencies: A = 3, B = 2, C = 1. Work done in 3-day cycle = 3 + 3 + (3+2+1) = 12 units. Total cycles required = 60 / 12 = 5. Total time = 5 × 3 = 15 days.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A, B, and C can complete a piece of work individually in 24, 36, and 48 days respectively. They started the work together, but C left 4 days after the start, and A left 3 days before the completion of the work. For how many days in total was the work carried out?",
+    "hi": "A, B और C व्यक्तिगत रूप से एक कार्य को क्रमशः 24, 36 और 48 दिनों में पूरा कर सकते हैं। उन्होंने एक साथ कार्य शुरू किया, लेकिन C ने कार्य शुरू होने के 4 दिन बाद छोड़ दिया, और A ने कार्य पूरा होने से 3 दिन पहले छोड़ दिया। कुल कितने दिनों तक कार्य किया गया?",
+    "oEn": ["14 days", "16 days", "15 days", "18 days"],
+    "oHi": ["14 दिन", "16 दिन", "15 दिन", "18 दिन"],
+    "c": 2,
+    "exp": "Total work = 144 units. Efficiencies: A = 6, B = 4, C = 3. First 4 days work = 4 × 13 = 52 units. Remaining work = 92 units. Let remaining time be t days. 6(t - 3) + 4t = 92 => 10t = 110 => t = 11 days. Total time = 4 + 11 = 15 days.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A and B together can finish a job in 12 days, B and C together in 15 days, and C and A in 20 days. If A, B, and C work together to complete the job and receive a total payment of ₹18,000, what is C's share of the payment?",
+    "hi": "A और B मिलकर एक कार्य को 12 दिनों में समाप्त कर सकते हैं, B और C 15 दिनों में, तथा C और A 20 दिनों में। यदि A, B और C मिलकर कार्य पूरा करते हैं और ₹18,000 का कुल भुगतान प्राप्त करते हैं, तो C का हिस्सा क्या है?",
+    "oEn": ["₹2,500", "₹3,500", "₹4,000", "₹3,000"],
+    "oHi": ["₹2,500", "₹3,500", "₹4,000", "₹3,000"],
+    "c": 3,
+    "exp": "Total work = 60. Efficiencies: A+B = 5, B+C = 4, C+A = 3 => A+B+C = 6 units/day. C's efficiency = 6 - 5 = 1 unit/day. Ratio of work done A:B:C = 2:3:1. C's share = 18000 × (1/6) = ₹3,000.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete the same work?",
+    "hi": "4 पुरुष और 6 महिलाएं एक कार्य को 8 दिनों में पूरा कर सकते हैं, जबकि 3 पुरुष और 7 महिलाएं इसे 10 दिनों में पूरा कर सकते हैं। 10 महिलाएं उसी कार्य को कितने दिनों में पूरा करेंगी?",
+    "oEn": ["40 days", "32 days", "36 days", "45 days"],
+    "oHi": ["40 दिन", "32 दिन", "36 दिन", "45 दिन"],
+    "c": 0,
+    "exp": "8(4M + 6W) = 10(3M + 7W) => 32M + 48W = 30M + 70W => 2M = 22W => 1M = 11W. Total work = 8(44W + 6W) = 400W. Time for 10 women = 400W / 10W = 40 days.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Pipe A can fill a tank in 12 hours and Pipe B can fill it in 16 hours. An emptying pipe C at the bottom can drain the full tank in 24 hours. If all three pipes are opened together, but Pipe C is closed after 4 hours, how much total time will it take to fill the tank completely?",
+    "hi": "पाइप A एक टंकी को 12 घंटे में भर सकता है और पाइप B इसे 16 घंटे में भर सकता है। नीचे लगा एक खाली करने वाला पाइप C भरी हुई टंकी को 24 घंटे में खाली कर सकता है। यदि तीनों पाइपों को एक साथ खोल दिया जाए, लेकिन 4 घंटे बाद पाइप C को बंद कर दिया जाए, तो टंकी को पूरा भरने में कुल कितना समय लगेगा?",
+    "oEn": ["7 hours", "8 hours", "9 hours", "10 hours"],
+    "oHi": ["7 घंटे", "8 घंटे", "9 घंटे", "10 घंटे"],
+    "c": 1,
+    "exp": "Total capacity = 48 units. Rates: A = +4, B = +3, C = -2. First 4 hours work = 4 × (4 + 3 - 2) = 20 units. Remaining = 28 units. Time taken by A + B = 28 / (4 + 3) = 4 hours. Total time = 4 + 4 = 8 hours.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Two pipes A and B can fill a cistern in 15 hours and 20 hours respectively. They are opened alternately for 1 hour each, starting with pipe A first. In how many hours will the cistern be completely filled?",
+    "hi": "दो पाइप A और B एक टंकी को क्रमशः 15 घंटे और 20 घंटे में भर सकते हैं। उन्हें पहले पाइप A से शुरू करते हुए बारी-बारी से 1-1 घंटे के लिए खोला जाता है। टंकी कितने घंटों में पूरी भर जाएगी?",
+    "oEn": ["16.5 hours", "17.33 hours", "17 hours", "18 hours"],
+    "oHi": ["16.5 घंटे", "17.33 घंटे", "17 घंटे", "18 घंटे"],
+    "c": 2,
+    "exp": "Capacity = 60 units. Rate A = +4, Rate B = +3. 2-hour cycle work = 7 units. In 16 hours (8 cycles), work completed = 56 units. Remaining 4 units filled by A in 4/4 = 1 hour. Total time = 17 hours.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Excluding stoppages, the speed of a bus is 60 km/h, and including stoppages, it is 45 km/h. For how many minutes does the bus stop per hour?",
+    "hi": "ठहरावों को छोड़कर, एक बस की चाल 60 किमी/घंटा है, और ठहरावों सहित यह 45 किमी/घंटा है। बस प्रति घंटा कितने मिनट रुकती है?",
+    "oEn": ["10 minutes", "12 minutes", "18 minutes", "15 minutes"],
+    "oHi": ["10 मिनट", "12 मिनट", "18 मिनट", "15 मिनट"],
+    "c": 3,
+    "exp": "Stoppage time per hour = [(Speed without stop - Speed with stop) / Speed without stop] × 60 = [(60 - 45) / 60] × 60 = 15 minutes.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Two trains of length 180 m and 220 m are running in opposite directions on parallel tracks. They cross each other completely in 8 seconds. If the speed of the faster train is 50% more than that of the slower train, find the speed of the faster train in km/h.",
+    "hi": "180 मीटर और 220 मीटर लंबी दो ट्रेनें समांतर पटरियों पर विपरीत दिशाओं में चल रही हैं। वे एक-दूसरे को 8 सेकंड में पूरी तरह पार कर लेती हैं। यदि तेज़ ट्रेन की चाल धीमी ट्रेन से 50% अधिक है, तो तेज़ ट्रेन की चाल किमी/घंटा में ज्ञात कीजिए।",
+    "oEn": ["108 km/h", "90 km/h", "96 km/h", "120 km/h"],
+    "oHi": ["108 किमी/घंटा", "90 किमी/घंटा", "96 किमी/घंटा", "120 किमी/घंटा"],
+    "c": 0,
+    "exp": "Relative speed = (180 + 220)/8 = 50 m/s. Slower speed = 2x, Faster speed = 3x. 5x = 50 => x = 10 m/s. Faster speed = 30 m/s = 30 × (18/5) = 108 km/h.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A boat takes 6 hours to travel 24 km upstream and 36 km downstream. The same boat takes 6.5 hours to travel 36 km upstream and 24 km downstream. Find the speed of the boat in still water.",
+    "hi": "एक नाव को धारा के प्रतिकूल 24 किमी और धारा के अनुकूल 36 किमी जाने में 6 घंटे लगते हैं। उसी नाव को धारा के प्रतिकूल 36 किमी और धारा के अनुकूल 24 किमी जाने में 6.5 घंटे लगते हैं। शांत जल में नाव की चाल ज्ञात कीजिए।",
+    "oEn": ["8 km/h", "10 km/h", "12 km/h", "14 km/h"],
+    "oHi": ["8 किमी/घंटा", "10 किमी/घंटा", "12 किमी/घंटा", "14 किमी/घंटा"],
+    "c": 1,
+    "exp": "Let Upstream speed = U, Downstream speed = D. 24/U + 36/D = 6 and 36/U + 24/D = 6.5. Solving gives U = 8 km/h and D = 12 km/h. Speed of boat in still water = (U + D)/2 = (8 + 12)/2 = 10 km/h.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Two runners A and B start running simultaneously from the same point on a circular track of length 1,200 m in opposite directions with speeds of 18 km/h and 27 km/h respectively. After how much time will they meet for the first time anywhere on the track?",
+    "hi": "दो धावक A और B 1,200 मीटर लंबे एक वृत्ताकार ट्रैक पर एक ही बिंदु से एक साथ विपरीत दिशाओं में क्रमशः 18 किमी/घंटा और 27 किमी/घंटा की चाल से दौड़ना शुरू करते हैं। वे ट्रैक पर पहली बार कितने समय बाद मिलेंगे?",
+    "oEn": ["80 seconds", "112 seconds", "96 seconds", "120 seconds"],
+    "oHi": ["80 सेकंड", "112 सेकंड", "96 सेकंड", "120 सेकंड"],
+    "c": 2,
+    "exp": "Speed of A = 18 × (5/18) = 5 m/s. Speed of B = 27 × (5/18) = 7.5 m/s. Relative speed = 5 + 7.5 = 12.5 m/s. Time to meet = 1200 / 12.5 = 96 seconds.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In a 1 km race, A beats B by 100 metres or 10 seconds. Find the time taken by A to complete the race.",
+    "hi": "1 किमी की दौड़ में, A, B को 100 मीटर या 10 सेकंड से हराता है। दौड़ पूरी करने में A द्वारा लिया गया समय ज्ञात कीजिए।",
+    "oEn": ["80 seconds", "100 seconds", "110 seconds", "90 seconds"],
+    "oHi": ["80 सेकंड", "100 सेकंड", "110 सेकंड", "90 सेकंड"],
+    "c": 3,
+    "exp": "Speed of B = 100 m / 10 s = 10 m/s. Total time taken by B = 1000 / 10 = 100 seconds. Time taken by A = 100 - 10 = 90 seconds.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "The average weight of a group of 24 students is 52 kg. If two new students join the group, the average weight increases by 2 kg. If the difference between the weights of the two new students is 8 kg, what is the weight of the heavier new student?",
+    "hi": "24 छात्रों के एक समूह का औसत वजन 52 किग्रा है। यदि दो नए छात्र समूह में शामिल होते हैं, तो औसत वजन में 2 किग्रा की वृद्धि होती है। यदि दोनों नए छात्रों के वजन का अंतर 8 किग्रा है, तो भारी वाले नए छात्र का वजन कितना है?",
+    "oEn": ["82 kg", "78 kg", "86 kg", "90 kg"],
+    "oHi": ["82 किग्रा", "78 किग्रा", "86 किग्रा", "90 किग्रा"],
+    "c": 0,
+    "exp": "Original total weight = 24 × 52 = 1248 kg. New total weight = 26 × 54 = 1404 kg. Sum of weights of 2 new students = 1404 - 1248 = 156 kg. x + y = 156, x - y = 8 => 2x = 164 => x = 82 kg.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A batsman has a certain average of runs for 15 innings. In the 16th inning, he scores 120 runs and thereby increases his average by 5 runs. What is his new average after the 16th inning?",
+    "hi": "एक बल्लेबाज का 15 पारियों के लिए रनों का एक निश्चित औसत है। 16वीं पारी में, वह 120 रन बनाता है और इस प्रकार अपने औसत में 5 रन की वृद्धि करता है। 16वीं पारी के बाद उसका नया औसत क्या है?",
+    "oEn": ["40", "45", "42", "48"],
+    "oHi": ["40", "45", "42", "48"],
+    "c": 1,
+    "exp": "Let initial average = A. 15A + 120 = 16(A + 5) => 15A + 120 = 16A + 80 => A = 40. New average = A + 5 = 45.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "The average marks of 50 students in an examination was calculated as 64. It was later discovered that the marks of two students were misread as 38 and 24 instead of 83 and 54 respectively. Find the actual correct average marks of the students.",
+    "hi": "एक परीक्षा में 50 छात्रों के औसत अंक 64 गिने गए थे। बाद में यह पाया गया कि दो छात्रों के अंक क्रमशः 83 और 54 के बजाय 38 और 24 के रूप में गलत पढ़े गए थे। छात्रों के वास्तविक सही औसत अंक ज्ञात कीजिए।",
+    "oEn": ["64.5", "65.0", "65.5", "66.0"],
+    "oHi": ["64.5", "65.0", "65.5", "66.0"],
+    "c": 2,
+    "exp": "Difference in sum = (83 + 54) - (38 + 24) = 137 - 62 = +75. Increase in average = 75 / 50 = +1.5. Correct average = 64 + 1.5 = 65.5.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A and B enter into a partnership. A invests ₹50,000 for 8 months and B invests ₹60,000 for 10 months. A is an active partner and gets 10% of the total profit for managing the business, while the remaining profit is distributed in the ratio of their effective investments. If the total profit earned is ₹38,000, find B's total share in the profit.",
+    "hi": "A और B एक साझेदारी करते हैं। A 8 महीने के लिए ₹50,000 का निवेश करता है और B 10 महीने के लिए ₹60,000 का निवेश करता है। A एक सक्रिय साझेदार है और प्रबंधन के लिए कुल लाभ का 10% प्राप्त करता है, जबकि शेष लाभ उनके प्रभावी निवेश के अनुपात में वितरित किया जाता है। यदि कुल लाभ ₹38,000 है, तो B का हिस्सा ज्ञात कीजिए।",
+    "oEn": ["₹13,680", "₹18,200", "₹22,400", "₹20,520"],
+    "oHi": ["₹13,680", "₹18,200", "₹22,400", "₹20,520"],
+    "c": 3,
+    "exp": "Management fee to A = 10% of 38000 = ₹3,800. Remaining profit = ₹34,200. Investment ratio A : B = (50000 × 8) : (60000 × 10) = 400000 : 600000 = 2 : 3. B's share = 34200 × (3/5) = ₹20,520.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A, B, and C start a business with initial investments in the ratio 3 : 4 : 5. After 4 months, A increases his investment by 50%, while C withdraws 20% of his investment. At the end of one year, if the total profit is ₹74,000, what is C's share?",
+    "hi": "A, B और C 3 : 4 : 5 के अनुपात में प्रारंभिक निवेश के साथ एक व्यवसाय शुरू करते हैं। 4 महीने बाद, A अपने निवेश में 50% की वृद्धि करता है, जबकि C अपने निवेश का 20% वापस ले लेता है। एक वर्ष के अंत में, यदि कुल लाभ ₹74,000 है, तो C का हिस्सा क्या है?",
+    "oEn": ["₹26,000", "₹24,000", "₹28,000", "₹30,000"],
+    "oHi": ["₹26,000", "₹24,000", "₹28,000", "₹30,000"],
+    "c": 0,
+    "exp": "A's equivalent investment = 3×4 + 4.5×8 = 48. B's equivalent investment = 4×12 = 48. C's equivalent investment = 5×4 + 4×8 = 52. Ratio A:B:C = 12:12:13. C's share = 74000 × (13/37) = ₹26,000.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A starts a business with ₹40,000. After 3 months, B joins with ₹60,000, and after another 3 months, C joins with ₹90,000. If the total profit at the end of the year is ₹52,000, what is the difference between the shares of profit of A and C?",
+    "hi": "A ₹40,000 के साथ एक व्यवसाय शुरू करता है। 3 महीने बाद, B ₹60,000 के साथ जुड़ता है, और उसके 3 महीने बाद, C ₹90,000 के साथ जुड़ता है। यदि वर्ष के अंत में कुल लाभ ₹52,000 है, तो A और C के लाभ के हिस्सों का अंतर क्या है?",
+    "oEn": ["₹1,500", "₹2,000", "₹2,500", "₹3,000"],
+    "oHi": ["₹1,500", "₹2,000", "₹2,500", "₹3,000"],
+    "c": 1,
+    "exp": "A's ratio value = 40000 × 12 = 480000. B's ratio value = 60000 × 9 = 540000. C's ratio value = 90000 × 6 = 540000. Ratio A:B:C = 8 : 9 : 9. Total parts = 26. Difference (C - A) = 52000 × [(9 - 8)/26] = ₹2,000.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "When a positive integer n is divided by 12, the remainder is 7. What will be the remainder when (n^2 + 3n + 5) is divided by 12?",
+    "hi": "जब एक धनात्मक पूर्णांक n को 12 से विभाजित किया जाता है, तो शेषफल 7 प्राप्त होता है। जब (n^2 + 3n + 5) को 12 से विभाजित किया जाएगा तो शेषफल क्या होगा?",
+    "oEn": ["1", "5", "3", "7"],
+    "oHi": ["1", "5", "3", "7"],
+    "c": 2,
+    "exp": "Substitute n ≡ 7 (mod 12). Then n^2 + 3n + 5 ≡ 7^2 + 3(7) + 5 = 49 + 21 + 5 = 75 (mod 12). 75 ÷ 12 gives quotient 6 and remainder 3.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "Three bells toll together at intervals of 9, 12, and 15 minutes respectively. If they toll together at 8:00 AM, how many times will they toll together between 8:01 AM and 2:01 PM on the same day?",
+    "hi": "तीन घंटियाँ क्रमशः 9, 12 और 15 मिनट के अंतराल पर एक साथ बजती हैं। यदि वे सुबह 8:00 बजे एक साथ बजती हैं, तो उसी दिन सुबह 8:01 बजे से दोपहर 2:01 बजे के बीच वे कितनी बार एक साथ बजेंगी?",
+    "oEn": ["1 time", "3 times", "4 times", "2 times"],
+    "oHi": ["1 बार", "3 बार", "4 बार", "2 बार"],
+    "c": 3,
+    "exp": "LCM of 9, 12, and 15 = 180 minutes = 3 hours. They toll together every 3 hours. Between 8:01 AM and 2:01 PM (6 hours interval), they toll together at 11:00 AM and 2:00 PM, which is exactly 2 times.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A student was asked to multiply a given number by 7/8. By mistake, he divided the number by 7/8 and obtained a result which was 30 greater than the correct answer. Find the original number.",
+    "hi": "एक छात्र से किसी दी गई संख्या को 7/8 से गुणा करने के लिए कहा गया था। गलती से, उसने संख्या को 7/8 से विभाजित कर दिया और एक परिणाम प्राप्त किया जो सही उत्तर से 30 अधिक था। मूल संख्या ज्ञात कीजिए।",
+    "oEn": ["112", "96", "128", "140"],
+    "oHi": ["112", "96", "128", "140"],
+    "c": 0,
+    "exp": "Let number be x. Incorrect calculation = 8x/7, Correct calculation = 7x/8. (8/7 - 7/8) x = 30 => (64 - 49)/56 x = 30 => 15x/56 = 30 => x = 112.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A contractor estimates that if he employs 40 men, they can complete a project in 30 days working 8 hours a day. After 10 days, he replaces them with 32 women who are 20% less efficient than men. If the women work 10 hours a day, in how many more days will the remaining work be finished?",
+    "hi": "एक ठेकेदार का अनुमान है कि यदि वह 40 पुरुषों को नियुक्त करता है, तो वे प्रतिदिन 8 घंटे काम करके 30 दिनों में एक परियोजना को पूरा कर सकते हैं। 10 दिनों के बाद, वह उन्हें 32 महिलाओं से बदल देता है जो पुरुषों की तुलना में 20% कम कुशल हैं। यदि महिलाएं प्रतिदिन 10 घंटे काम करती हैं, तो शेष कार्य कितने और दिनों में पूरा होगा?",
+    "oEn": ["20 days", "25 days", "22 days", "28 days"],
+    "oHi": ["20 दिन", "25 दिन", "22 दिन", "28 दिन"],
+    "c": 1,
+    "exp": "Efficiency M = 1, W = 0.8. Total work = 40 × 1 × 30 × 8 = 9,600 units. Work done in 10 days = 40 × 1 × 10 × 8 = 3,200 units. Remaining work = 6,400 units. Daily work by 32 women working 10 h/day = 32 × 0.8 × 10 = 256 units. Additional days = 6400 / 256 = 25 days.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "In an examination, the average score of girls is 73 and that of boys is 71. The average score of the entire class is 71.8. If the total number of students in the class is 150, find the number of girls in the class.",
+    "hi": "एक परीक्षा में, लड़कियों के औसत अंक 73 और लड़कों के 71 हैं। पूरी कक्षा के औसत अंक 71.8 हैं। यदि कक्षा में कुल छात्रों की संख्या 150 है, तो कक्षा में लड़कियों की संख्या ज्ञात कीजिए।",
+    "oEn": ["50", "75", "60", "90"],
+    "oHi": ["50", "75", "60", "90"],
+    "c": 2,
+    "exp": "By alligation, ratio Girls : Boys = (71.8 - 71) : (73 - 71.8) = 0.8 : 1.2 = 2 : 3. Number of girls = 150 × (2/5) = 60.",
+    "Pyq": "2026_CGL_Tier2"
+  },
+  {
+    "en": "A train traveling at a constant speed crosses a 250 m long platform in 25 seconds and crosses a man standing on the platform in 15 seconds. Find the length of the train and its speed in km/h.",
+    "hi": "एक समान चाल से चल रही एक ट्रेन 250 मीटर लंबे प्लेटफॉर्म को 25 सेकंड में पार करती है और प्लेटफॉर्म पर खड़े एक व्यक्ति को 15 सेकंड में पार करती है। ट्रेन की लंबाई और इसकी चाल किमी/घंटा में ज्ञात कीजिए।",
+    "oEn": ["Length = 350 m, Speed = 80 km/h", "Length = 375 m, Speed = 85 km/h", "Length = 400 m, Speed = 90 km/h", "Length = 375 m, Speed = 90 km/h"],
+    "oHi": ["लंबाई = 350 मी, चाल = 80 किमी/घंटा", "लंबाई = 375 मी, चाल = 85 किमी/घंटा", "लंबाई = 400 मी, चाल = 90 किमी/घंटा", "लंबाई = 375 मी, चाल = 90 किमी/घंटा"],
+    "c": 3,
+    "exp": "Speed of train = Platform Length / Time diff = 250 / (25 - 15) = 25 m/s. Speed in km/h = 25 × (18/5) = 90 km/h. Length of train = 25 m/s × 15 s = 375 m.",
+    "Pyq": "2026_CGL_Tier2"
+  }
+]
