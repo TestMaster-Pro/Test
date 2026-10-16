@@ -1,0 +1,272 @@
+[
+  {
+    "en": "If $N = 7^{105} + 3^{105}$, what is the unit digit of $N$, and what is the remainder when $N$ is divided by 10?",
+    "hi": "यदि $N = 7^{105} + 3^{105}$ है, तो $N$ का इकाई अंक क्या है, और जब $N$ को 10 से विभाजित किया जाता है, तो शेषफल क्या होता है?",
+    "oEn": ["0", "8", "4", "6"],
+    "oHi": ["0", "8", "4", "6"],
+    "c": 0,
+    "exp": "Unit digit of $7^{105}$ is 7 ($105 \\div 4$ remainder 1). Unit digit of $3^{105}$ is 3 ($105 \\div 4$ remainder 1). Sum of unit digits = $7 + 3 = 10$. Thus, unit digit is 0, which is also the remainder when divided by 10.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "A person spends 30% of his monthly income on food, 40% of the remaining on rent and electricity, and 50% of the further remaining on transportation. If he saves ₹8,400 per month, find his total monthly income.",
+    "hi": "एक व्यक्ति अपनी मासिक आय का 30% भोजन पर, शेष का 40% किराया और बिजली पर, और आगे के शेष का 50% परिवहन पर खर्च करता है। यदि वह प्रति माह ₹8,400 बचाता है, तो उसकी कुल मासिक आय ज्ञात कीजिए।",
+    "oEn": ["₹35,000", "₹45,000", "₹40,000", "₹50,000"],
+    "oHi": ["₹35,000", "₹45,000", "₹40,000", "₹50,000"],
+    "c": 2,
+    "exp": "Savings = $I \\times (1 - 0.3) \\times (1 - 0.4) \\times (1 - 0.5) = I \\times 0.7 \\times 0.6 \\times 0.5 = 0.21I$. Given $0.21I = 8,400 \\implies I = \\text{₹}40,000$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "A shopkeeper marks an article 50% above its cost price and allows two successive discounts of 10% and 20% on the marked price. If he earns a profit of ₹300 on selling the article, find its cost price.",
+    "hi": "एक दुकानदार किसी वस्तु पर उसके क्रय मूल्य से 50% अधिक अंकित करता है और अंकित मूल्य पर 10% और 20% की दो क्रमिक छूट देता है। यदि वस्तु को बेचने पर उसे ₹300 का लाभ होता है, तो उसका क्रय मूल्य ज्ञात कीजिए।",
+    "oEn": ["₹3,750", "₹5,000", "₹4,000", "₹4,500"],
+    "oHi": ["₹3,750", "₹5,000", "₹4,000", "₹4,500"],
+    "c": 0,
+    "exp": "Let CP = 100x. MP = 150x. SP = $150x \\times 0.90 \\times 0.80 = 108x$. Profit = $108x - 100x = 8x$. Given $8x = 300 \\implies x = 37.5$. Cost price = $100 \\times 37.5 = \\text{₹}3,750$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "The compound interest on a certain sum at 10% per annum for 3 years, compounded annually, is ₹1,655. What will be the simple interest on the same sum for 4 years at 12% per annum?",
+    "hi": "एक निश्चित राशि पर 10% वार्षिक दर से 3 वर्ष का चक्रवृद्धि ब्याज (वार्षिक रूप से संयोजित) ₹1,655 है। समान राशि पर 12% वार्षिक दर से 4 वर्ष का साधारण ब्याज कितना होगा?",
+    "oEn": ["₹2,880", "₹3,200", "₹2,400", "₹3,600"],
+    "oHi": ["₹2,880", "₹3,200", "₹2,400", "₹3,600"],
+    "c": 2,
+    "exp": "Effective CI rate for 3 years at 10% = $33.1\\%$. $33.1\\% = 1655 \\implies$ Principal = ₹5,000. Simple interest for 4 years at 12% = $\\frac{5000 \\times 12 \\times 4}{100} = \\text{₹}2,400$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "Vessel A contains milk and water in the ratio 3 : 2, and Vessel B contains them in the ratio 4 : 1. In what ratio must mixtures from A and B be mixed so that the new mixture has milk and water in the ratio 17 : 8?",
+    "hi": "बर्तन A में दूध और पानी का अनुपात 3 : 2 है, और बर्तन B में उनका अनुपात 4 : 1 है। बर्तन A और B के मिश्रणों को किस अनुपात में मिलाया जाना चाहिए ताकि नए मिश्रण में दूध और पानी का अनुपात 17 : 8 हो जाए?",
+    "oEn": ["2 : 3", "1 : 2", "3 : 2", "3 : 4"],
+    "oHi": ["2 : 3", "1 : 2", "3 : 2", "3 : 4"],
+    "c": 2,
+    "exp": "Milk fraction in A = 3/5 = 0.60. Milk fraction in B = 4/5 = 0.80. Target fraction = 17/25 = 0.68. By alligation: A : B = (0.80 - 0.68) : (0.68 - 0.60) = 0.12 : 0.08 = 3 : 2.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "A can finish a work in 15 days, B in 20 days, and C in 60 days. All three started working together, but A left 2 days before the completion of the work, and B left 4 days before completion. In how many days was the total work completed?",
+    "hi": "A एक कार्य को 15 दिनों में, B 20 दिनों में और C 60 दिनों में समाप्त कर सकता है। तीनों ने एक साथ कार्य शुरू किया, लेकिन A कार्य पूरा होने से 2 दिन पहले और B पूरा होने से 4 दिन पहले छोड़ देता है। कुल कार्य कितने दिनों में पूरा हुआ?",
+    "oEn": ["9 days", "8 days", "11 days", "10 days"],
+    "oHi": ["9 days", "8 days", "11 days", "10 days"],
+    "c": 3,
+    "exp": "LCM = 60. Efficiencies: A = 4, B = 3, C = 1. Let total days = T. Work equation: $4(T-2) + 3(T-4) + 1(T) = 60 \\implies 8T - 20 = 60 \\implies 8T = 80 \\implies T = 10$ days.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "Two pipes P and Q can fill a cistern in 20 hours and 25 hours respectively. Both pipes are opened together, but due to a leak at the bottom, it takes 4 hours extra to fill the cistern. If the cistern is full, in how much time will the leak alone empty it?",
+    "hi": "दो पाइप P और Q एक टंकी को क्रमशः 20 घंटे और 25 घंटे में भर सकते हैं। दोनों पाइपों को एक साथ खोला जाता है, लेकिन तली में रिसाव के कारण टंकी को भरने में 4 घंटे अधिक लगते हैं। यदि टंकी पूरी भरी हुई है, तो रिसाव अकेले इसे कितने समय में खाली कर देगा?",
+    "oEn": ["42 hours", "45 hours", "40 hours", "48 hours"],
+    "oHi": ["42 hours", "45 hours", "40 hours", "48 hours"],
+    "c": 0,
+    "exp": "LCM = 100. Rate P = 5, Rate Q = 4. Combined rate = 9 units/hr. Time without leak = $100/9$ hours. With leak, time = $100/9 + 4 = 136/9$ hours. Net rate = $100 / (136/9) = 225/34$. Leak rate = $9 - 225/34 = 81/34$. Time to empty = $100 / (81/34) = 3400/81 \\approx 42$ hours.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "A train running at 90 km/h crosses a platform twice its length in 36 seconds. Find the length of the train.",
+    "hi": "90 किमी/घंटा की चाल से चल रही एक ट्रेन अपनी लंबाई से दोगुने लंबे प्लेटफॉर्म को 36 सेकंड में पार करती है। ट्रेन की लंबाई ज्ञात कीजिए।",
+    "oEn": ["400 m", "350 m", "300 m", "450 m"],
+    "oHi": ["400 m", "350 m", "300 m", "450 m"],
+    "c": 2,
+    "exp": "Speed = $90 \\times \\frac{5}{18} = 25$ m/s. Total distance = $L + 2L = 3L$. Distance = $25 \\times 36 = 900$ m. $3L = 900 \\implies L = 300$ m.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "A man rows 36 km upstream and 48 km downstream in 8.5 hours. He also rows 48 km upstream and 36 km downstream in 9 hours. Find the speed of the current.",
+    "hi": "एक व्यक्ति धारा के प्रतिकूल 36 किमी और धारा के अनुकूल 48 किमी 8.5 घंटे में तय करता है। वह धारा के प्रतिकूल 48 किमी और धारा के अनुकूल 36 किमी 9 घंटे में भी तय करता है। धारा की चाल ज्ञात कीजिए।",
+    "oEn": ["2 km/h", "3 km/h", "2.5 km/h", "4 km/h"],
+    "oHi": ["2 km/h", "3 km/h", "2.5 km/h", "4 km/h"],
+    "c": 0,
+    "exp": "Let upstream speed = U, downstream = D. $36/U + 48/D = 8.5$ and $48/U + 36/D = 9$. Solving gives U = 8 km/h and D = 12 km/h. Speed of current = $(12 - 8)/2 = 2$ km/h.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "The average weight of 40 students in a class is 55 kg. When the weight of a teacher is included, the average weight increases by 500 grams. Find the weight of the teacher.",
+    "hi": "एक कक्षा में 40 छात्रों का औसत वजन 55 किग्रा है। जब शिक्षक का वजन शामिल किया जाता है, तो औसत वजन 500 ग्राम बढ़ जाता है। शिक्षक का वजन ज्ञात कीजिए।",
+    "oEn": ["78 kg", "80 kg", "75.5 kg", "72 kg"],
+    "oHi": ["78 kg", "80 kg", "75.5 kg", "72 kg"],
+    "c": 2,
+    "exp": "Total persons = 41. New average = 55.5 kg. Total weight = $41 \\times 55.5 = 2275.5$ kg. Previous total weight = $40 \\times 55 = 2200$ kg. Weight of teacher = $2275.5 - 2200 = 75.5$ kg.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "P, Q, and R enter into a partnership by investing capitals in the ratio $3 : 4 : 7$. After 6 months, P invests an additional amount equal to half of his initial capital. If the total annual profit is ₹70,800, find the share of Q.",
+    "hi": "P, Q और R ने $3 : 4 : 7$ के अनुपात में पूंजी निवेश करके एक साझेदारी की। 6 महीने के बाद, P ने अपनी प्रारंभिक पूंजी के आधे के बराबर अतिरिक्त राशि का निवेश किया। यदि कुल वार्षिक लाभ ₹70,800 है, तो Q का हिस्सा ज्ञात कीजिए।",
+    "oEn": ["₹19,200", "₹18,200", "₹16,000", "₹14,400"],
+    "oHi": ["₹19,200", "₹18,200", "₹16,000", "₹14,400"],
+    "c": 0,
+    "exp": "Equivalent investments for 1 year: P = $(3 \\times 6) + (4.5 \\times 6) = 45$. Q = $4 \\times 12 = 48$. R = $7 \\times 12 = 84$. Ratio P : Q : R = $45 : 48 : 84 = 15 : 16 : 28$. Total parts = 59. Q's share = $70800 \\times \\frac{16}{59} = \\text{₹}19,200$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "If $x + \\frac{1}{x} = 4$, then what is the value of $x^5 + \\frac{1}{x^5}$?",
+    "hi": "यदि $x + \\frac{1}{x} = 4$ है, तो $x^5 + \\frac{1}{x^5}$ का मान क्या है?",
+    "oEn": ["682", "772", "564", "724"],
+    "oHi": ["682", "772", "564", "724"],
+    "c": 3,
+    "exp": "$x^2 + 1/x^2 = 4^2 - 2 = 14$. $x^3 + 1/x^3 = 4^3 - 3(4) = 52$. $(x^2 + 1/x^2)(x^3 + 1/x^3) = x^5 + 1/x^5 + x + 1/x \\implies 14 \\times 52 = x^5 + 1/x^5 + 4 \\implies x^5 + 1/x^5 = 724$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "In $\\triangle ABC$, $AD$ is the angle bisector of $\\angle A$ meeting $BC$ at $D$. If $AB = 12$ cm, $AC = 16$ cm, and $BC = 14$ cm, find the length of $BD$.",
+    "hi": "$\\triangle ABC$ में, $AD$ कोण $A$ का समद्विभाजक है जो $BC$ से $D$ पर मिलता है। यदि $AB = 12$ सेमी, $AC = 16$ सेमी और $BC = 14$ सेमी है, तो $BD$ की लंबाई ज्ञात कीजिए।",
+    "oEn": ["6 cm", "5 cm", "7 cm", "8 cm"],
+    "oHi": ["6 cm", "5 cm", "7 cm", "8 cm"],
+    "c": 0,
+    "exp": "By Angle Bisector Theorem, $BD : DC = AB : AC = 12 : 16 = 3 : 4$. Since $BC = 14$ cm, $BD = 14 \\times \\frac{3}{7} = 6$ cm.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "The perimeter of a rhombus is 200 cm and one of its diagonals is 60 cm. Find the area of the rhombus.",
+    "hi": "एक समचतुर्भुज का परिमाप 200 सेमी है और उसका एक विकर्ण 60 सेमी है। समचतुर्भुज का क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["3,200 cm²", "2,800 cm²", "2,400 cm²", "3,600 cm²"],
+    "oHi": ["3,200 वर्ग सेमी", "2,800 वर्ग सेमी", "2,400 वर्ग सेमी", "3,600 वर्ग सेमी"],
+    "c": 2,
+    "exp": "Side $a = 200 / 4 = 50$ cm. Half diagonal = 30 cm. Other half diagonal = $\\sqrt{50^2 - 30^2} = 40$ cm, so $d_2 = 80$ cm. Area = $\\frac{1}{2} \\times 60 \\times 80 = 2,400$ cm².",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "If $\\sin \\theta + \\cos \\theta = \\frac{5}{4}$, find the value of $\\sin \\theta \\cos \\theta$.",
+    "hi": "यदि $\\sin \\theta + \\cos \\theta = \\frac{5}{4}$ है, तो $\\sin \\theta \\cos \\theta$ का मान ज्ञात कीजिए।",
+    "oEn": ["21/32", "15/32", "9/32", "25/32"],
+    "oHi": ["21/32", "15/32", "9/32", "25/32"],
+    "c": 2,
+    "exp": "Squaring both sides: $(\\sin \\theta + \\cos \\theta)^2 = (5/4)^2 \\implies 1 + 2\\sin \\theta \\cos \\theta = \\frac{25}{16} \\implies 2\\sin \\theta \\cos \\theta = \\frac{9}{16} \\implies \\sin \\theta \\cos \\theta = \\frac{9}{32}$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "The total surface area of a solid hemisphere is 462 cm². Find its volume. (Use $\\pi = 22/7$)",
+    "hi": "एक ठोस अर्धगोले का कुल पृष्ठीय क्षेत्रफल 462 सेमी² है। इसका आयतन ज्ञात कीजिए। ($\\pi = 22/7$ का प्रयोग करें)",
+    "oEn": ["770.00 cm³", "739.33 cm³", "754.25 cm³", "718.67 cm³"],
+    "oHi": ["770.00 सेमी³", "739.33 सेमी³", "754.25 सेमी³", "718.67 सेमी³"],
+    "c": 3,
+    "exp": "Total Surface Area = $3 \\pi r^2 = 462 \\implies r^2 = 49 \\implies r = 7$ cm. Volume = $\\frac{2}{3} \\pi r^3 = \\frac{2}{3} \\times \\frac{22}{7} \\times 343 = \\frac{2156}{3} = 718.67$ cm³.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "Find the HCF and LCM of three fractions: $\\frac{9}{20}, \\frac{12}{25},$ and $\\frac{18}{35}$.",
+    "hi": "तीन भिन्नों: $\\frac{9}{20}, \\frac{12}{25},$ और $\\frac{18}{35}$ का म.स.प. (HCF) और ल.स.प. (LCM) ज्ञात कीजिए।",
+    "oEn": ["HCF = 3/700, LCM = 36/5", "HCF = 9/700, LCM = 18/5", "HCF = 3/350, LCM = 72/5", "HCF = 9/350, LCM = 36/5"],
+    "oHi": ["HCF = 3/700, LCM = 36/5", "HCF = 9/700, LCM = 18/5", "HCF = 3/350, LCM = 72/5", "HCF = 9/350, LCM = 36/5"],
+    "c": 0,
+    "exp": "HCF = $\\frac{\\text{HCF}(9, 12, 18)}{\\text{LCM}(20, 25, 35)} = \\frac{3}{700}$. LCM = $\\frac{\\text{LCM}(9, 12, 18)}{\\text{HCF}(20, 25, 35)} = \\frac{36}{5}$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "A sum of ₹12,500 amounts to ₹17,500 in 4 years at simple interest. What will be the amount of the same sum in 3 years at the same rate of compound interest, compounded annually?",
+    "hi": "₹12,500 की राशि साधारण ब्याज पर 4 वर्षों में ₹17,500 हो जाती है। चक्रवृद्धि ब्याज (वार्षिक रूप से संयोजित) की समान दर पर 3 वर्षों में उसी राशि की मिश्रधन राशि क्या होगी?",
+    "oEn": ["₹17,280", "₹16,637.50", "₹17,576", "₹18,120"],
+    "oHi": ["₹17,280", "₹16,637.50", "₹17,576", "₹18,120"],
+    "c": 1,
+    "exp": "SI in 4 years = ₹5,000 $\\implies$ Annual SI = ₹1,250. Rate = 10%. Compound Amount for 3 years at 10% = $12500 \\times (1.1)^3 = 12500 \\times 1.331 = \\text{₹}16,637.50$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "If $x - \\frac{1}{x} = 5$, find the value of $x^4 + \\frac{1}{x^4}$.",
+    "hi": "यदि $x - \\frac{1}{x} = 5$ है, तो $x^4 + \\frac{1}{x^4}$ का मान ज्ञात कीजिए।",
+    "oEn": ["527", "625", "727", "812"],
+    "oHi": ["527", "625", "727", "812"],
+    "c": 2,
+    "exp": "$x - 1/x = 5 \\implies x^2 + 1/x^2 = 27$. Then $x^4 + 1/x^4 = 27^2 - 2 = 729 - 2 = 727$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "The median of a set of 15 distinct observations is 42. If each of the largest 5 observations is increased by 4, what is the new median of the data set?",
+    "hi": "15 अलग-अलग प्रेक्षणों के एक समुच्चय की माध्यिका 42 है। यदि सबसे बड़े 5 प्रेक्षणों में से प्रत्येक में 4 की वृद्धि की जाती है, तो डेटा सेट की नई माध्यिका क्या है?",
+    "oEn": ["44", "46", "42", "50"],
+    "oHi": ["44", "46", "42", "50"],
+    "c": 2,
+    "exp": "For 15 observations, the median is the 8th observation. Altering the largest 5 observations (ranks 11 to 15) does not affect the 8th observation. Thus, the median remains 42.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "A bag contains 5 red, 4 blue, and 3 green balls. Three balls are drawn at random. What is the probability that all three balls are of different colors?",
+    "hi": "एक थैले में 5 लाल, 4 नीली और 3 हरी गेंदें हैं। यादृच्छिक रूप से तीन गेंदें निकाली जाती हैं। क्या प्रायिकता है कि तीनों गेंदें अलग-अलग रंगों की हैं?",
+    "oEn": ["18/33", "12/33", "16/33", "9/33"],
+    "oHi": ["18/33", "12/33", "16/33", "9/33"],
+    "c": 3,
+    "exp": "Total ways = $^{12}C_3 = 220$. Favorable ways = $5 \\times 4 \\times 3 = 60$. Probability = $\\frac{60}{220} = \\frac{3}{11} = \\frac{9}{33}$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "The angle of elevation of the top of a tower from two points at distances $a$ and $b$ meters from its base in the same straight line are $30^\\circ$ and $60^\\circ$ respectively. Find the height of the tower.",
+    "hi": "एक ही सीधी रेखा में आधार से $a$ और $b$ मीटर की दूरी पर स्थित दो बिंदुओं से एक मीनार के शीर्ष के उन्नयन कोण क्रमशः $30^\\circ$ और $60^\\circ$ हैं। मीनार की ऊँचाई ज्ञात कीजिए।",
+    "oEn": ["$\\sqrt{a^2+b^2}$", "$\\sqrt{ab}$", "$\\frac{a+b}{2}$", "$\\sqrt{a/b}$"],
+    "oHi": ["$\\sqrt{a^2+b^2}$", "$\\sqrt{ab}$", "$\\frac{a+b}{2}$", "$\\sqrt{a/b}$"],
+    "c": 1,
+    "exp": "For collinear points at distances $a$ and $b$ with angles $30^\\circ$ and $60^\\circ$, height $h = \\sqrt{ab}$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "If the sum of the first $n$ terms of an AP is given by $S_n = 3n^2 + 5n$, find its 15th term.",
+    "hi": "यदि एक AP के पहले $n$ पदों का योग $S_n = 3n^2 + 5n$ द्वारा दिया जाता है, तो इसका 15वां पद ज्ञात कीजिए।",
+    "oEn": ["95", "89", "92", "86"],
+    "oHi": ["95", "89", "92", "86"],
+    "c": 2,
+    "exp": "15th term $T_{15} = S_{15} - S_{14}$. $S_{15} = 3(225) + 75 = 750$. $S_{14} = 3(196) + 70 = 658$. $T_{15} = 750 - 658 = 92$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "Find the remainder when $2^{48}$ is divided by 17.",
+    "hi": "जब $2^{48}$ को 17 से विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+    "oEn": ["2", "4", "1", "8"],
+    "oHi": ["2", "4", "1", "8"],
+    "c": 2,
+    "exp": "By Fermat's Little Theorem, $2^{16} \\equiv 1 \\pmod{17}$. Thus $2^{48} = (2^{16})^3 \\equiv 1^3 \\equiv 1 \\pmod{17}$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "A shopkeeper sells an article at a profit of 20%. If he had bought it for 10% less and sold it for ₹18 less, he would have made a profit of 25%. Find the cost price of the article.",
+    "hi": "एक दुकानदार किसी वस्तु को 20% के लाभ पर बेचता है। यदि उसने इसे 10% कम में खरीदा होता और ₹18 कम में बेचा होता, तो उसे 25% का लाभ होता। वस्तु का क्रय मूल्य ज्ञात कीजिए।",
+    "oEn": ["₹150", "₹180", "₹200", "₹240"],
+    "oHi": ["₹150", "₹180", "₹200", "₹240"],
+    "c": 3,
+    "exp": "Let CP = 100x. Initial SP = 120x. New CP = 90x. New SP = $90x \\times 1.25 = 112.5x$. Given $120x - 112.5x = 18 \\implies 7.5x = 18 \\implies x = 2.4$. CP = $100 \\times 2.4 = 240$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "The curved surface area of a solid right circular cylinder is 1,232 cm² and its height is 14 cm. Find the total surface area of the cylinder. (Use $\\pi = 22/7$)",
+    "hi": "एक ठोस लंब वृत्तीय बेलन का वक्र पृष्ठीय क्षेत्रफल 1,232 सेमी² है और इसकी ऊँचाई 14 सेमी है। बेलन का कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए। ($\\pi = 22/7$ का प्रयोग करें)",
+    "oEn": ["2,464 cm²", "2,240 cm²", "2,024 cm²", "1,848 cm²"],
+    "oHi": ["2,464 वर्ग सेमी", "2,240 वर्ग सेमी", "2,024 वर्ग सेमी", "1,848 वर्ग सेमी"],
+    "c": 0,
+    "exp": "CSA = $2 \\pi r h = 1232 \\implies r = 14$ cm. Total Surface Area = $\\text{CSA} + 2\\pi r^2 = 1232 + 2 \\times \\frac{22}{7} \\times 196 = 1232 + 1232 = 2,464$ cm².",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "If $a + b + c = 15$ and $ab + bc + ca = 71$, find the value of $a^3 + b^3 + c^3 - 3abc$.",
+    "hi": "यदि $a + b + c = 15$ और $ab + bc + ca = 71$ है, तो $a^3 + b^3 + c^3 - 3abc$ का मान ज्ञात कीजिए।",
+    "oEn": ["240", "210", "180", "150"],
+    "oHi": ["240", "210", "180", "150"],
+    "c": 2,
+    "exp": "$a^3+b^3+c^3-3abc = (a+b+c)[(a+b+c)^2 - 3(ab+bc+ca)] = 15 [225 - 3(71)] = 15 [225 - 213] = 15 \\times 12 = 180$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "Two numbers are in the ratio $3 : 5$. If 8 is subtracted from each, the new numbers are in the ratio $1 : 2$. Find the original numbers.",
+    "hi": "दो संख्याएँ $3 : 5$ के अनुपात में हैं। यदि प्रत्येक में से 8 घटाया जाए, तो नई संख्याएँ $1 : 2$ के अनुपात में हो जाती हैं। मूल संख्याएँ ज्ञात कीजिए।",
+    "oEn": ["30, 50", "24, 40", "36, 60", "42, 70"],
+    "oHi": ["30, 50", "24, 40", "36, 60", "42, 70"],
+    "c": 1,
+    "exp": "Let numbers be $3x$ and $5x$. $\\frac{3x-8}{5x-8} = \\frac{1}{2} \\implies 6x - 16 = 5x - 8 \\implies x = 8$. Numbers are 24 and 40.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "A dealer purchases an item and fixes its marked price 50% above the cost price. He allows a 20% discount on the marked price and makes a profit of ₹400. Find the cost price of the item.",
+    "hi": "एक व्यापारी एक वस्तु खरीदता है और उसका अंकित मूल्य क्रय मूल्य से 50% अधिक तय करता है। वह अंकित मूल्य पर 20% की छूट देता है और ₹400 का लाभ कमाता है। वस्तु का क्रय मूल्य ज्ञात कीजिए।",
+    "oEn": ["₹2,500", "₹1,500", "₹2,000", "₹1,800"],
+    "oHi": ["₹2,500", "₹1,500", "₹2,000", "₹1,800"],
+    "c": 2,
+    "exp": "Let CP = 100x. MP = 150x. SP = $150x \\times 0.80 = 120x$. Profit = $120x - 100x = 20x$. Given $20x = 400 \\implies x = 20$. Cost price = $100 \\times 20 = \\text{₹}2,000$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  },
+  {
+    "en": "The average of 5 consecutive odd numbers is 37. What is the product of the highest and lowest numbers in this set?",
+    "hi": "5 क्रमिक विषम संख्याओं का औसत 37 है। इस समुच्चय में सबसे बड़ी और सबसे छोटी संख्या का गुणनफल क्या है?",
+    "oEn": ["1,425", "1,581", "1,353", "1,505"],
+    "oHi": ["1,425", "1,581", "1,353", "1,505"],
+    "c": 2,
+    "exp": "Middle number is 37. The numbers are 33, 35, 37, 39, 41. Lowest = 33, Highest = 41. Product = $33 \\times 41 = 1,353$.",
+    "Pyq": "2024_NTPC_CBT2_New"
+  }
+]
