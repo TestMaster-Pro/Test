@@ -1,0 +1,272 @@
+[
+  {
+    "en": "In a given number series, a specific pattern is followed. Find the wrong number in the series: 7, 11, 19, 35, 67, 132, 259.",
+    "hi": "दी गई संख्या श्रृंखला में, एक विशिष्ट पैटर्न का पालन किया जाता है। श्रृंखला में गलत संख्या ज्ञात कीजिए: 7, 11, 19, 35, 67, 132, 259।",
+    "oEn": ["19", "35", "132", "259"],
+    "oHi": ["19", "35", "132", "259"],
+    "c": 2,
+    "exp": "The pattern involves adding consecutive powers of 2: +4, +8, +16, +32, +64, +128. Thus: 7 + 4 = 11, 11 + 8 = 19, 19 + 16 = 35, 35 + 32 = 67, 67 + 64 = 131 (not 132), and 131 + 128 = 259. Hence, 132 is the wrong number.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "Find the missing term in the given letter series: AZY, CXW, EVU, GTS, ?",
+    "hi": "दी गई अक्षर श्रृंखला में लुप्त पद ज्ञात कीजिए: AZY, CXW, EVU, GTS, ?",
+    "oEn": ["IRQ", "IPQ", "JQR", "IQS"],
+    "oHi": ["IRQ", "IPQ", "JQR", "IQS"],
+    "c": 0,
+    "exp": "First letters: A, C, E, G, I (+2). Second letters: Z, X, V, T, R (-2). Third letters: Y, W, U, S, Q (-2). Hence, the missing term is IRQ.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Complete the alphanumeric series: 3F, 6G, 11I, 18L, ?",
+    "hi": "अल्फा-न्यूमेरिक श्रृंखला को पूरा कीजिए: 3F, 6G, 11I, 18L, ?",
+    "oEn": ["27P", "25O", "27O", "26P"],
+    "oHi": ["27P", "25O", "27O", "26P"],
+    "c": 0,
+    "exp": "Numbers increase by consecutive odd numbers: +3, +5, +7, +9. So 3 + 3 = 6, 6 + 5 = 11, 11 + 7 = 18, 18 + 9 = 27. Letters increase by +1, +2, +3, +4: F, G, I, L, P. Hence, 27P.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "Find the missing number in the series: 12, 23, 45, 89, 177, ?",
+    "hi": "श्रृंखला में लुप्त संख्या ज्ञात कीजिए: 12, 23, 45, 89, 177, ?",
+    "oEn": ["353", "351", "345", "355"],
+    "oHi": ["353", "351", "345", "355"],
+    "c": 0,
+    "exp": "Each term is obtained by multiplying the previous term by 2 and then subtracting 1: (12 × 2) - 1 = 23, (23 × 2) - 1 = 45, (45 × 2) - 1 = 89, (89 × 2) - 1 = 177, (177 × 2) - 1 = 353.",
+    "Pyq": "Verified_PYQ_Adaptation"
+  },
+  {
+    "en": "In a certain code language, 'RAILWAY' is coded as 'SBJMXBZ'. How is 'STATION' coded in that language?",
+    "hi": "एक निश्चित कूट भाषा में, 'RAILWAY' को 'SBJMXBZ' के रूप में कूटबद्ध किया जाता है। उसी भाषा में 'STATION' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["TUBUJPO", "TUBVJPO", "SUBVJPO", "TVCUJPO"],
+    "oHi": ["TUBUJPO", "TUBVJPO", "SUBVJPO", "TVCUJPO"],
+    "c": 0,
+    "exp": "Each letter is shifted forward by 1 position. Applying this to STATION: S→T, T→U, A→B, T→U, I→J, O→P, N→O, giving TUBUJPO.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "If 'PEN' = 35 and 'PAGE' = 29, then how is 'BOOK' coded in that language?",
+    "hi": "यदि 'PEN' = 35 और 'PAGE' = 29 है, तो उसी भाषा में 'BOOK' को कैसे कूटबद्ध किया जाएगा?",
+    "oEn": ["43", "45", "41", "39"],
+    "oHi": ["43", "45", "41", "39"],
+    "c": 0,
+    "exp": "The code is the sum of alphabetical positions: PEN = 16 + 5 + 14 = 35; PAGE = 16 + 1 + 7 + 5 = 29; BOOK = 2 + 15 + 15 + 11 = 43.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "In a code language, letters are assigned numbers as follows: L=5, M=7, T=2, A=9, R=3, E=4. What is the code for 'TRAMLE'?",
+    "hi": "एक कूट भाषा में, अक्षरों को इस प्रकार संख्याएँ दी गई हैं: L=5, M=7, T=2, A=9, R=3, E=4। 'TRAMLE' के लिए कूट क्या है?",
+    "oEn": ["239754", "239745", "293754", "237954"],
+    "oHi": ["239754", "239745", "293754", "237954"],
+    "c": 0,
+    "exp": "Direct substitution: T=2, R=3, A=9, M=7, L=5, E=4. Therefore, TRAMLE = 239754.",
+    "Pyq": "Verified_PYQ_Adaptation"
+  },
+  {
+    "en": "Select the option related to the third number in the same way as the second is related to the first: 18 : 324 :: 24 : ?",
+    "hi": "उस विकल्प का चयन कीजिए जो तीसरी संख्या से उसी प्रकार संबंधित है जिस प्रकार दूसरी संख्या पहली संख्या से संबंधित है: 18 : 324 :: 24 : ?",
+    "oEn": ["576", "528", "552", "600"],
+    "oHi": ["576", "528", "552", "600"],
+    "c": 0,
+    "exp": "The relationship is n : n². Since 18² = 324, similarly 24² = 576.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "Select the related word from the given alternatives: Doctor : Stethoscope :: Sculptor : ?",
+    "hi": "दिए गए विकल्पों में से संबंधित शब्द का चयन कीजिए: डॉक्टर : स्टेथोस्कोप :: मूर्तिकार : ?",
+    "oEn": ["Chisel", "Hammer", "Knife", "Brush"],
+    "oHi": ["छैनी (Chisel)", "हथौड़ा (Hammer)", "चाकू (Knife)", "ब्रश (Brush)"],
+    "c": 0,
+    "exp": "A stethoscope is the principal tool used by a doctor, whereas a chisel is the primary tool used by a sculptor.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Four number-pairs are given, out of which three are alike in some manner while one is different. Choose the odd one out.",
+    "hi": "चार संख्या-युग्म दिए गए हैं, जिनमें से तीन किसी प्रकार से एक जैसे हैं जबकि एक भिन्न है। विषम का चयन कीजिए।",
+    "oEn": ["13 - 169", "17 - 289", "19 - 361", "21 - 442"],
+    "oHi": ["13 - 169", "17 - 289", "19 - 361", "21 - 442"],
+    "c": 3,
+    "exp": "In all other pairs, the second number is the square of the first: 13² = 169, 17² = 289, 19² = 361. But 21² = 441, not 442. Hence, 21 - 442 is odd.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "If '+' means '-', '-' means '×', '×' means '÷', and '÷' means '+', then find the value of: 36 × 4 ÷ 8 + 4 - 2",
+    "hi": "यदि '+' का अर्थ '-', '-' का अर्थ '×', '×' का अर्थ '÷', और '÷' का अर्थ '+' है, तो निम्नलिखित का मान ज्ञात कीजिए: 36 × 4 ÷ 8 + 4 - 2",
+    "oEn": ["13", "11", "15", "9"],
+    "oHi": ["13", "11", "15", "9"],
+    "c": 3,
+    "exp": "Substitute the symbols: 36 ÷ 4 + 8 - 4 × 2. By BODMAS: 36 ÷ 4 = 9 and 4 × 2 = 8. Therefore, 9 + 8 - 8 = 9.",
+    "Pyq": "Verified_PYQ_Adaptation"
+  },
+  {
+    "en": "Find the missing number in the following set: Row 1: (4, 5, 41), Row 2: (3, 7, 58), Row 3: (5, 6, ?)",
+    "hi": "निम्नलिखित समुच्चय में लुप्त संख्या ज्ञात कीजिए: पंक्ति 1: (4, 5, 41), पंक्ति 2: (3, 7, 58), पंक्ति 3: (5, 6, ?)",
+    "oEn": ["61", "55", "63", "59"],
+    "oHi": ["61", "55", "63", "59"],
+    "c": 0,
+    "exp": "The pattern is a² + b² = c. For Row 1: 4² + 5² = 16 + 25 = 41. For Row 2: 3² + 7² = 9 + 49 = 58. For Row 3: 5² + 6² = 25 + 36 = 61.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "Select the missing number from the given alternatives:\n14 (210) 15\n12 (156) 13\n15 ( ? ) 18",
+    "hi": "दिए गए विकल्पों में से लुप्त संख्या का चयन कीजिए:\n14 (210) 15\n12 (156) 13\n15 ( ? ) 18",
+    "oEn": ["270", "285", "260", "275"],
+    "oHi": ["270", "285", "260", "275"],
+    "c": 0,
+    "exp": "The middle number is the product of the two outer numbers: 14 × 15 = 210, 12 × 13 = 156, and 15 × 18 = 270.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Pointing to a photograph, a man said, 'She is the daughter of the only son of my father's wife.' How is the man related to the woman in the photograph?",
+    "hi": "एक तस्वीर की ओर इशारा करते हुए एक पुरुष ने कहा, 'वह मेरे पिता की पत्नी के इकलौते पुत्र की पुत्री है।' पुरुष का तस्वीर वाली महिला से क्या संबंध है?",
+    "oEn": ["Father", "Uncle", "Brother", "Grandfather"],
+    "oHi": ["पिता (Father)", "चाचा/मामा (Uncle)", "भाई (Brother)", "दादा/नाना (Grandfather)"],
+    "c": 0,
+    "exp": "My father's wife = my mother. The only son of my mother = myself. The daughter of myself = my daughter. Hence, the man is the father.",
+    "Pyq": "Verified_PYQ_Adaptation"
+  },
+  {
+    "en": "If 'A + B' means 'A is the mother of B', 'A - B' means 'A is the brother of B', 'A × B' means 'A is the father of B', and 'A ÷ B' means 'A is the sister of B', which of the following shows that 'P is the maternal uncle of Q'?",
+    "hi": "यदि 'A + B' का अर्थ 'A, B की माता है', 'A - B' का अर्थ 'A, B का भाई है', 'A × B' का अर्थ 'A, B का पिता है', और 'A ÷ B' का अर्थ 'A, B की बहन है', तो निम्नलिखित में से कौन सा दर्शाता है कि 'P, Q का मामा है'?",
+    "oEn": ["P - M × Q", "P - M + Q", "P × M - Q", "P + M - Q"],
+    "oHi": ["P - M × Q", "P - M + Q", "P × M - Q", "P + M - Q"],
+    "c": 1,
+    "exp": "In 'P - M + Q': P - M means P is the brother of M; M + Q means M is the mother of Q. Thus, P is the mother's brother (maternal uncle) of Q.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A person walks 12 km towards North, then turns right and walks 16 km. Then he turns right and walks 12 km. Finally, he turns left and walks 5 km. How far and in which direction is he from his starting point?",
+    "hi": "एक व्यक्ति उत्तर की ओर 12 किमी चलता है, फिर दाएं मुड़ता है और 16 किमी चलता है। इसके बाद वह दाएं मुड़ता है और 12 किमी चलता है। अंत में, वह बाएं मुड़ता है और 5 किमी चलता है। वह अपने शुरुआती बिंदु से कितनी दूर और किस दिशा में है?",
+    "oEn": ["21 km, East", "16 km, East", "21 km, North", "16 km, North"],
+    "oHi": ["21 किमी, पूर्व", "16 किमी, पूर्व", "21 किमी, उत्तर", "16 किमी, उत्तर"],
+    "c": 0,
+    "exp": "Net vertical displacement = +12 (North) - 12 (South) = 0. Net horizontal displacement = +16 (East) + 5 (East) = 21 km East. Hence, he is 21 km East of the starting point.",
+    "Pyq": "Verified_PYQ_Adaptation"
+  },
+  {
+    "en": "Point A is 8 m west of Point B. Point C is 6 m north of Point A. Point D is 12 m east of Point C. Point E is 6 m south of Point D. What is the shortest distance between Point B and Point E?",
+    "hi": "बिंदु A, बिंदु B के 8 मीटर पश्चिम में है। बिंदु C, बिंदु A के 6 मीटर उत्तर में है। बिंदु D, बिंदु C के 12 मीटर पूर्व में है। बिंदु E, बिंदु D के 6 मीटर दक्षिण में है। बिंदु B और बिंदु E के बीच की न्यूनतम दूरी क्या है?",
+    "oEn": ["4 m", "6 m", "8 m", "12 m"],
+    "oHi": ["4 मीटर", "6 मीटर", "8 मीटर", "12 मीटर"],
+    "c": 0,
+    "exp": "Taking B at (0,0): A = (-8,0), C = (-8,6), D = (4,6), E = (4,0). Points B(0,0) and E(4,0) are separated by 4 m along the X-axis.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "In a row of students, Ramesh is 15th from the left end and Suresh is 18th from the right end. If they interchange their positions, Ramesh becomes 27th from the left end. How many students are there in the row?",
+    "hi": "छात्रों की एक पंक्ति में, रमेश बाएं छोर से 15वें स्थान पर है और सुरेश दाएं छोर से 18वें स्थान पर है। यदि वे अपने स्थान आपस में बदल लेते हैं, तो रमेश बाएं छोर से 27वें स्थान पर हो जाता है। पंक्ति में कुल कितने छात्र हैं?",
+    "oEn": ["44", "45", "43", "46"],
+    "oHi": ["44", "45", "43", "46"],
+    "c": 0,
+    "exp": "Total students = (New position of Ramesh from left) + (Suresh's original position from right) - 1 = 27 + 18 - 1 = 44.",
+    "Pyq": "Verified_PYQ_Adaptation"
+  },
+  {
+    "en": "Among five persons P, Q, R, S, and T, each having different heights, R is taller than only S. P is taller than T but shorter than Q. Who is the tallest among them?",
+    "hi": "पाँच व्यक्तियों P, Q, R, S और T में से, प्रत्येक की लंबाई अलग-अलग है, R केवल S से लंबा है। P, T से लंबा है लेकिन Q से छोटा है। उनमें से सबसे लंबा कौन है?",
+    "oEn": ["Q", "P", "T", "Cannot be determined"],
+    "oHi": ["Q", "P", "T", "निर्धारित नहीं किया जा सकता (Cannot be determined)"],
+    "c": 0,
+    "exp": "Since R is taller than only S, R is 4th and S is 5th. P is taller than T but shorter than Q, giving Q > P > T > R > S. Thus, Q is the tallest.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Statements:\n1. All pens are books.\n2. Some books are pencils.\nConclusions:\nI. Some pens are pencils.\nII. No pen is a pencil.",
+    "hi": "कथन:\n1. सभी पेन किताबें हैं।\n2. कुछ किताबें पेंसिल हैं।\nनिष्कर्ष:\nI. कुछ पेन पेंसिल हैं।\nII. कोई पेन पेंसिल नहीं है।",
+    "oEn": ["Only conclusion I follows", "Only conclusion II follows", "Either I or II follows", "Neither I nor II follows"],
+    "oHi": ["केवल निष्कर्ष I अनुसरण करता है", "केवल निष्कर्ष II अनुसरण करता है", "या तो I या II अनुसरण करता है", "न तो I और न ही II अनुसरण करता है"],
+    "c": 2,
+    "exp": "Neither conclusion follows definitely on its own, but together they form a complementary pair (Some and No) with the same subject and predicate, so either I or II follows.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "Statements:\n1. All cars are vehicles.\n2. No vehicle is a machine.\nConclusions:\nI. All cars being machines is a possibility.\nII. No car is a machine.",
+    "hi": "कथन:\n1. सभी कारें वाहन हैं।\n2. कोई वाहन मशीन नहीं है।\nनिष्कर्ष:\nI. सभी कारों का मशीन होना एक संभावना है।\nII. कोई कार मशीन नहीं है।",
+    "oEn": ["Only conclusion II follows", "Only conclusion I follows", "Both I and II follow", "Neither I nor II follows"],
+    "oHi": ["केवल निष्कर्ष II अनुसरण करता है", "केवल निष्कर्ष I अनुसरण करता है", "I और II दोनों अनुसरण करते हैं", "न तो I और न ही II अनुसरण करता है"],
+    "c": 0,
+    "exp": "Since all cars are vehicles and no vehicle is a machine, it definitely follows that no car is a machine. Conclusion I is impossible because no car can be a machine.",
+    "Pyq": "Verified_PYQ_Adaptation"
+  },
+  {
+    "en": "In a Venn diagram, the circle represents 'Artists', the triangle represents 'Players', and the rectangle represents 'Doctors'. Which region represents 'Doctors who are players but not artists'?",
+    "hi": "एक वेन आरेख में, वृत्त 'कलाकारों' को, त्रिभुज 'खिलाड़ियों' को, और आयत 'डॉक्टरों' को दर्शाता है। कौन सा क्षेत्र 'ऐसे डॉक्टरों को दर्शाता है जो खिलाड़ी हैं लेकिन कलाकार नहीं हैं'?",
+    "oEn": ["Only the region common to triangle and rectangle outside circle", "Only the region common to all three", "Only the rectangle", "Only the triangle"],
+    "oHi": ["केवल त्रिभुज और आयत में उभयनिष्ठ क्षेत्र जो वृत्त के बाहर है", "केवल तीनों में उभयनिष्ठ क्षेत्र", "केवल आयत", "केवल त्रिभुज"],
+    "c": 0,
+    "exp": "Doctors who are players but not artists must lie within both the rectangle (Doctors) and triangle (Players), but outside the circle (Artists).",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "In a class of 120 students, 65 play Cricket, 50 play Football, and 20 play both. How many students play neither Cricket nor Football?",
+    "hi": "120 छात्रों की एक कक्षा में, 65 छात्र क्रिकेट खेलते हैं, 50 छात्र फुटबॉल खेलते हैं, और 20 छात्र दोनों खेलते हैं। कितने छात्र न तो क्रिकेट और न ही फुटबॉल खेलते हैं?",
+    "oEn": ["25", "30", "35", "20"],
+    "oHi": ["25", "30", "35", "20"],
+    "c": 0,
+    "exp": "Students playing at least one game = 65 + 50 - 20 = 95. Students playing neither = 120 - 95 = 25.",
+    "Pyq": "Verified_PYQ_Adaptation"
+  },
+  {
+    "en": "Statement: 'Regular exercise and a balanced diet are essential for maintaining good health and preventing lifestyle diseases.'\nConclusions:\nI. All lifestyle diseases can be completely cured by regular exercise.\nII. Good health requires a combination of proper nutrition and physical activity.",
+    "hi": "कथन: 'अच्छे स्वास्थ्य को बनाए रखने और जीवनशैली से जुड़ी बीमारियों को रोकने के लिए नियमित व्यायाम और संतुलित आहार आवश्यक हैं।'\nनिष्कर्ष:\nI. जीवनशैली से जुड़ी सभी बीमारियों को नियमित व्यायाम से पूरी तरह ठीक किया जा सकता है।\nII. अच्छे स्वास्थ्य के लिए उचित पोषण और शारीरिक गतिविधि के संयोजन की आवश्यकता होती है।",
+    "oEn": ["Only conclusion II follows", "Only conclusion I follows", "Both I and II follow", "Neither I nor II follows"],
+    "oHi": ["केवल निष्कर्ष II अनुसरण करता है", "केवल निष्कर्ष I अनुसरण करता है", "I और II दोनों अनुसरण करते हैं", "न तो I और न ही II अनुसरण करता है"],
+    "c": 0,
+    "exp": "Conclusion I is an unsupported absolute claim. Conclusion II directly follows from the statement, which mentions both proper nutrition and physical activity.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Statement: 'There has been a sharp increase in water-borne diseases in the city during the monsoon season.'\nCourses of Action:\nI. The municipal corporation should supply chlorinated and safe drinking water to all residents.\nII. Citizens should be advised to boil drinking water before consumption during the rainy season.",
+    "hi": "कथन: 'मानसून के मौसम में शहर में जल जनित बीमारियों में भारी वृद्धि हुई है।'\nकार्रवाई के पाठ्यक्रम:\nI. नगर निगम को सभी निवासियों को क्लोरीनयुक्त और सुरक्षित पीने का पानी उपलब्ध कराना चाहिए।\nII. नागरिकों को सलाह दी जानी चाहिए कि वे बरसात के मौसम में सेवन से पहले पीने के पानी को उबाल लें।",
+    "oEn": ["Both I and II follow", "Only I follows", "Only II follows", "Neither I nor II follows"],
+    "oHi": ["I और II दोनों अनुसरण करते हैं", "केवल I अनुसरण करता है", "केवल II अनुसरण करता है", "न तो I और न ही II अनुसरण करता है"],
+    "c": 0,
+    "exp": "Both are practical and preventive steps to control water-borne diseases during the monsoon.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "Six friends P, Q, R, S, T, and U are sitting around a circular table facing the centre. P is sitting to the immediate right of T. R is sitting between S and U. Q is sitting to the immediate left of S. Who is sitting between P and R?",
+    "hi": "छह मित्र P, Q, R, S, T और U केंद्र की ओर मुख करके एक वृत्ताकार मेज के चारों ओर बैठे हैं। P, T के ठीक दाएं बैठा है। R, S और U के बीच बैठा है। Q, S के ठीक बाएं बैठा है। P और R के बीच कौन बैठा है?",
+    "oEn": ["T", "U", "Q", "S"],
+    "oHi": ["T", "U", "Q", "S"],
+    "c": 1,
+    "exp": "The valid arrangement is T-P-U-R-S-Q. In this arrangement, U sits between P and R.",
+    "Pyq": "Verified_PYQ_Adaptation"
+  },
+  {
+    "en": "Five persons A, B, C, D, and E are sitting in a straight row facing North. C is sitting exactly in the middle. A is sitting at the leftmost end. B is sitting to the immediate left of C. D is sitting to the right of E. Who is sitting at the extreme right end?",
+    "hi": "पाँच व्यक्ति A, B, C, D और E एक सीधी पंक्ति में उत्तर की ओर मुख करके बैठे हैं। C ठीक बीच में बैठा है। A सबसे बाएं छोर पर बैठा है। B, C के ठीक बाएं बैठा है। D, E के दाएं बैठा है। चरम दाहिने छोर पर कौन बैठा है?",
+    "oEn": ["D", "E", "B", "A"],
+    "oHi": ["D", "E", "B", "A"],
+    "c": 0,
+    "exp": "Positions from left to right: C is 3rd, B is 2nd, and A is 1st. E and D occupy 4th and 5th. Since D is to the right of E, the order is A-B-C-E-D. Hence, D is at the extreme right end.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A square paper is folded along its vertical line from left to right, then folded downwards along the horizontal line, and a circular hole is punched at the centre. When unfolded, how many holes will appear?",
+    "hi": "एक वर्गाकार कागज को बाएं से दाएं ऊर्ध्वाधर रेखा के अनुदिश मोड़ा जाता है, फिर क्षैतिज रेखा के अनुदिश नीचे की ओर मोड़ा जाता है, और केंद्र में एक गोलाकार छेद किया जाता है। जब इसे खोला जाएगा, तो कितने छेद दिखाई देंगे?",
+    "oEn": ["4", "2", "1", "8"],
+    "oHi": ["4", "2", "1", "8"],
+    "c": 0,
+    "exp": "Folding vertically doubles the layers to 2, and folding horizontally doubles them to 4. A single punch through the folded centre produces 4 holes when unfolded.",
+    "Pyq": "Verified_PYQ_Adaptation"
+  },
+  {
+    "en": "Find the next figure in the series based on the number of sides: Triangle, Square, Pentagon, Hexagon, ?",
+    "hi": "भुजाओं की संख्या के आधार पर श्रृंखला में अगली आकृति ज्ञात कीजिए: त्रिभुज, वर्ग, पंचभुज, षटभुज, ?",
+    "oEn": ["Heptagon (7-sided figure)", "Octagon (8-sided figure)", "Circle", "Rectangle"],
+    "oHi": ["सप्तभुज (Heptagon)", "अष्टभुज (Octagon)", "वृत्त (Circle)", "आयत (Rectangle)"],
+    "c": 0,
+    "exp": "The number of sides increases by 1 each time: 3, 4, 5, 6. The next figure is a heptagon with 7 sides.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "What is the total number of triangles in a square divided by both of its diagonals?",
+    "hi": "दोनों विकर्णों द्वारा विभाजित एक वर्ग में त्रिभुजों की कुल संख्या कितनी है?",
+    "oEn": ["8", "6", "10", "12"],
+    "oHi": ["8", "6", "10", "12"],
+    "c": 0,
+    "exp": "The two diagonals create 4 small triangles at the centre. Combining adjacent small triangles gives 4 larger half-square triangles. Total = 4 + 4 = 8.",
+    "Pyq": "Verified_PYQ_Adaptation"
+  }
+]
