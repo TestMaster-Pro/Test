@@ -1,0 +1,272 @@
+[
+  {
+    "en": "Find the remainder when $7^{99}$ is divided by $25$.",
+    "hi": "जब $7^{99}$ को $25$ से विभाजित किया जाता है, तो शेषफल ज्ञात कीजिए।",
+    "oEn": ["7", "18", "24", "12"],
+    "oHi": ["7", "18", "24", "12"],
+    "c": 1,
+    "exp": "We know that $7^2 = 49 \\equiv -1 \\pmod{25}$.\nTherefore, $7^{99} = (7^2)^{49} \\times 7 \\equiv (-1)^{49} \\times 7 \\equiv -1 \\times 7 = -7$.\nSince the remainder cannot be negative in standard arithmetic, we add $25$ to $-7$: $-7 + 25 = 18$.\nThus, the correct option is $18$.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The product of two numbers is $4107$. If their HCF is $37$, find the larger number among them.",
+    "hi": "दो संख्याओं का गुणनफल $4107$ है। यदि उनका HCF $37$ है, तो उनमें से बड़ी संख्या ज्ञात कीजिए।",
+    "oEn": ["111", "148", "185", "222"],
+    "oHi": ["111", "148", "185", "222"],
+    "c": 0,
+    "exp": "Let the two numbers be $37x$ and $37y$, where $x$ and $y$ are co-prime integers.\nProduct of numbers = $(37x) \\times (37y) = 1369xy$.\nGiven product = $4107$.\nTherefore, $1369xy = 4107 \\implies xy = 3$.\nThe co-prime factors of $3$ are $1$ and $3$.\nThus, the numbers are $37 \\times 1 = 37$ and $37 \\times 3 = 111$.\nThe larger number is $111$.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "Evaluate the expression: $\\frac{1}{\\sqrt{9}-\\sqrt{8}} - \\frac{1}{\\sqrt{8}-\\sqrt{7}} + \\frac{1}{\\sqrt{7}-\\sqrt{6}} - \\frac{1}{\\sqrt{6}-\\sqrt{5}} + \\frac{1}{\\sqrt{5}-2}$",
+    "hi": "व्यंजक का मान ज्ञात कीजिए: $\\frac{1}{\\sqrt{9}-\\sqrt{8}} - \\frac{1}{\\sqrt{8}-\\sqrt{7}} + \\frac{1}{\\sqrt{7}-\\sqrt{6}} - \\frac{1}{\\sqrt{6}-\\sqrt{5}} + \\frac{1}{\\sqrt{5}-2}$",
+    "oEn": ["1", "3", "5", "7"],
+    "oHi": ["1", "3", "5", "7"],
+    "c": 2,
+    "exp": "Rationalize each term in the expression:\n1) $\\frac{1}{\\sqrt{9}-\\sqrt{8}} = \\sqrt{9} + \\sqrt{8}$\n2) $-\\frac{1}{\\sqrt{8}-\\sqrt{7}} = -(\\sqrt{8} + \\sqrt{7})$\n3) $\\frac{1}{\\sqrt{7}-\\sqrt{6}} = \\sqrt{7} + \\sqrt{6}$\n4) $-\\frac{1}{\\sqrt{6}-\\sqrt{5}} = -(\\sqrt{6} + \\sqrt{5})$\n5) $\\frac{1}{\\sqrt{5}-2} = \\frac{\\sqrt{5}+2}{(\\sqrt{5}-2)(\\sqrt{5}+2)} = \\sqrt{5} + 2$ (since $2 = \\sqrt{4}$).\nAdding all terms:\n$(\\sqrt{9}+\\sqrt{8}) - (\\sqrt{8}+\\sqrt{7}) + (\\sqrt{7}+\\sqrt{6}) - (\\sqrt{6}+\\sqrt{5}) + (\\sqrt{5}+2)\n= \\sqrt{9} + 2 = 3 + 2 = 5$.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "If $2^{x+3} = 4^{x-1} \\times 8^2$, find the value of $x$.",
+    "hi": "यदि $2^{x+3} = 4^{x-1} \\times 8^2$ है, तो $x$ का मान ज्ञात कीजिए।",
+    "oEn": ["-1", "1", "2", "-2"],
+    "oHi": ["-1", "1", "2", "-2"],
+    "c": 0,
+    "exp": "Express all terms with base 2:\n$2^{x+3} = (2^2)^{x-1} \\times (2^3)^2$\n$2^{x+3} = 2^{2(x-1)} \\times 2^6$\n$2^{x+3} = 2^{2x - 2 + 6} = 2^{2x + 4}$\nEquating the powers of base 2:\n$x + 3 = 2x + 4$\n$3 - 4 = 2x - x$\n$x = -1$.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "The population of a town increases by $20\\%$ in the first year, decreases by $10\\%$ in the second year, and again increases by $15\\%$ in the third year. If the population at the end of 3 years is $37,260$, what was the initial population 3 years ago?",
+    "hi": "एक शहर की जनसंख्या पहले वर्ष में $20\\%$ बढ़ती है, दूसरे वर्ष में $10\\%$ घटती है, और तीसरे वर्ष में फिर से $15\\%$ बढ़ती है। यदि 3 वर्षों के अंत में जनसंख्या $37,260$ है, तो 3 वर्ष पूर्व प्रारंभिक जनसंख्या क्या थी?",
+    "oEn": ["25,000", "30,000", "32,000", "35,000"],
+    "oHi": ["25,000", "30,000", "32,000", "35,000"],
+    "c": 1,
+    "exp": "Let the initial population be $P$.\nSuccessive multipliers:\n- First year increase of $20\\%$ $\\implies \\times 1.20$ (or $\\frac{6}{5}$)\n- Second year decrease of $10\\%$ $\\implies \\times 0.90$ (or $\\frac{9}{10}$)\n- Third year increase of $15\\%$ $\\implies \\times 1.15$ (or $\\frac{23}{20}$)\n\n$P \\times \\frac{6}{5} \\times \\frac{9}{10} \\times \\frac{23}{20} = 37,260$\n$P \\times \\frac{1242}{1000} = 37,260$\n$P \\times 1.242 = 37,260$\n$P = \\frac{37,260}{1.242} = 30,000$.\nThus, the initial population was $30,000$.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A man spends $75\\%$ of his income. If his income increases by $20\\%$ and his expenditure increases by $10\\%$, find the percentage increase in his savings.",
+    "hi": "एक व्यक्ति अपनी आय का $75\\%$ खर्च करता है। यदि उसकी आय में $20\\%$ की वृद्धि होती है और उसके व्यय में $10\\%$ की वृद्धि होती है, तो उसकी बचत में प्रतिशत वृद्धि ज्ञात कीजिए।",
+    "oEn": ["40%", "45%", "50%", "60%"],
+    "oHi": ["40%", "45%", "50%", "60%"],
+    "c": 2,
+    "exp": "Let the initial income of the man be $100$ units.\n- Expenditure = $75$ units\n- Initial Savings = Income - Expenditure = $100 - 75 = 25$ units.\n\nAfter increases:\n- New Income = $100 \\times 1.20 = 120$ units.\n- New Expenditure = $75 \\times 1.10 = 82.5$ units.\n- New Savings = $120 - 82.5 = 37.5$ units.\n\nIncrease in savings = $37.5 - 25 = 12.5$ units.\nPercentage increase in savings = $\\frac{12.5}{25} \\times 100 = 50\\%$.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A shopkeeper marks an article $50\\%$ above its cost price and offers two successive discounts of $20\\%$ and $10\\%$ on the marked price. If he earns a profit of Rs. $504$, find the cost price of the article.",
+    "hi": "एक दुकानदार किसी वस्तु पर उसके क्रय मूल्य से $50\\%$ अधिक अंकित करता है और अंकित मूल्य पर $20\\%$ और $10\\%$ की दो क्रमिक छूट देता है। यदि वह Rs. $504$ का लाभ कमाता है, तो वस्तु का क्रय मूल्य ज्ञात कीजिए।",
+    "oEn": ["Rs. 5,600", "Rs. 6,000", "Rs. 6,300", "Rs. 7,000"],
+    "oHi": ["Rs. 5,600", "Rs. 6,000", "Rs. 6,300", "Rs. 7,000"],
+    "c": 2,
+    "exp": "Let the cost price (CP) of the article be Rs. $100$.\nMarked Price (MP) = Rs. $150$ (since it is $50\\%$ above CP).\nFirst discount = $20\\%$. Price after 1st discount = $150 \\times (1 - 0.20) = 150 \\times 0.80 = 120$.\nSecond discount = $10\\%$. Selling Price (SP) = $120 \\times (1 - 0.10) = 120 \\times 0.90 = 108$.\nProfit percentage = $\\frac{108 - 100}{100} \\times 100 = 8\\%$.\nGiven that the actual profit is Rs. $504$, we have:\n$8\\%$ of CP = $504$\n$\\text{CP} = \\frac{504}{0.08} = \\text{Rs. } 6300$.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A dishonest dealer professes to sell his goods at cost price, but uses a weight of $900$ grams instead of $1$ kg. What is his net profit percentage?",
+    "hi": "एक बेईमान व्यापारी अपने माल को क्रय मूल्य पर बेचने का दावा करता है, लेकिन वह $1$ किग्रा के स्थान पर $900$ ग्राम वजन का उपयोग करता है। उसका शुद्ध लाभ प्रतिशत क्या है?",
+    "oEn": ["10%", "11.11%", "12.5%", "9.09%"],
+    "oHi": ["10%", "11.11%", "12.5%", "9.09%"],
+    "c": 1,
+    "exp": "Let the cost price of $1$ gram of goods be Re. $1$.\n- Cost Price of $900$ grams = Rs. $900$.\n- Selling Price of $900$ grams (charged as $1000$ grams) = Rs. $1000$.\n\nProfit = Selling Price - Cost Price = $1000 - 900 = 100$ grams.\nProfit Percentage = $\\left(\\frac{\\text{Profit}}{\\text{Cost Price}}\\right) \\times 100 = \\left(\\frac{100}{900}\\right) \\times 100 = \\frac{100}{9}\\% = 11.11\\%$.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The difference between compound interest and simple interest on a certain sum at $10\\%$ per annum for 2 years is Rs. $484$. Find the sum.",
+    "hi": "किसी निश्चित राशि पर $10\\%$ प्रति वर्ष की दर से 2 वर्षों के लिए चक्रवृद्धि ब्याज और साधारण ब्याज के बीच का अंतर Rs. $484$ है। वह राशि ज्ञात कीजिए।",
+    "oEn": ["Rs. 40,000", "Rs. 44,000", "Rs. 48,400", "Rs. 50,000"],
+    "oHi": ["Rs. 40,000", "Rs. 44,000", "Rs. 48,400", "Rs. 50,000"],
+    "c": 2,
+    "exp": "For 2 years, the difference (D) between compound interest and simple interest is given by the formula:\n$D = \\frac{P R^2}{100^2}$\nGiven:\n- $D = 484$\n- $R = 10\\%$\n\nSubstituting the values:\n$484 = \\frac{P \\times (10)^2}{10000}$\n$484 = \\frac{100P}{10000}$\n$484 = \\frac{P}{100}$\n$P = 484 \\times 100 = \\text{Rs. } 48,400$.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A sum of money placed at compound interest becomes double in 4 years. In how many years will it become 8 times itself at the same rate of compound interest?",
+    "hi": "चक्रवृद्धि ब्याज पर रखी गई कोई राशि 4 वर्षों में दोगुनी हो जाती है। समान चक्रवृद्धि ब्याज दर पर यह कितने वर्षों में अपने से 8 गुना हो जाएगी?",
+    "oEn": ["8 years", "12 years", "16 years", "24 years"],
+    "oHi": ["8 वर्ष", "12 वर्ष", "16 वर्ष", "24 वर्ष"],
+    "c": 1,
+    "exp": "Let the principal be $P$. Under compound interest, the amount after $t$ years is $A = P\\left(1 + \\frac{R}{100}\\right)^t$.\nGiven that the sum doubles in 4 years:\n$2P = P\\left(1 + \\frac{R}{100}\\right)^4 \\implies \\left(1 + \\frac{R}{100}\\right)^4 = 2$.\nWe need to find the time $t$ when the amount becomes 8 times:\n$8P = P\\left(1 + \\frac{R}{100}\\right)^t \\implies \\left(1 + \\frac{R}{100}\\right)^t = 8 = 2^3$.\nSince $\\left(1 + \\frac{R}{100}\\right)^4 = 2$, we have $\\left(2^{1/4}\\right)^t = 2^{t/4} = 2^3 \\implies \\frac{t}{4} = 3 \\implies t = 12$ years.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The incomes of A and B are in the ratio $3 : 4$ and their expenditures are in the ratio $2 : 3$. If each of them saves Rs. $4,000$, find the income of A.",
+    "hi": "A और B की आय का अनुपात $3 : 4$ है और उनके व्यय का अनुपात $2 : 3$ है। यदि उनमें से प्रत्येक Rs. $4,000$ बचाता है, तो A की आय ज्ञात कीजिए।",
+    "oEn": ["Rs. 9,000", "Rs. 12,000", "Rs. 16,000", "Rs. 20,000"],
+    "oHi": ["Rs. 9,000", "Rs. 12,000", "Rs. 16,000", "Rs. 20,000"],
+    "c": 1,
+    "exp": "Let the incomes of A and B be $3x$ and $4x$, and their expenditures be $2y$ and $3y$.\nAccording to the question, the savings of each are Rs. $4,000$:\n1) $3x - 2y = 4000$\n2) $4x - 3y = 4000$\n\nSince both expressions equal $4000$, equate them:\n$3x - 2y = 4x - 3y$\n$3y - 2y = 4x - 3x \\implies y = x$\n\nSubstitute $y = x$ into the first equation:\n$3x - 2x = 4000 \\implies x = 4000$.\nIncome of A = $3x = 3 \\times 4000 = \\text{Rs. } 12,000$.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A and B start a business by investing Rs. $45,000$ and Rs. $54,000$ respectively. After 4 months, C joins them with an investment of Rs. $30,000$. At the end of the year, the total profit is Rs. $23,800$. Find C's share in the profit.",
+    "hi": "A और B क्रमशः Rs. $45,000$ और Rs. $54,000$ का निवेश करके एक व्यवसाय शुरू करते हैं। 4 महीने बाद, C Rs. $30,000$ के निवेश के साथ उनके साथ जुड़ जाता है। वर्ष के अंत में, कुल लाभ Rs. $23,800$ है। लाभ में C का हिस्सा ज्ञात कीजिए।",
+    "oEn": ["Rs. 3,600", "Rs. 4,000", "Rs. 4,500", "Rs. 5,400"],
+    "oHi": ["Rs. 3,600", "Rs. 4,000", "Rs. 4,500", "Rs. 5,400"],
+    "c": 1,
+    "exp": "The ratio of profit sharing is proportional to the product of capital invested and the time period for which it is invested.\n- A's investment equivalent = $45,000 \\times 12 = 540,000$\n- B's investment equivalent = $54,000 \\times 12 = 648,000$\n- C's investment equivalent = $30,000 \\times (12 - 4) = 30,000 \\times 8 = 240,000$\n\nRatio of shares (A : B : C) = $540,000 : 648,000 : 240,000$\nDividing by $12,000$:\n$45 : 54 : 20$\n\nTotal ratio parts = $45 + 54 + 20 = 119$.\nGiven total profit = Rs. $23,800$.\nValue of 1 part = $\\frac{23,800}{119} = \\text{Rs. } 200$.\nC's share = $20 \\times 200 = \\text{Rs. } 4,000$.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A vessel contains 80 litres of pure milk. From this vessel, 8 litres of milk is withdrawn and replaced with water. This process is performed two times in total. Find the remaining quantity of milk in the vessel.",
+    "hi": "एक बर्तन में 80 लीटर शुद्ध दूध है। इस बर्तन से 8 लीटर दूध निकाला जाता है और पानी से बदल दिया जाता है। इस प्रक्रिया को कुल दो बार दोहराया जाता है। बर्तन में दूध की शेष मात्रा ज्ञात कीजिए।",
+    "oEn": ["60 litres", "64 litres", "64.8 litres", "72 litres"],
+    "oHi": ["60 लीटर", "64 लीटर", "64.8 लीटर", "72 लीटर"],
+    "c": 2,
+    "exp": "The formula for the remaining quantity of pure liquid after $n$ successive replacements is:\n$\\text{Final Quantity} = x \\left(1 - \\frac{y}{x}\\right)^n$\nWhere:\n- Initial quantity $x = 80$ litres\n- Quantity withdrawn $y = 8$ litres\n- Number of operations $n = 2$\n\nSubstituting the values:\n$\\text{Final Milk} = 80 \\left(1 - \\frac{8}{80}\\right)^2 = 80 \\left(1 - \\frac{1}{10}\\right)^2$\n$= 80 \\times \\left(\\frac{9}{10}\\right)^2 = 80 \\times \\frac{81}{100} = \\frac{6480}{100} = 64.8$ litres.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A can complete a piece of work in 20 days and B can complete it in 30 days. Both work together for 6 days, and then A leaves. In how many days will B finish the remaining work?",
+    "hi": "A किसी कार्य को 20 दिनों में पूरा कर सकता है और B इसे 30 दिनों में पूरा कर सकता है। दोनों मिलकर 6 दिनों तक कार्य करते हैं, और फिर A छोड़ देता है। B शेष कार्य को कितने दिनों में पूरा करेगा?",
+    "oEn": ["10 days", "12 days", "15 days", "18 days"],
+    "oHi": ["10 दिन", "12 दिन", "15 दिन", "18 दिन"],
+    "c": 2,
+    "exp": "Total work = LCM of $20$ and $30$ = $60$ units.\n- A's 1-day work = $\\frac{60}{20} = 3$ units.\n- B's 1-day work = $\\frac{60}{30} = 2$ units.\n\nCombined 1-day work of A and B = $3 + 2 = 5$ units.\nWork done by both in 6 days = $5 \\times 6 = 30$ units.\nRemaining work = $60 - 30 = 30$ units.\nTime taken by B to complete the remaining work = $\\frac{30}{2} = 15$ days.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A is $50\\%$ more efficient than B. If B alone can finish a piece of work in 30 days, in how many days can A and B working together finish the same work?",
+    "hi": "A, B से $50\\%$ अधिक कुशल है। यदि B अकेला किसी कार्य को 30 दिनों में पूरा कर सकता है, तो A और B मिलकर उसी कार्य को कितने दिनों में पूरा कर सकते हैं?",
+    "oEn": ["10 days", "12 days", "15 days", "18 days"],
+    "oHi": ["10 दिन", "12 दिन", "15 दिन", "18 दिन"],
+    "c": 1,
+    "exp": "Let the efficiency of B be $2$ units/day.\nSince A is $50\\%$ more efficient than B, A's efficiency = $2 \\times 1.5 = 3$ units/day.\nTotal work = B's efficiency $\\times$ B's time = $2 \\times 30 = 60$ units.\nCombined efficiency of A and B = $3 + 2 = 5$ units/day.\nTime taken by A and B together = $\\frac{\\text{Total Work}}{\\text{Combined Efficiency}} = \\frac{60}{5} = 12$ days.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "Two pipes P and Q can fill a cistern in 12 hours and 15 hours respectively, while a third pipe R can empty the full cistern in 20 hours. If all three pipes are opened together, in how many hours will the cistern be completely filled?",
+    "hi": "दो पाइप P और Q एक टंकी को क्रमशः 12 घंटे और 15 घंटे में भर सकते हैं, जबकि तीसरा पाइप R पूरी भरी हुई टंकी को 20 घंटे में खाली कर सकता है। यदि तीनों पाइपों को एक साथ खोल दिया जाए, तो टंकी कितने घंटों में पूरी भर जाएगी?",
+    "oEn": ["8 hours", "10 hours", "12 hours", "15 hours"],
+    "oHi": ["8 घंटे", "10 घंटे", "12 घंटे", "15 घंटे"],
+    "c": 1,
+    "exp": "Total capacity of the cistern = LCM of $12$, $15$, and $20$ = $60$ units.\n- Rate of pipe P (filling) = $\\frac{60}{12} = +5$ units/hour\n- Rate of pipe Q (filling) = $\\frac{60}{15} = +4$ units/hour\n- Rate of pipe R (emptying) = $\\frac{60}{20} = -3$ units/hour\n\nNet work done per hour when all three pipes are open = $5 + 4 - 3 = 6$ units/hour.\nTime taken to fill the cistern = $\\frac{60}{6} = 10$ hours.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A train running at a speed of $72\\text{ km/h}$ crosses a platform $160\\text{ m}$ long in $25\\text{ s}$. Find the length of the train.",
+    "hi": "$72\\text{ km/h}$ की चाल से चलने वाली एक ट्रेन $160\\text{ m}$ लंबे प्लेटफॉर्म को $25\\text{ s}$ में पार करती है। ट्रेन की लंबाई ज्ञात कीजिए।",
+    "oEn": ["300 meters", "340 meters", "360 meters", "400 meters"],
+    "oHi": ["300 मीटर", "340 मीटर", "360 मीटर", "400 मीटर"],
+    "c": 1,
+    "exp": "Convert speed from km/h to m/s:\n$\\text{Speed} = 72 \\times \\frac{5}{18} = 20 \\text{ m/s}$.\n\nTotal distance covered by the train in crossing the platform = Length of train + Length of platform.\n$\\text{Distance} = \\text{Speed} \\times \\text{Time} = 20 \\text{ m/s} \\times 25 \\text{ s} = 500 \\text{ meters}$.\n\nLet the length of the train be $L$.\n$L + 160 = 500$\n$L = 500 - 160 = 340 \\text{ meters}$.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A boat travels $30\\text{ km}$ upstream and $44\\text{ km}$ downstream in 10 hours. It can also travel $40\\text{ km}$ upstream and $55\\text{ km}$ downstream in 13 hours. Find the speed of the stream.",
+    "hi": "एक नाव धारा के प्रतिकूल $30\\text{ km}$ और धारा के अनुकूल $44\\text{ km}$ की दूरी 10 घंटे में तय करती है। यह धारा के प्रतिकूल $40\\text{ km}$ और धारा के अनुकूल $55\\text{ km}$ की दूरी 13 घंटे में भी तय कर सकती है। धारा की चाल ज्ञात कीजिए।",
+    "oEn": ["2 km/h", "3 km/h", "4 km/h", "5 km/h"],
+    "oHi": ["2 km/h", "3 km/h", "4 km/h", "5 km/h"],
+    "c": 1,
+    "exp": "Let upstream speed be $u$ km/h and downstream speed be $v$ km/h.\nFrom the given conditions:\n1) $\\frac{30}{u} + \\frac{44}{v} = 10$\n2) $\\frac{40}{u} + \\frac{55}{v} = 13$\n\nMultiply equation (1) by 4 and equation (2) by 3:\n$\\frac{120}{u} + \\frac{176}{v} = 40$\n$\\frac{120}{u} + \\frac{165}{v} = 39$\n\nSubtracting the second modified equation from the first:\n$\\frac{11}{v} = 1 \\implies v = 11 \\text{ km/h}$.\n\nSubstitute $v = 11$ into equation (1):\n$\\frac{30}{u} + \\frac{44}{11} = 10 \\implies \\frac{30}{u} + 4 = 10 \\implies \\frac{30}{u} = 6 \\implies u = 5 \\text{ km/h}$.\n\nSpeed of the stream ($s$) = $\\frac{v - u}{2} = \\frac{11 - 5}{2} = 3 \\text{ km/h}$.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "In a $1000\\text{ m}$ race, A can beat B by $100\\text{ m}$ and B can beat C by $150\\text{ m}$. By how many meters can A beat C in the same race?",
+    "hi": "एक $1000\\text{ m}$ की दौड़ में, A, B को $100\\text{ m}$ से हरा सकता है और B, C को $150\\text{ m}$ से हरा सकता है। उसी दौड़ में A, C को कितने मीटर से हरा सकता है?",
+    "oEn": ["220 m", "235 m", "250 m", "265 m"],
+    "oHi": ["220 m", "235 m", "250 m", "265 m"],
+    "c": 1,
+    "exp": "When A runs $1000\\text{ m}$, B runs $1000 - 100 = 900\\text{ m}$.\nRatio of speeds of A and B = $\\frac{A}{B} = \\frac{1000}{900} = \\frac{10}{9}$.\n\nWhen B runs $1000\\text{ m}$, C runs $1000 - 150 = 850\\text{ m}$.\nRatio of speeds of B and C = $\\frac{B}{C} = \\frac{1000}{850} = \\frac{20}{17}$.\n\nRatio of speeds of A and C = $\\frac{A}{C} = \\frac{A}{B} \\times \\frac{B}{C} = \\frac{10}{9} \\times \\frac{20}{17} = \\frac{200}{153}$.\n\nThis means when A runs $200\\text{ m}$, C runs $153\\text{ m}$.\nWhen A runs $1000\\text{ m}$, C runs $\\frac{153}{200} \\times 1000 = 153 \\times 5 = 765\\text{ m}$.\n\nTherefore, A beats C by $1000 - 765 = 235\\text{ m}$.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "The average marks of 40 students in an examination is 72. Later it was discovered that the marks of three students were misread as 68, 75, and 45 instead of the correct marks 86, 57, and 63 respectively. Find the correct average marks.",
+    "hi": "एक परीक्षा में 40 छात्रों के औसत अंक 72 हैं। बाद में यह पता चला कि तीन छात्रों के अंकों को क्रमशः 86, 57 और 63 के बजाय 68, 75 और 45 के रूप में गलत पढ़ा गया था। सही औसत अंक ज्ञात कीजिए।",
+    "oEn": ["71.95", "72.25", "72.45", "72.85"],
+    "oHi": ["71.95", "72.25", "72.45", "72.85"],
+    "c": 2,
+    "exp": "Initial total marks of 40 students = $40 \\times 72 = 2880$.\n\nSum of wrongly entered marks = $68 + 75 + 45 = 188$.\nSum of correct marks = $86 + 57 + 63 = 206$.\n\nCorrection adjustment = $\\text{Correct Sum} - \\text{Incorrect Sum} = 206 - 188 = +18$.\n\nCorrect total sum = $2880 + 18 = 2898$.\nCorrect average = $\\frac{2898}{40} = 72.45$.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "If $x + \\frac{1}{x} = 5$, find the value of $x^3 + \\frac{1}{x^3}$.",
+    "hi": "यदि $x + \\frac{1}{x} = 5$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।",
+    "oEn": ["110", "125", "140", "120"],
+    "oHi": ["110", "125", "140", "120"],
+    "c": 0,
+    "exp": "We know the algebraic identity:\n$x^3 + \\frac{1}{x^3} = \\left(x + \\frac{1}{x}\\right)^3 - 3\\left(x + \\frac{1}{x}\\right)$\n\nGiven that $x + \\frac{1}{x} = 5$, substitute this value into the identity:\n$x^3 + \\frac{1}{x^3} = 5^3 - 3(5)$\n$= 125 - 15 = 110$.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "Find the sum of the first 25 terms of an Arithmetic Progression whose n-th term is given by $a_n = 3n + 4$.",
+    "hi": "एक समांतर श्रेढ़ी (AP) के पहले 25 पदों का योग ज्ञात कीजिए जिसका n-वां पद $a_n = 3n + 4$ द्वारा दिया गया है।",
+    "oEn": ["1000", "1050", "1075", "1100"],
+    "oHi": ["1000", "1050", "1075", "1100"],
+    "c": 2,
+    "exp": "Given the n-th term of the AP: $a_n = 3n + 4$.\n- First term ($a_1$) = $3(1) + 4 = 7$.\n- 25th term ($a_{25}$) = $3(25) + 4 = 75 + 4 = 79$.\n\nThe sum of the first $n$ terms of an AP is given by:\n$S_n = \\frac{n}{2}(a_1 + a_n)$\n\nFor $n = 25$:\n$S_{25} = \\frac{25}{2}(7 + 79) = \\frac{25}{2}(86) = 25 \\times 43 = 1075$.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "From a point P, $26\\text{ cm}$ away from the center O of a circle, the length of the tangent PT to the circle is $24\\text{ cm}$. Find the radius of the circle.",
+    "hi": "एक वृत्त के केंद्र O से $26\\text{ cm}$ की दूरी पर स्थित एक बिंदु P से, वृत्त पर स्पर्श रेखा PT की लंबाई $24\\text{ cm}$ है। वृत्त की त्रिज्या ज्ञात कीजिए।",
+    "oEn": ["8 cm", "10 cm", "12 cm", "14 cm"],
+    "oHi": ["8 cm", "10 cm", "12 cm", "14 cm"],
+    "c": 1,
+    "exp": "The radius drawn to the point of contact is perpendicular to the tangent. Therefore, triangle OTP is a right-angled triangle at T.\n- Hypotenuse OP = $26\\text{ cm}$\n- Tangent PT = $24\\text{ cm}$\n- Radius OT = $r$\n\nUsing Pythagoras theorem in $\\triangle OTP$:\n$OT^2 + PT^2 = OP^2$\n$r^2 + 24^2 = 26^2$\n$r^2 + 576 = 676$\n$r^2 = 676 - 576 = 100$\n$r = 10\\text{ cm}$.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "In $\\triangle ABC$, $DE$ is parallel to $BC$, where $D$ and $E$ lie on $AB$ and $AC$ respectively. If $AD : DB = 3 : 2$ and the area of $\\triangle ADE$ is $36\\text{ cm}^2$, find the area of the trapezium $BCED$.",
+    "hi": "त्रिभुज $\\triangle ABC$ में, $DE$, $BC$ के समांतर है, जो $AB$ और $AC$ पर क्रमशः $D$ और $E$ पर स्थित है। यदि $AD : DB = 3 : 2$ है और $\\triangle ADE$ का क्षेत्रफल $36\\text{ cm}^2$ है, तो समलंब चतुर्भुज (trapezium) $BCED$ का क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["54 cm$^2$", "64 cm$^2$", "72 cm$^2$", "80 cm$^2$"],
+    "oHi": ["54 cm$^2$", "64 cm$^2$", "72 cm$^2$", "80 cm$^2$"],
+    "c": 1,
+    "exp": "Since $DE \\parallel BC$, $\\triangle ADE$ is similar to $\\triangle ABC$ ($\\triangle ADE \\sim \\triangle ABC$).\nGiven $AD : DB = 3 : 2$, the ratio of $AD$ to the total side $AB$ is:\n$\\frac{AD}{AB} = \\frac{3}{3 + 2} = \\frac{3}{5}$.\n\nThe ratio of the areas of similar triangles is equal to the square of the ratio of their corresponding sides:\n$\\frac{\\text{Area}(\\triangle ADE)}{\\text{Area}(\\triangle ABC)} = \\left(\\frac{AD}{AB}\\right)^2 = \\left(\\frac{3}{5}\\right)^2 = \\frac{9}{25}$.\n\nGiven $\\text{Area}(\\triangle ADE) = 36\\text{ cm}^2$:\n$\\frac{36}{\\text{Area}(\\triangle ABC)} = \\frac{9}{25} \\implies \\text{Area}(\\triangle ABC) = \\frac{36 \\times 25}{9} = 100\\text{ cm}^2$.\n\nArea of trapezium $BCED = \\text{Area}(\\triangle ABC) - \\text{Area}(\\triangle ADE) = 100 - 36 = 64\\text{ cm}^2$.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The perimeter of a semicircular protractor is $72\\text{ cm}$. Find its diameter. (Use $\\pi = \\frac{22}{7}$)",
+    "hi": "एक अर्धगोलाकार चांदा (protractor) का परिमाप $72\\text{ cm}$ है। इसका व्यास ज्ञात कीजिए। ($\\pi = \\frac{22}{7}$ का उपयोग करें)",
+    "oEn": ["14 cm", "21 cm", "28 cm", "35 cm"],
+    "oHi": ["14 cm", "21 cm", "28 cm", "35 cm"],
+    "c": 2,
+    "exp": "The perimeter of a semicircle is given by the formula:\n$P = \\pi r + 2r = r(\\pi + 2)$\nGiven $P = 72\\text{ cm}$ and $\\pi = \\frac{22}{7}$:\n$r\\left(\\frac{22}{7} + 2\\right) = 72$\n$r\\left(\\frac{22 + 14}{7}\\right) = 72$\n$r\\left(\\frac{36}{7}\\right) = 72$\n$r = \\frac{72 \\times 7}{36} = 14\\text{ cm}$.\n\nDiameter = $2r = 2 \\times 14 = 28\\text{ cm}$.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A solid metallic cylinder of radius $6\\text{ cm}$ and height $15\\text{ cm}$ is melted and recast into 12 small solid cones, each of radius $3\\text{ cm}$. Find the height of each cone.",
+    "hi": "त्रिज्या $6\\text{ cm}$ और ऊँचाई $15\\text{ cm}$ के एक ठोस धात्विक बेलन को पिघलाया जाता है और प्रत्येक $3\\text{ cm}$ त्रिज्या वाले 12 छोटे ठोस शंकुओं में ढाला जाता है। प्रत्येक शंकु की ऊँचाई ज्ञात कीजिए।",
+    "oEn": ["10 cm", "12 cm", "15 cm", "18 cm"],
+    "oHi": ["10 cm", "12 cm", "15 cm", "18 cm"],
+    "c": 2,
+    "exp": "Volume of cylinder = $\\pi R^2 H = \\pi \\times (6)^2 \\times 15 = 540\\pi\\text{ cm}^3$.\n\nLet the height of each cone be $h$.\nVolume of one cone = $\\frac{1}{3} \\pi r^2 h = \\frac{1}{3} \\pi (3)^2 h = 3\\pi h\\text{ cm}^3$.\n\nTotal volume of 12 cones = $12 \\times 3\\pi h = 36\\pi h\\text{ cm}^3$.\n\nSince the volume remains constant when melted and recast:\n$36\\pi h = 540\\pi$\n$h = \\frac{540}{36} = 15\\text{ cm}$.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "If $\\sin\\theta + \\cos\\theta = \\sqrt{2}\\cos\\theta$, find the value of $\\tan\\theta$.",
+    "hi": "यदि $\\sin\\theta + \\cos\\theta = \\sqrt{2}\\cos\\theta$ है, तो $\\tan\\theta$ का मान ज्ञात कीजिए।",
+    "oEn": ["$\\sqrt{2} + 1$", "$\\sqrt{2} - 1$", "1", "$\\sqrt{3} - 1$"],
+    "oHi": ["$\\sqrt{2} + 1$", "$\\sqrt{2} - 1$", "1", "$\\sqrt{3} - 1$"],
+    "c": 1,
+    "exp": "Given equation:\n$\\sin\\theta + \\cos\\theta = \\sqrt{2}\\cos\\theta$\n\nDivide every term by $\\cos\\theta$ (assuming $\\cos\\theta \\neq 0$):\n$\\frac{\\sin\\theta}{\\cos\\theta} + \\frac{\\cos\\theta}{\\cos\\theta} = \\sqrt{2}\\frac{\\cos\\theta}{\\cos\\theta}$\n$\\tan\\theta + 1 = \\sqrt{2}$\n$\\tan\\theta = \\sqrt{2} - 1$.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "The angle of elevation of the top of a tower from a point on the ground is $30^\\circ$. On walking $50\\text{ m}$ towards the tower, the angle of elevation becomes $60^\\circ$. Find the height of the tower.",
+    "hi": "ज़मीन पर एक बिंदु से एक मीनार के शीर्ष का उन्नयन कोण $30^\\circ$ है। मीनार की ओर $50\\text{ m}$ चलने पर, उन्नयन कोण $60^\\circ$ हो जाता है। मीनार की ऊँचाई ज्ञात कीजिए।",
+    "oEn": ["$25\\sqrt{3}\\text{ m}$", "$50\\sqrt{3}\\text{ m}$", "25 m", "50 m"],
+    "oHi": ["$25\\sqrt{3}\\text{ m}$", "$50\\sqrt{3}\\text{ m}$", "25 m", "50 m"],
+    "c": 0,
+    "exp": "Let the height of the tower be $h$ and the initial distance from the point be $x$.\n1) $\\tan(30^\\circ) = \\frac{h}{x + 50} \\implies \\frac{1}{\\sqrt{3}} = \\frac{h}{x + 50} \\implies x + 50 = h\\sqrt{3}$\n2) $\\tan(60^\\circ) = \\frac{h}{x} \\implies \\sqrt{3} = \\frac{h}{x} \\implies x = \\frac{h}{\\sqrt{3}}$\n\nSubstitute $x = \\frac{h}{\\sqrt{3}}$ into the first equation:\n$\\frac{h}{\\sqrt{3}} + 50 = h\\sqrt{3}$\n$50 = h\\sqrt{3} - \\frac{h}{\\sqrt{3}} = h\\left(\\sqrt{3} - \\frac{1}{\\sqrt{3}}\\right) = h\\left(\\frac{2}{\\sqrt{3}}\\right)$\n$2h = 50\\sqrt{3} \\implies h = 25\\sqrt{3}\\text{ m}$.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "For a moderately skewed distribution, if the arithmetic mean is $24$ and the median is $27$, find the mode.",
+    "hi": "एक मध्यम रूप से विषम बंटन (moderately skewed distribution) के लिए, यदि समांतर माध्य $24$ और माध्यिका (median) $27$ है, तो बहुलक (mode) ज्ञात कीजिए।",
+    "oEn": ["30", "33", "36", "39"],
+    "oHi": ["30", "33", "36", "39"],
+    "c": 1,
+    "exp": "For a moderately skewed frequency distribution, the empirical relationship between Mean, Median, and Mode is given by:\n$\\text{Mode} = 3(\\text{Median}) - 2(\\text{Mean})$\n\nGiven:\n- $\\text{Mean} = 24$\n- $\\text{Median} = 27$\n\nSubstituting the values:\n$\\text{Mode} = 3(27) - 2(24)$\n$\\text{Mode} = 81 - 48 = 33$.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A box contains 4 red, 5 green, and 3 blue balls. If two balls are drawn at random without replacement, find the probability that both balls are red.",
+    "hi": "एक डिब्बे में 4 लाल, 5 हरी और 3 नीली गेंदें हैं। यदि बिना प्रतिस्थापन के यादृच्छिक रूप से दो गेंदें निकाली जाती हैं, तो दोनों गेंदों के लाल होने की प्रायिकता ज्ञात कीजिए।",
+    "oEn": ["$\\frac{1}{11}$", "$\\frac{2}{33}$", "$\\frac{1}{22}$", "$\\frac{4}{33}$"],
+    "oHi": ["$\\frac{1}{11}$", "$\\frac{2}{33}$", "$\\frac{1}{22}$", "$\\frac{4}{33}$"],
+    "c": 0,
+    "exp": "Total number of balls = $4 + 5 + 3 = 12$.\nTotal number of ways to draw 2 balls out of 12 is:\n$n(S) = \\binom{12}{2} = \\frac{12 \\times 11}{2} = 66$.\n\nNumber of ways to draw 2 red balls out of 4 red balls is:\n$n(E) = \\binom{4}{2} = \\frac{4 \\times 3}{2} = 6$.\n\nProbability (P) = $\\frac{n(E)}{n(S)} = \\frac{6}{66} = \\frac{1}{11}$.",
+    "Pyq": "PYQ_Archetype_Variation"
+  }
+]
