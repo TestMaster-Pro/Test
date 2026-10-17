@@ -1,16 +1,16 @@
 [
   {
-    "en": "Let X = 2^4 * 3^3 * 5^2 and Y = 2^3 * 3^5 * 7^2. What is the product of HCF(X, Y) and LCM(X, Y)?",
-    "hi": "मान लीजिए X = 2^4 * 3^3 * 5^2 और Y = 2^3 * 3^5 * 7^2 हैं। HCF(X, Y) और LCM(X, Y) का गुणनफल क्या है?",
-    "oEn": ["2^7 * 3^8 * 5^2 * 7^2", "2^12 * 3^15 * 5^2 * 7^2", "2^7 * 3^8 * 5 * 7", "2^4 * 3^3 * 5^2 * 7^2"],
-    "oHi": ["2^7 * 3^8 * 5^2 * 7^2", "2^12 * 3^15 * 5^2 * 7^2", "2^7 * 3^8 * 5 * 7", "2^4 * 3^3 * 5^2 * 7^2"],
+    "en": "Let $X = 2^4 \\times 3^3 \\times 5^2$ and $Y = 2^3 \\times 3^5 \\times 7^2$. What is the product of $\\text{HCF}(X, Y)$ and $\\text{LCM}(X, Y)$?",
+    "hi": "मान लीजिए $X = 2^4 \\times 3^3 \\times 5^2$ और $Y = 2^3 \\times 3^5 \\times 7^2$ हैं। $\\text{HCF}(X, Y)$ और $\\text{LCM}(X, Y)$ का गुणनफल क्या है?",
+    "oEn": ["$2^7 \\times 3^8 \\times 5^2 \\times 7^2$", "$2^{12} \\times 3^{15} \\times 5^2 \\times 7^2$", "$2^7 \\times 3^8 \\times 5 \\times 7$", "$2^4 \\times 3^3 \\times 5^2 \\times 7^2$"],
+    "oHi": ["$2^7 \\times 3^8 \\times 5^2 \\times 7^2$", "$2^{12} \\times 3^{15} \\times 5^2 \\times 7^2$", "$2^7 \\times 3^8 \\times 5 \\times 7$", "$2^4 \\times 3^3 \\times 5^2 \\times 7^2$"],
     "c": 0,
     "exp": "For any two positive integers $X$ and $Y$, the product of their HCF and LCM is always equal to the product of the two numbers itself, i.e., $\\text{HCF}(X, Y) \\times \\text{LCM}(X, Y) = X \\times Y$. Substituting the given values: $(2^4 \\times 3^3 \\times 5^2) \\times (2^3 \\times 3^5 \\times 7^2) = 2^{4+3} \\times 3^{3+5} \\times 5^2 \\times 7^2 = 2^7 \\times 3^8 \\times 5^2 \\times 7^2$. Thus, option 0 is correct.",
     "Pyq": "Pattern_Inspired_SSC_CGL"
   },
   {
-    "en": "Find the HCF of three numbers N_1 = 3^(25) - 1, N_2 = 3^(35) - 1, and N_3 = 3^(45) - 1.",
-    "hi": "तीन संख्याओं N_1 = 3^(25) - 1, N_2 = 3^(35) - 1, और N_3 = 3^(45) - 1 का HCF ज्ञात कीजिए।",
+    "en": "Find the HCF of three numbers $N_1 = 3^{25} - 1$, $N_2 = 3^{35} - 1$, and $N_3 = 3^{45} - 1$.",
+    "hi": "तीन संख्याओं $N_1 = 3^{25} - 1$, $N_2 = 3^{35} - 1$, और $N_3 = 3^{45} - 1$ का HCF ज्ञात कीजिए।",
     "oEn": ["242", "728", "80", "243"],
     "oHi": ["242", "728", "80", "243"],
     "c": 0,
@@ -18,10 +18,10 @@
     "Pyq": "PYQ_Archetype_Variation"
   },
   {
-    "en": "Let A = 2^(12) - 1 and B = 2^(18) - 1. What is the LCM of A and B?",
-    "hi": "मान लीजिए A = 2^(12) - 1 और B = 2^(18) - 1 हैं। A और B का LCM क्या है?",
-    "oEn": ["65 * (2^18 - 1)", "4095 * (2^12 - 1)", "2^6 * (2^18 - 1)", "(2^12 - 1) * (2^18 - 1)"],
-    "oHi": ["65 * (2^18 - 1)", "4095 * (2^12 - 1)", "2^6 * (2^18 - 1)", "(2^12 - 1) * (2^18 - 1)"],
+    "en": "Let $A = 2^{12} - 1$ and $B = 2^{18} - 1$. What is the LCM of $A$ and $B$?",
+    "hi": "मान लीजिए $A = 2^{12} - 1$ और $B = 2^{18} - 1$ हैं। $A$ और $B$ का LCM क्या है?",
+    "oEn": ["$65 \\times (2^{18} - 1)$", "$4095 \\times (2^{12} - 1)$", "$2^6 \\times (2^{18} - 1)$", "$(2^{12} - 1) \\times (2^{18} - 1)$"],
+    "oHi": ["$65 \\times (2^{18} - 1)$", "$4095 \\times (2^{12} - 1)$", "$2^6 \\times (2^{18} - 1)$", "$(2^{12} - 1) \\times (2^{18} - 1)$"],
     "c": 0,
     "exp": "The LCM of $(a^m - 1)$ and $(a^n - 1)$ is given by $\\frac{(a^m - 1)(a^n - 1)}{a^{\\text{HCF}(m, n)} - 1}$. Here $a = 2, m = 12, n = 18$. $\\text{HCF}(12, 18) = 6$. The denominator is $2^6 - 1 = 63$. Thus, LCM = $\\frac{(2^{12} - 1)(2^{18} - 1)}{63}$. Since $2^{12} - 1 = 4095$, dividing $4095$ by $63$ gives $65$. Therefore, LCM = $65 \\times (2^{18} - 1)$. Thus, option 0 is correct.",
     "Pyq": "Pattern_Inspired_SSC_CGL"
@@ -63,8 +63,8 @@
     "Pyq": "PYQ_Archetype_Variation"
   },
   {
-    "en": "Let N be the greatest 5-digit number which, when divided by 15, 21, 35, and 42, leaves remainders 9, 15, 29, and 36 respectively. What is the sum of the digits of N?",
-    "hi": "मान लीजिए N सबसे बड़ी 5-अंकों की संख्या है जिसे 15, 21, 35 और 42 से विभाजित करने पर क्रमशः 9, 15, 29 और 36 शेष बचते हैं। N के अंकों का योग क्या है?",
+    "en": "Let $N$ be the greatest 5-digit number which, when divided by 15, 21, 35, and 42, leaves remainders 9, 15, 29, and 36 respectively. What is the sum of the digits of $N$?",
+    "hi": "मान लीजिए $N$ सबसे बड़ी 5-अंकों की संख्या है जिसे 15, 21, 35 और 42 से विभाजित करने पर क्रमशः 9, 15, 29 और 36 शेष बचते हैं। $N$ के अंकों का योग क्या है?",
     "oEn": ["32", "34", "36", "38"],
     "oHi": ["32", "34", "36", "38"],
     "c": 2,
@@ -81,8 +81,8 @@
     "Pyq": "PYQ_Archetype_Variation"
   },
   {
-    "en": "When 73, 157, and 241 are divided by a 2-digit number x, the remainder in each case is the same. If x is the largest such 2-digit number, what is the sum of the digits of x?",
-    "hi": "जब 73, 157 और 241 को किसी 2-अंकों की संख्या x से विभाजित किया जाता है, तो प्रत्येक स्थिति में शेषफल समान होता है। यदि x ऐसी सबसे बड़ी 2-अंकों की संख्या है, तो x के अंकों का योग क्या है?",
+    "en": "When 73, 157, and 241 are divided by a 2-digit number $x$, the remainder in each case is the same. If $x$ is the largest such 2-digit number, what is the sum of the digits of $x$?",
+    "hi": "जब 73, 157 और 241 को किसी 2-अंकों की संख्या $x$ से विभाजित किया जाता है, तो प्रत्येक स्थिति में शेषफल समान होता है। यदि $x$ ऐसी सबसे बड़ी 2-अंकों की संख्या है, तो $x$ के अंकों का योग क्या है?",
     "oEn": ["10", "11", "12", "15"],
     "oHi": ["10", "11", "12", "15"],
     "c": 2,
@@ -108,8 +108,8 @@
     "Pyq": "Pattern_Inspired_SSC_CGL"
   },
   {
-    "en": "Let x be the least number which when divided by 16, 24, 30, and 36 leaves a remainder of 8 in each case, but is completely divisible by 13. What is the sum of the digits of x?",
-    "hi": "मान लीजिए x वह सबसे छोटी संख्या है जिसे 16, 24, 30 और 36 से विभाजित करने पर प्रत्येक स्थिति में 8 शेष बचता है, लेकिन यह 13 से पूर्णतः विभाजित होती है। x के अंकों का योग क्या है?",
+    "en": "Let $x$ be the least number which when divided by 16, 24, 30, and 36 leaves a remainder of 8 in each case, but is completely divisible by 13. What is the sum of the digits of $x$?",
+    "hi": "मान लीजिए $x$ वह सबसे छोटी संख्या है जिसे 16, 24, 30 और 36 से विभाजित करने पर प्रत्येक स्थिति में 8 शेष बचता है, लेकिन यह 13 से पूर्णतः विभाजित होती है। $x$ के अंकों का योग क्या है?",
     "oEn": ["14", "16", "17", "19"],
     "oHi": ["14", "16", "17", "19"],
     "c": 2,
@@ -162,8 +162,8 @@
     "Pyq": "PYQ_Archetype_Variation"
   },
   {
-    "en": "Let N be the smallest number such that when it is divided by 18, 24, and 30, the respective remainders are 12, 18, and 24. What is the value of N + 15?",
-    "hi": "मान लीजिए N वह सबसे छोटी संख्या है जिसे 18, 24 और 30 से विभाजित करने पर क्रमशः 12, 18 और 24 शेष बचते हैं। N + 15 का मान क्या है?",
+    "en": "Let $N$ be the smallest number such that when it is divided by 18, 24, and 30, the respective remainders are 12, 18, and 24. What is the value of $N + 15$?",
+    "hi": "मान लीजिए $N$ वह सबसे छोटी संख्या है जिसे 18, 24 और 30 से विभाजित करने पर क्रमशः 12, 18 और 24 शेष बचते हैं। $N + 15$ का मान क्या है?",
     "oEn": ["354", "360", "369", "375"],
     "oHi": ["354", "360", "369", "375"],
     "c": 2,
@@ -171,8 +171,8 @@
     "Pyq": "Pattern_Inspired_SSC_CGL"
   },
   {
-    "en": "The HCF and LCM of two natural numbers A and B are 18 and 378 respectively. If the sum of A and B is 180, what is the absolute difference between A and B?",
-    "hi": "दो प्राकृतिक संख्याओं A और B के HCF और LCM क्रमशः 18 और 378 हैं। यदि A और B का योग 180 है, तो A और B के बीच का अंतर (absolute difference) क्या है?",
+    "en": "The HCF and LCM of two natural numbers $A$ and $B$ are 18 and 378 respectively. If the sum of $A$ and $B$ is 180, what is the absolute difference between $A$ and $B$?",
+    "hi": "दो प्राकृतिक संख्याओं $A$ और $B$ के HCF और LCM क्रमशः 18 और 378 हैं। यदि $A$ और $B$ का योग 180 है, तो $A$ और $B$ के बीच का अंतर (absolute difference) क्या है?",
     "oEn": ["54", "64", "72", "84"],
     "oHi": ["54", "64", "72", "84"],
     "c": 2,
