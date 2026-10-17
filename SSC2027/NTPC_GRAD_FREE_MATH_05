@@ -1,0 +1,272 @@
+[
+  {
+    "en": "Find the smallest number which when divided by 12, 15, and 20 leaves remainder 5 in each case, but is completely divisible by 23.",
+    "hi": "वह छोटी से छोटी संख्या ज्ञात कीजिए जिसे 12, 15 और 20 से विभाजित करने पर प्रत्येक स्थिति में 5 शेषफल बचता है, लेकिन वह 23 से पूर्णतः विभाज्य है।",
+    "oEn": ["1265", "1325", "1205", "1385"],
+    "oHi": ["1265", "1325", "1205", "1385"],
+    "c": 0,
+    "exp": "LCM of 12, 15, and 20 is 60. The required number is of the form 60k + 5. For divisibility by 23, 60k + 5 ≡ 0 (mod 23). Since 60 ≡ 14 (mod 23), 14k + 5 ≡ 0 (mod 23). Solving gives k ≡ 21 (mod 23). Taking k = 21, the number is 60 × 21 + 5 = 1265. Checking: 1265 ÷ 12, 15, and 20 each leaves remainder 5, and 1265 ÷ 23 = 55 exactly.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "When a number N is divided by 17, the quotient is q and the remainder is 7. When q is divided by 6, the remainder is 5. What will be the remainder when N is divided by 102?",
+    "hi": "जब एक संख्या N को 17 से विभाजित किया जाता है, तो भागफल q और शेषफल 7 प्राप्त होता है। जब q को 6 से विभाजित किया जाता है, तो शेषफल 5 प्राप्त होता है। N को 102 से विभाजित करने पर शेषफल क्या होगा?",
+    "oEn": ["82", "92", "77", "97"],
+    "oHi": ["82", "92", "77", "97"],
+    "c": 1,
+    "exp": "Given N = 17q + 7 and q = 6k + 5. Substitute q into N: N = 17(6k + 5) + 7 = 102k + 85 + 7 = 102k + 92. Hence, the remainder when N is divided by 102 is 92.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "Find the value of $\\frac{(2.3)^3 - 0.027}{(2.3)^2 + 0.69 + 0.09} + \\sqrt{0.000441}$.",
+    "hi": "$\\frac{(2.3)^3 - 0.027}{(2.3)^2 + 0.69 + 0.09} + \\sqrt{0.000441}$ का मान ज्ञात कीजिए।",
+    "oEn": ["2.021", "2.21", "2.012", "2.12"],
+    "oHi": ["2.021", "2.21", "2.012", "2.12"],
+    "c": 0,
+    "exp": "Note that 0.027 = (0.3)^3, 0.69 = 2.3 × 0.3, and 0.09 = (0.3)^2. Using the identity (a^3 - b^3)/(a^2 + ab + b^2) = a - b, the fraction equals 2.3 - 0.3 = 2.0. Also, √0.000441 = 0.021. Therefore, the value is 2.0 + 0.021 = 2.021.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Simplify: $\\sqrt{7 + 4\\sqrt{3}} - \\frac{1}{\\sqrt{7 - 4\\sqrt{3}}}$.",
+    "hi": "सरल कीजिए: $\\sqrt{7 + 4\\sqrt{3}} - \\frac{1}{\\sqrt{7 - 4\\sqrt{3}}}$।",
+    "oEn": ["0", "2", "$2\\sqrt{3}$", "4"],
+    "oHi": ["0", "2", "$2\\sqrt{3}$", "4"],
+    "c": 0,
+    "exp": "We have 7 + 4√3 = (2 + √3)^2, so √(7 + 4√3) = 2 + √3. Also, 7 - 4√3 = (2 - √3)^2, so √(7 - 4√3) = 2 - √3. Therefore, 1/√(7 - 4√3) = 1/(2 - √3) = 2 + √3. Hence, (2 + √3) - (2 + √3) = 0.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "In an examination, 65\\% of the candidates passed in Mathematics and 60\\% passed in Reasoning. If 20\\% failed in both subjects and 360 candidates passed in both subjects, find the total number of candidates who appeared in the examination.",
+    "hi": "एक परीक्षा में, 65\\% उम्मीदवार गणित में और 60\\% उम्मीदवार रीजनिंग में उत्तीर्ण हुए। यदि 20\\% दोनों विषयों में अनुत्तीर्ण रहे और 360 उम्मीदवार दोनों विषयों में उत्तीर्ण हुए, तो परीक्षा में शामिल होने वाले कुल उम्मीदवारों की संख्या ज्ञात कीजिए।",
+    "oEn": ["720", "800", "900", "1000"],
+    "oHi": ["720", "800", "900", "1000"],
+    "c": 1,
+    "exp": "Since 20% failed in both subjects, 80% passed in at least one subject. Using inclusion-exclusion: P(M ∪ R) = P(M) + P(R) - P(M ∩ R). So, 80% = 65% + 60% - P(M ∩ R), giving P(M ∩ R) = 45%. Given 45% of total candidates = 360, total candidates = 360/0.45 = 800.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Due to a 20\\% reduction in the price of sugar per kg, a person can buy 4 kg more sugar for Rs. 960. What is the reduced price of sugar per kg?",
+    "hi": "चीनी के मूल्य में प्रति किग्रा 20\\% की कमी के कारण, एक व्यक्ति Rs. 960 में 4 kg अधिक चीनी खरीद सकता है। चीनी का घटा हुआ मूल्य प्रति किग्रा क्या है?",
+    "oEn": ["Rs. 40", "Rs. 48", "Rs. 50", "Rs. 60"],
+    "oHi": ["Rs. 40", "Rs. 48", "Rs. 50", "Rs. 60"],
+    "c": 1,
+    "exp": "Amount saved due to 20% price reduction on Rs. 960 = 20% of 960 = Rs. 192. With this saved amount, the person buys 4 kg extra sugar. Therefore, reduced price per kg = 192/4 = Rs. 48.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A dealer sells an article at a profit of 12\\%. If he had bought it for 10\\% less and sold it for Rs. 60 more, he would have gained 30\\%. Find the cost price of the article.",
+    "hi": "एक व्यापारी एक वस्तु को 12\\% के लाभ पर बेचता है। यदि उसने इसे 10\\% कम पर खरीदा होता और Rs. 60 अधिक में बेचा होता, तो उसे 30\\% का लाभ होता। वस्तु का क्रय मूल्य ज्ञात कीजिए।",
+    "oEn": ["Rs. 1,000", "Rs. 1,200", "Rs. 1,500", "Rs. 1,800"],
+    "oHi": ["Rs. 1,000", "Rs. 1,200", "Rs. 1,500", "Rs. 1,800"],
+    "c": 1,
+    "exp": "Let CP = 100x. Initial SP = 112x. New CP = 90x. New SP at 30% profit = 90x × 1.30 = 117x. Given 117x - 112x = 60, so 5x = 60 and x = 12. Hence, CP = 100 × 12 = Rs. 1,200.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A trader marks his goods 40\\% above cost price. He sells 1/2 of the stock at marked price, 1/4 at a discount of 20\\%, and the remaining stock at a discount of 40\\%. What is his overall profit percentage?",
+    "hi": "एक व्यापारी अपने सामान पर क्रय मूल्य से 40\\% अधिक अंकित करता है। वह स्टॉक का 1/2 भाग अंकित मूल्य पर, 1/4 भाग 20\\% की छूट पर, और शेष स्टॉक 40\\% की छूट पर बेचता है। उसका कुल लाभ प्रतिशत क्या है?",
+    "oEn": ["12\\%", "15\\%", "19\\%", "22\\%"],
+    "oHi": ["12\\%", "15\\%", "19\\%", "22\\%"],
+    "c": 2,
+    "exp": "Let CP of 100 units be Rs. 100. MP per unit = Rs. 1.40. For 50 units at MP: 50 × 1.40 = Rs. 70. For 25 units at 20% discount: 25 × 1.40 × 0.80 = Rs. 28. For 25 units at 40% discount: 25 × 1.40 × 0.60 = Rs. 21. Total SP = 70 + 28 + 21 = Rs. 119. Profit = 119 - 100 = Rs. 19, i.e. 19%.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A sum of money invested at simple interest amounts to Rs. 11,600 in 3 years and to Rs. 14,000 in 5 years. Find the rate of interest per annum.",
+    "hi": "साधारण ब्याज पर निवेश की गई एक राशि 3 वर्ष में Rs. 11,600 और 5 वर्ष में Rs. 14,000 हो जाती है। प्रति वर्ष ब्याज दर ज्ञात कीजिए।",
+    "oEn": ["12\\%", "15\\%", "16\\%", "18\\%"],
+    "oHi": ["12\\%", "15\\%", "16\\%", "18\\%"],
+    "c": 1,
+    "exp": "Simple interest for 2 years = 14,000 - 11,600 = Rs. 2,400. Annual SI = Rs. 1,200. SI for 3 years = Rs. 3,600. Principal = 11,600 - 3,600 = Rs. 8,000. Rate = (1200/8000) × 100 = 15%.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Find the compound interest on Rs. 25,000 at 12\\% per annum for 1.5 years, compounded semi-annually.",
+    "hi": "Rs. 25,000 पर 12\\% प्रति वर्ष की दर से 1.5 वर्ष के लिए अर्धवार्षिक रूप से संयोजित चक्रवृद्धि ब्याज ज्ञात कीजिए।",
+    "oEn": ["Rs. 4,750.20", "Rs. 4,775.40", "Rs. 4,775.00", "Rs. 4,800.00"],
+    "oHi": ["Rs. 4,750.20", "Rs. 4,775.40", "Rs. 4,775.00", "Rs. 4,800.00"],
+    "c": 1,
+    "exp": "Half-yearly rate = 6% and number of periods = 3. Amount = 25000 × (1.06)^3 = 25000 × 1.191016 = Rs. 29,775.40. CI = 29,775.40 - 25,000 = Rs. 4,775.40.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A sum of money is divided among A, B, C, and D in the ratio 4 : 7 : 9 : 12. If the share of D exceeds the share of B by Rs. 3,500, find the total sum of money.",
+    "hi": "एक राशि को A, B, C और D के बीच 4 : 7 : 9 : 12 के अनुपात में विभाजित किया जाता है। यदि D का हिस्सा B के हिस्से से Rs. 3,500 अधिक है, तो कुल राशि ज्ञात कीजिए।",
+    "oEn": ["Rs. 21,700", "Rs. 22,400", "Rs. 22,800", "Rs. 23,800"],
+    "oHi": ["Rs. 21,700", "Rs. 22,400", "Rs. 22,800", "Rs. 23,800"],
+    "c": 1,
+    "exp": "Let shares be 4x, 7x, 9x, and 12x. Given 12x - 7x = 3,500, so 5x = 3,500 and x = 700. Total sum = (4 + 7 + 9 + 12)x = 32x = 32 × 700 = Rs. 22,400.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "In a mixture of 90 litres, the ratio of milk to water is 5 : 1. How much water must be added to this mixture to make the ratio of milk to water 3 : 1?",
+    "hi": "90 लीटर के मिश्रण में दूध और पानी का अनुपात 5 : 1 है। दूध और पानी का अनुपात 3 : 1 करने के लिए इस मिश्रण में कितना पानी मिलाया जाना चाहिए?",
+    "oEn": ["8 litres", "10 litres", "12 litres", "15 litres"],
+    "oHi": ["8 लीटर", "10 लीटर", "12 लीटर", "15 लीटर"],
+    "c": 1,
+    "exp": "Milk = (5/6) × 90 = 75 litres, water = 15 litres. Let x litres of water be added. Then 75/(15 + x) = 3/1. So 45 + 3x = 75 and x = 10 litres.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A, B, and C enter into a partnership. A invests 1/3 of the total capital for 1/3 of the total time, B invests 1/4 of the capital for 1/2 of the total time, and C invests the remaining capital for the whole time. Out of a total profit of Rs. 14,100, find B's share.",
+    "hi": "A, B और C एक साझेदारी करते हैं। A कुल पूंजी का 1/3 भाग कुल समय के 1/3 के लिए, B कुल पूंजी का 1/4 भाग कुल समय के 1/2 के लिए, और C शेष पूंजी पूरे समय के लिए निवेश करता है। Rs. 14,100 के कुल लाभ में से B का हिस्सा ज्ञात कीजिए।",
+    "oEn": ["Rs. 2,160", "Rs. 2,700", "Rs. 3,240", "Rs. 3,600"],
+    "oHi": ["Rs. 2,160", "Rs. 2,700", "Rs. 3,240", "Rs. 3,600"],
+    "c": 1,
+    "exp": "Let total capital = 12 units and total time = 12 units. A's product = (1/3 × 12) × (1/3 × 12) = 4 × 4 = 16. B's product = (1/4 × 12) × (1/2 × 12) = 3 × 6 = 18. Remaining capital for C = 12 - 4 - 3 = 5 units, so C's product = 5 × 12 = 60. Ratio A : B : C = 16 : 18 : 60 = 8 : 9 : 30. Total parts = 47. B's share = 14,100 × 9/47 = Rs. 2,700.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A and B together can complete a work in 12 days, B and C in 15 days, and C and A in 20 days. How many days will it take for A, B, and C together to finish the work?",
+    "hi": "A और B मिलकर एक कार्य को 12 दिनों में, B और C 15 दिनों में, और C और A 20 दिनों में पूरा कर सकते हैं। A, B और C मिलकर कार्य को समाप्त करने में कितने दिन लेंगे?",
+    "oEn": ["8 days", "10 days", "12 days", "14 days"],
+    "oHi": ["8 दिन", "10 दिन", "12 दिन", "14 दिन"],
+    "c": 1,
+    "exp": "Total work = LCM(12, 15, 20) = 60 units. A + B = 5 units/day, B + C = 4 units/day, C + A = 3 units/day. Adding: 2(A + B + C) = 12, so A + B + C = 6 units/day. Time = 60/6 = 10 days.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A is twice as efficient as B and C is thrice as efficient as B. Working together, they can finish a piece of work in 6 days. In how many days can A alone finish the work?",
+    "hi": "A, B की तुलना में दोगुना कुशल है और C, B की तुलना में तिगुना कुशल है। एक साथ काम करते हुए, वे 6 दिनों में एक काम पूरा कर सकते हैं। A अकेला उस काम को कितने दिनों में पूरा कर सकता है?",
+    "oEn": ["12 days", "15 days", "18 days", "24 days"],
+    "oHi": ["12 दिन", "15 दिन", "18 दिन", "24 दिन"],
+    "c": 2,
+    "exp": "Let B's efficiency = 1 unit/day. Then A = 2 units/day and C = 3 units/day. Combined efficiency = 6 units/day. Total work = 6 × 6 = 36 units. Time for A alone = 36/2 = 18 days.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Two pipes A and B can fill a tank in 18 minutes and 24 minutes respectively. If both pipes are opened together, after how many minutes should pipe B be closed so that the tank is full in 12 minutes?",
+    "hi": "दो पाइप A और B एक टंकी को क्रमशः 18 मिनट और 24 मिनट में भर सकते हैं। यदि दोनों पाइपों को एक साथ खोल दिया जाए, तो पाइप B को कितने मिनट बाद बंद किया जाना चाहिए ताकि टंकी 12 मिनट में भर जाए?",
+    "oEn": ["6 minutes", "8 minutes", "9 minutes", "10 minutes"],
+    "oHi": ["6 मिनट", "8 मिनट", "9 मिनट", "10 मिनट"],
+    "c": 1,
+    "exp": "Capacity = LCM(18, 24) = 72 units. Rate of A = 4 units/min, rate of B = 3 units/min. Pipe A remains open for 12 minutes and fills 4 × 12 = 48 units. Remaining work = 72 - 48 = 24 units. Time B should remain open = 24/3 = 8 minutes.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A train passes a telegraph post in 8 seconds and a bridge 200 meters long in 24 seconds. Find the speed of the train in km/h.",
+    "hi": "एक ट्रेन एक टेलीग्राफ खंभे को 8 सेकंड में और 200 मीटर लंबे पुल को 24 सेकंड में पार करती है। ट्रेन की चाल km/h में ज्ञात कीजिए।",
+    "oEn": ["36 km/h", "45 km/h", "54 km/h", "72 km/h"],
+    "oHi": ["36 km/h", "45 km/h", "54 km/h", "72 km/h"],
+    "c": 1,
+    "exp": "Let train length = L and speed = v m/s. Then L = 8v and L + 200 = 24v. Subtracting gives 200 = 16v, so v = 12.5 m/s. Speed in km/h = 12.5 × 18/5 = 45 km/h.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A man walks at 4 km/h and reaches his office 10 minutes late. If he walks at 5 km/h, he reaches 5 minutes early. Find the distance from his home to the office.",
+    "hi": "एक व्यक्ति 4 km/h की गति से चलता है और 10 मिनट देर से अपने कार्यालय पहुँचता है। यदि वह 5 km/h की गति से चलता है, तो वह 5 मिनट पहले पहुँच जाता है। उसके घर से कार्यालय की दूरी ज्ञात कीजिए।",
+    "oEn": ["4 km", "5 km", "6 km", "7.5 km"],
+    "oHi": ["4 km", "5 km", "6 km", "7.5 km"],
+    "c": 1,
+    "exp": "Time difference = 10 + 5 = 15 minutes = 1/4 hour. Let distance be d. Then d/4 - d/5 = 1/4. So d/20 = 1/4, giving d = 5 km.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "In a 500 m race, the ratio of speeds of two contestants X and Y is 3 : 4. If X has a head start of 140 m, who wins the race and by what distance?",
+    "hi": "500 m की दौड़ में, दो प्रतियोगियों X और Y की चालों का अनुपात 3 : 4 है। यदि X को 140 m की शुरुआती बढ़त मिलती है, तो दौड़ कौन जीतता है और कितने अंतर से?",
+    "oEn": ["X wins by 20 m", "Y wins by 20 m", "X wins by 10 m", "Y wins by 10 m"],
+    "oHi": ["X 20 m से जीतता है", "Y 20 m से जीतता है", "X 10 m से जीतता है", "Y 10 m से जीतता है"],
+    "c": 0,
+    "exp": "X needs to run 500 - 140 = 360 m. Time for X = 360/(3k) = 120/k. In the same time, Y runs 4k × 120/k = 480 m. Y is still 500 - 480 = 20 m behind when X finishes. Hence, X wins by 20 m.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The average age of a class of 30 students is 14 years. When the age of the teacher is included, the average age increases by 1 year. Find the age of the teacher.",
+    "hi": "30 छात्रों की एक कक्षा की औसत आयु 14 वर्ष है। जब शिक्षक की आयु को शामिल किया जाता है, तो औसत आयु 1 वर्ष बढ़ जाती है। शिक्षक की आयु ज्ञात कीजिए।",
+    "oEn": ["40 years", "42 years", "45 years", "48 years"],
+    "oHi": ["40 वर्ष", "42 वर्ष", "45 वर्ष", "48 वर्ष"],
+    "c": 2,
+    "exp": "Initial total age = 30 × 14 = 420 years. New average = 15 years and new total persons = 31. New total age = 31 × 15 = 465 years. Teacher's age = 465 - 420 = 45 years.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "If x + y + z = 9 and xy + yz + zx = 26, find the value of x^3 + y^3 + z^3 - 3xyz.",
+    "hi": "यदि x + y + z = 9 और xy + yz + zx = 26 है, तो x^3 + y^3 + z^3 - 3xyz का मान ज्ञात कीजिए।",
+    "oEn": ["27", "81", "189", "243"],
+    "oHi": ["27", "81", "189", "243"],
+    "c": 0,
+    "exp": "Using the identity x^3 + y^3 + z^3 - 3xyz = (x + y + z)[(x + y + z)^2 - 3(xy + yz + zx)], substitute the values: 9[9^2 - 3(26)] = 9(81 - 78) = 9 × 3 = 27.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The 5th term of a Geometric Progression (GP) is 48 and the 8th term is 384. Find the first term of the GP.",
+    "hi": "एक गुणोत्तर श्रेढ़ी (GP) का 5-वां पद 48 है और 8-वां पद 384 है। GP का पहला पद ज्ञात कीजिए।",
+    "oEn": ["2", "3", "4", "6"],
+    "oHi": ["2", "3", "4", "6"],
+    "c": 1,
+    "exp": "T5 = ar^4 = 48 and T8 = ar^7 = 384. Dividing gives r^3 = 8, so r = 2. Then a(2)^4 = 48, so 16a = 48 and a = 3.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "The diagonal of a square is 12√2 cm. A circle is inscribed inside this square touching all its sides. Find the area of the circle.",
+    "hi": "एक वर्ग का विकर्ण 12√2 cm है। इस वर्ग की सभी भुजाओं को स्पर्श करते हुए इसके अंदर एक वृत्त बनाया गया है। वृत्त का क्षेत्रफल ज्ञात कीजिए।",
+    "oEn": ["24π cm²", "36π cm²", "48π cm²", "144π cm²"],
+    "oHi": ["24π cm²", "36π cm²", "48π cm²", "144π cm²"],
+    "c": 1,
+    "exp": "Diagonal = a√2 = 12√2, so side a = 12 cm. Radius of inscribed circle = a/2 = 6 cm. Area = πr² = π(6)² = 36π cm².",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "ABCD is a cyclic quadrilateral in which ∠A = (2x + 10)°, ∠B = (y + 20)°, ∠C = (x + 20)°, and ∠D = (2y + 10)°. Find the value of x + y.",
+    "hi": "ABCD एक चक्रीय चतुर्भुज है जिसमें ∠A = (2x + 10)°, ∠B = (y + 20)°, ∠C = (x + 20)°, और ∠D = (2y + 10)° है। x + y का मान ज्ञात कीजिए।",
+    "oEn": ["90", "100", "110", "120"],
+    "oHi": ["90", "100", "110", "120"],
+    "c": 1,
+    "exp": "In a cyclic quadrilateral, opposite angles sum to 180°. ∠A + ∠C = 180° gives (2x + 10) + (x + 20) = 180, so 3x + 30 = 180 and x = 50. ∠B + ∠D = 180° gives (y + 20) + (2y + 10) = 180, so 3y + 30 = 180 and y = 50. Hence, x + y = 100.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "The internal length, breadth, and height of a closed rectangular box are 14 cm, 10 cm, and 7 cm respectively. If the total surface area of a solid sphere is equal to the total surface area of this cuboid, find the radius of the sphere. (Use π = 22/7)",
+    "hi": "एक बंद आयताकार बॉक्स की आंतरिक लंबाई, चौड़ाई और ऊँचाई क्रमशः 14 cm, 10 cm और 7 cm हैं। यदि एक ठोस गोले का कुल पृष्ठीय क्षेत्रफल इस घनाभ के कुल पृष्ठीय क्षेत्रफल के बराबर है, तो गोले की त्रिज्या ज्ञात कीजिए। (π = 22/7 ले)",
+    "oEn": ["√(343/11) cm", "√(336/11) cm", "√31 cm", "7 cm"],
+    "oHi": ["√(343/11) cm", "√(336/11) cm", "√31 cm", "7 cm"],
+    "c": 3,
+    "exp": "TSA of cuboid = 2(lb + bh + hl) = 2(14×10 + 10×7 + 7×14) = 2(140 + 70 + 98) = 2 × 308 = 616 cm². For sphere, 4πr² = 616. Using π = 22/7: 4 × (22/7) × r² = 616, so (88/7)r² = 616 and r² = 49. Hence, r = 7 cm.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A hollow sphere of outer radius 6 cm and inner radius 3 cm is melted and recast into a solid right circular cone of height 21 cm. Find the radius of the base of the cone.",
+    "hi": "बाहरी त्रिज्या 6 cm और आंतरिक त्रिज्या 3 cm वाले एक खोखले गोले को पिघलाकर 21 cm ऊँचाई वाले एक ठोस लंब वृत्तीय शंकु में ढाला जाता है। शंकु के आधार की त्रिज्या ज्ञात कीजिए।",
+    "oEn": ["6 cm", "8 cm", "10 cm", "12 cm"],
+    "oHi": ["6 cm", "8 cm", "10 cm", "12 cm"],
+    "c": 0,
+    "exp": "Volume of hollow sphere = (4/3)π(6³ - 3³) = (4/3)π(216 - 27) = (4/3)π(189) = 252π cm³. Volume of cone = (1/3)πr²(21) = 7πr². Equating: 7πr² = 252π, so r² = 36 and r = 6 cm.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "If secθ + tanθ = 3, find the value of sinθ.",
+    "hi": "यदि secθ + tanθ = 3 है, तो sinθ का मान ज्ञात कीजिए।",
+    "oEn": ["3/5", "4/5", "5/13", "12/13"],
+    "oHi": ["3/5", "4/5", "5/13", "12/13"],
+    "c": 1,
+    "exp": "Since sec²θ - tan²θ = 1, (secθ - tanθ)(secθ + tanθ) = 1. Given secθ + tanθ = 3, we get secθ - tanθ = 1/3. Adding gives 2secθ = 10/3, so secθ = 5/3 and cosθ = 3/5. Subtracting gives 2tanθ = 8/3, so tanθ = 4/3. Hence, sinθ = tanθ × cosθ = (4/3)(3/5) = 4/5.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "A vertical pole of length 6 m casts a shadow 4 m long on the ground and at the same time a tower casts a shadow 28 m long. Find the height of the tower.",
+    "hi": "6 m लंबे एक ऊर्ध्वाधर खंभे की ज़मीन पर छाया की लंबाई 4 m है और उसी समय एक मीनार की छाया 28 m लंबी है। मीनार की ऊँचाई ज्ञात कीजिए।",
+    "oEn": ["36 m", "40 m", "42 m", "48 m"],
+    "oHi": ["36 m", "40 m", "42 m", "48 m"],
+    "c": 2,
+    "exp": "At the same time, the triangles formed by the pole, its shadow, and the sun's rays are similar to those formed by the tower. Thus, 6/4 = H/28. Therefore, H = 6 × 28/4 = 42 m.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Find the variance of the first 9 natural numbers.",
+    "hi": "प्रथम 9 प्राकृत संख्याओं का प्रसरण (variance) ज्ञात कीजिए।",
+    "oEn": ["6", "6.67", "8", "10"],
+    "oHi": ["6", "6.67", "8", "10"],
+    "c": 1,
+    "exp": "The variance of the first n natural numbers is (n² - 1)/12. For n = 9: (81 - 1)/12 = 80/12 = 6.67.",
+    "Pyq": "Pattern_Inspired_RRB_NTPC_CBT2"
+  },
+  {
+    "en": "In a simultaneous throw of two unbiased dice, find the probability of getting a sum greater than 9.",
+    "hi": "दो निष्पक्ष पासे को एक साथ फेंकने पर, 9 से अधिक योग प्राप्त करने की प्रायिकता ज्ञात कीजिए।",
+    "oEn": ["1/6", "5/36", "1/9", "7/36"],
+    "oHi": ["1/6", "5/36", "1/9", "7/36"],
+    "c": 0,
+    "exp": "Total outcomes = 36. Favorable outcomes for sum greater than 9: sum 10 gives 3 outcomes, sum 11 gives 2 outcomes, and sum 12 gives 1 outcome. Total favorable = 6. Probability = 6/36 = 1/6.",
+    "Pyq": "PYQ_Archetype_Variation"
+  }
+]
