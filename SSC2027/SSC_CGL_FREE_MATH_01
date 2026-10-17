@@ -1,0 +1,182 @@
+[
+  {
+    "en": "Let X = 2^4 * 3^3 * 5^2 and Y = 2^3 * 3^5 * 7^2. What is the product of HCF(X, Y) and LCM(X, Y)?",
+    "hi": "मान लीजिए X = 2^4 * 3^3 * 5^2 और Y = 2^3 * 3^5 * 7^2 हैं। HCF(X, Y) और LCM(X, Y) का गुणनफल क्या है?",
+    "oEn": ["2^7 * 3^8 * 5^2 * 7^2", "2^12 * 3^15 * 5^2 * 7^2", "2^7 * 3^8 * 5 * 7", "2^4 * 3^3 * 5^2 * 7^2"],
+    "oHi": ["2^7 * 3^8 * 5^2 * 7^2", "2^12 * 3^15 * 5^2 * 7^2", "2^7 * 3^8 * 5 * 7", "2^4 * 3^3 * 5^2 * 7^2"],
+    "c": 0,
+    "exp": "For any two positive integers $X$ and $Y$, the product of their HCF and LCM is always equal to the product of the two numbers itself, i.e., $\\text{HCF}(X, Y) \\times \\text{LCM}(X, Y) = X \\times Y$. Substituting the given values: $(2^4 \\times 3^3 \\times 5^2) \\times (2^3 \\times 3^5 \\times 7^2) = 2^{4+3} \\times 3^{3+5} \\times 5^2 \\times 7^2 = 2^7 \\times 3^8 \\times 5^2 \\times 7^2$. Thus, option 0 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "Find the HCF of three numbers N_1 = 3^(25) - 1, N_2 = 3^(35) - 1, and N_3 = 3^(45) - 1.",
+    "hi": "तीन संख्याओं N_1 = 3^(25) - 1, N_2 = 3^(35) - 1, और N_3 = 3^(45) - 1 का HCF ज्ञात कीजिए।",
+    "oEn": ["242", "728", "80", "243"],
+    "oHi": ["242", "728", "80", "243"],
+    "c": 0,
+    "exp": "The HCF of numbers of the form $(a^m - 1), (a^n - 1),$ and $(a^p - 1)$ is given by $a^{\\text{HCF}(m, n, p)} - 1$. Here, $a = 3$ and the powers are $m = 25, n = 35, p = 45$. First, find $\\text{HCF}(25, 35, 45) = 5$. Therefore, the HCF is $3^5 - 1 = 243 - 1 = 242$. Thus, option 0 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Let A = 2^(12) - 1 and B = 2^(18) - 1. What is the LCM of A and B?",
+    "hi": "मान लीजिए A = 2^(12) - 1 और B = 2^(18) - 1 हैं। A और B का LCM क्या है?",
+    "oEn": ["65 * (2^18 - 1)", "4095 * (2^12 - 1)", "2^6 * (2^18 - 1)", "(2^12 - 1) * (2^18 - 1)"],
+    "oHi": ["65 * (2^18 - 1)", "4095 * (2^12 - 1)", "2^6 * (2^18 - 1)", "(2^12 - 1) * (2^18 - 1)"],
+    "c": 0,
+    "exp": "The LCM of $(a^m - 1)$ and $(a^n - 1)$ is given by $\\frac{(a^m - 1)(a^n - 1)}{a^{\\text{HCF}(m, n)} - 1}$. Here $a = 2, m = 12, n = 18$. $\\text{HCF}(12, 18) = 6$. The denominator is $2^6 - 1 = 63$. Thus, LCM = $\\frac{(2^{12} - 1)(2^{18} - 1)}{63}$. Since $2^{12} - 1 = 4095$, dividing $4095$ by $63$ gives $65$. Therefore, LCM = $65 \\times (2^{18} - 1)$. Thus, option 0 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "The HCF and LCM of two numbers are 21 and 84 respectively. If the ratio of the two numbers is 1 : 4, find the larger number.",
+    "hi": "दो संख्याओं का HCF और LCM क्रमशः 21 और 84 हैं। यदि दोनों संख्याओं का अनुपात 1 : 4 है, तो बड़ी संख्या ज्ञात कीजिए।",
+    "oEn": ["42", "63", "84", "105"],
+    "oHi": ["42", "63", "84", "105"],
+    "c": 2,
+    "exp": "Let the numbers be $21x$ and $21y$ where $\\text{HCF}(x, y) = 1$. Given ratio is $1 : 4$, which means the numbers can be taken as $21 \\times 1 = 21$ and $21 \\times 4 = 84$. The larger number is $84$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The sum of two numbers is 216 and their HCF is 27. How many such pairs of numbers are possible?",
+    "hi": "दो संख्याओं का योग 216 है और उनका HCF 27 है। ऐसे संख्याओं के कितने युग्म संभव हैं?",
+    "oEn": ["1", "2", "3", "4"],
+    "oHi": ["1", "2", "3", "4"],
+    "c": 1,
+    "exp": "Let the numbers be $27a$ and $27b$ where $\\text{HCF}(a, b) = 1$. The sum of the numbers is $27(a + b) = 216$, which implies $a + b = \\frac{216}{27} = 8$. The co-prime pairs whose sum is $8$ are $(1, 7)$ and $(3, 5)$. Thus, there are $2$ possible pairs of numbers. Option 1 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "The product of two numbers is 7200 and their HCF is 30. Find the number of possible pairs of such numbers.",
+    "hi": "दो संख्याओं का गुणनफल 7200 है और उनका HCF 30 है। ऐसी संख्याओं के संभावित युग्मों की संख्या ज्ञात कीजिए।",
+    "oEn": ["1", "2", "4", "8"],
+    "oHi": ["1", "2", "4", "8"],
+    "c": 0,
+    "exp": "Let the numbers be $30a$ and $30b$ where $\\text{HCF}(a, b) = 1$. Their product is $(30a) \\times (30b) = 900ab = 7200$, which gives $ab = \\frac{7200}{900} = 8$. The co-prime factors of $8$ are $(1, 8)$. Other factor pairs like $(2, 4)$ are not co-prime. Thus, only $1$ valid pair is possible. Option 0 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "Find the greatest 4-digit number which when divided by 12, 18, 21, and 28 leaves a remainder 7 in each case.",
+    "hi": "वह सबसे बड़ी 4-अंकों की संख्या कौन सी है जिसे 12, 18, 21 और 28 से विभाजित करने पर प्रत्येक स्थिति में शेषफल 7 प्राप्त होता है?",
+    "oEn": ["9835", "9842", "9765", "9907"],
+    "oHi": ["9835", "9842", "9765", "9907"],
+    "c": 0,
+    "exp": "First, find the LCM of $12, 18, 21,$ and $28$. Prime factorizations: $12 = 2^2 \\times 3$, $18 = 2 \\times 3^2$, $21 = 3 \\times 7$, $28 = 2^2 \\times 7$. LCM = $2^2 \\times 3^2 \\times 7 = 252$. The greatest 4-digit number is $9999$. Dividing $9999$ by $252$ gives a quotient of $39$ and a remainder of $171$. The largest 4-digit multiple of $252$ is $9999 - 171 = 9828$. Adding the required remainder $7$ gives $9828 + 7 = 9835$. Thus, option 0 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Let N be the greatest 5-digit number which, when divided by 15, 21, 35, and 42, leaves remainders 9, 15, 29, and 36 respectively. What is the sum of the digits of N?",
+    "hi": "मान लीजिए N सबसे बड़ी 5-अंकों की संख्या है जिसे 15, 21, 35 और 42 से विभाजित करने पर क्रमशः 9, 15, 29 और 36 शेष बचते हैं। N के अंकों का योग क्या है?",
+    "oEn": ["32", "34", "36", "38"],
+    "oHi": ["32", "34", "36", "38"],
+    "c": 2,
+    "exp": "Notice the common difference between each divisor and its respective remainder: $15 - 9 = 6$, $21 - 15 = 6$, $35 - 29 = 6$, $42 - 36 = 6$. The common difference is $6$. LCM of divisors $(15, 21, 35, 42)$ is $210$. The greatest 5-digit number is $99999$. Dividing $99999$ by $210$ leaves a remainder of $39$, so the largest 5-digit multiple of $210$ is $99999 - 39 = 99960$. Subtracting the common difference $6$ gives $N = 99960 - 6 = 99954$. The sum of the digits of $99954$ is $9 + 9 + 9 + 5 + 4 = 36$. Thus, option 2 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "What is the greatest number that will divide 1305, 4665, and 6905 leaving the same remainder in each case?",
+    "hi": "वह सबसे बड़ी संख्या कौन सी है जो 1305, 4665 और 6905 को विभाजित करने पर प्रत्येक स्थिति में समान शेषफल छोड़ती है?",
+    "oEn": ["560", "840", "1120", "1680"],
+    "oHi": ["560", "840", "1120", "1680"],
+    "c": 2,
+    "exp": "The greatest number dividing $a, b,$ and $c$ leaving the same remainder is given by $\\text{HCF}(|a - b|, |b - c|, |c - a|)$. The pairwise differences are: $4665 - 1305 = 3360$; $6905 - 4665 = 2240$; $6905 - 1305 = 5600$. Now find $\\text{HCF}(3360, 2240, 5600) = 1120$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "When 73, 157, and 241 are divided by a 2-digit number x, the remainder in each case is the same. If x is the largest such 2-digit number, what is the sum of the digits of x?",
+    "hi": "जब 73, 157 और 241 को किसी 2-अंकों की संख्या x से विभाजित किया जाता है, तो प्रत्येक स्थिति में शेषफल समान होता है। यदि x ऐसी सबसे बड़ी 2-अंकों की संख्या है, तो x के अंकों का योग क्या है?",
+    "oEn": ["10", "11", "12", "15"],
+    "oHi": ["10", "11", "12", "15"],
+    "c": 2,
+    "exp": "The differences are: $157 - 73 = 84$, $241 - 157 = 84$, $241 - 73 = 168$. The divisor $x$ must divide the HCF of these differences, which is $\\text{HCF}(84, 168) = 84$. The factors of $84$ are $1, 2, 3, 4, 6, 7, 12, 14, 21, 28, 42,$ and $84$. The largest 2-digit factor is $84$. The sum of the digits of $84$ is $8 + 4 = 12$. Thus, option 2 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "What is the least number that must be added to 2000 so that the resulting number is exactly divisible by 12, 16, 18, and 21?",
+    "hi": "2000 में वह कौन सी सबसे छोटी संख्या जोड़ी जानी चाहिए ताकि प्राप्त संख्या 12, 16, 18 और 21 से पूर्णतः विभाजित हो सके?",
+    "oEn": ["8", "12", "16", "24"],
+    "oHi": ["8", "12", "16", "24"],
+    "c": 2,
+    "exp": "First, find the LCM of $12, 16, 18,$ and $21$. Prime factorizations: $12 = 2^2 \\times 3$, $16 = 2^4$, $18 = 2 \\times 3^2$, $21 = 3 \\times 7$. LCM = $2^4 \\times 3^2 \\times 7 = 1008$. Now, divide $2000$ by $1008$: $2000 = 1008 \\times 1 + 992$. The remainder is $992$. The least number to be added is $\\text{LCM} - \\text{Remainder} = 1008 - 992 = 16$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "What is the greatest 4-digit number which when divided by 15, 25, 40, and 75 leaves no remainder?",
+    "hi": "वह सबसे बड़ी 4-अंकों की संख्या कौन सी है जो 15, 25, 40 और 75 से पूर्णतः विभाजित होती है?",
+    "oEn": ["9400", "9600", "9800", "9900"],
+    "oHi": ["9400", "9600", "9800", "9900"],
+    "c": 1,
+    "exp": "First, find the LCM of $15, 25, 40,$ and $75$. Prime factorizations: $15 = 3 \\times 5$, $25 = 5^2$, $40 = 2^3 \\times 5$, $75 = 3 \\times 5^2$. LCM = $2^3 \\times 3 \\times 5^2 = 600$. The greatest 4-digit number is $9999$. Dividing $9999$ by $600$ leaves a remainder of $399$. The greatest 4-digit number divisible by $600$ is $9999 - 399 = 9600$. Thus, option 1 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "Let x be the least number which when divided by 16, 24, 30, and 36 leaves a remainder of 8 in each case, but is completely divisible by 13. What is the sum of the digits of x?",
+    "hi": "मान लीजिए x वह सबसे छोटी संख्या है जिसे 16, 24, 30 और 36 से विभाजित करने पर प्रत्येक स्थिति में 8 शेष बचता है, लेकिन यह 13 से पूर्णतः विभाजित होती है। x के अंकों का योग क्या है?",
+    "oEn": ["14", "16", "17", "19"],
+    "oHi": ["14", "16", "17", "19"],
+    "c": 2,
+    "exp": "LCM of $16, 24, 30,$ and $36$ is $720$. The number $x$ is of the form $720k + 8$, which must be divisible by $13$. Checking modulo $13$: $720 \\equiv 5 \\pmod{13}$. So, $5k + 8 \\equiv 0 \\pmod{13}$. For $k = 1$, $5(1) + 8 = 13$, which is divisible by $13$. Thus, $x = 720(1) + 8 = 728$. The sum of the digits of $728$ is $7 + 2 + 8 = 17$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Four bells toll together at intervals of 8, 12, 15, and 20 seconds respectively. If they toll together at 10:00:00 AM, how many times will they toll together in the next 1 hour (including the toll at 10:00:00 AM)?",
+    "hi": "चार घंटियाँ क्रमशः 8, 12, 15 और 20 सेकंड के अंतराल पर एक साथ बजती हैं। यदि वे सुबह 10:00:00 बजे एक साथ बजती हैं, तो अगले 1 घंटे में वे कुल कितनी बार एक साथ बजेंगी (सुबह 10:00:00 बजे वाले बजने सहित)?",
+    "oEn": ["29", "30", "31", "32"],
+    "oHi": ["29", "30", "31", "32"],
+    "c": 2,
+    "exp": "LCM of $8, 12, 15,$ and $20$ is $120$ seconds, which is equal to $2$ minutes. In $1$ hour ($60$ minutes), the number of intervals is $60 / 2 = 30$. Including the initial simultaneous toll at 10:00:00 AM, the total number of times they toll together is $30 + 1 = 31$. Thus, option 2 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "Three electronic traffic signals change their green lights after every 36 seconds, 48 seconds, and 72 seconds respectively. If they all change simultaneously at 8:15:00 AM, at what exact time will they next change simultaneously?",
+    "hi": "तीन इलेक्ट्रॉनिक ट्रैफिक सिग्नल क्रमशः 36 सेकंड, 48 सेकंड और 72 सेकंड के अंतराल पर अपनी हरी बत्ती बदलते हैं। यदि वे सभी सुबह 8:15:00 बजे एक साथ बदलते हैं, तो अगली बार वे किस सटीक समय पर एक साथ बदलेंगे?",
+    "oEn": ["8:16:48 AM", "8:17:12 AM", "8:17:24 AM", "8:18:00 AM"],
+    "oHi": ["8:16:48 AM", "8:17:12 AM", "8:17:24 AM", "8:18:00 AM"],
+    "c": 2,
+    "exp": "LCM of $36, 48,$ and $72$ is $144$ seconds. $144$ seconds = $2$ minutes and $24$ seconds. Adding this interval to 8:15:00 AM gives 8:17:24 AM. Thus, option 2 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "Three pieces of timber 42m, 49m, and 63m long have to be divided into planks of the same length. What is the minimum number of total planks that can be formed?",
+    "hi": "42 मीटर, 49 मीटर और 63 मीटर लंबी लकड़ी के तीन टुकड़ों को समान लंबाई के तख्तों में काटा जाना है। तख्तों की कुल न्यूनतम संख्या क्या हो सकती है?",
+    "oEn": ["18", "20", "22", "24"],
+    "oHi": ["18", "20", "22", "24"],
+    "c": 2,
+    "exp": "The length of each plank must be the maximum possible length, which is $\\text{HCF}(42, 49, 63) = 7$ metres. Number of planks from $42$m timber = $42 / 7 = 6$; from $49$m timber = $49 / 7 = 7$; from $63$m timber = $63 / 7 = 9$. Total minimum number of planks = $6 + 7 + 9 = 22$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The floor of a rectangular room is 7.56 metres long and 5.10 metres wide. It is to be paved with square tiles of the exact same size. What is the minimum number of square tiles required?",
+    "hi": "एक आयताकार कमरे का फर्श 7.56 मीटर लंबा और 5.10 मीटर चौड़ा है। इसे बिल्कुल एक ही आकार की वर्गाकार टाइलों से पक्का किया जाना है। आवश्यक वर्गाकार टाइलों की न्यूनतम संख्या क्या है?",
+    "oEn": ["9840", "10710", "11250", "12320"],
+    "oHi": ["9840", "10710", "11250", "12320"],
+    "c": 1,
+    "exp": "Convert dimensions to centimetres: length = $756$ cm, width = $510$ cm. The side of each square tile must be $\\text{HCF}(756, 510) = 6$ cm. Area of room = $756 \\times 510$ cm$^2$. Area of one tile = $6 \\times 6$ cm$^2$. Number of tiles = $\\frac{756 \\times 510}{6 \\times 6} = 126 \\times 85 = 10710$. Thus, option 1 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "Three runners A, B, and C run around a circular track of circumference 1200 metres at speeds of 4 m/s, 5 m/s, and 6 m/s respectively in the same direction. After how much time will they meet together at the starting point for the first time?",
+    "hi": "तीन धावक A, B और C क्रमशः 4 मीटर/सेकंड, 5 मीटर/सेकंड और 6 मीटर/सेकंड की गति से एक ही दिशा में 1200 मीटर परिधि वाले वृत्ताकार ट्रैक पर दौड़ते हैं। पहली बार शुरुआती बिंदु पर वे कितने समय बाद एक साथ मिलेंगे?",
+    "oEn": ["10 minutes", "15 minutes", "20 minutes", "30 minutes"],
+    "oHi": ["10 मिनट", "15 मिनट", "20 मिनट", "30 मिनट"],
+    "c": 2,
+    "exp": "Time taken by each runner to complete one round: A = $1200 / 4 = 300$ seconds; B = $1200 / 5 = 240$ seconds; C = $1200 / 6 = 200$ seconds. To meet at the starting point for the first time, we find $\\text{LCM}(300, 240, 200) = 1200$ seconds. Converting to minutes: $1200 / 60 = 20$ minutes. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Let N be the smallest number such that when it is divided by 18, 24, and 30, the respective remainders are 12, 18, and 24. What is the value of N + 15?",
+    "hi": "मान लीजिए N वह सबसे छोटी संख्या है जिसे 18, 24 और 30 से विभाजित करने पर क्रमशः 12, 18 और 24 शेष बचते हैं। N + 15 का मान क्या है?",
+    "oEn": ["354", "360", "369", "375"],
+    "oHi": ["354", "360", "369", "375"],
+    "c": 2,
+    "exp": "The common difference between divisors and remainders is: $18 - 12 = 6$, $24 - 18 = 6$, $30 - 24 = 6$. LCM of $18, 24,$ and $30$ is $360$. The smallest number $N = 360 - 6 = 354$. Therefore, $N + 15 = 354 + 15 = 369$. Thus, option 2 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "The HCF and LCM of two natural numbers A and B are 18 and 378 respectively. If the sum of A and B is 180, what is the absolute difference between A and B?",
+    "hi": "दो प्राकृतिक संख्याओं A और B के HCF और LCM क्रमशः 18 और 378 हैं। यदि A और B का योग 180 है, तो A और B के बीच का अंतर (absolute difference) क्या है?",
+    "oEn": ["54", "64", "72", "84"],
+    "oHi": ["54", "64", "72", "84"],
+    "c": 2,
+    "exp": "Let the numbers be $18x$ and $18y$ where $\\text{HCF}(x, y) = 1$. LCM = $18xy = 378$, giving $xy = 21$. Sum of numbers = $18(x + y) = 180$, giving $x + y = 10$. Co-prime factors of $21$ whose sum is $10$ are $x = 3$ and $y = 7$. Thus, the numbers are $A = 18 \\times 3 = 54$ and $B = 18 \\times 7 = 126$. The absolute difference is $126 - 54 = 72$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  }
+]
