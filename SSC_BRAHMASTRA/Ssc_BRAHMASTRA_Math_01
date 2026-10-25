@@ -1,0 +1,182 @@
+[
+  {
+    "en": "The average age of a group of 15 persons is 32 years. If two persons aged 45 years and 39 years leave the group and three new persons aged 30, 38, and 44 years join the group, what is the new average age of the group?",
+    "hi": "15 व्यक्तियों के एक समूह की औसत आयु 32 वर्ष है। यदि 45 वर्ष और 39 वर्ष की आयु के दो व्यक्ति समूह छोड़ देते हैं और 30, 38 तथा 44 वर्ष की आयु के तीन नए व्यक्ति समूह में शामिल हो जाते हैं, तो समूह की नई औसत आयु क्या होगी?",
+    "oEn": ["30.5 years", "32.25 years", "31.75 years", "33.0 years"],
+    "oHi": ["30.5 वर्ष", "32.25 वर्ष", "31.75 वर्ष", "33.0 वर्ष"],
+    "c": 2,
+    "exp": "Initial total age of 15 persons = $15 \\times 32 = 480$ years. Total age removed = $45 + 39 = 84$ years. Total age added = $30 + 38 + 44 = 112$ years. New total age = $480 - 84 + 112 = 508$ years. New total number of persons = $15 - 2 + 3 = 16$. New average age = $\\frac{508}{16} = 31.75$ years.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "The average age of a family of 5 members is 24 years. If the age of the youngest member is 8 years, what was the average age of the family just before the birth of the youngest member?",
+    "hi": "5 सदस्यों के एक परिवार की औसत आयु 24 वर्ष है। यदि सबसे छोटे सदस्य की आयु 8 वर्ष है, तो सबसे छोटे सदस्य के जन्म से ठीक पहले परिवार की औसत आयु क्या थी?",
+    "oEn": ["20 years", "18 years", "22 years", "24 years"],
+    "oHi": ["20 वर्ष", "18 वर्ष", "22 वर्ष", "24 वर्ष"],
+    "c": 0,
+    "exp": "Present total age of 5 members = $5 \\times 24 = 120$ years. 8 years ago, the total age of 5 members was reduced by $5 \\times 8 = 40$ years. Total age of 4 remaining members 8 years ago = $120 - 40 = 80$ years. Average age of 4 members just before the birth of the youngest member = $\\frac{80}{4} = 20$ years.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The ratio of the present ages of A and B is $7 : 9$. 6 years ago, the ratio of their ages was $3 : 4$. What will be the ratio of their ages 6 years from now?",
+    "hi": "A और B की वर्तमान आयु का अनुपात $7 : 9$ है। 6 वर्ष पहले, उनकी आयु का अनुपात $3 : 4$ था। अब से 6 वर्ष बाद उनकी आयु का अनुपात क्या होगा?",
+    "oEn": ["5 : 6", "4 : 5", "8 : 9", "9 : 11"],
+    "oHi": ["5 : 6", "4 : 5", "8 : 9", "9 : 11"],
+    "c": 1,
+    "exp": "Let present ages of A and B be $7x$ and $9x$. 6 years ago, $\\frac{7x - 6}{9x - 6} = \\frac{3}{4}$. Solving: $4(7x - 6) = 3(9x - 6) \\implies 28x - 24 = 27x - 18 \\implies x = 6$. Present ages: A = 42 years, B = 54 years. 6 years from now: A = 48 years, B = 60 years. Required ratio = $48 : 60 = 4 : 5$.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Four years ago, the ratio of the ages of A and B was $4 : 5$. Eight years from now, the ratio of their ages will be $11 : 13$. What is the sum of their present ages?",
+    "hi": "चार वर्ष पहले, A और B की आयु का अनुपात $4 : 5$ था। अब से आठ वर्ष बाद, उनकी आयु का अनुपात $11 : 13$ होगा। उनकी वर्तमान आयु का योग क्या है?",
+    "oEn": ["72 years", "76 years", "80 years", "84 years"],
+    "oHi": ["72 वर्ष", "76 वर्ष", "80 वर्ष", "84 वर्ष"],
+    "c": 2,
+    "exp": "Let ages 4 years ago be $4x$ and $5x$. 8 years from now is 12 years after that time. So $\\frac{4x + 12}{5x + 12} = \\frac{11}{13}$. Cross-multiplying: $13(4x + 12) = 11(5x + 12) \\implies 52x + 156 = 55x + 132 \\implies 3x = 24 \\implies x = 8$. Ages 4 years ago: A = 32, B = 40. Present ages: A = 36, B = 44. Sum of present ages = $36 + 44 = 80$ years.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The average age of a husband and wife was 23 years at the time of their marriage 5 years ago. The average age of the family including the husband, wife, and a child born during the interval is 20 years now. What is the present age of the child?",
+    "hi": "5 वर्ष पहले विवाह के समय एक पति और पत्नी की औसत आयु 23 वर्ष थी। अब पति, पत्नी और इस दौरान पैदा हुए एक बच्चे सहित परिवार की औसत आयु 20 वर्ष है। बच्चे की वर्तमान आयु क्या है?",
+    "oEn": ["3 years", "5 years", "6 years", "4 years"],
+    "oHi": ["3 वर्ष", "5 वर्ष", "6 वर्ष", "4 वर्ष"],
+    "c": 3,
+    "exp": "Total age of husband and wife 5 years ago = $23 \\times 2 = 46$ years. Total age of husband and wife now = $46 + (2 \\times 5) = 56$ years. Present total age of husband, wife, and child = $20 \\times 3 = 60$ years. Present age of the child = $60 - 56 = 4$ years.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The average age of 24 students and a teacher is 15 years. If the teacher's age is excluded, the average age decreases by 1 year. What is the age of the teacher?",
+    "hi": "24 छात्रों और एक शिक्षक की औसत आयु 15 वर्ष है। यदि शिक्षक की आयु को हटा दिया जाए, तो औसत आयु में 1 वर्ष की कमी आती है। शिक्षक की आयु क्या है?",
+    "oEn": ["38 years", "40 years", "39 years", "41 years"],
+    "oHi": ["38 वर्ष", "40 वर्ष", "39 वर्ष", "41 वर्ष"],
+    "c": 2,
+    "exp": "Total members = 25. Total age of 25 persons = $25 \\times 15 = 375$ years. New total persons (without teacher) = 24. New average age = $15 - 1 = 14$ years. Total age of 24 students = $24 \\times 14 = 336$ years. Age of the teacher = $375 - 336 = 39$ years.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "A father's age is three times the sum of the ages of his two children. After 5 years, his age will be double the sum of the ages of his children. Find the present age of the father.",
+    "hi": "एक पिता की आयु उसके दो बच्चों की आयु के योग की तीन गुनी है। 5 वर्ष बाद, उसकी आयु उसके बच्चों की आयु के योग की दोगुनी होगी। पिता की वर्तमान आयु ज्ञात कीजिए।",
+    "oEn": ["50 years", "55 years", "60 years", "45 years"],
+    "oHi": ["50 वर्ष", "55 वर्ष", "60 वर्ष", "45 वर्ष"],
+    "c": 3,
+    "exp": "Let the sum of ages of two children be $S$. Father's age $F = 3S$. After 5 years, father's age is $F + 5$ and sum of children's ages is $S + 2(5) = S + 10$. Given $F + 5 = 2(S + 10)$. Substitute $F = 3S$: $3S + 5 = 2S + 20 \\implies S = 15$. Present age of father = $3 \\times 15 = 45$ years.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The average age of 8 men increases by 2 years when two of them whose ages are 21 years and 23 years are replaced by two new women. What is the average age of the two new women?",
+    "hi": "8 पुरुषों की औसत आयु में 2 वर्ष की वृद्धि हो जाती है जब उनमें से 21 वर्ष और 23 वर्ष की आयु वाले दो पुरुषों के स्थान पर दो नई महिलाओं को शामिल किया जाता है। दोनों नई महिलाओं की औसत आयु क्या है?",
+    "oEn": ["28 years", "32 years", "30 years", "34 years"],
+    "oHi": ["28 वर्ष", "32 वर्ष", "30 वर्ष", "34 वर्ष"],
+    "c": 2,
+    "exp": "Total increase in age of 8 men = $8 \\times 2 = 16$ years. Sum of ages of two replaced men = $21 + 23 = 44$ years. Sum of ages of two new women = $44 + 16 = 60$ years. Average age of the two women = $\\frac{60}{2} = 30$ years.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "The ratio of present ages of P and Q is $5 : 8$. After 4 years, the ratio of their ages will become $7 : 10$. What was the age of Q 6 years ago?",
+    "hi": "P और Q की वर्तमान आयु का अनुपात $5 : 8$ है। 4 वर्ष बाद, उनकी आयु का अनुपात $7 : 10$ हो जाएगा। 6 वर्ष पहले Q की आयु क्या थी?",
+    "oEn": ["10 years", "14 years", "16 years", "18 years"],
+    "oHi": ["10 वर्ष", "14 वर्ष", "16 वर्ष", "18 वर्ष"],
+    "c": 0,
+    "exp": "Let present ages of P and Q be $5x$ and $8x$. After 4 years: $\\frac{5x + 4}{8x + 4} = \\frac{7}{10}$. Solving: $10(5x + 4) = 7(8x + 4) \\implies 50x + 40 = 56x + 28 \\implies 6x = 12 \\implies x = 2$. Present age of Q = $8 \\times 2 = 16$ years. Age of Q 6 years ago = $16 - 6 = 10$ years.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "In a class of 40 students, the average age of 18 boys is 15 years and the average age of the remaining 22 girls is 14 years. Later, a student whose age was misread as 12 instead of 20 was corrected. What is the correct average age of the whole class?",
+    "hi": "40 छात्रों की एक कक्षा में, 18 लड़कों की औसत आयु 15 वर्ष है और शेष 22 लड़कियों की औसत आयु 14 वर्ष है। बाद में, एक छात्र जिसकी आयु 20 के स्थान पर गलती से 12 पढ़ ली गई थी, उसे सही किया गया। पूरी कक्षा की सही औसत आयु क्या है?",
+    "oEn": ["14.45 years", "14.85 years", "15.00 years", "14.65 years"],
+    "oHi": ["14.45 वर्ष", "14.85 वर्ष", "15.00 वर्ष", "14.65 वर्ष"],
+    "c": 3,
+    "exp": "Initial sum of ages = $(18 \\times 15) + (22 \\times 14) = 270 + 308 = 578$ years. Correction = $+ (20 - 12) = +8$ years. Correct total sum = $578 + 8 = 586$ years. Correct average age of class = $\\frac{586}{40} = 14.65$ years.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The average age of A, B, and C is 20 years. If A's age is replaced by D's age, the average age becomes 19 years. If D is 4 years older than C and B is 17 years old, what is the age of A?",
+    "hi": "A, B और C की औसत आयु 20 वर्ष है। यदि A की आयु को D की आयु से बदल दिया जाए, तो औसत आयु 19 वर्ष हो जाती है। यदि D, C से 4 वर्ष बड़ा है और B 17 वर्ष का है, तो A की आयु क्या है?",
+    "oEn": ["22 years", "25 years", "23 years", "27 years"],
+    "oHi": ["22 वर्ष", "25 वर्ष", "23 वर्ष", "27 वर्ष"],
+    "c": 1,
+    "exp": "$A + B + C = 3 \\times 20 = 60$. $D + B + C = 3 \\times 19 = 57$. Subtracting equations: $A - D = 3$. Given $B = 17$ and $D = C + 4$. From $D + B + C = 57 \\implies (C + 4) + 17 + C = 57 \\implies 2C = 36 \\implies C = 18$. Then $D = 22$. Therefore, $A = D + 3 = 25$ years.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The ratio of the ages of a mother and her daughter at present is $7 : 1$. 5 years ago, the ratio was $12 : 1$. What will be the mother's age 5 years from now?",
+    "hi": "वर्तमान में एक माँ और उसकी पुत्री की आयु का अनुपात $7 : 1$ है। 5 वर्ष पहले यह अनुपात $12 : 1$ था। अब से 5 वर्ष बाद माँ की आयु क्या होगी?",
+    "oEn": ["82 years", "80 years", "78 years", "76 years"],
+    "oHi": ["82 वर्ष", "80 वर्ष", "78 वर्ष", "76 वर्ष"],
+    "c": 0,
+    "exp": "Let present ages of mother and daughter be $7x$ and $x$. 5 years ago: $\\frac{7x - 5}{x - 5} = \\frac{12}{1}$. $7x - 5 = 12x - 60 \\implies 5x = 55 \\implies x = 11$. Present age of mother = $7 \\times 11 = 77$ years. Mother's age 5 years from now = $77 + 5 = 82$ years.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "The average age of 30 students in a class is 14 years. If the ages of 5 new students are included, the average age of the class increases by 1 year. What is the average age of the 5 new students?",
+    "hi": "एक कक्षा के 30 छात्रों की औसत आयु 14 वर्ष है। यदि 5 नए छात्रों की आयु को शामिल कर लिया जाए, तो कक्षा की औसत आयु 1 वर्ष बढ़ जाती है। 5 नए छात्रों की औसत आयु क्या है?",
+    "oEn": ["19 years", "20 years", "22 years", "21 years"],
+    "oHi": ["19 वर्ष", "20 वर्ष", "22 वर्ष", "21 वर्ष"],
+    "c": 3,
+    "exp": "Total age of 30 students = $30 \\times 14 = 420$ years. New total number of students = 35. New average age = $14 + 1 = 15$ years. Total age of 35 students = $35 \\times 15 = 525$ years. Total age of 5 new students = $525 - 420 = 105$ years. Average age of 5 new students = $\\frac{105}{5} = 21$ years.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The present age of a father is 3 years more than three times the age of his son. Three years hence, father's age will be 10 years more than twice the age of the son. What is the father's present age?",
+    "hi": "एक पिता की वर्तमान आयु उसके पुत्र की आयु के तीन गुने से 3 वर्ष अधिक है। तीन वर्ष बाद, पिता की आयु पुत्र की आयु के दुगुने से 10 वर्ष अधिक होगी। पिता की वर्तमान आयु क्या है?",
+    "oEn": ["36 years", "39 years", "33 years", "42 years"],
+    "oHi": ["36 वर्ष", "39 वर्ष", "33 वर्ष", "42 वर्ष"],
+    "c": 2,
+    "exp": "Let son's present age be $x$. Father's present age $F = 3x + 3$. Three years hence: $F + 3 = 2(x + 3) + 10$. Substitute $F$: $(3x + 3) + 3 = 2x + 6 + 10 \\implies 3x + 6 = 2x + 16 \\implies x = 10$. Present age of father = $3(10) + 3 = 33$ years.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "The average age of 11 players of a cricket team is increased by 2 months when two of them aged 18 years and 20 years are replaced by two new players. What is the average age of the new players?",
+    "hi": "एक क्रिकेट टीम के 11 खिलाड़ियों की औसत आयु में 2 महीने की वृद्धि हो जाती है जब उनमें से 18 वर्ष और 20 वर्ष की आयु वाले दो खिलाड़ियों को दो नए खिलाड़ियों से बदल दिया जाता है। नए खिलाड़ियों की औसत आयु क्या है?",
+    "oEn": ["19 years 1 month", "20 years 1 month", "19 years 11 months", "20 years 11 months"],
+    "oHi": ["19 वर्ष 1 महीना", "20 वर्ष 1 महीना", "19 वर्ष 11 महीने", "20 वर्ष 11 महीने"],
+    "c": 2,
+    "exp": "Total increase in age of 11 players = $11 \\times 2$ months = 22 months = 1 year 10 months. Sum of ages of replaced players = $18 + 20 = 38$ years. Sum of ages of two new players = 38 years + 1 year 10 months = 39 years 10 months. Average age of the two new players = $\\frac{39 \\text{ years } 10 \\text{ months}}{2}$ = 19 years 11 months.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A is 4 years older than B who is twice as old as C. If the total of the ages of A, B and C is 34 years, how old is B?",
+    "hi": "A, B से 4 वर्ष बड़ा है जो C से दोगुना बड़ा है। यदि A, B और C की आयु का कुल योग 34 वर्ष है, तो B की आयु कितनी है?",
+    "oEn": ["8 years", "10 years", "14 years", "12 years"],
+    "oHi": ["8 वर्ष", "10 वर्ष", "14 वर्ष", "12 वर्ष"],
+    "c": 3,
+    "exp": "Let C's age be $x$. Then B's age = $2x$, and A's age = $2x + 4$. Total sum = $(2x + 4) + 2x + x = 34 \\implies 5x + 4 = 34 \\implies 5x = 30 \\implies x = 6$. B's age = $2x = 2 \\times 6 = 12$ years.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "The average age of 5 members of a committee is the same today as it was 3 years ago, because an old member has been replaced by a young member. How much younger is the new member than the replaced member?",
+    "hi": "एक समिति के 5 सदस्यों की औसत आयु आज भी वही है जो 3 वर्ष पहले थी, क्योंकि एक पुराने सदस्य को एक नए युवा सदस्य द्वारा बदल दिया गया है। नया सदस्य पुराने सदस्य से कितना छोटा है?",
+    "oEn": ["9 years", "12 years", "15 years", "18 years"],
+    "oHi": ["9 वर्ष", "12 वर्ष", "15 वर्ष", "18 वर्ष"],
+    "c": 2,
+    "exp": "Over 3 years, the total age of 5 members would naturally increase by $5 \\times 3 = 15$ years. Since the average remains unchanged, the new member must be exactly 15 years younger than the replaced old member.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "Six years ago, the average age of a family of 4 members was 19 years. A baby having been born in the meantime, the average age of the family is 21 years today. What is the age of the baby?",
+    "hi": "छह वर्ष पहले, 4 सदस्यों वाले एक परिवार की औसत आयु 19 वर्ष थी। इस दौरान एक बच्चे का जन्म होने के बाद, आज परिवार की औसत आयु 21 वर्ष है। बच्चे की आयु क्या है?",
+    "oEn": ["3 years", "4 years", "6 years", "5 years"],
+    "oHi": ["3 वर्ष", "4 वर्ष", "6 वर्ष", "5 वर्ष"],
+    "c": 3,
+    "exp": "Total age of 4 members 6 years ago = $4 \\times 19 = 76$ years. Present total age of these 4 members = $76 + (4 \\times 6) = 100$ years. Present total members = 5. Present total age of 5 members = $5 \\times 21 = 105$ years. Present age of the baby = $105 - 100 = 5$ years.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The ratio of the ages of A and B 8 years ago was $2 : 3$. Their present ages are in the ratio $5 : 7$. What will be the ratio of their ages 8 years from now?",
+    "hi": "8 वर्ष पहले A और B की आयु का अनुपात $2 : 3$ था। उनकी वर्तमान आयु $5 : 7$ के अनुपात में है। अब से 8 वर्ष बाद उनकी आयु का अनुपात क्या होगा?",
+    "oEn": ["4 : 5", "7 : 9", "8 : 11", "3 : 4"],
+    "oHi": ["4 : 5", "7 : 9", "8 : 11", "3 : 4"],
+    "c": 3,
+    "exp": "Let present ages be $5x$ and $7x$. 8 years ago: $\\frac{5x - 8}{7x - 8} = \\frac{2}{3}$. Cross multiplying: $3(5x - 8) = 2(7x - 8) \\implies 15x - 24 = 14x - 16 \\implies x = 8$. Present ages: A = 40, B = 56. 8 years from now: A = 48, B = 64. Required ratio = $48 : 64 = 3 : 4$.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The average age of a class of 35 students is 16 years. The average age of 21 of these students is 14 years. What is the average age of the remaining 14 students?",
+    "hi": "35 छात्रों की एक कक्षा की औसत आयु 16 वर्ष है। इनमें से 21 छात्रों की औसत आयु 14 वर्ष है। शेष 14 छात्रों की औसत आयु क्या है?",
+    "oEn": ["18 years", "21 years", "19 years", "20 years"],
+    "oHi": ["18 वर्ष", "21 वर्ष", "19 वर्ष", "20 वर्ष"],
+    "c": 2,
+    "exp": "Total age of 35 students = $35 \\times 16 = 560$ years. Total age of 21 students = $21 \\times 14 = 294$ years. Total age of remaining 14 students = $560 - 294 = 266$ years. Average age of remaining 14 students = $\\frac{266}{14} = 19$ years.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  }
+]
