@@ -1,0 +1,182 @@
+[
+  {
+    "en": "Fresh grapes contain 80% water by weight, while dry grapes contain 10% water by weight. If the weight of dry grapes is 250 kg, what was the original weight of the fresh grapes?",
+    "hi": "ताजे अंगूरों में वजन के हिसाब से 80% पानी होता है, जबकि सूखे अंगूरों में 10% पानी होता है। यदि सूखे अंगूरों का वजन 250 किलोग्राम है, तो ताजे अंगूरों का मूल वजन क्या था?",
+    "oEn": ["1000 kg", "1125 kg", "1250 kg", "1500 kg"],
+    "oHi": ["1000 किग्रा", "1125 किग्रा", "1250 किग्रा", "1500 किग्रा"],
+    "c": 1,
+    "exp": "The amount of pulp remains constant in both fresh and dry grapes. Fresh grapes have 80% water, so pulp is 20%. Dry grapes have 10% water, so pulp is 90%. Let the weight of fresh grapes be $F$. $20\\%$ of $F = 90\\%$ of $250 \\implies \\frac{20}{100} \\times F = \\frac{90}{100} \\times 250 \\implies 0.2F = 225 \\implies F = 1125$ kg. Thus, option 1 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "In an election between two candidates, 10% of the voters on the voter list did not cast their votes, and 10% of the votes cast were found invalid. The winning candidate got 54% of the valid votes and won by a majority of 1,620 votes. Find the total number of voters enrolled on the voter list.",
+    "hi": "दो उम्मीदवारों के बीच एक चुनाव में, मतदाता सूची के 10% मतदाताओं ने अपना वोट नहीं डाला, और डाले गए वोटों में से 10% अवैध पाए गए। जीतने वाले उम्मीदवार को वैध मतों का 54% प्राप्त हुआ और वह 1,620 मतों के बहुमत से जीता। मतदाता सूची में नामांकित कुल मतदाताओं की संख्या ज्ञात कीजिए।",
+    "oEn": ["20,000", "24,000", "25,000", "30,000"],
+    "oHi": ["20,000", "24,000", "25,000", "30,000"],
+    "c": 2,
+    "exp": "Let total voters on the list be $x$. Votes cast = $90\\%$ of $x = 0.9x$. Valid votes = $90\\%$ of $0.9x = 0.81x$. The winner got $54\\%$ of valid votes, so the loser got $46\\%$ of valid votes. The winning margin is $(54\\% - 46\\%) = 8\\%$ of valid votes. Therefore, $8\\%$ of $0.81x = 1620 \\implies \\frac{8}{100} \\times \\frac{81}{100} \\times x = 1620 \\implies \\frac{648x}{10000} = 1620 \\implies x = \\frac{1620 \\times 10000}{648} = 25000$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A's income is 60% of B's income, and A's expenditure is 70% of B's expenditure. If A's income is 75% of B's expenditure, what is the ratio of A's savings to B's savings?",
+    "hi": "A की आय B की आय का 60% है, और A का व्यय B के व्यय का 70% है। यदि A की आय B के व्यय का 75% है, तो A की बचत और B की बचत का अनुपात क्या है?",
+    "oEn": ["5 : 1", "1 : 5", "2 : 5", "1 : 4"],
+    "oHi": ["5 : 1", "1 : 5", "2 : 5", "1 : 4"],
+    "c": 1,
+    "exp": "Let B's income be $I_b$ and B's expenditure be $E_b$. A's income $I_a = 0.6 I_b$. A's expenditure $E_a = 0.7 E_b$. Given $I_a = 0.75 E_b \\implies 0.6 I_b = 0.75 E_b \\implies \\frac{I_b}{E_b} = \\frac{0.75}{0.60} = \\frac{5}{4}$. Let $I_b = 500$ and $E_b = 400$. Then B's savings = $500 - 400 = 100$. Now, $I_a = 0.6 \\times 500 = 300$, and $E_a = 0.7 \\times 400 = 280$. A's savings = $300 - 280 = 20$. Ratio of A's savings to B's savings = $20 : 100 = 1 : 5$. Thus, option 1 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "The price of petrol increased by 28%. A person wants to increase his expenditure on petrol by only 22%. By approximately what percentage should he decrease his consumption of petrol?",
+    "hi": "पेट्रोल की कीमत में 28% की वृद्धि हुई। एक व्यक्ति पेट्रोल पर अपना खर्च केवल 22% बढ़ाना चाहता है। उसे पेट्रोल की अपनी खपत में लगभग कितने प्रतिशत की कमी करनी चाहिए?",
+    "oEn": ["4.7%", "4.9%", "5.1%", "5.3%"],
+    "oHi": ["4.7%", "4.9%", "5.1%", "5.3%"],
+    "c": 0,
+    "exp": "Let initial Price = Rs. 100 and initial Expenditure = Rs. 100. Initial Consumption = $\\frac{100}{100} = 1$ unit. New Price = Rs. 128. New Expenditure = Rs. 122. New Consumption = $\\frac{122}{128}$. Decrease in consumption = $1 - \\frac{122}{128} = \\frac{6}{128}$. Percentage decrease = $\\frac{6}{128} \\times 100 = \\frac{600}{128} = 4.6875\\%$, which is approximately $4.7\\%$. Thus, option 0 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "In an examination, 65% of students passed in Mathematics, 75% passed in Physics, and 8% failed in both the subjects. If 348 students passed in both the subjects, find the number of students who failed in exactly one subject.",
+    "hi": "एक परीक्षा में, 65% छात्र गणित में उत्तीर्ण हुए, 75% भौतिकी में उत्तीर्ण हुए, और 8% दोनों विषयों में अनुत्तीर्ण रहे। यदि 348 छात्र दोनों विषयों में उत्तीर्ण हुए, तो ठीक एक विषय में अनुत्तीर्ण होने वाले छात्रों की संख्या ज्ञात कीजिए।",
+    "oEn": ["319", "348", "305", "290"],
+    "oHi": ["319", "348", "305", "290"],
+    "c": 0,
+    "exp": "Failed in both = $8\\%$, so passed in at least one subject = $100\\% - 8\\% = 92\\%$. Let passing in both be $x\\%$. Then $(\\text{Math Pass}) + (\\text{Physics Pass}) - (\\text{Both Pass}) = 92\\% \\implies 65\\% + 75\\% - x\\% = 92\\% \\implies 140\\% - x\\% = 92\\% \\implies x = 48\\%$. Given $48\\% = 348$ students $\\implies$ Total students = $\\frac{348}{0.48} = 725$. Failing in exactly one subject is the same as passing in exactly one subject. Math only = $65\\% - 48\\% = 17\\%$. Physics only = $75\\% - 48\\% = 27\\%$. Exactly one subject = $17\\% + 27\\% = 44\\%$. Number of students = $44\\%$ of $725 = 0.44 \\times 725 = 319$. Thus, option 0 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "In a constituency, 20% of the registered voters did not cast their votes and 120 votes were declared invalid. The winner got 41% of the total registered votes and defeated his rival by 200 votes. Find the total number of registered voters.",
+    "hi": "एक निर्वाचन क्षेत्र में, 20% पंजीकृत मतदाताओं ने अपना वोट नहीं डाला और 120 वोट अवैध घोषित कर दिए गए। विजेता को कुल पंजीकृत मतों का 41% प्राप्त हुआ और उसने अपने प्रतिद्वंद्वी को 200 मतों से हरा दिया। पंजीकृत मतदाताओं की कुल संख्या ज्ञात कीजिए।",
+    "oEn": ["3800", "4000", "4200", "4500"],
+    "oHi": ["3800", "4000", "4200", "4500"],
+    "c": 1,
+    "exp": "Let total registered voters be $100x$. Votes cast = $80x$. Valid votes = $80x - 120$. Winner got $41\\%$ of total registered votes = $41x$. Loser got = $(\\text{Valid votes}) - (\\text{Winner's votes}) = (80x - 120) - 41x = 39x - 120$. Winner's margin = $41x - (39x - 120) = 2x + 120$. Given margin is 200, so $2x + 120 = 200 \\implies 2x = 80 \\implies x = 40$. Total registered voters = $100x = 4000$. Thus, option 1 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "If the income tax is increased by 19%, the net income is reduced by 1%. What is the rate of income tax?",
+    "hi": "यदि आयकर में 19% की वृद्धि होती है, तो शुद्ध आय में 1% की कमी होती है। आयकर की दर क्या है?",
+    "oEn": ["5%", "6%", "10%", "19%"],
+    "oHi": ["5%", "6%", "10%", "19%"],
+    "c": 0,
+    "exp": "Gross Income = Net Income + Income Tax. Since Gross Income is constant, any absolute increase in Income Tax causes an exact equal absolute decrease in Net Income. Therefore, $19\\%$ of Income Tax = $1\\%$ of Net Income $\\implies \\frac{\\text{Tax}}{\\text{Net Income}} = \\frac{1}{19}$. Let Tax = 1 and Net Income = 19. Gross Income = $1 + 19 = 20$. Rate of Tax = $(\\frac{\\text{Tax}}{\\text{Gross Income}}) \\times 100 = \\frac{1}{20} \\times 100 = 5\\%$. Thus, option 0 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A salesman is allowed 12% commission on the total sales made by him and a bonus of 1% on the sales exceeding Rs. 15,000. If his total earning is Rs. 7,650, find the total sales.",
+    "hi": "एक सेल्समैन को उसके द्वारा की गई कुल बिक्री पर 12% कमीशन और 15,000 रुपये से अधिक की बिक्री पर 1% का बोनस दिया जाता है। यदि उसकी कुल कमाई 7,650 रुपये है, तो कुल बिक्री ज्ञात कीजिए।",
+    "oEn": ["Rs. 50,000", "Rs. 60,000", "Rs. 65,000", "Rs. 75,000"],
+    "oHi": ["50,000 रुपये", "60,000 रुपये", "65,000 रुपये", "75,000 रुपये"],
+    "c": 1,
+    "exp": "Let the total sales be $x$. His commission is $12\\%$ of $x = 0.12x$. His bonus is $1\\%$ of $(x - 15000) = 0.01(x - 15000)$. Total earnings = $0.12x + 0.01x - 150 = 7650 \\implies 0.13x = 7650 + 150 = 7800 \\implies x = \\frac{7800}{0.13} = 60,000$. Thus, option 1 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The sum of two numbers is 520. If the larger number is decreased by 4% and the smaller number is increased by 12%, the resulting numbers are equal. Find the smaller number.",
+    "hi": "दो संख्याओं का योग 520 है। यदि बड़ी संख्या में 4% की कमी की जाती है और छोटी संख्या में 12% की वृद्धि की जाती है, तो परिणामी संख्याएँ समान होती हैं। छोटी संख्या ज्ञात कीजिए।",
+    "oEn": ["210", "240", "280", "300"],
+    "oHi": ["210", "240", "280", "300"],
+    "c": 1,
+    "exp": "Let the larger number be $B$ and the smaller number be $S$. Given $B + S = 520$. Also, $(100 - 4)\\%$ of $B = (100 + 12)\\%$ of $S \\implies 96\\%$ of $B = 112\\%$ of $S \\implies 96B = 112S \\implies \\frac{B}{S} = \\frac{112}{96} = \\frac{7}{6}$. Let $B = 7x$ and $S = 6x$. Total = $13x = 520 \\implies x = 40$. The smaller number $S = 6x = 6 \\times 40 = 240$. Thus, option 1 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A reduction of 20% in the price of wheat enables a buyer to purchase 5 kg more for Rs. 320. What is the original price of wheat per kg?",
+    "hi": "गेहूं की कीमत में 20% की कमी एक खरीदार को 320 रुपये में 5 किलोग्राम अधिक गेहूं खरीदने में सक्षम बनाती है। गेहूं की प्रति किलोग्राम मूल कीमत क्या है?",
+    "oEn": ["Rs. 12.8", "Rs. 15", "Rs. 16", "Rs. 20"],
+    "oHi": ["12.8 रुपये", "15 रुपये", "16 रुपये", "20 रुपये"],
+    "c": 2,
+    "exp": "With a $20\\%$ reduction in price, the money saved on Rs. 320 is $20\\%$ of $320 =$ Rs. 64. With this saved Rs. 64, the buyer gets 5 kg extra. Therefore, the reduced (new) price = $\\frac{64}{5} =$ Rs. 12.8 per kg. Since this new price is $80\\%$ of the original price, $(\\text{Original Price}) \\times 0.8 = 12.8 \\implies \\text{Original Price} = \\frac{12.8}{0.8} = 16$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "If the numerator of a fraction is increased by 150% and its denominator is increased by 300%, the resultant fraction becomes 5/18. What is the original fraction?",
+    "hi": "यदि किसी भिन्न के अंश में 150% की वृद्धि की जाती है और उसके हर में 300% की वृद्धि की जाती है, तो परिणामी भिन्न 5/18 हो जाता है। मूल भिन्न क्या है?",
+    "oEn": ["4/9", "2/9", "8/9", "5/9"],
+    "oHi": ["4/9", "2/9", "8/9", "5/9"],
+    "c": 0,
+    "exp": "Let the original fraction be $\\frac{N}{D}$. Increasing $N$ by $150\\%$ makes it $N + 1.5N = 2.5N$. Increasing $D$ by $300\\%$ makes it $D + 3D = 4D$. Resulting fraction = $\\frac{2.5N}{4D} = \\frac{5}{18}$. Therefore, $\\frac{N}{D} = \\frac{5 \\times 4}{2.5 \\times 18} = \\frac{20}{45} = \\frac{4}{9}$. Thus, option 0 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "A person gives 20% of his total income to his elder son, 30% of the remaining to his younger son, and 10% of the remaining to a charitable trust. If he is now left with Rs. 10,080, what was his initial income?",
+    "hi": "एक व्यक्ति अपनी कुल आय का 20% अपने बड़े बेटे को देता है, शेष का 30% अपने छोटे बेटे को देता है, और फिर शेष का 10% एक धर्मार्थ ट्रस्ट को देता है। यदि अब उसके पास 10,080 रुपये बचे हैं, तो उसकी प्रारंभिक आय क्या थी?",
+    "oEn": ["Rs. 18,000", "Rs. 20,000", "Rs. 25,000", "Rs. 30,000"],
+    "oHi": ["18,000 रुपये", "20,000 रुपये", "25,000 रुपये", "30,000 रुपये"],
+    "c": 1,
+    "exp": "Let the initial income be $x$. After giving $20\\%$ to the elder son, $80\\%$ remains. From that, after giving $30\\%$ to the younger son, $70\\%$ remains. Finally, after giving $10\\%$ to the trust, $90\\%$ remains. So, $x \\times 0.80 \\times 0.70 \\times 0.90 = 10080 \\implies x \\times 0.504 = 10080 \\implies x = \\frac{10080}{0.504} = 20000$. Thus, option 1 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The radius of a cylinder is increased by 20% and its height is decreased by 30%. What is the percentage change in its volume?",
+    "hi": "एक बेलन की त्रिज्या में 20% की वृद्धि की जाती है और उसकी ऊँचाई में 30% की कमी की जाती है। इसके आयतन में प्रतिशत परिवर्तन क्या है?",
+    "oEn": ["0.8% increase", "0.8% decrease", "1.2% increase", "1.2% decrease"],
+    "oHi": ["0.8% वृद्धि", "0.8% कमी", "1.2% वृद्धि", "1.2% कमी"],
+    "c": 0,
+    "exp": "Volume of a cylinder is proportional to $r^2 \\times h$. New radius = $1.2r$, New height = $0.7h$. New Volume is proportional to $(1.2r)^2 \\times (0.7h) = 1.44r^2 \\times 0.7h = 1.008 \\times (r^2 \\times h)$. So, the new volume is $100.8\\%$ of the original volume. Change = $100.8\\% - 100\\% = +0.8\\%$, which is a $0.8\\%$ increase. Thus, option 0 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+    "hi": "एक छात्र ने एक संख्या को 5/3 के बजाय 3/5 से गुणा कर दिया। गणना में प्रतिशत त्रुटि क्या है?",
+    "oEn": ["44%", "54%", "64%", "74%"],
+    "oHi": ["44%", "54%", "64%", "74%"],
+    "c": 2,
+    "exp": "Let the number be 15 (LCM of 3 and 5). Correct result = $15 \\times \\frac{5}{3} = 25$. Incorrect result = $15 \\times \\frac{3}{5} = 9$. Error = $25 - 9 = 16$. Percentage error = $(\\frac{\\text{Error}}{\\text{Correct Result}}) \\times 100 = \\frac{16}{25} \\times 100 = 64\\%$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "In a village, 60% of families have a cow, 30% of families have a buffalo, and 15% of families have both a cow and a buffalo. If there are 96 families in the village, how many families do NOT have either a cow or a buffalo?",
+    "hi": "एक गाँव में, 60% परिवारों के पास एक गाय है, 30% परिवारों के पास एक भैंस है, और 15% परिवारों के पास गाय और भैंस दोनों हैं। यदि गाँव में 96 परिवार हैं, तो कितने परिवारों के पास न तो गाय है और न ही भैंस?",
+    "oEn": ["20", "24", "28", "32"],
+    "oHi": ["20", "24", "28", "32"],
+    "c": 1,
+    "exp": "Percentage of families having at least one animal = $(\\text{Families with cow}) + (\\text{Families with buffalo}) - (\\text{Families with both}) = 60\\% + 30\\% - 15\\% = 75\\%$. Percentage of families having neither = $100\\% - 75\\% = 25\\%$. Number of families having neither = $25\\%$ of $96 = \\frac{1}{4} \\times 96 = 24$. Thus, option 1 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "If A is 25% less than B, B is 30% more than C, and C is 50% less than D, then A is what percentage of D?",
+    "hi": "यदि A, B से 25% कम है, B, C से 30% अधिक है, और C, D से 50% कम है, तो A, D का कितना प्रतिशत है?",
+    "oEn": ["48.75%", "51.25%", "55%", "60%"],
+    "oHi": ["48.75%", "51.25%", "55%", "60%"],
+    "c": 0,
+    "exp": "Let $D = 100$. $C$ is $50\\%$ less than $D$, so $C = 50$. $B$ is $30\\%$ more than $C$, so $B = 50 + (30\\% \\text{ of } 50) = 50 + 15 = 65$. $A$ is $25\\%$ less than $B$, so $A = 65 - (25\\% \\text{ of } 65) = 65 - 16.25 = 48.75$. So, $A$ is $48.75$. Percentage of $A$ with respect to $D$ = $\\frac{48.75}{100} \\times 100 = 48.75\\%$. Thus, option 0 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "A vessel contains 60 liters of a mixture of milk and water, which contains 80% milk. How much water must be added to the mixture so that the milk becomes 60% of the new mixture?",
+    "hi": "एक बर्तन में दूध और पानी का 60 लीटर मिश्रण है, जिसमें 80% दूध है। मिश्रण में कितना पानी मिलाया जाना चाहिए ताकि नए मिश्रण में दूध 60% हो जाए?",
+    "oEn": ["15 liters", "20 liters", "25 liters", "30 liters"],
+    "oHi": ["15 लीटर", "20 लीटर", "25 लीटर", "30 लीटर"],
+    "c": 1,
+    "exp": "The amount of milk remains constant. Initial milk = $80\\%$ of $60 = 48$ liters. Let the new total mixture be $x$ liters. In the new mixture, milk is $60\\%$. So, $60\\%$ of $x = 48 \\implies 0.6x = 48 \\implies x = 80$. The new mixture is 80 liters. Amount of water added = New mixture - Old mixture = $80 - 60 = 20$ liters. Thus, option 1 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "In an examination, Student A got 30% marks and failed by 15 marks. Student B got 40% marks and scored 35 marks more than the passing marks. What is the passing percentage?",
+    "hi": "एक परीक्षा में, छात्र A ने 30% अंक प्राप्त किए और वह 15 अंकों से अनुत्तीर्ण हो गया। छात्र B ने 40% अंक प्राप्त किए और उत्तीर्ण अंकों से 35 अंक अधिक प्राप्त किए। उत्तीर्ण प्रतिशत क्या है?",
+    "oEn": ["33%", "38%", "43%", "46%"],
+    "oHi": ["33%", "38%", "43%", "46%"],
+    "c": 0,
+    "exp": "Let the total marks be $T$. Passing marks = $30\\%$ of $T + 15$. Also, passing marks = $40\\%$ of $T - 35$. Therefore, $40\\%$ of $T - 30\\%$ of $T = 15 + 35 \\implies 10\\%$ of $T = 50 \\implies T = 500$. Passing marks = $30\\%$ of $500 + 15 = 150 + 15 = 165$. Passing percentage = $\\frac{165}{500} \\times 100 = 33\\%$. Thus, option 0 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The population of a town is 1,20,000. It increases by 10% in the first year, decreases by 20% in the second year, and increases by 30% in the third year. What will be the population of the town after 3 years?",
+    "hi": "एक कस्बे की जनसंख्या 1,20,000 है। पहले वर्ष में इसमें 10% की वृद्धि होती है, दूसरे वर्ष में 20% की कमी होती है, और तीसरे वर्ष में 30% की वृद्धि होती है। 3 वर्ष बाद कस्बे की जनसंख्या क्या होगी?",
+    "oEn": ["1,35,480", "1,37,280", "1,38,540", "1,40,000"],
+    "oHi": ["1,35,480", "1,37,280", "1,38,540", "1,40,000"],
+    "c": 1,
+    "exp": "Population after 3 years = Initial Population $\\times (1 + \\frac{10}{100}) \\times (1 - \\frac{20}{100}) \\times (1 + \\frac{30}{100}) = 120000 \\times 1.1 \\times 0.8 \\times 1.3 = 120000 \\times 0.88 \\times 1.3 = 120000 \\times 1.144 = 1,37,280$. Thus, option 1 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "In an election, 3 candidates A, B, and C contested. 10% of the voters on the list did not vote. A got 30% of the total votes on the voter list. B got 32% of the total votes on the voter list. C got the remaining votes. If B won the election by 300 votes over A, how many total votes did C get?",
+    "hi": "एक चुनाव में, 3 उम्मीदवारों A, B और C ने चुनाव लड़ा। मतदाता सूची के 10% मतदाताओं ने मतदान नहीं किया। A को मतदाता सूची के कुल मतों का 30% प्राप्त हुआ। B को मतदाता सूची के कुल मतों का 32% प्राप्त हुआ। C को शेष मत मिले। यदि B ने A को 300 मतों से हराकर चुनाव जीता, तो C को कुल कितने मत मिले?",
+    "oEn": ["3800", "4000", "4200", "4500"],
+    "oHi": ["3800", "4000", "4200", "4500"],
+    "c": 2,
+    "exp": "Let total voters on the list be $100x$. Votes not cast = $10x$. Total votes cast = $90x$. Votes for A = $30x$. Votes for B = $32x$. Votes for C = Total cast - (A + B) = $90x - (30x + 32x) = 28x$. Given B beat A by 300 votes: $32x - 30x = 2x = 300 \\implies x = 150$. Votes received by C = $28x = 28 \\times 150 = 4200$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  }
+]
