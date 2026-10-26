@@ -1,0 +1,182 @@
+[
+  {
+    "en": "When $x$ is subtracted from each of 21, 22, 60, and 64, the numbers so obtained in this order are in proportion. What is the mean proportional between $(x + 1)$ and $(7x + 8)$?",
+    "hi": "जब 21, 22, 60 और 64 में से प्रत्येक से $x$ घटाया जाता है, तो इस क्रम में प्राप्त संख्याएँ समानुपात में होती हैं। $(x + 1)$ और $(7x + 8)$ के बीच मध्यानुपाती (mean proportional) क्या है?",
+    "oEn": ["20", "22", "24", "28"],
+    "oHi": ["20", "22", "24", "28"],
+    "c": 2,
+    "exp": "According to the question, $\\frac{21 - x}{22 - x} = \\frac{60 - x}{64 - x}$. Cross-multiplying gives: $(21 - x)(64 - x) = (22 - x)(60 - x) \\implies 1344 - 85x + x^2 = 1320 - 82x + x^2 \\implies 3x = 24 \\implies x = 8$. Now, $(x + 1) = 8 + 1 = 9$, and $(7x + 8) = 7(8) + 8 = 64$. Mean proportional between 9 and 64 = $\\sqrt{9 \\times 64} = 3 \\times 8 = 24$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "If $(a + b) : (b + c) : (c + a) = 7 : 6 : 5$ and $a + b + c = 27$, then what will be the value of $(1/a) : (1/b) : (1/c)$?",
+    "hi": "यदि $(a + b) : (b + c) : (c + a) = 7 : 6 : 5$ और $a + b + c = 27$ है, तो $(1/a) : (1/b) : (1/c)$ का मान क्या होगा?",
+    "oEn": ["4 : 3 : 6", "3 : 4 : 2", "3 : 2 : 4", "6 : 4 : 3"],
+    "oHi": ["4 : 3 : 6", "3 : 4 : 2", "3 : 2 : 4", "6 : 4 : 3"],
+    "c": 0,
+    "exp": "Let $a + b = 7k$, $b + c = 6k$, and $c + a = 5k$. Adding all three equations gives $2(a + b + c) = 18k \\implies a + b + c = 9k$. Now, $c = 9k - 7k = 2k$; $a = 9k - 6k = 3k$; $b = 9k - 5k = 4k$. Thus, the ratio $a : b : c = 3 : 4 : 2$. Therefore, $(1/a) : (1/b) : (1/c) = \\frac{1}{3} : \\frac{1}{4} : \\frac{1}{2}$. Multiplying each term by $\\text{LCM}(3, 4, 2) = 12$ gives $4 : 3 : 6$. Thus, option 0 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The ratio of the incomes of A and B last year was $4 : 3$, respectively. The ratios of their individual incomes of the last year and the present year are $3 : 4$ and $5 : 6$, respectively. If their total income for the present year is Rs. 8.04 lakh, then what was the income of B last year?",
+    "hi": "पिछले वर्ष A और B की आय का अनुपात क्रमशः $4 : 3$ था। पिछले वर्ष और वर्तमान वर्ष की उनकी व्यक्तिगत आय का अनुपात क्रमशः $3 : 4$ और $5 : 6$ है। यदि वर्तमान वर्ष के लिए उनकी कुल आय 8.04 लाख रुपये है, तो पिछले वर्ष B की आय क्या थी?",
+    "oEn": ["Rs. 2.4 lakh", "Rs. 2.8 lakh", "Rs. 3.6 lakh", "Rs. 2.7 lakh"],
+    "oHi": ["2.4 लाख रुपये", "2.8 लाख रुपये", "3.6 लाख रुपये", "2.7 लाख रुपये"],
+    "c": 3,
+    "exp": "Let the incomes of A and B last year be $60x$ and $45x$ (in the ratio $4 : 3$, multiplied by 15 for easy division by 3 and 5). Present year income of A = $60x \\times \\frac{4}{3} = 80x$. Present year income of B = $45x \\times \\frac{6}{5} = 54x$. Total present income = $80x + 54x = 134x$. Given $134x = 8.04$ lakh $\\implies x = \\frac{8.04}{134} = 0.06$ lakh. Therefore, B's income last year = $45x = 45 \\times 0.06 =$ Rs. 2.7 lakh. Thus, option 3 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The price of a diamond is directly proportional to the square of its weight. A person accidentally broke the diamond into three pieces in the ratio of $3 : 5 : 7$ and thus suffered a loss of Rs. 42,600. What was the original price of the diamond?",
+    "hi": "एक हीरे की कीमत उसके वजन के वर्ग के अनुक्रमानुपाती है। एक व्यक्ति से गलती से हीरा $3 : 5 : 7$ के अनुपात में तीन टुकड़ों में टूट गया और इस प्रकार उसे 42,600 रुपये की हानि हुई। हीरे की मूल कीमत क्या थी?",
+    "oEn": ["Rs. 64,500", "Rs. 67,500", "Rs. 72,000", "Rs. 75,000"],
+    "oHi": ["64,500 रुपये", "67,500 रुपये", "72,000 रुपये", "75,000 रुपये"],
+    "c": 1,
+    "exp": "Let the weights of the three pieces be 3, 5, and 7 units. Original weight of the diamond = $3 + 5 + 7 = 15$ units. Original price = $15^2 = 225$ units. Total price of the three broken pieces = $3^2 + 5^2 + 7^2 = 9 + 25 + 49 = 83$ units. Loss in price = $225 - 83 = 142$ units. Given 142 units = Rs. 42,600 $\\implies 1$ unit = Rs. 300. Original price = $225 \\times 300 =$ Rs. 67,500. Thus, option 1 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "On the whole surface of the earth, the ratio of land and water is $1 : 2$. The ratio of land and water in the northern hemisphere is $2 : 3$. What is the ratio of land and water in the southern hemisphere?",
+    "hi": "पृथ्वी की संपूर्ण सतह पर भूमि और जल का अनुपात $1 : 2$ है। उत्तरी गोलार्ध में भूमि और जल का अनुपात $2 : 3$ है। दक्षिणी गोलार्ध में भूमि और जल का अनुपात क्या है?",
+    "oEn": ["1 : 3", "2 : 9", "4 : 11", "3 : 11"],
+    "oHi": ["1 : 3", "2 : 9", "4 : 11", "3 : 11"],
+    "c": 2,
+    "exp": "Let the total surface area of the earth be 30 units (LCM of 3, 5, and 2). Total Land = $30 \\times \\frac{1}{3} = 10$ units, and Total Water = $30 \\times \\frac{2}{3} = 20$ units. The northern hemisphere is half of the earth, so its area = 15 units. In the northern hemisphere, Land = $15 \\times \\frac{2}{5} = 6$ units, and Water = $15 \\times \\frac{3}{5} = 9$ units. In the southern hemisphere, Land = $10 - 6 = 4$ units, and Water = $20 - 9 = 11$ units. Required ratio = $4 : 11$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A bag contains coins of Rs. 1, Rs. 2, and Rs. 5. The ratio of the total values of these coins is $4 : 5 : 8$, respectively. If the total number of coins in the bag is 486, then what is the total value (in Rs.) of the Rs. 2 coins?",
+    "hi": "एक बैग में 1 रुपये, 2 रुपये और 5 रुपये के सिक्के हैं। इन सिक्कों के कुल मूल्यों का अनुपात क्रमशः $4 : 5 : 8$ है। यदि बैग में सिक्कों की कुल संख्या 486 है, तो 2 रुपये के सिक्कों का कुल मूल्य (रुपये में) क्या है?",
+    "oEn": ["Rs. 250", "Rs. 350", "Rs. 400", "Rs. 300"],
+    "oHi": ["250 रुपये", "350 रुपये", "400 रुपये", "300 रुपये"],
+    "c": 3,
+    "exp": "Let the values of Rs. 1, Rs. 2, and Rs. 5 coins be Rs. $40k$, Rs. $50k$, and Rs. $80k$ respectively. Number of coins = $\\frac{\\text{Value}}{\\text{Denomination}}$. So, number of Rs. 1 coins = $\\frac{40k}{1} = 40k$; number of Rs. 2 coins = $\\frac{50k}{2} = 25k$; number of Rs. 5 coins = $\\frac{80k}{5} = 16k$. Total number of coins = $40k + 25k + 16k = 81k$. Given $81k = 486 \\implies k = 6$. Therefore, total value of Rs. 2 coins = $50k = 50 \\times 6 =$ Rs. 300. Thus, option 3 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "The monthly incomes of A and B are in the ratio $5 : 8$, and their monthly expenditures are in the ratio $2 : 3$. If the monthly income of A is equal to the monthly expenditure of B, then what is the ratio of the monthly savings of A and B?",
+    "hi": "A और B की मासिक आय $5 : 8$ के अनुपात में है, और उनके मासिक व्यय $2 : 3$ के अनुपात में हैं। यदि A की मासिक आय B के मासिक व्यय के बराबर है, तो A और B की मासिक बचत का अनुपात क्या है?",
+    "oEn": ["5 : 9", "3 : 7", "4 : 9", "5 : 8"],
+    "oHi": ["5 : 9", "3 : 7", "4 : 9", "5 : 8"],
+    "c": 0,
+    "exp": "Let the monthly incomes of A and B be $5x$ and $8x$, and their expenditures be $2y$ and $3y$. Given that income of A equals expenditure of B: $5x = 3y \\implies \\frac{x}{y} = \\frac{3}{5}$. Let $x = 3$ and $y = 5$. Then Incomes are: A = $5(3) = 15$, B = $8(3) = 24$. Expenditures are: A = $2(5) = 10$, B = $3(5) = 15$. Savings are: A = $15 - 10 = 5$, and B = $24 - 15 = 9$. Required ratio of savings = $5 : 9$. Thus, option 0 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Three vessels with capacities in the ratio $3 : 4 : 5$ are completely filled with a solution of milk and water. The ratio of milk and water in the three vessels is $4 : 1$, $3 : 1$, and $5 : 2$, respectively. If the contents of all three vessels are poured into a fourth large vessel, what is the ratio of milk to water in the fourth vessel?",
+    "hi": "$3 : 4 : 5$ के अनुपात में क्षमता वाले तीन बर्तन दूध और पानी के घोल से पूरी तरह भरे हुए हैं। तीनों बर्तनों में दूध और पानी का अनुपात क्रमशः $4 : 1$, $3 : 1$ और $5 : 2$ है। यदि तीनों बर्तनों की सामग्री को एक चौथे बड़े बर्तन में उड़ेल दिया जाए, तो चौथे बर्तन में दूध और पानी का अनुपात क्या होगा?",
+    "oEn": ["153 : 57", "157 : 53", "147 : 53", "157 : 49"],
+    "oHi": ["153 : 57", "157 : 53", "147 : 53", "157 : 49"],
+    "c": 1,
+    "exp": "Sum of ratio parts in the three vessels are $(4+1) = 5$, $(3+1) = 4$, and $(5+2) = 7$. $\\text{LCM}(5, 4, 7) = 140$. Let the capacities of the three vessels be $140 \\times 3 = 420$, $140 \\times 4 = 560$, and $140 \\times 5 = 700$ units. In Vessel 1: Milk = $420 \\times \\frac{4}{5} = 336$, Water = 84. In Vessel 2: Milk = $560 \\times \\frac{3}{4} = 420$, Water = 140. In Vessel 3: Milk = $700 \\times \\frac{5}{7} = 500$, Water = 200. Total Milk = $336 + 420 + 500 = 1256$. Total Water = $84 + 140 + 200 = 424$. Ratio = $1256 : 424$. Dividing by 8 gives $157 : 53$. Thus, option 1 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The fourth proportional to 12, 18, and 6 is equal to the third proportional to $k$ and 6. What is the mean proportional between $(k + 5)$ and $4k$?",
+    "hi": "12, 18 और 6 का चतुर्थानुपाती, $k$ और 6 के तृतीयानुपाती के बराबर है। $(k + 5)$ और $4k$ के बीच मध्यानुपाती क्या है?",
+    "oEn": ["10", "15", "18", "12"],
+    "oHi": ["10", "15", "18", "12"],
+    "c": 3,
+    "exp": "Fourth proportional to 12, 18, and 6 = $\\frac{18 \\times 6}{12} = 9$. Third proportional to $k$ and 6 = $\\frac{6 \\times 6}{k} = \\frac{36}{k}$. According to the question, $\\frac{36}{k} = 9 \\implies k = 4$. Now, $(k + 5) = 4 + 5 = 9$, and $4k = 4 \\times 4 = 16$. Mean proportional between 9 and 16 = $\\sqrt{9 \\times 16} = 3 \\times 4 = 12$. Thus, option 3 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "A sum of Rs. 11,280 was to be divided among A, B, and C in the ratio $\\frac{1}{3} : \\frac{1}{4} : \\frac{1}{5}$, but by mistake, it was divided in the ratio $3 : 4 : 5$. How much more or less money did C get due to this mistake?",
+    "hi": "11,280 रुपये की एक राशि को A, B और C के बीच $\\frac{1}{3} : \\frac{1}{4} : \\frac{1}{5}$ के अनुपात में विभाजित किया जाना था, लेकिन गलती से इसे $3 : 4 : 5$ के अनुपात में विभाजित कर दिया गया। इस गलती के कारण C को कितनी अधिक या कम राशि मिली?",
+    "oEn": ["Rs. 1,640 more", "Rs. 1,820 more", "Rs. 1,820 less", "Rs. 1,960 more"],
+    "oHi": ["1,640 रुपये अधिक", "1,820 रुपये अधिक", "1,820 रुपये कम", "1,960 रुपये अधिक"],
+    "c": 1,
+    "exp": "Correct ratio = $\\frac{1}{3} : \\frac{1}{4} : \\frac{1}{5}$. Multiplying by $\\text{LCM}(3, 4, 5) = 60$ gives $20 : 15 : 12$. Total parts = $20 + 15 + 12 = 47$. Correct share of C = $\\frac{12}{47} \\times 11280 = 12 \\times 240 =$ Rs. 2,880. Wrong ratio = $3 : 4 : 5$. Total parts = $3 + 4 + 5 = 12$. Wrong share of C = $\\frac{5}{12} \\times 11280 = 5 \\times 940 =$ Rs. 4,700. Difference = $4700 - 2880 =$ Rs. 1,820 more. Thus, option 1 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "In an examination, the ratio of the total number of applicants to the number of selected candidates was $19 : 17$. If 1,200 fewer candidates had applied and 1,400 fewer candidates had been selected, the ratio of the total number of applicants to the number of selected candidates would have been $13 : 10$. Find the initial number of applicants.",
+    "hi": "एक परीक्षा में, कुल आवेदकों की संख्या और चयनित उम्मीदवारों की संख्या का अनुपात $19 : 17$ था। यदि 1,200 कम उम्मीदवारों ने आवेदन किया होता और 1,400 कम उम्मीदवार चुने गए होते, तो कुल आवेदकों की संख्या और चयनित उम्मीदवारों की संख्या का अनुपात $13 : 10$ होता। आवेदकों की प्रारंभिक संख्या ज्ञात कीजिए।",
+    "oEn": ["3,400", "4,200", "3,800", "5,700"],
+    "oHi": ["3,400", "4,200", "3,800", "5,700"],
+    "c": 2,
+    "exp": "Let the initial number of applicants be $19x$ and selected candidates be $17x$. According to the condition: $\\frac{19x - 1200}{17x - 1400} = \\frac{13}{10}$. Cross-multiplying gives: $10(19x - 1200) = 13(17x - 1400) \\implies 190x - 12000 = 221x - 18200 \\implies 31x = 6200 \\implies x = 200$. Therefore, the initial number of applicants = $19 \\times 200 = 3,800$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "If $(a + b - c) : (b + c - a) : (a + c - b) = 5 : 6 : 7$, then find the ratio of $a : b : c$.",
+    "hi": "यदि $(a + b - c) : (b + c - a) : (a + c - b) = 5 : 6 : 7$ है, तो $a : b : c$ का अनुपात ज्ञात कीजिए।",
+    "oEn": ["12 : 11 : 13", "11 : 12 : 13", "13 : 11 : 12", "12 : 13 : 11"],
+    "oHi": ["12 : 11 : 13", "11 : 12 : 13", "13 : 11 : 12", "12 : 13 : 11"],
+    "c": 0,
+    "exp": "Let $a + b - c = 5k$, $b + c - a = 6k$, and $a + c - b = 7k$. Adding the first and third equations gives: $2a = 5k + 7k = 12k$. Adding the first and second equations gives: $2b = 5k + 6k = 11k$. Adding the second and third equations gives: $2c = 6k + 7k = 13k$. Therefore, $2a : 2b : 2c = 12 : 11 : 13 \\implies a : b : c = 12 : 11 : 13$. Thus, option 0 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A sum of Rs. 15,525 is divided among Sunil, Anil, and Jamil such that if Rs. 22, Rs. 35, and Rs. 48 are diminished from their shares respectively, their remaining sums are in the ratio $7 : 10 : 13$. What would be the ratio of their sums if Rs. 16, Rs. 77, and Rs. 37 respectively were added to their original shares?",
+    "hi": "15,525 रुपये की एक राशि को सुनील, अनिल और जमील के बीच इस प्रकार विभाजित किया जाता है कि यदि उनके हिस्सों में से क्रमशः 22 रुपये, 35 रुपये और 48 रुपये कम कर दिए जाएं, तो उनकी शेष राशियाँ $7 : 10 : 13$ के अनुपात में होती हैं। यदि उनके मूल हिस्सों में क्रमशः 16 रुपये, 77 रुपये और 37 रुपये जोड़ दिए जाएं, तो उनकी राशियों का अनुपात क्या होगा?",
+    "oEn": ["9 : 13 : 17", "18 : 26 : 35", "32 : 52 : 67", "36 : 52 : 67"],
+    "oHi": ["9 : 13 : 17", "18 : 26 : 35", "32 : 52 : 67", "36 : 52 : 67"],
+    "c": 3,
+    "exp": "Total amount reduced = $22 + 35 + 48 =$ Rs. 105. Remaining amount = $15525 - 105 =$ Rs. 15,420. Dividing Rs. 15,420 in the ratio $7 : 10 : 13$ (total 30 parts), 1 part = $\\frac{15420}{30} = 514$. Remaining shares are: Sunil = $7 \\times 514 = 3598$, Anil = $10 \\times 514 = 5140$, Jamil = $13 \\times 514 = 6682$. Original shares: Sunil = $3598 + 22 = 3620$, Anil = $5140 + 35 = 5175$, Jamil = $6682 + 48 = 6730$. After adding Rs. 16, Rs. 77, and Rs. 37: Sunil = $3620 + 16 = 3636$; Anil = $5175 + 77 = 5252$; Jamil = $6730 + 37 = 6767$. Dividing each by 101 gives the ratio $36 : 52 : 67$. Thus, option 3 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "If $A : B = \\frac{1}{2} : \\frac{3}{8}$, $B : C = \\frac{1}{3} : \\frac{5}{9}$, and $C : D = \\frac{5}{6} : \\frac{3}{4}$, then what is the ratio $A : B : C : D$?",
+    "hi": "यदि $A : B = \\frac{1}{2} : \\frac{3}{8}$, $B : C = \\frac{1}{3} : \\frac{5}{9}$, और $C : D = \\frac{5}{6} : \\frac{3}{4}$ है, तो $A : B : C : D$ का अनुपात क्या है?",
+    "oEn": ["4 : 6 : 8 : 9", "6 : 4 : 8 : 10", "8 : 6 : 10 : 9", "6 : 8 : 9 : 10"],
+    "oHi": ["4 : 6 : 8 : 9", "6 : 4 : 8 : 10", "8 : 6 : 10 : 9", "6 : 8 : 9 : 10"],
+    "c": 2,
+    "exp": "Simplifying each individual ratio: $A : B = \\frac{1}{2} \\times 8 : \\frac{3}{8} \\times 8 = 4 : 3$. $B : C = \\frac{1}{3} \\times 9 : \\frac{5}{9} \\times 9 = 3 : 5$. $C : D = \\frac{5}{6} \\times 12 : \\frac{3}{4} \\times 12 = 10 : 9$. Combining $A : B$ and $B : C$ gives $A : B : C = 4 : 3 : 5 = 8 : 6 : 10$. Combining this with $C : D = 10 : 9$ gives $A : B : C : D = 8 : 6 : 10 : 9$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The train fares of First Class, Second Class, and Third Class between two stations are in the ratio $8 : 6 : 3$. The number of passengers travelling in these classes is in the ratio $3 : 4 : 12$, respectively. If the total fare collected on a particular day is Rs. 42,000, find the total fare collected from the Second Class passengers.",
+    "hi": "दो स्टेशनों के बीच प्रथम श्रेणी, द्वितीय श्रेणी और तृतीय श्रेणी के ट्रेन किराए $8 : 6 : 3$ के अनुपात में हैं। इन श्रेणियों में यात्रा करने वाले यात्रियों की संख्या क्रमशः $3 : 4 : 12$ के अनुपात में है। यदि किसी विशेष दिन एकत्रित कुल किराया 42,000 रुपये है, तो द्वितीय श्रेणी के यात्रियों से एकत्रित कुल किराया ज्ञात कीजिए।",
+    "oEn": ["Rs. 10,000", "Rs. 12,000", "Rs. 15,000", "Rs. 18,000"],
+    "oHi": ["10,000 रुपये", "12,000 रुपये", "15,000 रुपये", "18,000 रुपये"],
+    "c": 1,
+    "exp": "Ratio of total fare collected from the three classes = $(\\text{Fare ratio} \\times \\text{Passenger ratio}) = (8 \\times 3) : (6 \\times 4) : (3 \\times 12) = 24 : 24 : 36$. Dividing by 12 simplifies the ratio to $2 : 2 : 3$. Total ratio parts = $2 + 2 + 3 = 7$. Fare collected from Second Class passengers = $\\frac{2}{7} \\times 42000 =$ Rs. 12,000. Thus, option 1 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "The ratio of the number of boys and girls in a school is $3 : 2$. If 20% of the boys and 25% of the girls are scholarship holders, then what is the ratio of the students who get the scholarship to those who do NOT get the scholarship?",
+    "hi": "एक स्कूल में लड़कों और लड़कियों की संख्या का अनुपात $3 : 2$ है। यदि 20% लड़के और 25% लड़कियाँ छात्रवृत्ति धारक हैं, तो छात्रवृत्ति प्राप्त करने वाले छात्रों और छात्रवृत्ति प्राप्त न करने वाले छात्रों का अनुपात क्या है?",
+    "oEn": ["11 : 39", "11 : 50", "13 : 37", "39 : 11"],
+    "oHi": ["11 : 39", "11 : 50", "13 : 37", "39 : 11"],
+    "c": 0,
+    "exp": "Let the number of boys be 300 and girls be 200 (total students = 500). Boys with scholarship = 20% of 300 = 60. Girls with scholarship = 25% of 200 = 50. Total students who get the scholarship = $60 + 50 = 110$. Students who do NOT get the scholarship = $500 - 110 = 390$. Required ratio = $110 : 390 = 11 : 39$. Thus, option 0 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A sum of Rs. 25,200 is divided among A, B, C, and D such that the ratio of the share of A to the combined share of B, C, and D is $2 : 5$, the ratio of the share of B to the combined share of A, C, and D is $1 : 2$, and the ratio of the share of C to the combined share of A, B, and D is $5 : 13$. What is the share of D?",
+    "hi": "25,200 रुपये की एक राशि को A, B, C और D के बीच इस प्रकार विभाजित किया जाता है कि A के हिस्से का B, C और D के संयुक्त हिस्से से अनुपात $2 : 5$ है, B के हिस्से का A, C और D के संयुक्त हिस्से से अनुपात $1 : 2$ है, और C के हिस्से का A, B और D के संयुक्त हिस्से से अनुपात $5 : 13$ है। D का हिस्सा क्या है?",
+    "oEn": ["Rs. 2,200", "Rs. 2,400", "Rs. 2,800", "Rs. 2,600"],
+    "oHi": ["2,200 रुपये", "2,400 रुपये", "2,800 रुपये", "2,600 रुपये"],
+    "c": 3,
+    "exp": "From the given ratios, A gets $\\frac{2}{2+5} = \\frac{2}{7}$ of the total sum; B gets $\\frac{1}{1+2} = \\frac{1}{3}$ of the total sum; C gets $\\frac{5}{5+13} = \\frac{5}{18}$ of the total sum. Let the total sum be $\\text{LCM}(7, 3, 18) = 126$ units. Then A = $\\frac{2}{7} \\times 126 = 36$ units; B = $\\frac{1}{3} \\times 126 = 42$ units; C = $\\frac{5}{18} \\times 126 = 35$ units. Therefore, D's share = $126 - (36 + 42 + 35) = 126 - 113 = 13$ units. Given 126 units = Rs. 25,200 $\\implies 1$ unit = Rs. 200. Thus, D's share = $13 \\times 200 =$ Rs. 2,600. Option 3 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The speed of a railway engine without any wagon is 40 km/h. The reduction in the speed of the engine is directly proportional to the square root of the number of wagons attached to it. If the speed of the engine drops to 28 km/h when 9 wagons are attached, what is the maximum number of wagons that the engine can pull so that it can still move?",
+    "hi": "बिना किसी डिब्बे (वैगन) के एक रेलवे इंजन की गति 40 किमी/घंटा है। इंजन की गति में कमी उससे जुड़े डिब्बों की संख्या के वर्गमूल के अनुक्रमानुपाती है। यदि 9 डिब्बे जोड़ने पर इंजन की गति घटकर 28 किमी/घंटा रह जाती है, तो इंजन अधिकतम कितने डिब्बे खींच सकता है ताकि वह गतिमान रह सके?",
+    "oEn": ["99", "100", "101", "98"],
+    "oHi": ["99", "100", "101", "98"],
+    "c": 0,
+    "exp": "Let the speed of the engine with $n$ wagons be $S = 40 - k\\sqrt{n}$, where $k$ is a constant. When $n = 9$, $S = 28$: $28 = 40 - k\\sqrt{9} \\implies 3k = 12 \\implies k = 4$. Now, the speed becomes zero when $40 - 4\\sqrt{n} = 0 \\implies \\sqrt{n} = 10 \\implies n = 100$. Since the engine comes to a complete halt with 100 wagons, the maximum number of wagons it can pull while still moving is $100 - 1 = 99$. Thus, option 0 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "If $(4x^2 - 3y^2) : (2x^2 + 5y^2) = 12 : 19$, where $x, y > 0$, then what is the ratio of $(2x + 3y) : (3x - y)$?",
+    "hi": "यदि $(4x^2 - 3y^2) : (2x^2 + 5y^2) = 12 : 19$ है, जहाँ $x, y > 0$ हैं, तो $(2x + 3y) : (3x - y)$ का अनुपात क्या है?",
+    "oEn": ["10 : 7", "11 : 7", "12 : 7", "13 : 7"],
+    "oHi": ["10 : 7", "11 : 7", "12 : 7", "13 : 7"],
+    "c": 2,
+    "exp": "Cross-multiplying the given ratio: $19(4x^2 - 3y^2) = 12(2x^2 + 5y^2) \\implies 76x^2 - 57y^2 = 24x^2 + 60y^2 \\implies 52x^2 = 117y^2$. Dividing both sides by 13 gives $4x^2 = 9y^2 \\implies \\frac{x^2}{y^2} = \\frac{9}{4}$. Since $x, y > 0$, $\\frac{x}{y} = \\frac{3}{2}$. Substituting $x = 3$ and $y = 2$ into $(2x + 3y) : (3x - y)$ gives $(2(3) + 3(2)) : (3(3) - 2) = (6 + 6) : (9 - 2) = 12 : 7$. Thus, option 2 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "The ratio of the incomes of A, B, and C is $3 : 7 : 4$ and the ratio of their expenditures is $4 : 3 : 5$. If A saves Rs. 300 out of an income of Rs. 2,400, then what is the difference between the savings of B and C?",
+    "hi": "A, B और C की आय का अनुपात $3 : 7 : 4$ है और उनके व्यय का अनुपात $4 : 3 : 5$ है। यदि A, 2,400 रुपये की आय में से 300 रुपये बचाता है, तो B और C की बचत के बीच का अंतर क्या है?",
+    "oEn": ["Rs. 3,250", "Rs. 3,450", "Rs. 3,650", "Rs. 4,025"],
+    "oHi": ["3,250 रुपये", "3,450 रुपये", "3,650 रुपये", "4,025 रुपये"],
+    "c": 1,
+    "exp": "Income of A = $3x =$ Rs. 2,400 $\\implies x =$ Rs. 800. Therefore, Income of B = $7 \\times 800 =$ Rs. 5,600, and Income of C = $4 \\times 800 =$ Rs. 3,200. Expenditure of A = $2400 - 300 =$ Rs. 2,100. Given Expenditure of A = $4y = 2100 \\implies y =$ Rs. 525. Expenditure of B = $3 \\times 525 =$ Rs. 1,575, and Expenditure of C = $5 \\times 525 =$ Rs. 2,625. Savings of B = $5600 - 1575 =$ Rs. 4,025. Savings of C = $3200 - 2625 =$ Rs. 575. Difference between savings of B and C = $4025 - 575 =$ Rs. 3,450. Thus, option 1 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  }
+]
