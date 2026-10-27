@@ -1,0 +1,182 @@
+[
+  {
+    "en": "A dishonest dealer marks up his goods by 20% and then gives a discount of 10%. Besides, he uses a faulty weight of 900 grams instead of 1 kg. What is his overall profit percentage?",
+    "hi": "एक बेईमान व्यापारी अपने माल पर 20% अधिक मूल्य अंकित करता है और फिर 10% की छूट देता है। इसके अलावा, वह 1 किलो के स्थान पर 900 ग्राम के दोषपूर्ण वजन का उपयोग करता है। उसका कुल लाभ प्रतिशत क्या है?",
+    "oEn": ["22%", "20%", "25%", "18%"],
+    "oHi": ["22%", "20%", "25%", "18%"],
+    "c": 1,
+    "exp": "Let the cost price of 1000 grams be Rs. 1000. The marked price for 1000g = Rs. 1200. After a $10\\%$ discount, the selling price = $1200 - 120 =$ Rs. 1080. However, he gives only 900 grams instead of 1000 grams. The actual cost to the dealer for 900 grams = Rs. 900. Profit = SP - Actual CP = $1080 - 900 =$ Rs. 180. Overall profit percentage = $\\frac{180}{900} \\times 100 = 20\\%$. Thus, option 1 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Two articles are sold for Rs. 11,250 each. On one, the seller gains 25% and on the other, he loses 10%. What is his overall gain or loss percentage?",
+    "hi": "दो वस्तुएं 11,250 रुपये प्रत्येक में बेची जाती हैं। एक पर विक्रेता को 25% का लाभ होता है और दूसरी पर 10% की हानि होती है। उसका कुल लाभ या हानि प्रतिशत क्या है?",
+    "oEn": ["4 (18/43)% Profit", "4 (28/43)% Loss", "4 (28/43)% Profit", "5 (15/43)% Profit"],
+    "oHi": ["4 (18/43)% लाभ", "4 (28/43)% हानि", "4 (28/43)% लाभ", "5 (15/43)% लाभ"],
+    "c": 2,
+    "exp": "Selling Price of each article = Rs. 11,250. Total SP = $11250 \\times 2 = 22500$. Cost Price of the first article ($25\\%$ gain) = $\\frac{11250}{1.25} = 9000$. Cost Price of the second article ($10\\%$ loss) = $\\frac{11250}{0.90} = 12500$. Total Cost Price = $9000 + 12500 = 21500$. Total Profit = $22500 - 21500 = 1000$. Profit percentage = $\\frac{1000}{21500} \\times 100 = \\frac{100}{21.5} = \\frac{200}{43} = 4\\frac{28}{43}\\%$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "An article is sold at a profit of 14%. If both the cost price and the selling price are reduced by Rs. 117, the profit increases by 9% (i.e. it becomes 23%). Find the original cost price of the article.",
+    "hi": "एक वस्तु को 14% के लाभ पर बेचा जाता है। यदि क्रय मूल्य और विक्रय मूल्य दोनों में 117 रुपये की कमी की जाती है, तो लाभ में 9% की वृद्धि होती है (अर्थात यह 23% हो जाता है)। वस्तु का मूल क्रय मूल्य ज्ञात कीजिए।",
+    "oEn": ["Rs. 312", "Rs. 287", "Rs. 325", "Rs. 299"],
+    "oHi": ["312 रुपये", "287 रुपये", "325 रुपये", "299 रुपये"],
+    "c": 3,
+    "exp": "Let the original CP be $100x$. Original SP = $114x$. New CP = $100x - 117$. New SP = $114x - 117$. The new profit is $14\\% + 9\\% = 23\\%$. Therefore, $(114x - 117) - (100x - 117) = 23\\%$ of $(100x - 117)$. This gives $14x = 0.23(100x - 117) \\implies 14x = 23x - 26.91 \\implies 9x = 26.91 \\implies x = 2.99$. Original CP = $100x = 100 \\times 2.99 =$ Rs. 299. Thus, option 3 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "A shopkeeper offers 'Buy 5 Get 3 Free' and gives an additional discount of 20%. If he still earns a profit of 25%, find the ratio of the Cost Price to the Marked Price of a single article.",
+    "hi": "एक दुकानदार '5 खरीदें 3 मुफ्त पाएं' का प्रस्ताव देता है और 20% की अतिरिक्त छूट भी देता है। यदि वह अभी भी 25% का लाभ कमाता है, तो एक वस्तु के क्रय मूल्य और अंकित मूल्य का अनुपात ज्ञात कीजिए।",
+    "oEn": ["2 : 7", "3 : 8", "2 : 5", "1 : 3"],
+    "oHi": ["2 : 7", "3 : 8", "2 : 5", "1 : 3"],
+    "c": 2,
+    "exp": "Let the Marked Price of 1 article be 100. Total MP for 8 articles = 800. The customer gets 8 articles but is billed for 5. So, price before additional discount = 500. After an additional $20\\%$ discount, the Selling Price = $500 - (20\\% \\text{ of } 500) = 400$. Profit earned is $25\\%$, so Cost Price = $\\frac{\\text{SP}}{1.25} = \\frac{400}{1.25} = 320$. Therefore, CP for 8 articles = 320, MP for 8 articles = 800. The ratio of CP to MP is $320 : 800 = 2 : 5$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A dishonest shopkeeper cheats by 10% in weight while buying goods and cheats by 20% in weight while selling them. If he sells the goods at a 10% markup on the cost price, what is his actual profit percentage?",
+    "hi": "एक बेईमान दुकानदार सामान खरीदते समय वजन में 10% की बेईमानी करता है और उन्हें बेचते समय वजन में 20% की बेईमानी करता है। यदि वह लागत मूल्य पर 10% अधिक मूल्य अंकित करके सामान बेचता है, तो उसका वास्तविक लाभ प्रतिशत क्या है?",
+    "oEn": ["51.25%", "56.25%", "48.5%", "53.75%"],
+    "oHi": ["51.25%", "56.25%", "48.5%", "53.75%"],
+    "c": 0,
+    "exp": "Let the standard rate be Rs. 1000 for 1000g. Cheating while buying by $10\\%$: he takes 1100g but pays Rs. 1000. His CP per gram = $\\frac{1000}{1100} = \\frac{10}{11}$ Rs. He marks up the rate by $10\\%$, meaning he claims to charge Rs. 1100 for 1000g. Cheating while selling by $20\\%$: he gives only 800g instead of 1000g, but charges Rs. 1100. The SP of 800g = Rs. 1100, so SP per gram = $\\frac{1100}{800} = \\frac{11}{8}$ Rs. Profit percentage = $\\left(\\frac{\\text{SP} - \\text{CP}}{\\text{CP}}\\right) \\times 100 = \\left(\\frac{\\frac{11}{8} - \\frac{10}{11}}{\\frac{10}{11}}\\right) \\times 100 = \\left(\\frac{121 - 80}{88}\\right) \\times \\frac{11}{10} \\times 100 = \\frac{41}{88} \\times \\frac{11}{10} \\times 100 = \\frac{41}{80} \\times 100 = 51.25\\%$. Thus, option 0 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "A man buys some pens for Rs. 5,400. He sells 2/5th of them at a 15% profit. At what profit percentage should he sell the remaining pens to gain an overall profit of 24%?",
+    "hi": "एक व्यक्ति 5,400 रुपये में कुछ पेन खरीदता है। वह उनमें से 2/5 भाग 15% लाभ पर बेचता है। शेष पेन को उसे कितने प्रतिशत लाभ पर बेचना चाहिए ताकि उसे कुल 24% का लाभ हो?",
+    "oEn": ["32%", "28%", "35%", "30%"],
+    "oHi": ["32%", "28%", "35%", "30%"],
+    "c": 3,
+    "exp": "Let the total number of parts be 5. He sells 2 parts at $15\\%$ profit and the remaining 3 parts at $x\\%$ profit. To get an overall profit of $24\\%$ on 5 parts, the weighted average equation is: $(2 \\times 15) + (3 \\times x) = 5 \\times 24 \\implies 30 + 3x = 120 \\implies 3x = 90 \\implies x = 30\\%$. Note: The absolute value of Rs. 5400 is not needed for the calculation. Thus, option 3 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The price of sugar is increased by 25%. Due to this, a family purchases 10 kg less sugar for Rs. 400. What was the original price of sugar per kg?",
+    "hi": "चीनी की कीमत में 25% की वृद्धि हो जाती है। इसके कारण, एक परिवार 400 रुपये में 10 किलो कम चीनी खरीदता है। प्रति किलो चीनी की मूल कीमत क्या थी?",
+    "oEn": ["Rs. 12", "Rs. 10", "Rs. 8", "Rs. 6"],
+    "oHi": ["12 रुपये", "10 रुपये", "8 रुपये", "6 रुपये"],
+    "c": 2,
+    "exp": "Let the original price be $P$ per kg. Original consumption = $\\frac{400}{P}$. New price = $1.25P$. New consumption = $\\frac{400}{1.25P} = \\frac{320}{P}$. The difference in consumption is 10 kg. Therefore, $\\frac{400}{P} - \\frac{320}{P} = 10 \\implies \\frac{80}{P} = 10 \\implies P =$ Rs. 8. Original price was Rs. 8 per kg. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "What is the difference in Rs between a single discount of 35% and two successive discounts of 20% and 20% on an article with a marked price of Rs. 4,500?",
+    "hi": "4,500 रुपये अंकित मूल्य वाली किसी वस्तु पर 35% की एकल छूट और 20% तथा 20% की दो क्रमिक छूटों के बीच रुपये में क्या अंतर है?",
+    "oEn": ["Rs. 50", "Rs. 45", "Rs. 40", "Rs. 55"],
+    "oHi": ["50 रुपये", "45 रुपये", "40 रुपये", "55 रुपये"],
+    "c": 1,
+    "exp": "Single discount = $35\\%$. The equivalent discount for two successive discounts of $20\\%$ and $20\\%$ = $20 + 20 - \\frac{20 \\times 20}{100} = 40 - 4 = 36\\%$. The difference in discount percentages = $36\\% - 35\\% = 1\\%$. The difference in amount = $1\\%$ of 4500 = $\\frac{1}{100} \\times 4500 =$ Rs. 45. Thus, option 1 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The cost price of 24 articles is equal to the selling price of 18 articles. Furthermore, the discount offered on 10 articles is equal to the profit earned on 5 articles. What is the difference between the profit percentage and discount percentage?",
+    "hi": "24 वस्तुओं का क्रय मूल्य 18 वस्तुओं के विक्रय मूल्य के बराबर है। इसके अलावा, 10 वस्तुओं पर दी गई छूट 5 वस्तुओं पर अर्जित लाभ के बराबर है। लाभ प्रतिशत और छूट प्रतिशत के बीच का अंतर क्या है?",
+    "oEn": ["22.22%", "25.22%", "20.22%", "18.22%"],
+    "oHi": ["22.22%", "25.22%", "20.22%", "18.22%"],
+    "c": 0,
+    "exp": "$24\\text{ CP} = 18\\text{ SP} \\implies \\frac{\\text{CP}}{\\text{SP}} = \\frac{18}{24} = \\frac{3}{4}$. Profit = $\\text{SP} - \\text{CP} = 4 - 3 = 1$. Profit $\\%$ = $\\frac{1}{3} \\times 100 = 33.33\\%$. Also given, $10 \\times \\text{Discount} = 5 \\times \\text{Profit} \\implies \\frac{\\text{Discount}}{\\text{Profit}} = \\frac{5}{10} = \\frac{1}{2}$. If Profit is 1 unit, then Discount is 0.5 units. Marked Price (MP) = $\\text{SP} + \\text{Discount} = 4 + 0.5 = 4.5$. Discount $\\%$ = $\\frac{\\text{Discount}}{\\text{MP}} \\times 100 = \\frac{0.5}{4.5} \\times 100 = \\frac{1}{9} \\times 100 = 11.11\\%$. Difference between Profit $\\%$ and Discount $\\%$ = $33.33\\% - 11.11\\% = 22.22\\%$. Thus, option 0 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "Shopkeeper A calculates his profit percentage on the selling price and finds it to be 20%. Shopkeeper B calculates his profit percentage on the cost price and it is also 20%. If both sell their articles at the same selling price of Rs. 3,000, what is the difference between their actual profits?",
+    "hi": "दुकानदार A अपने लाभ प्रतिशत की गणना विक्रय मूल्य पर करता है और यह 20% पाता है। दुकानदार B अपने लाभ प्रतिशत की गणना क्रय मूल्य पर करता है और यह भी 20% है। यदि दोनों अपनी वस्तुएं समान विक्रय मूल्य 3,000 रुपये पर बेचते हैं, तो उनके वास्तविक लाभों के बीच क्या अंतर है?",
+    "oEn": ["Rs. 125", "Rs. 100", "Rs. 50", "Rs. 75"],
+    "oHi": ["125 रुपये", "100 रुपये", "50 रुपये", "75 रुपये"],
+    "c": 1,
+    "exp": "For Shopkeeper A: $\\text{SP} = 3000$. He calculates profit on SP, so Profit = $20\\%$ of $3000 =$ Rs. 600. For Shopkeeper B: $\\text{SP} = 3000$. He calculates profit on CP, so $\\text{SP} = 120\\%$ of CP $\\implies \\text{CP} = \\frac{3000}{1.2} = 2500$. B's Profit = $\\text{SP} - \\text{CP} = 3000 - 2500 =$ Rs. 500. Difference in actual profit = $600 - 500 =$ Rs. 100. Thus, option 1 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A trader marks his goods 40% above the cost price. He sells 70% of the goods at the marked price, and the remaining 30% at a 40% discount on the marked price. What is his overall profit percentage?",
+    "hi": "एक व्यापारी अपने माल पर क्रय मूल्य से 40% अधिक मूल्य अंकित करता है। वह 70% माल अंकित मूल्य पर और शेष 30% माल अंकित मूल्य पर 40% की छूट के साथ बेचता है। उसका कुल लाभ प्रतिशत क्या है?",
+    "oEn": ["21.6%", "25.4%", "19.8%", "23.2%"],
+    "oHi": ["21.6%", "25.4%", "19.8%", "23.2%"],
+    "c": 3,
+    "exp": "Let total goods be 100 units and CP per unit = Rs. 10. Total CP = 1000. Marked Price (MP) per unit = $10 \\times 1.40 =$ Rs. 14. He sells 70 units at Rs. 14, fetching $70 \\times 14 = 980$. The remaining 30 units are sold at $40\\%$ discount on MP, meaning SP = $14 \\times 0.60 =$ Rs. 8.4. SP for these 30 units = $30 \\times 8.4 = 252$. Total SP = $980 + 252 = 1232$. Profit = Total SP - Total CP = $1232 - 1000 = 232$. Overall profit percentage = $\\frac{232}{1000} \\times 100 = 23.2\\%$. Thus, option 3 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "1/3rd of a commodity is sold at 15% profit, 1/4th is sold at 20% profit, and the rest at 24% profit. If the total profit earned is Rs. 6,240, what is the cost price of the commodity?",
+    "hi": "एक वस्तु का 1/3 भाग 15% लाभ पर, 1/4 भाग 20% लाभ पर और शेष भाग 24% लाभ पर बेचा जाता है। यदि अर्जित कुल लाभ 6,240 रुपये है, तो वस्तु का क्रय मूल्य क्या है?",
+    "oEn": ["Rs. 31,200", "Rs. 34,500", "Rs. 30,000", "Rs. 28,600"],
+    "oHi": ["31,200 रुपये", "34,500 रुपये", "30,000 रुपये", "28,600 रुपये"],
+    "c": 0,
+    "exp": "Let the total parts of the commodity be 12 units (LCM of 3 and 4) and let the CP of 12 units be $1200x$. Part 1 = $\\frac{1}{3}$ of 12 = 4 units. CP = $400x$. Profit = $15\\%$ of $400x = 60x$. Part 2 = $\\frac{1}{4}$ of 12 = 3 units. CP = $300x$. Profit = $20\\%$ of $300x = 60x$. Part 3 = Rest = $12 - 7 = 5$ units. CP = $500x$. Profit = $24\\%$ of $500x = 120x$. Total profit = $60x + 60x + 120x = 240x$. Given $240x = 6240 \\implies x = 26$. Total cost price = $1200x = 1200 \\times 26 =$ Rs. 31,200. Thus, option 0 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "An article is sold for Rs. 875 such that the numeric value of the profit percentage is exactly equal to its cost price. What is the cost price of the article?",
+    "hi": "एक वस्तु को 875 रुपये में इस प्रकार बेचा जाता है कि लाभ प्रतिशत का संख्यात्मक मान उसके क्रय मूल्य के ठीक बराबर होता है। वस्तु का क्रय मूल्य क्या है?",
+    "oEn": ["Rs. 300", "Rs. 250", "Rs. 225", "Rs. 200"],
+    "oHi": ["300 रुपये", "250 रुपये", "225 रुपये", "200 रुपये"],
+    "c": 1,
+    "exp": "Let the cost price be $x$. Profit percentage = $x\\%$. Profit = $x \\times \\frac{x}{100} = \\frac{x^2}{100}$. We know that $\\text{CP} + \\text{Profit} = \\text{SP}$. So, $x + \\frac{x^2}{100} = 875 \\implies x^2 + 100x - 87500 = 0$. Solving the quadratic equation, $(x + 350)(x - 250) = 0$. Since cost price cannot be negative, $x = 250$. Verification: CP = 250, Profit $\\%$ = $250\\%$. Profit amount = $250 \\times 2.5 = 625$. SP = $250 + 625 = 875$. Thus, option 1 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A shopkeeper mixes two varieties of tea, one costing Rs. 240 per kg and the other Rs. 300 per kg in the ratio 3 : 2. If he sells the mixed variety at Rs. 316.80 per kg, what is his profit percentage?",
+    "hi": "एक दुकानदार चाय की दो किस्मों को, जिनमें से एक की कीमत 240 रुपये प्रति किलो और दूसरे की 300 रुपये प्रति किलो है, 3 : 2 के अनुपात में मिलाता है। यदि वह मिश्रित किस्म को 316.80 रुपये प्रति किलो के हिसाब से बेचता है, तो उसका लाभ प्रतिशत क्या है?",
+    "oEn": ["20%", "25%", "18%", "15%"],
+    "oHi": ["20%", "25%", "18%", "15%"],
+    "c": 0,
+    "exp": "Cost price of 5 kg of the mixture = $(3 \\times 240) + (2 \\times 300) = 720 + 600 =$ Rs. 1320. Average CP per kg = $\\frac{1320}{5} =$ Rs. 264. Selling price per kg = Rs. 316.80. Profit per kg = $316.80 - 264 =$ Rs. 52.80. Profit percentage = $\\frac{52.80}{264} \\times 100 = \\frac{5280}{264} = 20\\%$. Thus, option 0 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "A company offers four types of discount schemes: \nI. Two successive discounts of 20% and 20%\nII. Buy 5 get 3 free\nIII. Buy 4 get 3 free\nIV. Two successive discounts of 30% and 10%\nWhich offer is the best for a customer?",
+    "hi": "एक कंपनी चार प्रकार की छूट योजनाओं की पेशकश करती है:\nI. 20% और 20% की दो क्रमिक छूट\nII. 5 खरीदें 3 मुफ्त पाएं\nIII. 4 खरीदें 3 मुफ्त पाएं\nIV. 30% और 10% की दो क्रमिक छूट\nग्राहक के लिए कौन सा प्रस्ताव सबसे अच्छा है?",
+    "oEn": ["Scheme II", "Scheme IV", "Scheme I", "Scheme III"],
+    "oHi": ["योजना II", "योजना IV", "योजना I", "योजना III"],
+    "c": 3,
+    "exp": "Best for the customer is the one yielding the maximum discount percentage. Scheme I = $20 + 20 - \\frac{20 \\times 20}{100} = 36\\%$. Scheme II = Buy 5 get 3 free implies 3 free out of a total 8 items. Discount = $\\frac{3}{8} \\times 100 = 37.5\\%$. Scheme III = Buy 4 get 3 free implies 3 free out of a total 7 items. Discount = $\\frac{3}{7} \\times 100 = 42.85\\%$. Scheme IV = $30 + 10 - \\frac{30 \\times 10}{100} = 37\\%$. Scheme III gives the highest discount, making it best for the customer. Thus, option 3 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "A merchant claims to sell his goods at a loss of 15%, but he secretly uses a weight of 750 grams instead of 1 kg. What is his actual profit or loss percentage?",
+    "hi": "एक व्यापारी अपने माल को 15% की हानि पर बेचने का दावा करता है, लेकिन वह गुप्त रूप से 1 किलो के स्थान पर 750 ग्राम वजन का उपयोग करता है। उसका वास्तविक लाभ या हानि प्रतिशत क्या है?",
+    "oEn": ["15.55% Profit", "11.11% Profit", "12% Loss", "13.33% Profit"],
+    "oHi": ["15.55% लाभ", "11.11% लाभ", "12% हानि", "13.33% लाभ"],
+    "c": 3,
+    "exp": "Let the CP of 1000g be Rs. 1000. He claims a $15\\%$ loss, so he sets the SP for 1000g at Rs. 850. But he delivers only 750g. His actual CP for the 750g given = Rs. 750. So, he is selling goods worth Rs. 750 for Rs. 850. Profit = $850 - 750 =$ Rs. 100. Profit percentage = $\\frac{100}{750} \\times 100 = \\frac{1000}{75} = \\frac{40}{3} = 13.33\\%$. Thus, option 3 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "The marked price of an article is Rs. 7,440. A shopkeeper allows a discount of 16% on it and still earns a profit of 26%. If he had sold it without offering any discount, what would have been his profit percentage?",
+    "hi": "एक वस्तु का अंकित मूल्य 7,440 रुपये है। एक दुकानदार इस पर 16% की छूट देता है और फिर भी 26% का लाभ कमाता है। यदि उसने बिना कोई छूट दिए इसे बेचा होता, तो उसका लाभ प्रतिशत क्या होता?",
+    "oEn": ["50%", "54%", "46%", "42%"],
+    "oHi": ["50%", "54%", "46%", "42%"],
+    "c": 0,
+    "exp": "The formula relating MP and CP is: $\\frac{\\text{MP}}{\\text{CP}} = \\frac{100 + \\text{Profit}\\%}{100 - \\text{Discount}\\%}$. $\\frac{\\text{MP}}{\\text{CP}} = \\frac{100 + 26}{100 - 16} = \\frac{126}{84} = \\frac{3}{2} = 1.5$. This means MP is 1.5 times CP. If sold without any discount, the selling price equals the Marked Price. Profit = $\\text{MP} - \\text{CP} = 1.5\\text{CP} - \\text{CP} = 0.5\\text{CP}$. Profit percentage = $\\frac{0.5\\text{CP}}{\\text{CP}} \\times 100 = 50\\%$. The absolute value (Rs. 7,440) is completely unnecessary for finding the percentage. Thus, option 0 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "Manufacturer A sells a machine to wholesaler B at a profit of 20%. Wholesaler B sells it to retailer C at a profit of 15%. Retailer C sells it to a customer for Rs. 11,592 at a profit of 20%. What was the cost price of the machine for manufacturer A?",
+    "hi": "निर्माता A, थोक व्यापारी B को एक मशीन 20% लाभ पर बेचता है। थोक व्यापारी B इसे खुदरा विक्रेता C को 15% लाभ पर बेचता है। खुदरा विक्रेता C इसे ग्राहक को 20% लाभ पर 11,592 रुपये में बेचता है। निर्माता A के लिए मशीन का क्रय मूल्य क्या था?",
+    "oEn": ["Rs. 7,500", "Rs. 8,000", "Rs. 7,000", "Rs. 6,500"],
+    "oHi": ["7,500 रुपये", "8,000 रुपये", "7,000 रुपये", "6,500 रुपये"],
+    "c": 2,
+    "exp": "Let the cost price for Manufacturer A be $x$. The selling chain results in successive percentage increases. Final Selling Price = $x \\times 1.20 \\times 1.15 \\times 1.20 = 11592 \\implies x \\times \\frac{120}{100} \\times \\frac{115}{100} \\times \\frac{120}{100} = 11592 \\implies x \\times \\frac{6}{5} \\times \\frac{23}{20} \\times \\frac{6}{5} = 11592 \\implies x \\times \\frac{828}{500} = 11592$. Solving for $x$: $x = \\frac{11592 \\times 500}{828}$. Since $828 \\times 14 = 11592$, $x = 14 \\times 500 = 7000$. Thus, option 2 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  },
+  {
+    "en": "A shopkeeper accidentally calculates his loss percentage on the selling price and finds it to be 20%. If the cost price of the article is Rs. 2,880, what is his actual loss amount?",
+    "hi": "एक दुकानदार गलती से विक्रय मूल्य पर अपने हानि प्रतिशत की गणना करता है और उसे 20% पाता है। यदि वस्तु का क्रय मूल्य 2,880 रुपये है, तो उसकी वास्तविक हानि की राशि क्या है?",
+    "oEn": ["Rs. 480", "Rs. 576", "Rs. 400", "Rs. 600"],
+    "oHi": ["480 रुपये", "576 रुपये", "400 रुपये", "600 रुपये"],
+    "c": 0,
+    "exp": "Calculated loss = $20\\%$ of $\\text{SP} = \\frac{\\text{SP}}{5}$. Since $\\text{Loss} = \\text{CP} - \\text{SP}$, we have $\\frac{\\text{SP}}{5} = \\text{CP} - \\text{SP} \\implies \\text{CP} = \\text{SP} + \\frac{\\text{SP}}{5} = \\frac{6\\text{SP}}{5}$. We are given $\\text{CP} = 2880$, so $\\frac{6\\text{SP}}{5} = 2880 \\implies \\text{SP} = \\frac{2880 \\times 5}{6} = 480 \\times 5 =$ Rs. 2400. The actual loss amount is $\\text{CP} - \\text{SP} = 2880 - 2400 =$ Rs. 480. Thus, option 0 is correct.",
+    "Pyq": "Pattern_Inspired_SSC_CGL"
+  },
+  {
+    "en": "An article is sold at a certain price. If it is sold at 72% of this initial selling price, there is a loss of 10%. What is the profit percentage when the article is sold at the initial selling price?",
+    "hi": "एक वस्तु को एक निश्चित मूल्य पर बेचा जाता है। यदि इसे इस प्रारंभिक विक्रय मूल्य के 72% पर बेचा जाता है, तो 10% की हानि होती है। जब वस्तु को प्रारंभिक विक्रय मूल्य पर बेचा जाता है, तो लाभ प्रतिशत क्या होता है?",
+    "oEn": ["25%", "30%", "22.5%", "20%"],
+    "oHi": ["25%", "30%", "22.5%", "20%"],
+    "c": 0,
+    "exp": "Let the initial selling price be $100x$. The new selling price = $72\\%$ of $100x = 72x$. At this new price, there is a $10\\%$ loss, which means $72x$ equals $90\\%$ of the Cost Price (CP). So, $0.90\\text{CP} = 72x \\implies \\text{CP} = \\frac{72x}{0.90} = 80x$. At the initial selling price of $100x$, Profit = $100x - 80x = 20x$. Profit percentage = $\\frac{20x}{80x} \\times 100 = 25\\%$. Thus, option 0 is correct.",
+    "Pyq": "PYQ_Archetype_Variation"
+  }
+]
